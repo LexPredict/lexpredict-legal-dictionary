@@ -11,7 +11,6 @@ en-US,Legal - CFR Title 7,amber,False
 en-US,Legal - CFR Title 26,united states,False
 en-US,Legal - CFR Title 7,firm,False
 en-US,Legal - CFR Title 7,sample unit,False
-en-US,Legal - CFR Title 9,b,False
 en-US,Legal - CFR Title 26,parent-subsidiary group under common control,False
 en-US,Legal - CFR Title 7,sample,False
 en-US,Legal - CFR Title 26,prohibited transaction,False
@@ -96,7 +95,6 @@ en-US,Legal - CFR Title 17,proprietary account,False
 en-US,Legal - CFR Title 26,united states shareholder,False
 en-US,Legal - CFR Title 19,enterprise,False
 en-US,Legal - CFR Title 26,qualified technological equipment,False
-en-US,Legal - CFR Title 10,AV,True
 en-US,Legal - CFR Title 26,qualified caribbean basin country,False
 en-US,Legal - CFR Title 7,net price,False
 en-US,Legal - CFR Title 26,hyperinflationary currency,False
@@ -128,7 +126,6 @@ en-US,Legal - CFR Title 17,pre-existing business relationship,False
 en-US,Legal - CFR Title 10,strategic petroleum reserve,False
 en-US,Legal - CFR Title 26,targeted area project,False
 en-US,Legal - CFR Title 7, 'as-is' value,False
-en-US,Legal - CFR Title 12,NA,True
 en-US,Legal - CFR Title 14,ETOV,True
 en-US,Legal - CFR Title 20,federal maritime subsidy,False
 en-US,Legal - CFR Title 26,nonfunctional currency,False
@@ -487,7 +484,6 @@ en-US,Legal - CFR Title 26,administrator,False
 en-US,Legal - CFR Title 19,advanced in value,False
 en-US,Legal - CFR Title 12,basel committee principles for liquidity risk management,False
 en-US,Legal - CFR Title 7,badly skinned,False
-en-US,Legal - CFR Title 10,2,True
 en-US,Legal - CFR Title 12,clear and conspicuous,False
 en-US,Legal - CFR Title 8,alien who is lawfully present in the united states,False
 en-US,Legal - CFR Title 25,member of association,False
@@ -874,7 +870,6 @@ en-US,Legal - CFR Title 26,controlling united states shareholders,False
 en-US,Legal - CFR Title 1,request for access to a record,False
 en-US,Legal - CFR Title 19,cbtpa beneficiary country,False
 en-US,Legal - CFR Title 16,electrically operated toy or other electrically operated article intended for use by children,False
-en-US,Legal - CFR Title 10,V,True
 en-US,Legal - CFR Title 26,depreciable basis,False
 en-US,Legal - CFR Title 10,final medical determination,False
 en-US,Legal - CFR Title 26,money,False
@@ -1891,7 +1886,6 @@ en-US,Legal - CFR Title 19,fungible good or material,False
 en-US,Legal - CFR Title 26,qualified appraisal,False
 en-US,Legal - CFR Title 26,working condition fringe,False
 en-US,Legal - CFR Title 26,month,False
-en-US,Legal - CFR Title 10,3,True
 en-US,Legal - CFR Title 18,voting security,False
 en-US,Legal - CFR Title 26,united states person,False
 en-US,Legal - CFR Title 17,analysis,False
@@ -2131,13 +2125,11 @@ en-US,Legal - CFR Title 20,transitional housing,False
 en-US,Legal - CFR Title 27,relanding,False
 en-US,Legal - CFR Title 19,assembly,False
 en-US,Legal - CFR Title 20,community or other public facility,False
-en-US,Legal - CFR Title 10,1,True
 en-US,Legal - CFR Title 18,public-utility company,False
 en-US,Legal - CFR Title 10,maximum credible earthquake,False
 en-US,Legal - CFR Title 19,issuing association,False
 en-US,Legal - CFR Title 17,deliverable supply,False
 en-US,Legal - CFR Title 1,request for an accounting,False
-en-US,Legal - CFR Title 9,4,True
 en-US,Legal - CFR Title 17,independent perspective,False
 en-US,Legal - CFR Title 17,account,False
 en-US,Legal - CFR Title 19,textile or apparel good,False
@@ -2546,7 +2538,6 @@ en-US,Legal - CFR Title 17,covered judicial or administrative action,False
 en-US,Legal - CFR Title 19,producer,False
 en-US,Legal - CFR Title 26,gross income,False
 en-US,Legal - CFR Title 26,acquisition cost,False
-en-US,Legal - CFR Title 9,1,True
 en-US,Legal - CFR Title 13,collectively,False
 en-US,Legal - CFR Title 15,consistent to the maximum extent practicable,False
 en-US,Legal - CFR Title 26,meals,False
@@ -2592,7 +2583,6 @@ en-US,Legal - CFR Title 26,qualified home improvement loan,False
 en-US,Legal - CFR Title 17,swap data,False
 en-US,Legal - CFR Title 7,average sort loss,False
 en-US,Legal - CFR Title 7,official identification,False
-en-US,Legal - CFR Title 12,to,False
 en-US,Legal - CFR Title 19,eligible cafta-dr country,False
 en-US,Legal - CFR Title 20,recommended,False
 en-US,Legal - CFR Title 26,undistributed income,False
