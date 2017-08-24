@@ -18,8 +18,6 @@ en-US,US Federal Agencies,Agricultural Research Service,FALSE
 en-US,US Federal Agencies,Agriculture Department,FALSE
 en-US,US Federal Agencies,Air Force,FALSE
 en-US,US Federal Agencies,Air Force Reserve,FALSE
-en-US,US Federal Agencies,Alabama,FALSE
-en-US,US Federal Agencies,Alaska,FALSE
 en-US,US Federal Agencies,Alcohol and Tobacco Tax and Trade Bureau,FALSE
 en-US,US Federal Agencies,"Alcohol, Tobacco, Firearms and Explosives Bureau",FALSE
 en-US,US Federal Agencies,Alhurra TV,FALSE
@@ -32,8 +30,6 @@ en-US,US Federal Agencies,Antitrust Division,FALSE
 en-US,US Federal Agencies,Architect of the Capitol,FALSE
 en-US,US Federal Agencies,"Archives, National Archives and Records Administration",FALSE
 en-US,US Federal Agencies,Arctic Research Commission,FALSE
-en-US,US Federal Agencies,Arizona,FALSE
-en-US,US Federal Agencies,Arkansas,FALSE
 en-US,US Federal Agencies,Armed Forces Retirement Home,FALSE
 en-US,US Federal Agencies,Arms Control and International Security,FALSE
 en-US,US Federal Agencies,Army,FALSE
@@ -63,7 +59,6 @@ en-US,US Federal Agencies,Bureau of Safety and Environmental Enforcement,FALSE
 en-US,US Federal Agencies,Bureau of Transportation Statistics,FALSE
 en-US,US Federal Agencies,Bureau of the Census,FALSE
 en-US,US Federal Agencies,Bureau of the Fiscal Service,FALSE
-en-US,US Federal Agencies,California,FALSE
 en-US,US Federal Agencies,Capitol Police,FALSE
 en-US,US Federal Agencies,Capitol Visitor Center,FALSE
 en-US,US Federal Agencies,"Career, Technical, and Adult Education, Office of",FALSE
@@ -85,7 +80,6 @@ en-US,US Federal Agencies,Citizenship and Immigration Services,FALSE
 en-US,US Federal Agencies,"Civil Rights, Department of Education Office of",FALSE
 en-US,US Federal Agencies,"Civil Rights, Department of Health and Human Services Office for",FALSE
 en-US,US Federal Agencies,Coast Guard,FALSE
-en-US,US Federal Agencies,Colorado,FALSE
 en-US,US Federal Agencies,Commerce Department,FALSE
 en-US,US Federal Agencies,Commission of Fine Arts,FALSE
 en-US,US Federal Agencies,Commission on Civil Rights,FALSE
@@ -104,7 +98,6 @@ en-US,US Federal Agencies,Congress?U.S. House of Representatives,FALSE
 en-US,US Federal Agencies,Congress?U.S. Senate,FALSE
 en-US,US Federal Agencies,Congressional Budget Office,FALSE
 en-US,US Federal Agencies,Congressional Research Service,FALSE
-en-US,US Federal Agencies,Connecticut,FALSE
 en-US,US Federal Agencies,"Consular Affairs, Bureau of",FALSE
 en-US,US Federal Agencies,Consumer Financial Protection Bureau,FALSE
 en-US,US Federal Agencies,Consumer Product Safety Commission,FALSE
@@ -139,7 +132,6 @@ en-US,US Federal Agencies,Defense Security Cooperation Agency,FALSE
 en-US,US Federal Agencies,Defense Security Service,FALSE
 en-US,US Federal Agencies,Defense Technical Information Center,FALSE
 en-US,US Federal Agencies,Defense Threat Reduction Agency,FALSE
-en-US,US Federal Agencies,Delaware,FALSE
 en-US,US Federal Agencies,Delaware River Basin Commission,FALSE
 en-US,US Federal Agencies,Denali Commission,FALSE
 en-US,US Federal Agencies,Department of Agriculture,FALSE
@@ -235,7 +227,6 @@ en-US,US Federal Agencies,Federated States of Micronesia,FALSE
 en-US,US Federal Agencies,"Fiscal Service, Bureau of the",FALSE
 en-US,US Federal Agencies,Fish and Wildlife Service,FALSE
 en-US,US Federal Agencies,Fleet Forces Command,FALSE
-en-US,US Federal Agencies,Florida,FALSE
 en-US,US Federal Agencies,Food Safety and Inspection Service,FALSE
 en-US,US Federal Agencies,"Food and Agriculture, National Institute of",FALSE
 en-US,US Federal Agencies,Food and Drug Administration,FALSE
@@ -248,7 +239,6 @@ en-US,US Federal Agencies,Freddie Mac,FALSE
 en-US,US Federal Agencies,Fulbright Foreign Scholarship Board,FALSE
 en-US,US Federal Agencies,General Services Administration,FALSE
 en-US,US Federal Agencies,Geological Survey,FALSE
-en-US,US Federal Agencies,Georgia,FALSE
 en-US,US Federal Agencies,Ginnie Mae,FALSE
 en-US,US Federal Agencies,Government Accountability Office,FALSE
 en-US,US Federal Agencies,"Government Ethics, Office of",FALSE
@@ -257,7 +247,6 @@ en-US,US Federal Agencies,Government Publishing Office,FALSE
 en-US,US Federal Agencies,"Grain Inspection, Packers and Stockyards Administration",FALSE
 en-US,US Federal Agencies,Guam,FALSE
 en-US,US Federal Agencies,Harry S. Truman Scholarship Foundation,FALSE
-en-US,US Federal Agencies,Hawaii,FALSE
 en-US,US Federal Agencies,Health Resources and Services Administration,FALSE
 en-US,US Federal Agencies,Health and Human Services Department,FALSE
 en-US,US Federal Agencies,Helsinki Commission,FALSE
@@ -267,8 +256,6 @@ en-US,US Federal Agencies,House Office of Inspector General,FALSE
 en-US,US Federal Agencies,House Office of the Clerk,FALSE
 en-US,US Federal Agencies,House of Representatives,FALSE
 en-US,US Federal Agencies,Housing Office,FALSE
-en-US,US Federal Agencies,Idaho,FALSE
-en-US,US Federal Agencies,Illinois,FALSE
 en-US,US Federal Agencies,Immigration and Citizenship Services,FALSE
 en-US,US Federal Agencies,Immigration and Customs Enforcement,FALSE
 en-US,US Federal Agencies,Indian Affairs,FALSE
@@ -294,7 +281,6 @@ en-US,US Federal Agencies,"International Labor Affairs, Bureau of",FALSE
 en-US,US Federal Agencies,International Trade Administration,FALSE
 en-US,US Federal Agencies,International Trade Commission,FALSE
 en-US,US Federal Agencies,Interpol,FALSE
-en-US,US Federal Agencies,Iowa,FALSE
 en-US,US Federal Agencies,James Madison Memorial Fellowship Foundation,FALSE
 en-US,US Federal Agencies,Japan-United States Friendship Commission,FALSE
 en-US,US Federal Agencies,Job Corps,FALSE
@@ -313,45 +299,34 @@ en-US,US Federal Agencies,Justice Department,FALSE
 en-US,US Federal Agencies,"Justice Programs, Office of",FALSE
 en-US,US Federal Agencies,"Justice Statistics, Bureau of",FALSE
 en-US,US Federal Agencies,"Juvenile Justice and Delinquency Prevention, Office of",FALSE
-en-US,US Federal Agencies,Kansas,FALSE
 en-US,US Federal Agencies,Kennedy Center,FALSE
-en-US,US Federal Agencies,Kentucky,FALSE
 en-US,US Federal Agencies,Labor Department,FALSE
 en-US,US Federal Agencies,"Labor Statistics, Bureau of",FALSE
 en-US,US Federal Agencies,"Land Management, Bureau of",FALSE
 en-US,US Federal Agencies,Legal Services Corporation,FALSE
 en-US,US Federal Agencies,Library of Congress,FALSE
-en-US,US Federal Agencies,Louisiana,FALSE
-en-US,US Federal Agencies,Maine,FALSE
 en-US,US Federal Agencies,"Manufactured Housing Programs, Office of",FALSE
 en-US,US Federal Agencies,Marine Corps,FALSE
 en-US,US Federal Agencies,Marine Mammal Commission,FALSE
 en-US,US Federal Agencies,Maritime Administration,FALSE
 en-US,US Federal Agencies,Marketing and Regulatory Programs,FALSE
 en-US,US Federal Agencies,Marshals Service,FALSE
-en-US,US Federal Agencies,Maryland,FALSE
-en-US,US Federal Agencies,Massachusetts,FALSE
 en-US,US Federal Agencies,Mediation and Conciliation Service,FALSE
 en-US,US Federal Agencies,Medicaid,FALSE
 en-US,US Federal Agencies,Medicaid and CHIP Payment and Access Commission,FALSE
 en-US,US Federal Agencies,Medicare,FALSE
 en-US,US Federal Agencies,Medicare Payment Advisory Commission,FALSE
 en-US,US Federal Agencies,Merit Systems Protection Board,FALSE
-en-US,US Federal Agencies,Michigan,FALSE
 en-US,US Federal Agencies,Middle East Broadcasting Network,FALSE
 en-US,US Federal Agencies,Migratory Bird Conservation Commission,FALSE
 en-US,US Federal Agencies,Military Postal Service Agency,FALSE
 en-US,US Federal Agencies,Millennium Challenge Corporation,FALSE
 en-US,US Federal Agencies,Mine Safety and Health Administration,FALSE
-en-US,US Federal Agencies,Minnesota,FALSE
 en-US,US Federal Agencies,Minority Business Development Agency,FALSE
 en-US,US Federal Agencies,"Minority Health, Office of",FALSE
 en-US,US Federal Agencies,Mint,FALSE
 en-US,US Federal Agencies,Missile Defense Agency,FALSE
-en-US,US Federal Agencies,Mississippi,FALSE
 en-US,US Federal Agencies,Mississippi River Commission,FALSE
-en-US,US Federal Agencies,Missouri,FALSE
-en-US,US Federal Agencies,Montana,FALSE
 en-US,US Federal Agencies,Morris K. Udall and Stewart L. Udall Foundation,FALSE
 en-US,US Federal Agencies,Multifamily Housing Office,FALSE
 en-US,US Federal Agencies,NOAA Fisheries,FALSE
@@ -412,14 +387,6 @@ en-US,US Federal Agencies,National Weather Service,FALSE
 en-US,US Federal Agencies,Natural Resources Conservation Service,FALSE
 en-US,US Federal Agencies,"Natural Resources Revenue, Office of",FALSE
 en-US,US Federal Agencies,Navy,FALSE
-en-US,US Federal Agencies,Nebraska,FALSE
-en-US,US Federal Agencies,Nevada,FALSE
-en-US,US Federal Agencies,New Hampshire,FALSE
-en-US,US Federal Agencies,New Jersey,FALSE
-en-US,US Federal Agencies,New Mexico,FALSE
-en-US,US Federal Agencies,New York,FALSE
-en-US,US Federal Agencies,North Carolina,FALSE
-en-US,US Federal Agencies,North Dakota,FALSE
 en-US,US Federal Agencies,Northern Command,FALSE
 en-US,US Federal Agencies,Northern Mariana Islands,FALSE
 en-US,US Federal Agencies,Northwest Power Planning Council,FALSE
@@ -469,10 +436,7 @@ en-US,US Federal Agencies,Office of the Comptroller of the Currency,FALSE
 en-US,US Federal Agencies,Office of the Director of National Intelligence,FALSE
 en-US,US Federal Agencies,Office of the Federal Register,FALSE
 en-US,US Federal Agencies,Office of the Pardon Attorney,FALSE
-en-US,US Federal Agencies,Ohio,FALSE
-en-US,US Federal Agencies,Oklahoma,FALSE
 en-US,US Federal Agencies,Open World Leadership Center,FALSE
-en-US,US Federal Agencies,Oregon,FALSE
 en-US,US Federal Agencies,Out-of-Service Debt Management Center,FALSE
 en-US,US Federal Agencies,Overseas Private Investment Corporation,FALSE
 en-US,US Federal Agencies,Pacific Command,FALSE
@@ -481,7 +445,6 @@ en-US,US Federal Agencies,"Pardon Attorney, Office of",FALSE
 en-US,US Federal Agencies,Parole Commission,FALSE
 en-US,US Federal Agencies,Patent and Trademark Office,FALSE
 en-US,US Federal Agencies,Peace Corps,FALSE
-en-US,US Federal Agencies,Pennsylvania,FALSE
 en-US,US Federal Agencies,Pension Benefit Guaranty Corporation,FALSE
 en-US,US Federal Agencies,Pentagon Force Protection Agency,FALSE
 en-US,US Federal Agencies,Pipeline and Hazardous Materials Safety Administration,FALSE
@@ -512,7 +475,6 @@ en-US,US Federal Agencies,Rehabilitation Services Administration,FALSE
 en-US,US Federal Agencies,Republic of Palau,FALSE
 en-US,US Federal Agencies,Republic of The Marshall Islands,FALSE
 en-US,US Federal Agencies,Research and Innovative Technology Administration,FALSE
-en-US,US Federal Agencies,Rhode Island,FALSE
 en-US,US Federal Agencies,Risk Management Agency,FALSE
 en-US,US Federal Agencies,Rural Business and Cooperative Programs,FALSE
 en-US,US Federal Agencies,Rural Development,FALSE
@@ -533,8 +495,6 @@ en-US,US Federal Agencies,Small Business Administration,FALSE
 en-US,US Federal Agencies,Smithsonian Institution,FALSE
 en-US,US Federal Agencies,Social Security Administration,FALSE
 en-US,US Federal Agencies,Social Security Advisory Board,FALSE
-en-US,US Federal Agencies,South Carolina,FALSE
-en-US,US Federal Agencies,South Dakota,FALSE
 en-US,US Federal Agencies,Southeastern Power Administration,FALSE
 en-US,US Federal Agencies,Southern Command,FALSE
 en-US,US Federal Agencies,Southwestern Power Administration,FALSE
@@ -552,9 +512,7 @@ en-US,US Federal Agencies,Surface Transportation Board,FALSE
 en-US,US Federal Agencies,Susquehanna River Basin Commission,FALSE
 en-US,US Federal Agencies,Tax Court,FALSE
 en-US,US Federal Agencies,Taxpayer Advocacy Panel,FALSE
-en-US,US Federal Agencies,Tennessee,FALSE
 en-US,US Federal Agencies,Tennessee Valley Authority,FALSE
-en-US,US Federal Agencies,Texas,FALSE
 en-US,US Federal Agencies,Trade Representative,FALSE
 en-US,US Federal Agencies,Trade and Development Agency,FALSE
 en-US,US Federal Agencies,Transportation Department,FALSE
@@ -634,27 +592,20 @@ en-US,US Federal Agencies,USAGov,FALSE
 en-US,US Federal Agencies,Unified Combatant Commands,FALSE
 en-US,US Federal Agencies,Uniformed Services University of the Health Sciences,FALSE
 en-US,US Federal Agencies,United States Mint,FALSE
-en-US,US Federal Agencies,Utah,FALSE
-en-US,US Federal Agencies,Vermont,FALSE
 en-US,US Federal Agencies,Veterans Affairs Department,FALSE
 en-US,US Federal Agencies,Veterans Benefits Administration,FALSE
 en-US,US Federal Agencies,Veterans Day National Committee,FALSE
 en-US,US Federal Agencies,Veterans Health Administration,FALSE
 en-US,US Federal Agencies,Veterans' Employment and Training Service,FALSE
 en-US,US Federal Agencies,Vietnam Education Foundation,FALSE
-en-US,US Federal Agencies,Virginia,FALSE
 en-US,US Federal Agencies,Voice of America,FALSE
-en-US,US Federal Agencies,Washington,FALSE
 en-US,US Federal Agencies,Washington Headquarters Services,FALSE
 en-US,US Federal Agencies,Weather Service,FALSE
 en-US,US Federal Agencies,Weights and Measures Division,FALSE
 en-US,US Federal Agencies,West Point Military Academy,FALSE
-en-US,US Federal Agencies,West Virginia,FALSE
 en-US,US Federal Agencies,Western Area Power Administration,FALSE
 en-US,US Federal Agencies,White House,FALSE
 en-US,US Federal Agencies,White House Office of Administration,FALSE
 en-US,US Federal Agencies,Wireless Telecommunications Bureau,FALSE
-en-US,US Federal Agencies,Wisconsin,FALSE
 en-US,US Federal Agencies,Women's Bureau,FALSE
 en-US,US Federal Agencies,Woodrow Wilson International Center for Scholars,FALSE
-en-US,US Federal Agencies,Wyoming,FALSE
