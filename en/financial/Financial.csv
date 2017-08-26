@@ -1,0 +1,307 @@
+﻿Term Locale,Term Category,Term,Alias,CaseSensitive
+en-US,Financial,account,,FALSE
+en-US,Financial,account description,,FALSE
+en-US,Financial,account note,,FALSE
+en-US,Financial,account type,,FALSE
+en-US,Financial,accrual method,,FALSE
+en-US,Financial,accrued interest,,FALSE
+en-US,Financial,American Depository Receipt,ADR,TRUE
+en-US,Financial,American Depository Share,ADS,TRUE
+en-US,Financial,after tax real rate of return,after-tax real rate of return,FALSE
+en-US,Financial,all or none order,,FALSE
+en-US,Financial,american-style option,,FALSE
+en-US,Financial,annualized return,,FALSE
+en-US,Financial,arbitrage,,FALSE
+en-US,Financial,ask,,FALSE
+en-US,Financial,asset,,FALSE
+en-US,Financial,asset allocation,,FALSE
+en-US,Financial,asset classes,,FALSE
+en-US,Financial,asset classes,,FALSE
+en-US,Financial,assigned on an option transaction,,FALSE
+en-US,Financial,at-the-money option,,FALSE
+en-US,Financial,average annual return,,FALSE
+en-US,Financial,average cost,,FALSE
+en-US,Financial,average daily volume,,FALSE
+en-US,Financial,average price,,FALSE
+en-US,Financial,average proceed,,FALSE
+en-US,Financial,baby bond,,FALSE
+en-US,Financial,balance sheet,,FALSE
+en-US,Financial,balance sheet return,,FALSE
+en-US,Financial,balanced equities,,FALSE
+en-US,Financial,bank information,,FALSE
+en-US,Financial,basis,,FALSE
+en-US,Financial,basis point,,FALSE
+en-US,Financial,bearer certificate,,FALSE
+en-US,Financial,beta,,FALSE
+en-US,Financial,bid,,FALSE
+en-US,Financial,block trade,,FALSE
+en-US,Financial,bond prices,,FALSE
+en-US,Financial,bond type,,FALSE
+en-US,Financial,book/share,,FALSE
+en-US,Financial,broker,,FALSE
+en-US,Financial,dealer,,FALSE
+en-US,Financial,business,,FALSE
+en-US,Financial,buy,,FALSE
+en-US,Financial,buys,,FALSE
+en-US,Financial,buy-to-cover,,FALSE
+en-US,Financial,buying power,,FALSE
+en-US,Financial,call option,,FALSE
+en-US,Financial,callable,,FALSE
+en-US,Financial,canceled order,,FALSE
+en-US,Financial,capital gains,,FALSE
+en-US,Financial,capital stock,,FALSE
+en-US,Financial,cash account,,FALSE
+en-US,Financial,cash available,,FALSE
+en-US,Financial,cash balance,,FALSE
+en-US,Financial,cash flow,,FALSE
+en-US,Financial,cash market,,FALSE
+en-US,Financial,cash/share,,FALSE
+en-US,Financial,cd rate,,FALSE
+en-US,Financial,certificate of deposit,,FALSE
+en-US,Financial,class a shares,,FALSE
+en-US,Financial,class b shares,,FALSE
+en-US,Financial,clearinghouse,,FALSE
+en-US,Financial,closed to new accounts,,FALSE
+en-US,Financial,closing commission,,FALSE
+en-US,Financial,closing price,,FALSE
+en-US,Financial,commercial paper,,FALSE
+en-US,Financial,commission,,FALSE
+en-US,Financial,common shares,,FALSE
+en-US,Financial,contract size of an equity option,,FALSE
+en-US,Financial,conversion price,,FALSE
+en-US,Financial,convertible bond,,FALSE
+en-US,Financial,corporate bond,,FALSE
+en-US,Financial,covered calls,,FALSE
+en-US,Financial,credit balance,,FALSE
+en-US,Financial,cumulative return,,FALSE
+en-US,Financial,current year high,,FALSE
+en-US,Financial,current year low,,FALSE
+en-US,Financial,current price-earnings,,FALSE
+en-US,Financial,current P/E,,FALSE
+en-US,Financial,current yield,,FALSE
+en-US,Financial,cusip number,,FALSE
+en-US,Financial,date of record,,FALSE
+en-US,Financial,debenture,,FALSE
+en-US,Financial,debit balance,,FALSE
+en-US,Financial,debt securities,,FALSE
+en-US,Financial,debt service,,FALSE
+en-US,Financial,debt/equity ratio,,FALSE
+en-US,Financial,discount rate,,FALSE
+en-US,Financial,distributions,,FALSE
+en-US,Financial,dividend,,FALSE
+en-US,Financial,dividend frequency,,FALSE
+en-US,Financial,dividend growth rate,,FALSE
+en-US,Financial,divident year started,,FALSE
+en-US,Financial,dividend/share,,FALSE
+en-US,Financial,DIJA 200-day moving average,,FALSE
+en-US,Financial,DIJA P/E,,TRUE
+en-US,Financial,DIJA price/book,,FALSE
+en-US,Financial,djia yield,,FALSE
+en-US,Financial,dow jones industrial average,DJIA,FALSE
+en-US,Financial,dow jones transportation average,DJTA,FALSE
+en-US,Financial,duration of an order,,FALSE
+en-US,Financial,dvp account,,FALSE
+en-US,Financial,rvp account,,FALSE
+en-US,Financial,earnings per share,EPS,FALSE
+en-US,Financial,equity,,FALSE
+en-US,Financial,equity security,,FALSE
+en-US,Financial,european-style option,,FALSE
+en-US,Financial,ex-dividend,,FALSE
+en-US,Financial,exchange,,FALSE
+en-US,Financial,exchange call,,FALSE
+en-US,Financial,executed order,,FALSE
+en-US,Financial,exercised on an option transaction,,FALSE
+en-US,Financial,extended hours trading,,FALSE
+en-US,Financial,face value,,FALSE
+en-US,Financial,federal call,,FALSE
+en-US,Financial,fees and charges,fees & charges,FALSE
+en-US,Financial,fiscal policy,,FALSE
+en-US,Financial,fiscal year,,FALSE
+en-US,Financial,five-year fee,five year fee,FALSE
+en-US,Financial,flexible equitites,,FALSE
+en-US,Financial,floating rate,,FALSE
+en-US,Financial,front-end load,front end load,FALSE
+en-US,Financial,futures,,FALSE
+en-US,Financial,general obligation bond,,FALSE
+en-US,Financial,ginnie mae,,FALSE
+en-US,Financial,government national mortgage association,GNMA,FALSE
+en-US,Financial,glamour stock,,FALSE
+en-US,Financial,global bonds,,FALSE
+en-US,Financial,global equities,,FALSE
+en-US,Financial,gold,,FALSE
+en-US,Financial,government bonds,,FALSE
+en-US,Financial,gross domestic product,GDP,FALSE
+en-US,Financial,gmp,,FALSE
+en-US,Financial,growth,,FALSE
+en-US,Financial,income,,FALSE
+en-US,Financial,growth rate,,FALSE
+en-US,Financial,hedging,,FALSE
+en-US,Financial,hidden asset,,FALSE
+en-US,Financial,high flyer,,FALSE
+en-US,Financial,holding,,FALSE
+en-US,Financial,hybrid investment,,FALSE
+en-US,Financial,imputed interest,,FALSE
+en-US,Financial,in-the-money option,in the money option,FALSE
+en-US,Financial,income account,,FALSE
+en-US,Financial,indexing,,FALSE
+en-US,Financial,indices,,FALSE
+en-US,Financial,inflation,,FALSE
+en-US,Financial,consumer price index,CPI,TRUE
+en-US,Financial,information,,FALSE
+en-US,Financial,institution,,FALSE
+en-US,Financial,institutions holding,,FALSE
+en-US,Financial,interest,,FALSE
+en-US,Financial,interest dates,,FALSE
+en-US,Financial,intermediate government bonds,,FALSE
+en-US,Financial,international equities,,FALSE
+en-US,Financial,investment,,FALSE
+en-US,Financial,issuer,,FALSE
+en-US,Financial,jumbo cd,,FALSE
+en-US,Financial,junk bond,,FALSE
+en-US,Financial,keogh plan,,FALSE
+en-US,Financial,kicker,,FALSE
+en-US,Financial,leverage,,FALSE
+en-US,Financial,limit order,,FALSE
+en-US,Financial,limited partnership,,FALSE
+en-US,Financial,liquidity,,FALSE
+en-US,Financial,loan value,,FALSE
+en-US,Financial,long investments,,FALSE
+en-US,Financial,long-term growth,long term growth,FALSE
+en-US,Financial,lot,,FALSE
+en-US,Financial,margin account,,FALSE
+en-US,Financial,margin balance,,FALSE
+en-US,Financial,margin debt,,FALSE
+en-US,Financial,margin loan availability,,FALSE
+en-US,Financial,marginal tax rate,,FALSE
+en-US,Financial,market order,,FALSE
+en-US,Financial,market timing,,FALSE
+en-US,Financial,market value,,FALSE
+en-US,Financial,maturity,,FALSE
+en-US,Financial,maximum capital gains,,FALSE
+en-US,Financial,minimum investment,,FALSE
+en-US,Financial,mixed lot,,FALSE
+en-US,Financial,money market fund,,FALSE
+en-US,Financial,municipal bond,,FALSE
+en-US,Financial,mutual fund cash level,,FALSE
+en-US,Financial,nasdaq composite index,,FALSE
+en-US,Financial,net amount,,FALSE
+en-US,Financial,net asset value,NAV,FALSE
+en-US,Financial,net income,,FALSE
+en-US,Financial,no-load funds,no load funds,FALSE
+en-US,Financial,non-callable bonds,non callable bonds,FALSE
+en-US,Financial,non-marginable securities,,FALSE
+en-US,Financial,odd lot,,FALSE
+en-US,Financial,offering price,,FALSE
+en-US,Financial,open lot,,FALSE
+en-US,Financial,open order,,FALSE
+en-US,Financial,open price,,FALSE
+en-US,Financial,opening commission,,FALSE
+en-US,Financial,opportunity cost,,FALSE
+en-US,Financial,option,,FALSE
+en-US,Financial,option premium,,FALSE
+en-US,Financial,option schedule,,FALSE
+en-US,Financial,options,,FALSE
+en-US,Financial,over-the-counter,OTC,TRUE
+en-US,Financial,otc stock,,FALSE
+en-US,Financial,out-of-state deposit,out of state deposit,FALSE
+en-US,Financial,out-of-the-money option,out of the money option,FALSE
+en-US,Financial,outstanding bond amount,,FALSE
+en-US,Financial,price/earnings to growth,PEG,TRUE
+en-US,Financial,peg ratio,,FALSE
+en-US,Financial,phone switch,,FALSE
+en-US,Financial,pink sheets,,FALSE
+en-US,Financial,portfolio,,FALSE
+en-US,Financial,portfolio %,portfolio percent,FALSE
+en-US,Financial,precious metals equities,,FALSE
+en-US,Financial,preferred stock,,FALSE
+en-US,Financial,price,,FALSE
+en-US,Financial,price/book ratio,,FALSE
+en-US,Financial,principal,,FALSE
+en-US,Financial,proceeds,,FALSE
+en-US,Financial,projected 5-year eps growth rate,projected 5 year eps growth rate; projected five-year eps growth rate; projected five year eps growth rate,FALSE
+en-US,Financial,projected yield,,FALSE
+en-US,Financial,prospectus,,FALSE
+en-US,Financial,purchase price,,FALSE
+en-US,Financial,put option,,FALSE
+en-US,Financial,quantity,,FALSE
+en-US,Financial,quick ratio,,FALSE
+en-US,Financial,regular initial minimum,,FALSE
+en-US,Financial,regular subsequent minimum,,FALSE
+en-US,Financial,regulation t,,FALSE
+en-US,Financial,regulation u,,FALSE
+en-US,Financial,reinvest distributions,,FALSE
+en-US,Financial,rejected order,,FALSE
+en-US,Financial,reporting dat,,FALSE
+en-US,Financial,return of capital,,FALSE
+en-US,Financial,return on equity %,return on equity percent,FALSE
+en-US,Financial,return on investment,,FALSE
+en-US,Financial,right,,FALSE
+en-US,Financial,Standard & Poor's,S&P; Standard and Poor's,TRUE
+en-US,Financial,sales,,FALSE
+en-US,Financial,sales change,,FALSE
+en-US,Financial,sector equities,,FALSE
+en-US,Financial,secuirty,,FALSE
+en-US,Financial,sell,,FALSE
+en-US,Financial,sells,,FALSE
+en-US,Financial,send trade,,FALSE
+en-US,Financial,series e bond,,FALSE
+en-US,Financial,series ee bond,,FALSE
+en-US,Financial,series hh bond,,FALSE
+en-US,Financial,settlement date,,FALSE
+en-US,Financial,short balance,,FALSE
+en-US,Financial,short value,,FALSE
+en-US,Financial,simplified employee pension plan,SEP,FALSE
+en-US,Financial,small stock index,,FALSE
+en-US,Financial,special subscription,,FALSE
+en-US,Financial,start year,,FALSE
+en-US,Financial,stock power,,FALSE
+en-US,Financial,stock split,,FALSE
+en-US,Financial,stop order,,FALSE
+en-US,Financial,strike price,,FALSE
+en-US,Financial,symbol,,FALSE
+en-US,Financial,cumulative return,,FALSE
+en-US,Financial,t-bills,t bills; treasury bills,FALSE
+en-US,Financial,treasury bill,,FALSE
+en-US,Financial,tax method,,FALSE
+en-US,Financial,tax-deferred,tax deferred,FALSE
+en-US,Financial,tax-exempt,tax exempt,FALSE
+en-US,Financial,technical short value,,FALSE
+en-US,Financial,to/from date,,FALSE
+en-US,Financial,total assets,,FALSE
+en-US,Financial,total cost,,FALSE
+en-US,Financial,total liabilities,,FALSE
+en-US,Financial,total return,,FALSE
+en-US,Financial,trade,,FALSE
+en-US,Financial,treasuries,,FALSE
+en-US,Financial,turnover,,FALSE
+en-US,Financial,uncovered options,,FALSE
+en-US,Financial,savings bond,,FALSE
+en-US,Financial,underlying security,,FALSE
+en-US,Financial,undistributed earnings,,FALSE
+en-US,Financial,unit,,FALSE
+en-US,Financial,unit investment trust,,FALSE
+en-US,Financial,unlisted security,,FALSE
+en-US,Financial,unpaid dividend,,FALSE
+en-US,Financial,unsecured debt,,FALSE
+en-US,Financial,valueline composite index,,FALSE
+en-US,Financial,variable annuity,,FALSE
+en-US,Financial,variable interest rate,,FALSE
+en-US,Financial,veribanc rating,,FALSE
+en-US,Financial,vesting,,FALSE
+en-US,Financial,volatility,,FALSE
+en-US,Financial,volume,,FALSE
+en-US,Financial,voting right,,FALSE
+en-US,Financial,warrants,,FALSE
+en-US,Financial,wash sale,,FALSE
+en-US,Financial,when issued,,FALSE
+en-US,Financial,whipsaw,,FALSE
+en-US,Financial,writer,,FALSE
+en-US,Financial,year issued,,FALSE
+en-US,Financial,year to date,ytd,FALSE
+en-US,Financial,year-end values,year end values,FALSE
+en-US,Financial,yellow sheets,,FALSE
+en-US,Financial,yield,,FALSE
+en-US,Financial,yield spread,,FALSE
+en-US,Financial,yield to call,,FALSE
+en-US,Financial,yield to maturity,,FALSE
+en-US,Financial,zero coupon bonds,,FALSE
