@@ -1,362 +1,362 @@
 Entity ID,Entity Category,Entity Name,German Name,Spanish Name,French Name,ISO-3166-2,ISO-3166-3,Alias
-0,Australian States,New South Wales,New South Wales,Nueva Gales del Sur,Nouvelle Galles du Sud,AU-NSW,,NSW
-1,Australian States,Queensland,Queensland,Queensland,Queensland,AU-QLD,,QLD
-2,Australian States,South Australia,Süd Australien,Sur de Australia,Australie du Sud,AU-SA,,SA
-3,Australian States,Tasmania,Tasmanien,Tasmania,Tasmanie,AU-TAS,,TAS
-4,Australian States,Victoria,Victoria,Victoria,Victoria,AU-VIC,,VIC
-5,Australian States,Western Australia,West-Australien,Western Australia,Australie occidentale,AU-WA,,WA
-6,Canadian Provinces,Alberta,Alberta,Alberta,Alberta,CA-AB,,AB
-7,Canadian Provinces,British Columbia,Britisch-Kolumbien,Columbia Británica,Colombie britannique; Colombie-Britannique,CA-BC,,BC
-8,Canadian Provinces,Manitoba,Manitoba,Manitoba,Manitoba,CA-MB,,MB
-9,Canadian Provinces,Newfoundland and Labrador,Neufundland und Labrador,Newfoundland y Labrador,Terre-Neuve-et-Labrador,CA-NL,,NL
-10,Canadian Provinces,Northwest Territories,Nordwestliche Territorien,Territorios del Noroeste,Territoires du nord-ouest,CA-NT,,NT
-11,Canadian Provinces,Nova Scotia,Neuschottland,nueva Escocia,Nouvelle-Écosse,CA-NS,,NS
-12,Canadian Provinces,Nunavut,Nunavut,Nunavut,Nunavut,CA-NU,,NU
-13,Canadian Provinces,Ontario,Ontario,Ontario,Ontario,CA-ON,,ON
-14,Canadian Provinces,Prince Edward Island,Prinz Edward Insel,Prince Edward Island,Île-du-Prince-Édouard,CA-PE,,PE
-15,Canadian Provinces,Quebec,Québec,Quebec,Quebec,CA-QC,,QC
-16,Canadian Provinces,Saskatchewan,Saskatchewan,Saskatchewan,Saskatchewan,CA-SK,,SK
-17,Canadian Provinces,Yukon,Yukon,Yukon,Yukon,CA-YT,,YT
-18,Countries,Afghanistan,Afghanistan,Afganistán;República Islámica de Afganistán,l'Afghanistan,AF,AFG,
-19,Countries,Albania,Albanien,República de Albania;Albania,l'Albanie;la République d'Albanie,AL,ALB,
-20,Countries,Algeria,Algerien,República Argelina Democrática y Popular;Argelia,Algérie,DZ,DZA,
-21,Countries,American Samoa,Amerikanisch-Samoa,Samoa Americana,Samoa américaines,AS,ASM,
-22,Countries,Andorra,Andorra,Principado de Andorra;Andorra,l'Andorre;la principauté d'Andorre,AD,AND,
-23,Countries,Angola,Angola,República de Angola;Angola,Angola,AO,AGO,
-24,Countries,Anguilla,Anguilla,Anguila,Anguilla,AI,AIA,
-25,Countries,Antarctica,Antarktis,Antártida,Antarctique,AQ,ATA,
-26,Countries,Antigua and Barbuda,Antigua und Barbuda,Antigua y Barbuda,Antigua-et-Barbuda,AG,ATG,
-27,Countries,Argentina,Argentinien,República Argentina;Argentina,l'Argentine;la République argentine,AR,ARG,
-28,Countries,Armenia,Armenien,República de Armenia;Armenia,l'Arménie;la République d'Arménie,AM,ARM,
-29,Countries,Aruba,Aruba,Aruba,Aruba,AW,ABW,
-30,Countries,Australia,Australien,Mancomunidad de Australia;Australia,l'Australie;le Commonwealth d'Australie,AU,AUS,
-31,Countries,Austria,Österreich,República de Austria;Austria,l'Autriche;la République d'Autriche,AT,AUT,
-32,Countries,Azerbaijan,Aserbaidschan,República de Azerbaiyán;Azerbaiyán,l'Azerbaïdjan;la République d'Azerbaïdjan,AZ,AZE,
-33,Countries,Bahamas,Bahamas,Mancomunidad de las Bahamas;Bahamas,Bahamas,BS,BHS,
-34,Countries,Bahrain,Bahrain;Bahrein,Bahrein,Bahreïn;le Royaume de Bahreïn,BH,BHR,
-35,Countries,Bangladesh,Bangladesch,Bangladesh,le Bangladesh;la République populaire du Banglades,BD,BGD,
-36,Countries,Barbados,Barbados,Barbados,La Barbade,BB,BRB,
-37,Countries,Belarus,Weißrußland,Belarús,Bélarus,BY,BLR,
-38,Countries,Belgium,Belgien,Reino de Bélgica;Bélgica,la Belgique;le Royaume de Belgique,BE,BEL,
-39,Countries,Belize,Belize,Belice,le Belize,BZ,BLZ,
-40,Countries,Benin,Benin,República de Benín;Benín,Bénin,BJ,BEN,
-41,Countries,Bermuda,Bermuda,islas Bermudas,Bermudes,BM,BMU,
-42,Countries,Bhutan,Bhutan,Reino de Bután;Bután,le Bhoutan,BT,BTN,
-43,Countries,Bolivia,Bolivien,Estado Plurinacional de Bolivia;Bolivia,la Bolivie,BO,BOL,
-44,Countries,Bonaire,Bonaire,Bonaire,Bonaire,BQ,,
-45,Countries,Bosnia and Herzegovina,Bosnien und Herzegovina,Bosnia y Herzegovina,la Bosnie-Herzégovine;la Bosnie et Herzégovine,BA,BIH,
-46,Countries,Botswana,Botswana,República de Botsuana;Botsuana,le Botswana;la République du Botswana,BW,BWA,
-47,Countries,Bouvet Island,Bouvetinsel,Isla Bouvet,Île de Bouvet,BV,BVT,
-48,Countries,Brazil,Brasilien,República Federativa del Brasil;Brasil,Brésil,BR,BRA,
-49,Countries,British Indian Ocean Territory,Britisches Territorium im Indischen Ozean,Territorio Británico del Océano Índico,Territoire britannique de l'océan Indien,IO,IOT,
-50,Countries,British Virgin Islands,Britische Jungferninseln,Islas Vírgenes Británicas,Îles Vierges britanniques,VG,VGB,
-51,Countries,Brunei Darussalam,Brunei Darussalam,Brunei Darussalam,Brunei Darussalam,BN,BRN,Brunei
-52,Countries,Bulgaria,Bulgarien,República de Bulgaria;Bulgaria,la Bulgarie;la République de Bulgarie,BG,BGR,
-53,Countries,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,BF,BFA,
-54,Countries,Burundi,Burundi,República de Burundi;Burundi,le Burundi;la République du Burundi,BI,BDI,
-55,Countries,Cambodia,Kambodscha,Reino de Camboya;Camboya,le Cambodge;le Royaume du Cambodge,KH,KHM,
-56,Countries,Cameroon,Kamerun,República de Camerún;Camerún,le Cameroun;la République du Cameroun,CM,CMR,
-57,Countries,Canada,Kanada,Canadá,Canada,CA,CAN,
-58,Countries,Cape Verde,Kap Verde,República de Cabo Verde;Cabo Verde,le Cap-Vert,CV,CPV,
-59,Countries,Cayman Islands,Kaimaninseln,Islas Caimán,Îles Caïmans,KY,CYM,
-60,Countries,Central African Republic,Zentralafrikanische Republik,República Centroafricana,République centrafricaine,CF,CAF,
-61,Countries,Chad,Tschad,República de Chad;Chad,le Tchad;la République du Tchad,TD,TCD,
-62,Countries,Chile,Chile,República de Chile;Chile,Chili,CL,CHL,
-63,Countries,China,China,República Popular China;China,la Chine;la République populaire de Chin,CN,CHN,People's Republic of China; PRC
-64,Countries,Christmas Island,Weihnachtsinsel,Isla de Navidad,L'île de noël,CX,CXR,
-65,Countries,Cocos Islands,Kokosinseln,Islas Cocos,Îles Cocos,CC,CCK,
-66,Countries,Colombia,Kolumbien,República de Colombia;Colombia,la Colombie;la République de Colombie,CO,COL,
-67,Countries,Comoros,Komoren,Unión de las Comoras;Comoras,Comores,KM,COM,
-68,Countries,Congo,Kongo,Congo,Congo,CG,COG,
-69,Countries,Cook Islands,Cookinseln,Islas Cook,les Îles Cook,CK,COK,
-70,Countries,Costa Rica,Costa Rica,Costa Rica;República de Costa Rica,Costa Rica,CR,CRI,Republic of Costa Rica
-71,Countries,Croatia,Kroatien,República de Croacia;Croacia,la République de Croatie;la Croatie,HR,HRV,
-72,Countries,Cuba,Kuba,República de Cuba;Cuba,la République de Cuba;Cuba,CU,CUB,
-73,Countries,Curaçao,Curaçao,Curaçao,Curaçao,CW,CUW,
-74,Countries,Cyprus,Zypern,Chipre; República de Chipre,Chypre; la République de Chypre,CY,CYP,Republic of Cyprus
-75,Countries,Czech Republic,Tschechien,República Checa,République Tchèque,CZ,CZE,
-76,Countries,Côte d'Ivoire,Elfenbeinküste,Costa de Marfil,Côte d'Ivoire,CI,CIV,
-77,Countries,Democratic Republic of the Congo,Demokratische Republik Kongo,República Democrática del Congo,République Démocratique du Congo,CD,COD,
-78,Countries,Denmark,Dänemark,Reino de Dinamarca;Dinamarca,le Danemark;le Royaume du Danemark,DK,DNK,
-79,Countries,Djibouti,Dschibuti,República de Yibuti;Yibuti,Djibouti;la République de Djibouti,DJ,DJI,
-80,Countries,Dominica,Dominica,Mancomunidad de Dominica;Dominica,la Dominique,DM,DMA,
-81,Countries,Dominican Republic,Dominikanische Republik,República Dominicana,République Dominicaine,DO,DOM,
-82,Countries,Ecuador,Ecuador,República del Ecuador;Ecuador,l'Équateur;la République de l'Équateur,EC,ECU,
-83,Countries,Egypt,Ägypten,República Árabe de Egipto;Egipto,l'Égypte;la République arabe d'Égypt,EG,EGY,
-84,Countries,El Salvador,El Salvador,El Salvador,Le sauveur,SV,SLV,
-85,Countries,Equatorial Guinea,Äquatorialguinea,República de Guinea Ecuatorial;Guinea Ecuatorial,la Guinée équatoriale;la Guinée Équatoriale,GQ,GNQ,
-86,Countries,Eritrea,Eritrea,Estado de Eritrea;Eritrea,l'Érythrée;l'État d'Érythrée,ER,ERI,
-87,Countries,Estonia,Estland,República de Estonia;Estonia,l'Estonie;la République d'Estonie,EE,EST,
-88,Countries,Ethiopia,Äthiopien,República Democrática Federal de Etiopía;Etiopía,l'Éthiopie;la République démocratique fédérale d'Éthiopie,ET,ETH,
-89,Countries,Falkland Islands,Falklandinseln,Islas Malvinas,les îles Falkland,FK,FLK,
-90,Countries,Faroe Islands,Färöer;Färöer-Inseln,Islas Faroe,Îles Féroé,FO,FRO,
-91,Countries,Federated States of Micronesia,Föderierte Staaten von Mikronesien;Mikronesien,Estados Federados de Micronesia; Micronesia,la Micronésie;la Micronésie,FM,FSM,Micronesia
-92,Countries,Fiji,Fidschi,República de Fiyi;Fiyi,les Fidji,FJ,FJI,
-93,Countries,Finland,Finnland,República de Finlandia;Finlandia,la Finlande;la République de Finlande,FI,FIN,
-94,Countries,France,Frankreich,República Francesa;Francia,la France;la République français,FR,FRA,
-95,Countries,French Guiana,Französisch-Guayana,Guayana Francesa,Guinée Française,GF,GUF,
-96,Countries,French Polynesia,Französisch-Polynesien,Polinesia francés,Polynésie française,PF,PYF,
-97,Countries,French Southern Territories,Französische Süd- und Antarktisgebiete,Territorios Franceses del Sur,Territoires du Sud français,TF,ATF,
-98,Countries,Gabon,Gabun,República Gabonesa;Gabón,le Gabon;la République gabonais,GA,GAB,
-99,Countries,Gambia,Gambia,Gambia,Gambie,GM,GMB,
-100,Countries,Georgia,Georgien,República de Georgia;Georgia,la Géorgie,GE,GEO,
-101,Countries,Germany,Deutschland,República Federal Alemana;Alemania,l'Allemagne;la République fédérale d'Allemagn,DE,DEU,
-102,Countries,Ghana,Ghana,República de Ghana;Ghana,le Ghana;la République du Ghana,GH,GHA,
-103,Countries,Gibraltar,Gibraltar,Gibraltar,Gibraltar,GI,GIB,
-104,Countries,Greece,Griechenland,República Helénica;Grecia,la Grèce;la République helléniqu,GR,GRC,
-105,Countries,Greenland,Grönland,Tierra Verde,Groenland,GL,GRL,
-106,Countries,Grenada,Grenada,Granada,Grenade,GD,GRD,
-107,Countries,Guadeloupe,Guadeloupe,Guadalupe,Guadeloupe,GP,GLP,
-108,Countries,Guam,Guam,Guam,Guam,GU,GUM,
-109,Countries,Guatemala,Guatemala,República de Guatemala;Guatemala,le Guatemala,GT,GTM,
-110,Countries,Guernsey,Guernsey,Guernesey,Guernesey,GG,GGY,
-111,Countries,Guinea,Guinea,República de Guinea;Guinea,la Guinée;la République de Guinée,GN,GIN,
-112,Countries,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,la Guinée-Bissau,GW,GNB,
-113,Countries,Guyana,Guyana,República Cooperativa de Guyana;Guyana,Guyane,GY,GUY,
-114,Countries,Haiti,Haiti,República de Haití;Haití,Haïti;la République d'Haïti,HT,HTI,
-115,Countries,Heard Island and McDonald Islands,Heard und Mcdonaldinseln,Islas Heard y McDonald,Îles Heard et McDonald,HM,HMD,
-116,Countries,Holy See,Heiliger Stuhl,Santa Sede,Saint-Siège,VA,VAT,
-117,Countries,Honduras,Honduras,República de Honduras;Honduras,Honduras,HN,HND,
-118,Countries,Hong Kong,Hongkong,Hong Kong,Hong Kong,HK,HKG,
-119,Countries,Hungary,Ungarn,República de Hungría;Hungría,la Hongrie;Hongrie,HU,HUN,
-120,Countries,Iceland,Island,República de Islandia;Islandia,l'Islande;la République d'Islande,IS,ISL,
-121,Countries,India,Indien,República de la India;India,l'Inde;la République de l'Ind,IN,IND,
-122,Countries,Indonesia,Indonesien,República de Indonesia;Indonesia,l'Indonésie;la République d'Indonésie,ID,IDN,
-123,Countries,Iran,Islamische Republik Iran;Iran,Irán; Corrí,Iran,IR,IRN,
-124,Countries,Iraq,Irak,Irak,Irak,IQ,IRQ,
-125,Countries,Ireland,Irland,Irlanda,l'Irlande,IE,IRL,
-126,Countries,Isle of Man,Insel Man,Isla de Man,Isle of Man,IM,IMN,
-127,Countries,Israel,Israel,Estado de Israel;Israel,Israël;l'État d'Israë,IL,ISR,
-128,Countries,Italy,Italien,República italiana;Italia,l'Italie;la République italienn,IT,ITA,
-129,Countries,Jamaica,Jamaika,Jamaica,Jamaïque,JM,JAM,
-130,Countries,Jan Mayen,Jan Mayen,Jan Mayen,L'île Jan Mayen,SJ,SJM,
-131,Countries,Japan,Japan,Estado de Japón;Japón,le Japon,JP,JPN,
-132,Countries,Jersey,Jersey,Jersey,Jersey,JE,JEY,
-133,Countries,Jordan,Jordanien,Reino Hachemita de Jordania;Jordania,la Jordanie;le Royaume hachémite de Jordanie,JO,JOR,
-134,Countries,Kazakhstan,Kasachstan,República de Kazajistán;Kazajistán,le Kazakhstan,KZ,KAZ,
-135,Countries,Kenya,Kenya,República de Kenia;Kenia,le Kenya;la République du Kenya,KE,KEN,
-136,Countries,Kiribati,Kiribati,República de Kiribati;Kiribati,Kiribati,KI,KIR,
-139,Countries,Kuwait,Kuwait,Estado de Kuwait;Kuwait,le Koweït,KW,KWT,
-140,Countries,Kyrgyzstan,Kirgisistan,República Kirguisa;Kirguistán,la Kirghizie,KG,KGZ,
-142,Countries,Laos,Laos; Demokratische Volksrepublik Laos,Laos; República Democrática Popular Lao,le Laos; République démocratique populaire lao,LA,LAO,Lao People's Democratic Republic
-143,Countries,Latvia,Lettland,República de Letonia;Letonia,la Lettonie;la République de Lettoni,LV,LVA,
-144,Countries,Lebanon,Libanon,República Libanesa;Líbano,le Liban;la République libanais,LB,LBN,
-145,Countries,Lesotho,Lesotho,Reino de Lesoto;Lesoto,le Lesotho;le Royaume du Lesotho,LS,LSO,
-146,Countries,Liberia,Liberia,República de Liberia;Liberia,le Liberia,LR,LBR,
-147,Countries,Libya,Libyen,Estado de Libia;Libia,la Libye,LY,LBY,
-148,Countries,Liechtenstein,Liechtenstein,Principado de Liechtenstein;Liechtenstein,le Liechtenstein;la Principauté du Liechtenstein,LI,LIE,
-149,Countries,Lithuania,Litauen,República de Lituania;Lituania,la Lituanie;la République de Lituanie,LT,LTU,
-150,Countries,Luxembourg,Luxemburg,Gran Ducado de Luxemburgo;Luxemburgo,le Luxembourg;le Grand-Duché de Luxembourg,LU,LUX,
-151,Countries,Macao,Macao,Macao,Macao,MO,MAC,
-152,Countries,Macedonia,Mazedonien,Macedonia,Macédoine,MK,MKD,
-153,Countries,Madagascar,Madagaskar,República de Madagascar;Madagascar,Madagascar;la République de Madagasca,MG,MDG,
-154,Countries,Malawi,Malawi,República de Malaui;Malaui,le Malawi;la République du Malawi,MW,MWI,
-155,Countries,Malaysia,Malaysia,Malasia,la Malaisie;la Fédération de Malaisie,MY,MYS,
-156,Countries,Maldives,Malediven,República de las Maldivas;Maldivas,Maldives,MV,MDV,
-157,Countries,Mali,Mali,Mali,Mali,ML,MLI,
-158,Countries,Malta,Malta,República de Malta;Malta,Malte;la République de Malte,MT,MLT,
-159,Countries,Marshall Islands,Marshallinseln,República de las Islas Marshall;Islas Marshall,Iles Marshall,MH,MHL,
-160,Countries,Martinique,Martinique,Martinica,Martinique,MQ,MTQ,
-161,Countries,Mauritania,Mauretanien,República Islámica de Mauritania;Mauritania,la Mauritanie;la République islamique de Mauritani,MR,MRT,
-162,Countries,Mauritius,Mauritius,Mauricio,Maurice,MU,MUS,
-163,Countries,Mayotte,Mayotte,Mayotte,Mayotte,YT,MYT,
-164,Countries,Mexico,Mexiko,Estados Unidos Mexicanos;México,le Mexique;les États unis mexicains,MX,MEX,
-166,Countries,Moldova,Moldawien;Republik Moldau,Moldavia,la Moldavie; Moldavie,MD,MDA,
-167,Countries,Monaco,Monaco,Principado de Mónaco;Mónaco,Monaco;la principauté de Monaco,MC,MCO,
-168,Countries,Mongolia,Mongolei,Mongolia,Mongolie,MN,MNG,
-169,Countries,Montenegro,Montenegro,República de Montenegro;Montenegro,le Monténégro,ME,MNE,
-170,Countries,Montserrat,Montserrat,Montserrat,Montserrat,MS,MSR,
-171,Countries,Morocco,Marokko,Reino de Marruecos;Marruecos,Maroc,MA,MAR,
-172,Countries,Mozambique,Mosambik,República de Mozambique;Mozambique,le Mozambique;la République du Mozambique,MZ,MOZ,
-173,Countries,Myanmar,Myanmar,Myanmar; Birmania,Myanmar; Birmanie,MM,MMR,Burma
-174,Countries,Namibia,Namibia,República de Namibia;Namibia,la Namibie;la République de Namibie,NA,NAM,
-175,Countries,Nauru,Nauru,República de Nauru;Nauru,Nauru;la République de Nauru,NR,NRU,
-176,Countries,Nepal,Nepal,República Federal Democrática de Nepal;Nepal,le Népal,NP,NPL,
-177,Countries,Netherlands,Niederlande,Reino de los Países Bajos;Países Bajos,Pays-Bas,NL,NLD,
-178,Countries,New Caledonia,Neu-Kaledonien,Nueva Caledonia,Nouvelle Calédonie,NC,NCL,
-179,Countries,New Zealand,Neuseeland,Nueva Zelanda,la Nouvelle-Zéland,NZ,NZL,
-180,Countries,Nicaragua,Republik Nicaragua;Nicaragua;Nikaragua,República de Nicaragua;Nicaragua,le Nicaragua;la République du Nicaragua; Nicaragua,NI,NIC,
-181,Countries,Niger,Niger,República del Níger;Níger,le Niger;la République du Niger,NE,NER,
-182,Countries,Nigeria,Nigeria,República Federal de Nigeria;Nigeria,le Nigéria,NG,NGA,
-183,Countries,Niue,Niue,Niue,Niue,NU,NIU,
-184,Countries,Norfolk Island,Norfolkinsel,Isla Norfolk,Île de Norfolk,NF,NFK,
-185,Countries,North Korea,Nordkorea;Nord Korea;Demokratische Volksrepublik Korea,República Popular Democrática de Corea;Corea del Norte,la Corée du Nord; République populaire démocratique de Corée,KP,PRK,Democratic People's Republic of Korea
-186,Countries,Northern Mariana Islands,Nördliche Marianen,Islas Marianas del Norte,Îles Mariannes du Nord,MP,MNP,
-187,Countries,Norway,Norwegen,Reino de Noruega;Noruega,la Norvège;le Royaume de Norvège,NO,NOR,
-188,Countries,Oman,Oman,Sultanato de Omán;Omán,Oman;l'Oman,OM,OMN,
-189,Countries,Pakistan,Pakistan,República Islámica de Pakistán;Pakistán,le Pakistan,PK,PAK,
-190,Countries,Palau,Palau,Palaos,Palau,PW,PLW,
-191,Countries,Palestine,Palästina,Estado de Palestina;Palestina,Palestine,PS,PSE,
-192,Countries,Panama,Panama,República de Panamá;Panamá,Panama,PA,PAN,
-193,Countries,Papua New Guinea,Papua-Neuguinea,Estado Independiente de Papúa Nueva Guinea;Papúa Nueva Guinea,la Papouasie-Nouvelle-Guinée;la Papouasie - Nouvelle-Guinée,PG,PNG,
-194,Countries,Paraguay,Paraguay,República del Paraguay;Paraguay,le Paraguay;la République du Paraguay,PY,PRY,
-195,Countries,Peru,Peru,República del Perú;Perú,le Pérou;la République du Pérou,PE,PER,
-196,Countries,Philippines,Philippinen,República de Filipinas;Filipinas,Philippines,PH,PHL,
-197,Countries,Pitcairn,Pitcairn,Pitcairn,Pitcairn,PN,PCN,
-198,Countries,Poland,Polen,República de Polonia;Polonia,la Pologne;la République de Pologne,PL,POL,
-199,Countries,Portugal,Portugal,República Portuguesa;Portugal,le Portugal;la République portugais,PT,PRT,
-200,Countries,Puerto Rico,Puerto Rico,Puerto Rico,Porto Rico,PR,PRI,
-201,Countries,Qatar,Katar,Katar,le Qatar,QA,QAT,
-206,Countries,Romania,Rumänien,Rumania,Roumanie,RO,ROU,
-207,Countries,Russian Federation,Russische Föderation,Federación Rusa,Fédération Russe,RU,RUS,
-208,Countries,Rwanda,Ruanda,República de Ruanda;Ruanda,le Rwanda;la République rwandaise,RW,RWA,
-209,Countries,Réunion,La Réunion;  Réunion,Reunión,Réunion,RE,REU,
-210,Countries,Saba,Saba,Saba,Saba,BQ,,
-211,Countries,Saint Barthélemy,Saint Barthélemy,San Bartolomé,Saint Barthélemy,BL,BLM,
-212,Countries,"Saint Helena, Ascension and Tristan da Cunha","St. Helena, Ascension und Tristan da Cunha","Santa Helena, Ascensión y Tristán da Cunha","Sainte-Hélène, Ascension et Tristan da Cunha",SH,SHN,
-213,Countries,Saint Kitts and Nevis,St. Kitts und Nevis,Federación de San Cristóbal y Nieves;San Cristóbal y Nieves,Saint-Christophe-et-Niévès,KN,KNA,
-214,Countries,Saint Lucia,Saint Lucia,Santa Lucía,Saint Lucia,LC,LCA,
-215,Countries,Saint Martin,Saint Martin,San Martín,Saint Martin,MF,MAF,
-216,Countries,Saint Pierre and Miquelon,Saint Pierre und Miquelon,San Pedro y Miquelón,Saint Pierre et Miquelon,PM,SPM,
-217,Countries,Saint Vincent and the Grenadines,St. Vincent und die Grenadinen,San Vicente y las Granadinas,Saint-Vincent-et-les Grenadines,VC,VCT,
-218,Countries,Samoa,Samoa,Estado Independiente de Samoa;Samoa,les Samoa,WS,WSM,
-219,Countries,San Marino,San Marino,Serenísima República de San Marino;San Marino,Saint Marin,SM,SMR,
-220,Countries,Sao Tome and Principe,São Tomé und Príncipe,República Democrática de Santo Tomé y Príncipe;Santo Tomé y Príncipe,Sao Tomé-et-Principe,ST,STP,
-221,Countries,Saudi Arabia,Saudi-Arabien,Arabia Saudita,l'Arabie saoudite;le Royaume d'Arabie saoudite,SA,SAU,
-222,Countries,Senegal,Senegal,República de Senegal;Senegal,Sénégal,SN,SEN,
-223,Countries,Serbia,Serbien,República de Serbia;Serbia,la Serbie;la République de Serbie,RS,SRB,
-224,Countries,Seychelles,Seychellen,República de las Seychelles;Seychelles,les Seychelles;la République des Seychelles,SC,SYC,
-225,Countries,Sierra Leone,Sierra Leone,República de Sierra Leona;Sierra Leona,la Sierra Leone;la République de Sierra Leone,SL,SLE,
-226,Countries,Singapore,Singapur,República de Singapur;Singapur,Singapour;la République de Singapour,SG,SGP,
-227,Countries,Sint Eustatius,Sint Eustatius,San Eustaquio,Saint-Eustache,BQ,,Statia
-228,Countries,Sint Maarten,Sint Maarten,Sint Maarten,Saint-Martin; Pays de Saint-Martin,SX,,
-229,Countries,Slovakia,Slowakei,República de Eslovaquia;Eslovaquia,la Slovaquie;la République slovaque,SK,SVK,Slovakia Republic
-230,Countries,Slovenia,Slowenien,República de Eslovenia;Eslovenia,la Slovénie;la République de Slovénie,SI,SVN,Republic of Slovenia
-231,Countries,Solomon Islands,Salomonen,Islas Salomón,Les îles Salomon,SB,SLB,
-232,Countries,Somalia,Somalia,República Federal de Somalia;Somalia,la Somalie,SO,SOM,
-233,Countries,South Africa,Südafrika,República de Sudáfrica;Sudáfrica,l'Afrique du Sud;la République d'Afrique du Sud,ZA,ZAF,
-234,Countries,South Georgia and the South Sandwich Islands,Südgeorgien und die Südlichen Sandwichinseln,Georgia del sur y las islas Sandwich del sur,Géorgie du Sud et les îles Sandwich du Sud,GS,SGS,
-235,Countries,South Korea,Südkorea;Süd Korea; Republik Korea,República de Corea;Corea del Sur,la Corée du Sud; République de Corée,KR,KOR,Republic of Korea
-236,Countries,South Sudan,Der Südsudan; Republik Südsudan,Sudán del sur; República de Sudán del Sur,le Soudan du Sud; la République du Soudan du Sud,SS,SSD,Republic of South Sudan
-237,Countries,Spain,Spanien,Reino de España;España,l'Espagne;le Royaume d'Espagne,ES,ESP,
-238,Countries,Sri Lanka,Sri Lanka,República Democrática Socialista de Sri Lanka;Sri Lanka,Sri Lanka,LK,LKA,
-239,Countries,Sudan,Sudan,República del Sudán;Sudán,le Soudan;la République du Soudan,SD,SDN,
-240,Countries,Suriname,Suriname,República del Surinam;Surinam,le Suriname,SR,SUR,
-241,Countries,Svalbard,Svalbard,Svalbard,Svalbard,SJ,SJM,
-242,Countries,Swaziland,Swasiland,Reino de Suazilandia;Suazilandia,le Swaziland,SZ,SWZ,
-243,Countries,Sweden,Schweden,Reino de Suecia;Suecia,la Suède;le Royaume de Suède,SE,SWE,
-244,Countries,Switzerland,Schweiz,Confederación Helvética;Suiza,la Suisse;la Confédération suiss,CH,CHE,
-245,Countries,Syria,Arabische Republik Syrien; Syrien,Siria;República Árabe Siria,la Syrie;République arabe syrienne,SY,SYR,Syrian Arab Republic
-247,Countries,Taiwan,Taiwan; Republik China,Taiwán; República de China,Taïwan; République de Chine,TW,TWN,Republic of China
-248,Countries,Tajikistan,Tadschikistan,República de Tayikistán;Tayikistán,le Tadjikistan;la République du Tadjikistan,TJ,TJK,
-249,Countries,Tanzania,Tansania,República Unida de Tanzania;Tanzania,la Tanzanie,TZ,TZA,
-250,Countries,Thailand,Thailand,Reino de Tailandia;Tailandia,la Thaïlande;le Royaume de Thaïlande,TH,THA,
-251,Countries,Timor-Leste,Osttimor,Timor Oriental,Timor-Leste,TL,TLS,
-252,Countries,Togo,Togo,República Togolesa;Togo,le Togo;la République togolais,TG,TGO,
-253,Countries,Tokelau,Tokelau,Tokelau,Tokelau,TK,TKL,
-254,Countries,Tonga,Tonga; Königreich Tonga,Reino de Tonga;Tonga,les Tonga;le Royaume des Tong,TO,TON,
-255,Countries,Trinidad and Tobago,Trinidad und Tobago,República de Trinidad y Tobago;Trinidad y Tobago,la Trinité-et-Tobago,TT,TTO,
-256,Countries,Tunisia,Tunesien,República Tunecina;Túnez,la Tunisie;la République tunisienne,TN,TUN,
-257,Countries,Turkey,Türkei,República de Turquía;Turquía,la Turquie;la République de Turquie,TR,TUR,
-258,Countries,Turkmenistan,Turkmenistan,Turkmenistán,le Turkménistan,TM,TKM,
-259,Countries,Turks and Caicos Islands,Turks- und Caicosinseln,Islas Turcas y Caicos,îles Turques-et-Caïques,TC,TCA,TCI
-260,Countries,Tuvalu,Tuvalu,Tuvalu,les Tuvalu,TV,TUV,
-261,Countries,US Virgin Islands,US Jungferninseln,Islas Vírgenes de EE.UU,Îles Vierges américaines,VI,VIR,
-262,Countries,Uganda,Uganda,República de Uganda;Uganda,l'Ouganda;la République d'Ouganda,UG,UGA,
-263,Countries,Ukraine,Ukraine,Ucrania,Ukraine,UA,UKR,
-264,Countries,United Arab Emirates,Vereinigte Arabische Emirate,Emiratos Árabes Unidos,les Émirats arabes unis;la fédération des Émirats arabes unis,AE,ARE,UAE
-265,Countries,United Kingdom,Vereinigtes Königreich,Reino Unido de Gran Bretaña e Irlanda del Norte;Reino Unido,Royaume-Uni,GB,GBR,
-266,Countries,United States,Vereinigte Staaten,Los Estatados Unidos,les États-Unis,US,USA,USA; United States of America
-267,Countries,United States Minor Outlying Islands,Vereinigte Staaten Minor Outlying Islands; Kleinere Inselbesitzungen der Vereinigten Staaten,Islas menores alejadas de los Estados Unidos,Îles mineures éloignées des États-Unis,UM,UMI,
-268,Countries,Uruguay,Uruguay,República Oriental del Uruguay;Uruguay,Uruguay,UY,URY,
-269,Countries,Uzbekistan,Usbekistan,República de Uzbekistán;Uzbekistán,l'Ouzbékistan;la République d'Ouzbékistan,UZ,UZB,
-270,Countries,Vanuatu,Vanuatu,República de Vanuatu;Vanuatu,Vanuatu,VU,VUT,
-271,Countries,Vatican City,Vatikanstadt,Ciudad del Vaticano,Cité du Vatican,VA,VAT,
-272,Countries,Venezuela,Venezuela,República Bolivariana de Venezuela;Venezuela,Venezuela; République bolivarienne du Venezuela,VE,VEN,Bolivarian Republic of Venezuel
-273,Countries,Viet Nam,Vietnam; Sozialistische Republik Vietnam,Vietnam,Viêt-Nam,VN,VNM,Vietnam
-274,Countries,Wallis and Futuna,Wallis und Futuna,Wallis y Futuna,Wallis et Futuna,WF,WLF,
-275,Countries,Western Sahara,Westsahara,Sahara Occidental,Western Sahara,EH,ESH,
-276,Countries,Yemen,Jemen,República de Yemen;Yemen,le Yémen;la République du Yémen,YE,YEM,
-277,Countries,Zambia,Sambia,República de Zambia;Zambia,la Zambie;la République de Zambie,ZM,ZMB,
-278,Countries,Zimbabwe,Simbabwe,República de Zimbabue;Zimbabue,le Zimbabwe;la République du Zimbabwe,ZW,ZWE,
-279,Countries,Åland Islands,Ålandinseln,Islas Aland,Iles Aland,AX,ALA,
-280,French States,Alsace,Elsass,Alsacia,Alsace,,,AA
-281,French States,Aquitaine,Aquitaine,Aquitania,Aquitaine,,,AQ
-282,French States,Auvergne,Auvergne,Auvernia,Auvergne,,,AU
-283,French States,Brittany,Bretagne,Bretaña,Bretagne,FR-BRE,,BT
-284,French States,Burgundy,Burgund,borgoña,Bourgogne,,,BG
-285,French States,Centre,Zentrum,Centrar,Centre,,,CN
-286,French States,Champagne-Ardenne,Champagne-Ardenne,Champaña-Ardenas,Champagne-Ardenne,,,CG
-287,French States,Corsica,Korsika,Córcega,la Corse,,,CE
-288,French States,Franche-Comte,Franche-Comte,Franco Condado,Franche-Comte,,,FC
-289,French States,Ile-de-France,Ile-de-France,Ile de France,Ile-de-France,FR-IDF,,IF
-290,French States,Languedoc-Roussillon,Languedoc-Roussillon,Languedoc-Roussillon,Languedoc-Roussillon,,,LU
-291,French States,Limousin,Limousin,Limousin,Limousin,,,LM
-292,French States,Lorraine,Lorraine,Lorena,Lorraine,,,LE
-293,French States,Lower Normandy,Basse Normandie,Baja Normandía,Basse Normandie,,,BN
-294,French States,Midi-Pyrenees,Midi-Pyrenees,Midi-Pyrénées,Midi-Pyrenees,,,MP
-295,French States,Nord-Pas-des-Calais,Nord-Pas-of-Calais,Nord-Pas-de-Calais,Nord-Pas-des-Calais,,,NP
-296,French States,Pays de la Loire,Loire,País del Loira,Pays de la Loire,FR-PDL,,PL
-297,French States,Picardy,Picardie,Picardy,Picardie,,,PI
-298,French States,Poitou-Charentes,Poitou-Charentes,Poitou-Charentes,Poitou-Charentes,,,PT
-299,French States,Provence-Alpes-Cote d'Azur,Provence-Alpes-Côte d'Azur,Provenza-Alpes-Costa Azul,Provence-Alpes-Cote d'Azur,FR-PAC,,PR
-300,French States,Rhone-Alpes,Rhone-Alpes,Rhone-Alpes,Rhone-Alpes,,,RA
-301,French States,Upper Normandy,Haute-Normandie,Alta Normandía,Haute-Normandie,,,HT
-302,German States,Baden-Wurttemberg,Baden-Wurttemberg;  Baden-Württemberg,Baden-Wurttemberg,Bade-Wurtemberg,DE-BW,,BW; Baden-Württemberg
-303,German States,Bavaria,Bavaria; Bayern,Baviera,Bavière,DE-BY,,BY
-304,German States,Berlin,Berlin,Berlín,Berlin,DE-BE,,BE
-305,German States,Bremen,Bremen,Bremen,Brême,DE-HB,,HB
-306,German States,Hamburg,Hamburg,Hamburgo,Hambourg,DE-HH,,HH
-307,German States,Hesse,Hesse; Hessen,Hesse,Hesse,DE-HE,,HE
-308,German States,Lower Saxony,Niedersachsen,Baja sajonia,Basse-Saxe,DE-NI,,NI
-309,German States,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern; McPom,Mecklenburg-Vorpommern,Mecklembourg-Poméranie-Occidentale,DE-MV,,"MV; Mecklenburg-West Pomerania; Meck-Pomm"""
-310,German States,North Rhine-Westphalia,Nordrhein-Westfalen,Norte de Rhine-Westphalia,Rhénanie du Nord-Westphalie,DE-NW,,NW
-311,German States,Rhineland-Palatinate,Rheinland-Pfalz,Renania-Palatinado,Rhénanie-Palatinat,DE-RP,,RP
-312,German States,Saarland,Saarland,Sarre,Sarre,DE-SL,,SL
-313,German States,Saxony,Sachsen,Sajonia,Saxe,DE-SN,,SN
-314,German States,Saxony-Anhalt,Sachsen-anhalt,Sajonia-Anhalt,Saxe-Anhalt,DE-ST,,ST
-315,German States,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,DE-SH,,SH
-316,German States,Thuringia,Thüringen,Turingia,Thuringe,DE-TH,,TH
-317,US States,Alabama,Alabama,Alabama,L'Alabama,US-AL,,AL
-318,US States,Alaska,Alaska,Alaska,Alaska,US-AK,,AK
-319,US States,Arizona,Arizona,Arizona,Arizona,US-AZ,,AZ
-320,US States,Arkansas,Arkansas,Arkansas,Arkansas,US-AR,,AR
-321,US States,California,Kalifornien,California,Californie,US-CA,,CA
-322,US States,Colorado,Colorado,Colorado,Colorado,US-CO,,CO
-323,US States,Connecticut,Connecticut,Connecticut,Connecticut,US-CT,,CT
-324,US States,Delaware,Delaware,Delaware,Delaware,US-DE,,DE
-325,US States,District of Columbia,Bezirk von Kolumbien,Distrito de Columbia,District de Colombie,US-DC,,DC
-326,US States,Florida,Florida,Florida,Floride,US-FL,,FL
-327,US States,Georgia,Georgia,Georgia,Géorgie,US-GA,,GA
-328,US States,Hawaii,Hawaii,Hawai,Hawaii,US-HI,,HI
-329,US States,Idaho,Idaho,Idaho,Idaho,US-ID,,ID
-330,US States,Illinois,Illinois,Illinois,Illinois,US-IL,,IL
-331,US States,Indiana,Indiana,Indiana,Indiana,US-IN,,IN
-332,US States,Iowa,Iowa,Iowa,Iowa,US-IA,,IA
-333,US States,Kansas,Kansas,Kansas,Kansas,US-KS,,KS
-334,US States,Kentucky,Kentucky,Kentucky,Kentucky,US-KY,,KY
-335,US States,Louisiana,Louisiana,Luisiana,Louisiane,US-LA,,LA
-336,US States,Maine,Maine,Maine,Maine,US-ME,,ME
-337,US States,Maryland,Maryland,Maryland,Maryland,US-MD,,MD
-338,US States,Massachusetts,Massachusetts,Massachusetts,Massachusetts,US-MA,,MA
-339,US States,Michigan,Michigan,Michigan,Michigan,US-MI,,MI
-340,US States,Minnesota,Minnesota,Minnesota,Minnesota,US-MN,,MN
-341,US States,Mississippi,Mississippi,Misisipí,Mississippi,US-MS,,MS
-342,US States,Missouri,Missouri,Misuri,Missouri,US-MO,,MO
-343,US States,Montana,Montana,Montana,Montana,US-MT,,MT
-344,US States,Nebraska,Nebraska,Nebraska,Nebraska,US-NE,,NE
-345,US States,Nevada,Nevada,Nevada,Nevada,US-NV,,NV
-346,US States,New Hamsphire,New Hampshire,New Hampshire,New Hampshire,US-NH,,NH
-347,US States,New Jersey,New Jersey,New Jersey,New Jersey,US-NJ,,NJ
-348,US States,New Mexico,New-Mexiko,Nuevo Mexico,Nouveau Mexique,US-NM,,NM
-349,US States,New York,New York,Nueva York,New York,US-NY,,NY
-350,US States,North Carolina,North Carolina,Carolina del Norte,Caroline du Nord,US-NC,,NC
-351,US States,North Dakota,Norddakota,Dakota del Norte,Dakota du nord,US-ND,,ND
-352,US States,Ohio,Ohio,Ohio,Ohio,US-OH,,OH
-353,US States,Oklahoma,Oklahoma,Oklahoma,Oklahoma,US-OK,,OK
-354,US States,Oregon,Oregon,Oregón,Oregon,US-OR,,OR
-355,US States,Pennsylvania,Pennsylvania,Pensilvania,Pennsylvanie,US-PA,,PA
-356,US States,Rhode Island,Rhode Island,Rhode Island,Rhode Island,US-RI,,RI
-357,US States,South Carolina,South Carolina,Carolina del Sur,Caroline du Sud,US-SC,,SC
-358,US States,South Dakota,Süddakota,Dakota del Sur,Dakota du Sud,US-SD,,SD
-359,US States,Tennessee,Tennessee,Tennesse,Tennessee,US-TN,,TN
-360,US States,Texas,Texas,Texas,Texas,US-TX,,TX
-361,US States,Utah,Utah,Utah,Utah,US-UT,,UT
-362,US States,Vermont,Vermont,Vermont,Vermont,US-VT,,VT
-363,US States,Virginia,Virginia,Virginia,Virginie,US-VA,,VA
-364,US States,Washington,Washington,Washington,Washington,US-WA,,WA
-365,US States,West Virginia,West Virginia,Virginia del Oeste,West Virginia,US-WV,,WV
-366,US States,Wisconsin,Wisconsin,Wisconsin,Wisconsin,US-WI,,WI
-367,US States,Wyoming,Wyoming,Wyoming,Wyoming,US-WY,,WY
-368,German States,Brandenburg,Brandenburg,Brandeburgo; Brandemburgo,Brandebourg,DE-BB,,BB
-369,Canadian Provinces,New Brunswick,Nouveau-Brunswick,Nuevo Brunswick,Nouveau-Brunswick,CA-NB,,NB
+1,Countries,Afghanistan,Afghanistan,Afganistán;República Islámica de Afganistán,l'Afghanistan,AF,AFG,
+2,Countries,Albania,Albanien,República de Albania;Albania,l'Albanie;la République d'Albanie,AL,ALB,
+3,Countries,Algeria,Algerien,República Argelina Democrática y Popular;Argelia,Algérie,DZ,DZA,
+4,Countries,American Samoa,Amerikanisch-Samoa,Samoa Americana,Samoa américaines,AS,ASM,
+5,Countries,Andorra,Andorra,Principado de Andorra;Andorra,l'Andorre;la principauté d'Andorre,AD,AND,
+6,Countries,Angola,Angola,República de Angola;Angola,Angola,AO,AGO,
+7,Countries,Anguilla,Anguilla,Anguila,Anguilla,AI,AIA,
+8,Countries,Antarctica,Antarktis,Antártida,Antarctique,AQ,ATA,
+9,Countries,Antigua and Barbuda,Antigua und Barbuda,Antigua y Barbuda,Antigua-et-Barbuda,AG,ATG,
+10,Countries,Argentina,Argentinien,República Argentina;Argentina,l'Argentine;la République argentine,AR,ARG,
+11,Countries,Armenia,Armenien,República de Armenia;Armenia,l'Arménie;la République d'Arménie,AM,ARM,
+12,Countries,Aruba,Aruba,Aruba,Aruba,AW,ABW,
+13,Countries,Australia,Australien,Mancomunidad de Australia;Australia,l'Australie;le Commonwealth d'Australie,AU,AUS,
+14,Countries,Austria,Österreich,República de Austria;Austria,l'Autriche;la République d'Autriche,AT,AUT,
+15,Countries,Azerbaijan,Aserbaidschan,República de Azerbaiyán;Azerbaiyán,l'Azerbaïdjan;la République d'Azerbaïdjan,AZ,AZE,
+16,Countries,Bahamas,Bahamas,Mancomunidad de las Bahamas;Bahamas,Bahamas,BS,BHS,
+17,Countries,Bahrain,Bahrain;Bahrein,Bahrein,Bahreïn;le Royaume de Bahreïn,BH,BHR,
+18,Countries,Bangladesh,Bangladesch,Bangladesh,le Bangladesh;la République populaire du Banglades,BD,BGD,
+19,Countries,Barbados,Barbados,Barbados,La Barbade,BB,BRB,
+20,Countries,Belarus,Weißrußland,Belarús,Bélarus,BY,BLR,
+21,Countries,Belgium,Belgien,Reino de Bélgica;Bélgica,la Belgique;le Royaume de Belgique,BE,BEL,
+22,Countries,Belize,Belize,Belice,le Belize,BZ,BLZ,
+23,Countries,Benin,Benin,República de Benín;Benín,Bénin,BJ,BEN,
+24,Countries,Bermuda,Bermuda,islas Bermudas,Bermudes,BM,BMU,
+25,Countries,Bhutan,Bhutan,Reino de Bután;Bután,le Bhoutan,BT,BTN,
+26,Countries,Bolivia,Bolivien,Estado Plurinacional de Bolivia;Bolivia,la Bolivie,BO,BOL,
+27,Countries,Bonaire,Bonaire,Bonaire,Bonaire,BQ,,
+28,Countries,Bosnia and Herzegovina,Bosnien und Herzegovina,Bosnia y Herzegovina,la Bosnie-Herzégovine;la Bosnie et Herzégovine,BA,BIH,
+29,Countries,Botswana,Botswana,República de Botsuana;Botsuana,le Botswana;la République du Botswana,BW,BWA,
+30,Countries,Bouvet Island,Bouvetinsel,Isla Bouvet,Île de Bouvet,BV,BVT,
+31,Countries,Brazil,Brasilien,República Federativa del Brasil;Brasil,Brésil,BR,BRA,
+32,Countries,British Indian Ocean Territory,Britisches Territorium im Indischen Ozean,Territorio Británico del Océano Índico,Territoire britannique de l'océan Indien,IO,IOT,
+33,Countries,British Virgin Islands,Britische Jungferninseln,Islas Vírgenes Británicas,Îles Vierges britanniques,VG,VGB,
+34,Countries,Brunei Darussalam,Brunei Darussalam,Brunei Darussalam,Brunei Darussalam,BN,BRN,Brunei
+35,Countries,Bulgaria,Bulgarien,República de Bulgaria;Bulgaria,la Bulgarie;la République de Bulgarie,BG,BGR,
+36,Countries,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,BF,BFA,
+37,Countries,Burundi,Burundi,República de Burundi;Burundi,le Burundi;la République du Burundi,BI,BDI,
+38,Countries,Cambodia,Kambodscha,Reino de Camboya;Camboya,le Cambodge;le Royaume du Cambodge,KH,KHM,
+39,Countries,Cameroon,Kamerun,República de Camerún;Camerún,le Cameroun;la République du Cameroun,CM,CMR,
+40,Countries,Canada,Kanada,Canadá,Canada,CA,CAN,
+41,Countries,Cape Verde,Kap Verde,República de Cabo Verde;Cabo Verde,le Cap-Vert,CV,CPV,
+42,Countries,Cayman Islands,Kaimaninseln,Islas Caimán,Îles Caïmans,KY,CYM,
+43,Countries,Central African Republic,Zentralafrikanische Republik,República Centroafricana,République centrafricaine,CF,CAF,
+44,Countries,Chad,Tschad,República de Chad;Chad,le Tchad;la République du Tchad,TD,TCD,
+45,Countries,Chile,Chile,República de Chile;Chile,Chili,CL,CHL,
+46,Countries,China,China,República Popular China;China,la Chine;la République populaire de Chin,CN,CHN,People's Republic of China; PRC
+47,Countries,Christmas Island,Weihnachtsinsel,Isla de Navidad,L'île de noël,CX,CXR,
+48,Countries,Cocos Islands,Kokosinseln,Islas Cocos,Îles Cocos,CC,CCK,
+49,Countries,Colombia,Kolumbien,República de Colombia;Colombia,la Colombie;la République de Colombie,CO,COL,
+50,Countries,Comoros,Komoren,Unión de las Comoras;Comoras,Comores,KM,COM,
+51,Countries,Congo,Kongo,Congo,Congo,CG,COG,
+52,Countries,Cook Islands,Cookinseln,Islas Cook,les Îles Cook,CK,COK,
+53,Countries,Costa Rica,Costa Rica,Costa Rica;República de Costa Rica,Costa Rica,CR,CRI,Republic of Costa Rica
+54,Countries,Croatia,Kroatien,República de Croacia;Croacia,la République de Croatie;la Croatie,HR,HRV,
+55,Countries,Cuba,Kuba,República de Cuba;Cuba,la République de Cuba;Cuba,CU,CUB,
+56,Countries,Curaçao,Curaçao,Curaçao,Curaçao,CW,CUW,
+57,Countries,Cyprus,Zypern,Chipre; República de Chipre,Chypre; la République de Chypre,CY,CYP,Republic of Cyprus
+58,Countries,Czech Republic,Tschechien,República Checa,République Tchèque,CZ,CZE,
+59,Countries,Côte d'Ivoire,Elfenbeinküste,Costa de Marfil,Côte d'Ivoire,CI,CIV,
+60,Countries,Democratic Republic of the Congo,Demokratische Republik Kongo,República Democrática del Congo,République Démocratique du Congo,CD,COD,
+61,Countries,Denmark,Dänemark,Reino de Dinamarca;Dinamarca,le Danemark;le Royaume du Danemark,DK,DNK,
+62,Countries,Djibouti,Dschibuti,República de Yibuti;Yibuti,Djibouti;la République de Djibouti,DJ,DJI,
+63,Countries,Dominica,Dominica,Mancomunidad de Dominica;Dominica,la Dominique,DM,DMA,
+64,Countries,Dominican Republic,Dominikanische Republik,República Dominicana,République Dominicaine,DO,DOM,
+65,Countries,Ecuador,Ecuador,República del Ecuador;Ecuador,l'Équateur;la République de l'Équateur,EC,ECU,
+66,Countries,Egypt,Ägypten,República Árabe de Egipto;Egipto,l'Égypte;la République arabe d'Égypt,EG,EGY,
+67,Countries,El Salvador,El Salvador,El Salvador,Le sauveur,SV,SLV,
+68,Countries,Equatorial Guinea,Äquatorialguinea,República de Guinea Ecuatorial;Guinea Ecuatorial,la Guinée équatoriale;la Guinée Équatoriale,GQ,GNQ,
+69,Countries,Eritrea,Eritrea,Estado de Eritrea;Eritrea,l'Érythrée;l'État d'Érythrée,ER,ERI,
+70,Countries,Estonia,Estland,República de Estonia;Estonia,l'Estonie;la République d'Estonie,EE,EST,
+71,Countries,Ethiopia,Äthiopien,República Democrática Federal de Etiopía;Etiopía,l'Éthiopie;la République démocratique fédérale d'Éthiopie,ET,ETH,
+72,Countries,Falkland Islands,Falklandinseln,Islas Malvinas,les îles Falkland,FK,FLK,
+73,Countries,Faroe Islands,Färöer;Färöer-Inseln,Islas Faroe,Îles Féroé,FO,FRO,
+74,Countries,Federated States of Micronesia,Föderierte Staaten von Mikronesien;Mikronesien,Estados Federados de Micronesia; Micronesia,la Micronésie;la Micronésie,FM,FSM,Micronesia
+75,Countries,Fiji,Fidschi,República de Fiyi;Fiyi,les Fidji,FJ,FJI,
+76,Countries,Finland,Finnland,República de Finlandia;Finlandia,la Finlande;la République de Finlande,FI,FIN,
+77,Countries,France,Frankreich,República Francesa;Francia,la France;la République français,FR,FRA,
+78,Countries,French Guiana,Französisch-Guayana,Guayana Francesa,Guinée Française,GF,GUF,
+79,Countries,French Polynesia,Französisch-Polynesien,Polinesia francés,Polynésie française,PF,PYF,
+80,Countries,French Southern Territories,Französische Süd- und Antarktisgebiete,Territorios Franceses del Sur,Territoires du Sud français,TF,ATF,
+81,Countries,Gabon,Gabun,República Gabonesa;Gabón,le Gabon;la République gabonais,GA,GAB,
+82,Countries,Gambia,Gambia,Gambia,Gambie,GM,GMB,
+83,Countries,Georgia,Georgien,República de Georgia;Georgia,la Géorgie,GE,GEO,
+84,Countries,Germany,Deutschland,República Federal Alemana;Alemania,l'Allemagne;la République fédérale d'Allemagn,DE,DEU,
+85,Countries,Ghana,Ghana,República de Ghana;Ghana,le Ghana;la République du Ghana,GH,GHA,
+86,Countries,Gibraltar,Gibraltar,Gibraltar,Gibraltar,GI,GIB,
+87,Countries,Greece,Griechenland,República Helénica;Grecia,la Grèce;la République helléniqu,GR,GRC,
+88,Countries,Greenland,Grönland,Tierra Verde,Groenland,GL,GRL,
+89,Countries,Grenada,Grenada,Granada,Grenade,GD,GRD,
+90,Countries,Guadeloupe,Guadeloupe,Guadalupe,Guadeloupe,GP,GLP,
+91,Countries,Guam,Guam,Guam,Guam,GU,GUM,
+92,Countries,Guatemala,Guatemala,República de Guatemala;Guatemala,le Guatemala,GT,GTM,
+93,Countries,Guernsey,Guernsey,Guernesey,Guernesey,GG,GGY,
+94,Countries,Guinea,Guinea,República de Guinea;Guinea,la Guinée;la République de Guinée,GN,GIN,
+95,Countries,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,la Guinée-Bissau,GW,GNB,
+96,Countries,Guyana,Guyana,República Cooperativa de Guyana;Guyana,Guyane,GY,GUY,
+97,Countries,Haiti,Haiti,República de Haití;Haití,Haïti;la République d'Haïti,HT,HTI,
+98,Countries,Heard Island and McDonald Islands,Heard und Mcdonaldinseln,Islas Heard y McDonald,Îles Heard et McDonald,HM,HMD,
+99,Countries,Holy See,Heiliger Stuhl,Santa Sede,Saint-Siège,VA,VAT,
+100,Countries,Honduras,Honduras,República de Honduras;Honduras,Honduras,HN,HND,
+101,Countries,Hong Kong,Hongkong,Hong Kong,Hong Kong,HK,HKG,
+102,Countries,Hungary,Ungarn,República de Hungría;Hungría,la Hongrie;Hongrie,HU,HUN,
+103,Countries,Iceland,Island,República de Islandia;Islandia,l'Islande;la République d'Islande,IS,ISL,
+104,Countries,India,Indien,República de la India;India,l'Inde;la République de l'Ind,IN,IND,
+105,Countries,Indonesia,Indonesien,República de Indonesia;Indonesia,l'Indonésie;la République d'Indonésie,ID,IDN,
+106,Countries,Iran,Islamische Republik Iran;Iran,Irán; Corrí,Iran,IR,IRN,
+107,Countries,Iraq,Irak,Irak,Irak,IQ,IRQ,
+108,Countries,Ireland,Irland,Irlanda,l'Irlande,IE,IRL,
+109,Countries,Isle of Man,Insel Man,Isla de Man,Isle of Man,IM,IMN,
+110,Countries,Israel,Israel,Estado de Israel;Israel,Israël;l'État d'Israë,IL,ISR,
+111,Countries,Italy,Italien,República italiana;Italia,l'Italie;la République italienn,IT,ITA,
+112,Countries,Jamaica,Jamaika,Jamaica,Jamaïque,JM,JAM,
+113,Countries,Jan Mayen,Jan Mayen,Jan Mayen,L'île Jan Mayen,SJ,SJM,
+114,Countries,Japan,Japan,Estado de Japón;Japón,le Japon,JP,JPN,
+115,Countries,Jersey,Jersey,Jersey,Jersey,JE,JEY,
+116,Countries,Jordan,Jordanien,Reino Hachemita de Jordania;Jordania,la Jordanie;le Royaume hachémite de Jordanie,JO,JOR,
+117,Countries,Kazakhstan,Kasachstan,República de Kazajistán;Kazajistán,le Kazakhstan,KZ,KAZ,
+118,Countries,Kenya,Kenya,República de Kenia;Kenia,le Kenya;la République du Kenya,KE,KEN,
+119,Countries,Kiribati,Kiribati,República de Kiribati;Kiribati,Kiribati,KI,KIR,
+120,Countries,Kuwait,Kuwait,Estado de Kuwait;Kuwait,le Koweït,KW,KWT,
+121,Countries,Kyrgyzstan,Kirgisistan,República Kirguisa;Kirguistán,la Kirghizie,KG,KGZ,
+122,Countries,Laos,Laos; Demokratische Volksrepublik Laos,Laos; República Democrática Popular Lao,le Laos; République démocratique populaire lao,LA,LAO,Lao People's Democratic Republic
+123,Countries,Latvia,Lettland,República de Letonia;Letonia,la Lettonie;la République de Lettoni,LV,LVA,
+124,Countries,Lebanon,Libanon,República Libanesa;Líbano,le Liban;la République libanais,LB,LBN,
+125,Countries,Lesotho,Lesotho,Reino de Lesoto;Lesoto,le Lesotho;le Royaume du Lesotho,LS,LSO,
+126,Countries,Liberia,Liberia,República de Liberia;Liberia,le Liberia,LR,LBR,
+127,Countries,Libya,Libyen,Estado de Libia;Libia,la Libye,LY,LBY,
+128,Countries,Liechtenstein,Liechtenstein,Principado de Liechtenstein;Liechtenstein,le Liechtenstein;la Principauté du Liechtenstein,LI,LIE,
+129,Countries,Lithuania,Litauen,República de Lituania;Lituania,la Lituanie;la République de Lituanie,LT,LTU,
+130,Countries,Luxembourg,Luxemburg,Gran Ducado de Luxemburgo;Luxemburgo,le Luxembourg;le Grand-Duché de Luxembourg,LU,LUX,
+131,Countries,Macao,Macao,Macao,Macao,MO,MAC,
+132,Countries,Macedonia,Mazedonien,Macedonia,Macédoine,MK,MKD,
+133,Countries,Madagascar,Madagaskar,República de Madagascar;Madagascar,Madagascar;la République de Madagasca,MG,MDG,
+134,Countries,Malawi,Malawi,República de Malaui;Malaui,le Malawi;la République du Malawi,MW,MWI,
+135,Countries,Malaysia,Malaysia,Malasia,la Malaisie;la Fédération de Malaisie,MY,MYS,
+136,Countries,Maldives,Malediven,República de las Maldivas;Maldivas,Maldives,MV,MDV,
+137,Countries,Mali,Mali,Mali,Mali,ML,MLI,
+138,Countries,Malta,Malta,República de Malta;Malta,Malte;la République de Malte,MT,MLT,
+139,Countries,Marshall Islands,Marshallinseln,República de las Islas Marshall;Islas Marshall,Iles Marshall,MH,MHL,
+140,Countries,Martinique,Martinique,Martinica,Martinique,MQ,MTQ,
+141,Countries,Mauritania,Mauretanien,República Islámica de Mauritania;Mauritania,la Mauritanie;la République islamique de Mauritani,MR,MRT,
+142,Countries,Mauritius,Mauritius,Mauricio,Maurice,MU,MUS,
+143,Countries,Mayotte,Mayotte,Mayotte,Mayotte,YT,MYT,
+144,Countries,Mexico,Mexiko,Estados Unidos Mexicanos;México,le Mexique;les États unis mexicains,MX,MEX,
+145,Countries,Moldova,Moldawien;Republik Moldau,Moldavia,la Moldavie; Moldavie,MD,MDA,
+146,Countries,Monaco,Monaco,Principado de Mónaco;Mónaco,Monaco;la principauté de Monaco,MC,MCO,
+147,Countries,Mongolia,Mongolei,Mongolia,Mongolie,MN,MNG,
+148,Countries,Montenegro,Montenegro,República de Montenegro;Montenegro,le Monténégro,ME,MNE,
+149,Countries,Montserrat,Montserrat,Montserrat,Montserrat,MS,MSR,
+150,Countries,Morocco,Marokko,Reino de Marruecos;Marruecos,Maroc,MA,MAR,
+151,Countries,Mozambique,Mosambik,República de Mozambique;Mozambique,le Mozambique;la République du Mozambique,MZ,MOZ,
+152,Countries,Myanmar,Myanmar,Myanmar; Birmania,Myanmar; Birmanie,MM,MMR,Burma
+153,Countries,Namibia,Namibia,República de Namibia;Namibia,la Namibie;la République de Namibie,NA,NAM,
+154,Countries,Nauru,Nauru,República de Nauru;Nauru,Nauru;la République de Nauru,NR,NRU,
+155,Countries,Nepal,Nepal,República Federal Democrática de Nepal;Nepal,le Népal,NP,NPL,
+156,Countries,Netherlands,Niederlande,Reino de los Países Bajos;Países Bajos,Pays-Bas,NL,NLD,
+157,Countries,New Caledonia,Neu-Kaledonien,Nueva Caledonia,Nouvelle Calédonie,NC,NCL,
+158,Countries,New Zealand,Neuseeland,Nueva Zelanda,la Nouvelle-Zéland,NZ,NZL,
+159,Countries,Nicaragua,Republik Nicaragua;Nicaragua;Nikaragua,República de Nicaragua;Nicaragua,le Nicaragua;la République du Nicaragua; Nicaragua,NI,NIC,
+160,Countries,Niger,Niger,República del Níger;Níger,le Niger;la République du Niger,NE,NER,
+161,Countries,Nigeria,Nigeria,República Federal de Nigeria;Nigeria,le Nigéria,NG,NGA,
+162,Countries,Niue,Niue,Niue,Niue,NU,NIU,
+163,Countries,Norfolk Island,Norfolkinsel,Isla Norfolk,Île de Norfolk,NF,NFK,
+164,Countries,North Korea,Nordkorea;Nord Korea;Demokratische Volksrepublik Korea,República Popular Democrática de Corea;Corea del Norte,la Corée du Nord; République populaire démocratique de Corée,KP,PRK,Democratic People's Republic of Korea
+165,Countries,Northern Mariana Islands,Nördliche Marianen,Islas Marianas del Norte,Îles Mariannes du Nord,MP,MNP,
+166,Countries,Norway,Norwegen,Reino de Noruega;Noruega,la Norvège;le Royaume de Norvège,NO,NOR,
+167,Countries,Oman,Oman,Sultanato de Omán;Omán,Oman;l'Oman,OM,OMN,
+168,Countries,Pakistan,Pakistan,República Islámica de Pakistán;Pakistán,le Pakistan,PK,PAK,
+169,Countries,Palau,Palau,Palaos,Palau,PW,PLW,
+170,Countries,Palestine,Palästina,Estado de Palestina;Palestina,Palestine,PS,PSE,
+171,Countries,Panama,Panama,República de Panamá;Panamá,Panama,PA,PAN,
+172,Countries,Papua New Guinea,Papua-Neuguinea,Estado Independiente de Papúa Nueva Guinea;Papúa Nueva Guinea,la Papouasie-Nouvelle-Guinée;la Papouasie - Nouvelle-Guinée,PG,PNG,
+173,Countries,Paraguay,Paraguay,República del Paraguay;Paraguay,le Paraguay;la République du Paraguay,PY,PRY,
+174,Countries,Peru,Peru,República del Perú;Perú,le Pérou;la République du Pérou,PE,PER,
+175,Countries,Philippines,Philippinen,República de Filipinas;Filipinas,Philippines,PH,PHL,
+176,Countries,Pitcairn,Pitcairn,Pitcairn,Pitcairn,PN,PCN,
+177,Countries,Poland,Polen,República de Polonia;Polonia,la Pologne;la République de Pologne,PL,POL,
+178,Countries,Portugal,Portugal,República Portuguesa;Portugal,le Portugal;la République portugais,PT,PRT,
+179,Countries,Puerto Rico,Puerto Rico,Puerto Rico,Porto Rico,PR,PRI,
+180,Countries,Qatar,Katar,Katar,le Qatar,QA,QAT,
+181,Countries,Romania,Rumänien,Rumania,Roumanie,RO,ROU,
+182,Countries,Russian Federation,Russische Föderation,Federación Rusa,Fédération Russe,RU,RUS,
+183,Countries,Rwanda,Ruanda,República de Ruanda;Ruanda,le Rwanda;la République rwandaise,RW,RWA,
+184,Countries,Réunion,La Réunion; Réunion,Reunión,Réunion,RE,REU,
+185,Countries,Saba,Saba,Saba,Saba,BQ,,
+186,Countries,Saint Barthélemy,Saint Barthélemy,San Bartolomé,Saint Barthélemy,BL,BLM,
+187,Countries,"Saint Helena, Ascension and Tristan da Cunha","St. Helena, Ascension und Tristan da Cunha","Santa Helena, Ascensión y Tristán da Cunha","Sainte-Hélène, Ascension et Tristan da Cunha",SH,SHN,
+188,Countries,Saint Kitts and Nevis,St. Kitts und Nevis,Federación de San Cristóbal y Nieves;San Cristóbal y Nieves,Saint-Christophe-et-Niévès,KN,KNA,
+189,Countries,Saint Lucia,Saint Lucia,Santa Lucía,Saint Lucia,LC,LCA,
+190,Countries,Saint Martin,Saint Martin,San Martín,Saint Martin,MF,MAF,
+191,Countries,Saint Pierre and Miquelon,Saint Pierre und Miquelon,San Pedro y Miquelón,Saint Pierre et Miquelon,PM,SPM,
+192,Countries,Saint Vincent and the Grenadines,St. Vincent und die Grenadinen,San Vicente y las Granadinas,Saint-Vincent-et-les Grenadines,VC,VCT,
+193,Countries,Samoa,Samoa,Estado Independiente de Samoa;Samoa,les Samoa,WS,WSM,
+194,Countries,San Marino,San Marino,Serenísima República de San Marino;San Marino,Saint Marin,SM,SMR,
+195,Countries,Sao Tome and Principe,São Tomé und Príncipe,República Democrática de Santo Tomé y Príncipe;Santo Tomé y Príncipe,Sao Tomé-et-Principe,ST,STP,
+196,Countries,Saudi Arabia,Saudi-Arabien,Arabia Saudita,l'Arabie saoudite;le Royaume d'Arabie saoudite,SA,SAU,
+197,Countries,Senegal,Senegal,República de Senegal;Senegal,Sénégal,SN,SEN,
+198,Countries,Serbia,Serbien,República de Serbia;Serbia,la Serbie;la République de Serbie,RS,SRB,
+199,Countries,Seychelles,Seychellen,República de las Seychelles;Seychelles,les Seychelles;la République des Seychelles,SC,SYC,
+200,Countries,Sierra Leone,Sierra Leone,República de Sierra Leona;Sierra Leona,la Sierra Leone;la République de Sierra Leone,SL,SLE,
+201,Countries,Singapore,Singapur,República de Singapur;Singapur,Singapour;la République de Singapour,SG,SGP,
+202,Countries,Sint Eustatius,Sint Eustatius,San Eustaquio,Saint-Eustache,BQ,,Statia
+203,Countries,Sint Maarten,Sint Maarten,Sint Maarten,Saint-Martin; Pays de Saint-Martin,SX,,
+204,Countries,Slovakia,Slowakei,República de Eslovaquia;Eslovaquia,la Slovaquie;la République slovaque,SK,SVK,Slovakia Republic
+205,Countries,Slovenia,Slowenien,República de Eslovenia;Eslovenia,la Slovénie;la République de Slovénie,SI,SVN,Republic of Slovenia
+206,Countries,Solomon Islands,Salomonen,Islas Salomón,Les îles Salomon,SB,SLB,
+207,Countries,Somalia,Somalia,República Federal de Somalia;Somalia,la Somalie,SO,SOM,
+208,Countries,South Africa,Südafrika,República de Sudáfrica;Sudáfrica,l'Afrique du Sud;la République d'Afrique du Sud,ZA,ZAF,
+209,Countries,South Georgia and the South Sandwich Islands,Südgeorgien und die Südlichen Sandwichinseln,Georgia del sur y las islas Sandwich del sur,Géorgie du Sud et les îles Sandwich du Sud,GS,SGS,
+210,Countries,South Korea,Südkorea;Süd Korea; Republik Korea,República de Corea;Corea del Sur,la Corée du Sud; République de Corée,KR,KOR,Republic of Korea
+211,Countries,South Sudan,Der Südsudan; Republik Südsudan,Sudán del sur; República de Sudán del Sur,le Soudan du Sud; la République du Soudan du Sud,SS,SSD,Republic of South Sudan
+212,Countries,Spain,Spanien,Reino de España;España,l'Espagne;le Royaume d'Espagne,ES,ESP,
+213,Countries,Sri Lanka,Sri Lanka,República Democrática Socialista de Sri Lanka;Sri Lanka,Sri Lanka,LK,LKA,
+214,Countries,Sudan,Sudan,República del Sudán;Sudán,le Soudan;la République du Soudan,SD,SDN,
+215,Countries,Suriname,Suriname,República del Surinam;Surinam,le Suriname,SR,SUR,
+216,Countries,Svalbard,Svalbard,Svalbard,Svalbard,SJ,SJM,
+217,Countries,Swaziland,Swasiland,Reino de Suazilandia;Suazilandia,le Swaziland,SZ,SWZ,
+218,Countries,Sweden,Schweden,Reino de Suecia;Suecia,la Suède;le Royaume de Suède,SE,SWE,
+219,Countries,Switzerland,Schweiz,Confederación Helvética;Suiza,la Suisse;la Confédération suiss,CH,CHE,
+220,Countries,Syria,Arabische Republik Syrien; Syrien,Siria;República Árabe Siria,la Syrie;République arabe syrienne,SY,SYR,Syrian Arab Republic
+221,Countries,Taiwan,Taiwan; Republik China,Taiwán; República de China,Taïwan; République de Chine,TW,TWN,Republic of China
+222,Countries,Tajikistan,Tadschikistan,República de Tayikistán;Tayikistán,le Tadjikistan;la République du Tadjikistan,TJ,TJK,
+223,Countries,Tanzania,Tansania,República Unida de Tanzania;Tanzania,la Tanzanie,TZ,TZA,
+224,Countries,Thailand,Thailand,Reino de Tailandia;Tailandia,la Thaïlande;le Royaume de Thaïlande,TH,THA,
+225,Countries,Timor-Leste,Osttimor,Timor Oriental,Timor-Leste,TL,TLS,
+226,Countries,Togo,Togo,República Togolesa;Togo,le Togo;la République togolais,TG,TGO,
+227,Countries,Tokelau,Tokelau,Tokelau,Tokelau,TK,TKL,
+228,Countries,Tonga,Tonga; Königreich Tonga,Reino de Tonga;Tonga,les Tonga;le Royaume des Tong,TO,TON,
+229,Countries,Trinidad and Tobago,Trinidad und Tobago,República de Trinidad y Tobago;Trinidad y Tobago,la Trinité-et-Tobago,TT,TTO,
+230,Countries,Tunisia,Tunesien,República Tunecina;Túnez,la Tunisie;la République tunisienne,TN,TUN,
+231,Countries,Turkey,Türkei,República de Turquía;Turquía,la Turquie;la République de Turquie,TR,TUR,
+232,Countries,Turkmenistan,Turkmenistan,Turkmenistán,le Turkménistan,TM,TKM,
+233,Countries,Turks and Caicos Islands,Turks- und Caicosinseln,Islas Turcas y Caicos,îles Turques-et-Caïques,TC,TCA,TCI
+234,Countries,Tuvalu,Tuvalu,Tuvalu,les Tuvalu,TV,TUV,
+235,Countries,US Virgin Islands,US Jungferninseln,Islas Vírgenes de EE.UU,Îles Vierges américaines,VI,VIR,
+236,Countries,Uganda,Uganda,República de Uganda;Uganda,l'Ouganda;la République d'Ouganda,UG,UGA,
+237,Countries,Ukraine,Ukraine,Ucrania,Ukraine,UA,UKR,
+238,Countries,United Arab Emirates,Vereinigte Arabische Emirate,Emiratos Árabes Unidos,les Émirats arabes unis;la fédération des Émirats arabes unis,AE,ARE,UAE
+239,Countries,United Kingdom,Vereinigtes Königreich,Reino Unido de Gran Bretaña e Irlanda del Norte;Reino Unido,Royaume-Uni,GB,GBR,
+240,Countries,United States,Vereinigte Staaten,Los Estatados Unidos,les États-Unis,US,USA,USA; United States of America
+241,Countries,United States Minor Outlying Islands,Vereinigte Staaten Minor Outlying Islands; Kleinere Inselbesitzungen der Vereinigten Staaten,Islas menores alejadas de los Estados Unidos,Îles mineures éloignées des États-Unis,UM,UMI,
+242,Countries,Uruguay,Uruguay,República Oriental del Uruguay;Uruguay,Uruguay,UY,URY,
+243,Countries,Uzbekistan,Usbekistan,República de Uzbekistán;Uzbekistán,l'Ouzbékistan;la République d'Ouzbékistan,UZ,UZB,
+244,Countries,Vanuatu,Vanuatu,República de Vanuatu;Vanuatu,Vanuatu,VU,VUT,
+245,Countries,Vatican City,Vatikanstadt,Ciudad del Vaticano,Cité du Vatican,VA,VAT,
+246,Countries,Venezuela,Venezuela,República Bolivariana de Venezuela;Venezuela,Venezuela; République bolivarienne du Venezuela,VE,VEN,Bolivarian Republic of Venezuel
+247,Countries,Viet Nam,Vietnam; Sozialistische Republik Vietnam,Vietnam,Viêt-Nam,VN,VNM,Vietnam
+248,Countries,Wallis and Futuna,Wallis und Futuna,Wallis y Futuna,Wallis et Futuna,WF,WLF,
+249,Countries,Western Sahara,Westsahara,Sahara Occidental,Western Sahara,EH,ESH,
+250,Countries,Yemen,Jemen,República de Yemen;Yemen,le Yémen;la République du Yémen,YE,YEM,
+251,Countries,Zambia,Sambia,República de Zambia;Zambia,la Zambie;la République de Zambie,ZM,ZMB,
+252,Countries,Zimbabwe,Simbabwe,República de Zimbabue;Zimbabue,le Zimbabwe;la République du Zimbabwe,ZW,ZWE,
+253,Countries,Åland Islands,Ålandinseln,Islas Aland,Iles Aland,AX,ALA,
+254,US States,Alabama,Alabama,Alabama,L'Alabama,US-AL,,AL
+255,US States,Alaska,Alaska,Alaska,Alaska,US-AK,,AK
+256,US States,Arizona,Arizona,Arizona,Arizona,US-AZ,,AZ
+257,US States,Arkansas,Arkansas,Arkansas,Arkansas,US-AR,,AR
+258,US States,California,Kalifornien,California,Californie,US-CA,,CA
+259,US States,Colorado,Colorado,Colorado,Colorado,US-CO,,CO
+260,US States,Connecticut,Connecticut,Connecticut,Connecticut,US-CT,,CT
+261,US States,Delaware,Delaware,Delaware,Delaware,US-DE,,DE
+262,US States,District of Columbia,Bezirk von Kolumbien,Distrito de Columbia,District de Colombie,US-DC,,DC
+263,US States,Florida,Florida,Florida,Floride,US-FL,,FL
+264,US States,Georgia,Georgia,Georgia,Géorgie,US-GA,,GA
+265,US States,Hawaii,Hawaii,Hawai,Hawaii,US-HI,,HI
+266,US States,Idaho,Idaho,Idaho,Idaho,US-ID,,ID
+267,US States,Illinois,Illinois,Illinois,Illinois,US-IL,,IL
+268,US States,Indiana,Indiana,Indiana,Indiana,US-IN,,IN
+269,US States,Iowa,Iowa,Iowa,Iowa,US-IA,,IA
+270,US States,Kansas,Kansas,Kansas,Kansas,US-KS,,KS
+271,US States,Kentucky,Kentucky,Kentucky,Kentucky,US-KY,,KY
+272,US States,Louisiana,Louisiana,Luisiana,Louisiane,US-LA,,LA
+273,US States,Maine,Maine,Maine,Maine,US-ME,,ME
+274,US States,Maryland,Maryland,Maryland,Maryland,US-MD,,MD
+275,US States,Massachusetts,Massachusetts,Massachusetts,Massachusetts,US-MA,,MA
+276,US States,Michigan,Michigan,Michigan,Michigan,US-MI,,MI
+277,US States,Minnesota,Minnesota,Minnesota,Minnesota,US-MN,,MN
+278,US States,Mississippi,Mississippi,Misisipí,Mississippi,US-MS,,MS
+279,US States,Missouri,Missouri,Misuri,Missouri,US-MO,,MO
+280,US States,Montana,Montana,Montana,Montana,US-MT,,MT
+281,US States,Nebraska,Nebraska,Nebraska,Nebraska,US-NE,,NE
+282,US States,Nevada,Nevada,Nevada,Nevada,US-NV,,NV
+283,US States,New Hamsphire,New Hampshire,New Hampshire,New Hampshire,US-NH,,NH
+284,US States,New Jersey,New Jersey,New Jersey,New Jersey,US-NJ,,NJ
+285,US States,New Mexico,New-Mexiko,Nuevo Mexico,Nouveau Mexique,US-NM,,NM
+286,US States,New York,New York,Nueva York,New York,US-NY,,NY
+287,US States,North Carolina,North Carolina,Carolina del Norte,Caroline du Nord,US-NC,,NC
+288,US States,North Dakota,Norddakota,Dakota del Norte,Dakota du nord,US-ND,,ND
+289,US States,Ohio,Ohio,Ohio,Ohio,US-OH,,OH
+290,US States,Oklahoma,Oklahoma,Oklahoma,Oklahoma,US-OK,,OK
+291,US States,Oregon,Oregon,Oregón,Oregon,US-OR,,OR
+292,US States,Pennsylvania,Pennsylvania,Pensilvania,Pennsylvanie,US-PA,,PA
+293,US States,Rhode Island,Rhode Island,Rhode Island,Rhode Island,US-RI,,RI
+294,US States,South Carolina,South Carolina,Carolina del Sur,Caroline du Sud,US-SC,,SC
+295,US States,South Dakota,Süddakota,Dakota del Sur,Dakota du Sud,US-SD,,SD
+296,US States,Tennessee,Tennessee,Tennesse,Tennessee,US-TN,,TN
+297,US States,Texas,Texas,Texas,Texas,US-TX,,TX
+298,US States,Utah,Utah,Utah,Utah,US-UT,,UT
+299,US States,Vermont,Vermont,Vermont,Vermont,US-VT,,VT
+300,US States,Virginia,Virginia,Virginia,Virginie,US-VA,,VA
+301,US States,Washington,Washington,Washington,Washington,US-WA,,WA
+302,US States,West Virginia,West Virginia,Virginia del Oeste,West Virginia,US-WV,,WV
+303,US States,Wisconsin,Wisconsin,Wisconsin,Wisconsin,US-WI,,WI
+304,US States,Wyoming,Wyoming,Wyoming,Wyoming,US-WY,,WY
+305,Canadian Provinces,Alberta,Alberta,Alberta,Alberta,CA-AB,,AB
+306,Canadian Provinces,British Columbia,Britisch-Kolumbien,Columbia Británica,Colombie britannique; Colombie-Britannique,CA-BC,,BC
+307,Canadian Provinces,Manitoba,Manitoba,Manitoba,Manitoba,CA-MB,,MB
+308,Canadian Provinces,Newfoundland and Labrador,Neufundland und Labrador,Newfoundland y Labrador,Terre-Neuve-et-Labrador,CA-NL,,NL
+309,Canadian Provinces,Northwest Territories,Nordwestliche Territorien,Territorios del Noroeste,Territoires du nord-ouest,CA-NT,,NT
+310,Canadian Provinces,Nova Scotia,Neuschottland,nueva Escocia,Nouvelle-Écosse,CA-NS,,NS
+311,Canadian Provinces,Nunavut,Nunavut,Nunavut,Nunavut,CA-NU,,NU
+312,Canadian Provinces,Ontario,Ontario,Ontario,Ontario,CA-ON,,ON
+313,Canadian Provinces,Prince Edward Island,Prinz Edward Insel,Prince Edward Island,Île-du-Prince-Édouard,CA-PE,,PE
+314,Canadian Provinces,Quebec,Québec,Quebec,Quebec,CA-QC,,QC
+315,Canadian Provinces,Saskatchewan,Saskatchewan,Saskatchewan,Saskatchewan,CA-SK,,SK
+316,Canadian Provinces,Yukon,Yukon,Yukon,Yukon,CA-YT,,YT
+317,Canadian Provinces,New Brunswick,Nouveau-Brunswick,Nuevo Brunswick,Nouveau-Brunswick,CA-NB,,NB
+318,Australian States,New South Wales,New South Wales,Nueva Gales del Sur,Nouvelle Galles du Sud,AU-NSW,,NSW
+319,Australian States,Queensland,Queensland,Queensland,Queensland,AU-QLD,,QLD
+320,Australian States,South Australia,Süd Australien,Sur de Australia,Australie du Sud,AU-SA,,SA
+321,Australian States,Tasmania,Tasmanien,Tasmania,Tasmanie,AU-TAS,,TAS
+322,Australian States,Victoria,Victoria,Victoria,Victoria,AU-VIC,,VIC
+323,Australian States,Western Australia,West-Australien,Western Australia,Australie occidentale,AU-WA,,WA
+324,French States,Alsace,Elsass,Alsacia,Alsace,,,AA
+325,French States,Aquitaine,Aquitaine,Aquitania,Aquitaine,,,AQ
+326,French States,Auvergne,Auvergne,Auvernia,Auvergne,,,AU
+327,French States,Brittany,Bretagne,Bretaña,Bretagne,FR-BRE,,BT
+328,French States,Burgundy,Burgund,borgoña,Bourgogne,,,BG
+329,French States,Centre,Zentrum,Centrar,Centre,,,CN
+330,French States,Champagne-Ardenne,Champagne-Ardenne,Champaña-Ardenas,Champagne-Ardenne,,,CG
+331,French States,Corsica,Korsika,Córcega,la Corse,,,CE
+332,French States,Franche-Comte,Franche-Comte,Franco Condado,Franche-Comte,,,FC
+333,French States,Ile-de-France,Ile-de-France,Ile de France,Ile-de-France,FR-IDF,,IF
+334,French States,Languedoc-Roussillon,Languedoc-Roussillon,Languedoc-Roussillon,Languedoc-Roussillon,,,LU
+335,French States,Limousin,Limousin,Limousin,Limousin,,,LM
+336,French States,Lorraine,Lorraine,Lorena,Lorraine,,,LE
+337,French States,Lower Normandy,Basse Normandie,Baja Normandía,Basse Normandie,,,BN
+338,French States,Midi-Pyrenees,Midi-Pyrenees,Midi-Pyrénées,Midi-Pyrenees,,,MP
+339,French States,Nord-Pas-des-Calais,Nord-Pas-of-Calais,Nord-Pas-de-Calais,Nord-Pas-des-Calais,,,NP
+340,French States,Pays de la Loire,Loire,País del Loira,Pays de la Loire,FR-PDL,,PL
+341,French States,Picardy,Picardie,Picardy,Picardie,,,PI
+342,French States,Poitou-Charentes,Poitou-Charentes,Poitou-Charentes,Poitou-Charentes,,,PT
+343,French States,Provence-Alpes-Cote d'Azur,Provence-Alpes-Côte d'Azur,Provenza-Alpes-Costa Azul,Provence-Alpes-Cote d'Azur,FR-PAC,,PR
+344,French States,Rhone-Alpes,Rhone-Alpes,Rhone-Alpes,Rhone-Alpes,,,RA
+345,French States,Upper Normandy,Haute-Normandie,Alta Normandía,Haute-Normandie,,,HT
+346,German States,Baden-Wurttemberg,Baden-Wurttemberg; Baden-Württemberg,Baden-Wurttemberg,Bade-Wurtemberg,DE-BW,,BW; Baden-Württemberg
+347,German States,Bavaria,Bavaria; Bayern,Baviera,Bavière,DE-BY,,BY
+348,German States,Berlin,Berlin,Berlín,Berlin,DE-BE,,BE
+349,German States,Bremen,Bremen,Bremen,Brême,DE-HB,,HB
+350,German States,Hamburg,Hamburg,Hamburgo,Hambourg,DE-HH,,HH
+351,German States,Hesse,Hesse; Hessen,Hesse,Hesse,DE-HE,,HE
+352,German States,Lower Saxony,Niedersachsen,Baja sajonia,Basse-Saxe,DE-NI,,NI
+353,German States,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern; McPom,Mecklenburg-Vorpommern,Mecklembourg-Poméranie-Occidentale,DE-MV,,"MV; Mecklenburg-West Pomerania; Meck-Pomm"""
+354,German States,North Rhine-Westphalia,Nordrhein-Westfalen,Norte de Rhine-Westphalia,Rhénanie du Nord-Westphalie,DE-NW,,NW
+355,German States,Rhineland-Palatinate,Rheinland-Pfalz,Renania-Palatinado,Rhénanie-Palatinat,DE-RP,,RP
+356,German States,Saarland,Saarland,Sarre,Sarre,DE-SL,,SL
+357,German States,Saxony,Sachsen,Sajonia,Saxe,DE-SN,,SN
+358,German States,Saxony-Anhalt,Sachsen-anhalt,Sajonia-Anhalt,Saxe-Anhalt,DE-ST,,ST
+359,German States,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,DE-SH,,SH
+360,German States,Thuringia,Thüringen,Turingia,Thuringe,DE-TH,,TH
+361,German States,Brandenburg,Brandenburg,Brandeburgo; Brandemburgo,Brandebourg,DE-BB,,BB
