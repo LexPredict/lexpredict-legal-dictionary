@@ -59,7 +59,5 @@ The data in this repository is available under a Creative Commons Attribution Sh
 
 
 ## Releases
-Please note that ContraxSuite releases can be found under **non-master** branches.  Releases, including dates, are listed below:
-
 * 1.0.0: August 1, 2017 - Initial open source release
 * 1.0.1: September 1, 2017 - September release, including over 20 new knowledge sets
