@@ -1,18 +1,18 @@
 Term Locale,Term Category,Court ID,Level,Jurisdiction,Court Type,Court Name,Alias
-en-US,US Courts,1,Supreme Court,Federal,Supreme Court,United States Supreme Court,U.S.; Supreme Court; SCOTUS
-en-US,US Courts,2,Federal,Federal,Appellate Courts,First Circuit,1st Cir.
-en-US,US Courts,3,Federal,Federal,Appellate Courts,Second Circuit,2nd Cir.
-en-US,US Courts,4,Federal,Federal,Appellate Courts,Third Circuit,3rd Cir.
-en-US,US Courts,5,Federal,Federal,Appellate Courts,Fourth Circuit,4th Cir.
-en-US,US Courts,6,Federal,Federal,Appellate Courts,Fifth Circuit,5th Cir.
-en-US,US Courts,7,Federal,Federal,Appellate Courts,Sixth Circuit,6th Cir.
-en-US,US Courts,8,Federal,Federal,Appellate Courts,Seventh Circuit,7th Cir.
-en-US,US Courts,9,Federal,Federal,Appellate Courts,Eighth Circuit,8th Cir.
-en-US,US Courts,10,Federal,Federal,Appellate Courts,Ninth Circuit,9th Cir.
-en-US,US Courts,11,Federal,Federal,Appellate Courts,Tenth Circuit,10th Cir.
-en-US,US Courts,12,Federal,Federal,Appellate Courts,Eleventh Circuit,11th Cir.
-en-US,US Courts,13,Federal,Federal,Appellate Courts,D.C. Circuit,D.C. Cir.
-en-US,US Courts,14,Federal,Federal,Appellate Courts,Federal Circuit,Fed. Cir.
+en-US,US Courts,1,Supreme Court,Federal,Court of Last Resort,United States Supreme Court,U.S.; Supreme Court; SCOTUS
+en-US,US Courts,2,Federal,Federal,Appellate Court,First Circuit,1st Cir.
+en-US,US Courts,3,Federal,Federal,Appellate Court,Second Circuit,2nd Cir.
+en-US,US Courts,4,Federal,Federal,Appellate Court,Third Circuit,3rd Cir.
+en-US,US Courts,5,Federal,Federal,Appellate Court,Fourth Circuit,4th Cir.
+en-US,US Courts,6,Federal,Federal,Appellate Court,Fifth Circuit,5th Cir.
+en-US,US Courts,7,Federal,Federal,Appellate Court,Sixth Circuit,6th Cir.
+en-US,US Courts,8,Federal,Federal,Appellate Court,Seventh Circuit,7th Cir.
+en-US,US Courts,9,Federal,Federal,Appellate Court,Eighth Circuit,8th Cir.
+en-US,US Courts,10,Federal,Federal,Appellate Court,Ninth Circuit,9th Cir.
+en-US,US Courts,11,Federal,Federal,Appellate Court,Tenth Circuit,10th Cir.
+en-US,US Courts,12,Federal,Federal,Appellate Court,Eleventh Circuit,11th Cir.
+en-US,US Courts,13,Federal,Federal,Appellate Court,D.C. Circuit,D.C. Cir.
+en-US,US Courts,14,Federal,Federal,Appellate Court,Federal Circuit,Fed. Cir.
 en-US,US Courts,15,Federal,Alabama,Federal District Court,Middle District of Alabama,M.D. Ala.
 en-US,US Courts,16,Federal,Alabama,Federal District Court,Northern District of Alabama,N.D. Ala.
 en-US,US Courts,17,Federal,Alabama,Federal District Court,Southern District of Alabama,S.D. Ala.
@@ -205,16 +205,16 @@ en-US,US Courts,114,Federal,Federal,Federal Court,United States Merit Systems Pr
 en-US,US Courts,115,Federal,Federal,Federal Court,United States Alien Terrorist Removal Court,USATRC
 en-US,US Courts,116,Federal,Federal,Federal Court,International Trade Commission,ITC
 en-US,US Courts,117,Federal,Federal,Federal Court,United States Court of Appeals for the Federal Circuit,Federal Circuit; Fed. Cir.;C.A.F.C.; CAFC
-en-US,US Courts,118,Federal,Federal,Federal Court,United States Court of Appeals for the Armed Forces,CAAF; Armed Forces App
-en-US,US Courts,119,Federal,Federal,Federal Court,United States Army Court of Criminal Appeals,ACCA; Army Crim. App.
-en-US,US Courts,120,Federal,Federal,Federal Court,Navy-Marine Corps Court of Criminal Appeals,NMCCA; Navy-Marine Crim. App.
-en-US,US Courts,121,Federal,Federal,Federal Court,Air Force Court of Criminal Appeals,AFCCA; A.F. Crim. App.
-en-US,US Courts,122,Federal,Federal,Federal Court,Coast Guard Court of Criminal Appeals,Coast Guard Crim. App
-en-US,US Courts,123,Federal,Federal,Federal Court,United States Court of Appeals for Veterans Claims,Vet. App.
+en-US,US Courts,118,Federal,Federal,Military Court,United States Court of Appeals for the Armed Forces,CAAF; Armed Forces App
+en-US,US Courts,119,Federal,Federal,Military Court,United States Army Court of Criminal Appeals,ACCA; Army Crim. App.
+en-US,US Courts,120,Federal,Federal,Military Court,Navy-Marine Corps Court of Criminal Appeals,NMCCA; Navy-Marine Crim. App.
+en-US,US Courts,121,Federal,Federal,Military Court,Air Force Court of Criminal Appeals,AFCCA; A.F. Crim. App.
+en-US,US Courts,122,Federal,Federal,Military Court,Coast Guard Court of Criminal Appeals,Coast Guard Crim. App
+en-US,US Courts,123,Federal,Federal,Military Court,United States Court of Appeals for Veterans Claims,Vet. App.
 en-US,US Courts,124,Federal,Federal,Federal Court,United States Foreign Intelligence Surveillance Court of Review,FISCR
-en-US,US Courts,125,Federal,Federal,Federal Court,United States Court of Military Commission Review,USCMCR
+en-US,US Courts,125,Federal,Federal,Military Court,United States Court of Military Commission Review,USCMCR
 en-US,US Courts,126,Federal,Federal,Federal Court,Civilian Board of Contract Appeals,CBCA
-en-US,US Courts,127,Federal,Federal,Federal Court,Armed Services Board of Contract Appeals,ASBCA
+en-US,US Courts,127,Federal,Federal,Military Court,Armed Services Board of Contract Appeals,ASBCA
 en-US,US Courts,128,Federal,Federal,Federal Court,Postal Service Board of Contract Appeals,PSBCA
 en-US,US Courts,129,Federal,Federal,Federal Court,Office of Dispute Resolution for Acquisition,ODRA
 en-US,US Courts,130,Federal,Federal,Federal Court,Board of Immigration Appeals,BIA
