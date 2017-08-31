@@ -1,603 +1,454 @@
-Term Locale,Term Type,Term,Alias,CaseSensitive
-en-US,Geopolitical - Agencies,AbilityOne Commission,,FALSE
-en-US,Geopolitical - Agencies,Access Board,,FALSE
-en-US,Geopolitical - Agencies,Administration for Children and Families,ACF,FALSE
-en-US,Geopolitical - Agencies,Administration for Community Living,,FALSE
-en-US,Geopolitical - Agencies,Administration for Native Americans,,FALSE
-en-US,Geopolitical - Agencies,Administration on Aging,,FALSE
-en-US,Geopolitical - Agencies,Administration on Intellectual and Developmental Disabilities,,FALSE
-en-US,Geopolitical - Agencies,Administrative Conference of the United States,,FALSE
-en-US,Geopolitical - Agencies,Administrative Office of the U.S. Courts,,FALSE
-en-US,Geopolitical - Agencies,Advisory Council on Historic Preservation,,FALSE
-en-US,Geopolitical - Agencies,African Development Foundation,,FALSE
-en-US,Geopolitical - Agencies,Agency for Healthcare Research and Quality,AHRQ,FALSE
-en-US,Geopolitical - Agencies,Agency for International Development,USAID,FALSE
-en-US,Geopolitical - Agencies,Agency for Toxic Substances and Disease Registry,,FALSE
-en-US,Geopolitical - Agencies,Agricultural Marketing Service,AMS,FALSE
-en-US,Geopolitical - Agencies,Agricultural Research Service,,FALSE
-en-US,Geopolitical - Agencies,Agriculture Department,USDA,FALSE
-en-US,Geopolitical - Agencies,Air Force,,FALSE
-en-US,Geopolitical - Agencies,Air Force Reserve,,FALSE
-en-US,Geopolitical - Agencies,Alcohol and Tobacco Tax and Trade Bureau,,FALSE
-en-US,Geopolitical - Agencies,"Alcohol, Tobacco, Firearms and Explosives Bureau",ATF,FALSE
-en-US,Geopolitical - Agencies,Alhurra TV,,FALSE
-en-US,Geopolitical - Agencies,AmeriCorps,,FALSE
-en-US,Geopolitical - Agencies,American Battle Monuments Commission,,FALSE
-en-US,Geopolitical - Agencies,American Samoa,,FALSE
-en-US,Geopolitical - Agencies,Amtrak,AMTRAK,FALSE
-en-US,Geopolitical - Agencies,Animal and Plant Health Inspection Service,APHIS,FALSE
-en-US,Geopolitical - Agencies,Antitrust Division,,FALSE
-en-US,Geopolitical - Agencies,Architect of the Capitol,,FALSE
-en-US,Geopolitical - Agencies,"Archives, National Archives and Records Administration",NARA,FALSE
-en-US,Geopolitical - Agencies,Arctic Research Commission,,FALSE
-en-US,Geopolitical - Agencies,Armed Forces Retirement Home,,FALSE
-en-US,Geopolitical - Agencies,Arms Control and International Security,,FALSE
-en-US,Geopolitical - Agencies,Army,,FALSE
-en-US,Geopolitical - Agencies,Army Corps of Engineers,,FALSE
-en-US,Geopolitical - Agencies,"National Institute of Arthritis, Musculoskeletal and Skin Diseases",,FALSE
-en-US,Geopolitical - Agencies,Bankruptcy Courts,,FALSE
-en-US,Geopolitical - Agencies,Barry M. Goldwater Scholarship and Excellence in Education Program,,FALSE
-en-US,Geopolitical - Agencies,Bonneville Power Administration,,FALSE
-en-US,Geopolitical - Agencies,Botanic Garden,,FALSE
-en-US,Geopolitical - Agencies,Broadcasting Board of Governors,,FALSE
-en-US,Geopolitical - Agencies,Bureau of Alcohol and Tobacco Tax and Trade,,FALSE
-en-US,Geopolitical - Agencies,"Bureau of Alcohol, Tobacco, Firearms and Explosives",ATF,FALSE
-en-US,Geopolitical - Agencies,Bureau of Consular Affairs,,FALSE
-en-US,Geopolitical - Agencies,Bureau of Consumer Financial Protection,,FALSE
-en-US,Geopolitical - Agencies,Bureau of Economic Analysis,BEA,FALSE
-en-US,Geopolitical - Agencies,Bureau of Engraving and Printing,BEP,FALSE
-en-US,Geopolitical - Agencies,Bureau of Indian Affairs,,FALSE
-en-US,Geopolitical - Agencies,Bureau of Industry and Security,BIS,FALSE
-en-US,Geopolitical - Agencies,Bureau of International Labor Affairs,,FALSE
-en-US,Geopolitical - Agencies,Bureau of Justice Statistics,,FALSE
-en-US,Geopolitical - Agencies,Bureau of Labor Statistics,,FALSE
-en-US,Geopolitical - Agencies,Bureau of Land Management,BLM,FALSE
-en-US,Geopolitical - Agencies,Bureau of Ocean Energy Management,,FALSE
-en-US,Geopolitical - Agencies,Bureau of Prisons,BOP,FALSE
-en-US,Geopolitical - Agencies,Bureau of Reclamation,,FALSE
-en-US,Geopolitical - Agencies,Bureau of Safety and Environmental Enforcement,,FALSE
-en-US,Geopolitical - Agencies,Bureau of Transportation Statistics,,FALSE
-en-US,Geopolitical - Agencies,Bureau of the Census,,FALSE
-en-US,Geopolitical - Agencies,Bureau of the Fiscal Service,,FALSE
-en-US,Geopolitical - Agencies,Capitol Police,,FALSE
-en-US,Geopolitical - Agencies,Capitol Visitor Center,,FALSE
-en-US,Geopolitical - Agencies,"Office of Career, Technical, and Adult Education",,FALSE
-en-US,Geopolitical - Agencies,Census Bureau,,FALSE
-en-US,Geopolitical - Agencies,Center for Food Safety and Applied Nutrition,,FALSE
-en-US,Geopolitical - Agencies,Center for Nutrition Policy and Promotion,CNPP,FALSE
-en-US,Geopolitical - Agencies,Centers for Disease Control and Prevention,CDC,FALSE
-en-US,Geopolitical - Agencies,Centers for Medicare and Medicaid Services,CMS,FALSE
-en-US,Geopolitical - Agencies,Central Command,CENTCOM,FALSE
-en-US,Geopolitical - Agencies,Central Intelligence Agency,CIA,FALSE
-en-US,Geopolitical - Agencies,Chemical Safety Board,,FALSE
-en-US,Geopolitical - Agencies,Chief Acquisition Officers Council,,FALSE
-en-US,Geopolitical - Agencies,Chief Financial Officers Council,,FALSE
-en-US,Geopolitical - Agencies,Chief Human Capital Officers Council,,FALSE
-en-US,Geopolitical - Agencies,Chief Information Officers Council,,FALSE
-en-US,Geopolitical - Agencies,Office of Child Support Enforcement,OCSE,FALSE
-en-US,Geopolitical - Agencies,Citizens' Stamp Advisory Committee,,FALSE
-en-US,Geopolitical - Agencies,Citizenship and Immigration Services,USCIS,FALSE
-en-US,Geopolitical - Agencies,Department of Education Office of Civil Rights,,FALSE
-en-US,Geopolitical - Agencies,Department of Health and Human Services Office for Civil Rights,,FALSE
-en-US,Geopolitical - Agencies,Coast Guard,,FALSE
-en-US,Geopolitical - Agencies,Commerce Department,DOC,FALSE
-en-US,Geopolitical - Agencies,Commission of Fine Arts,,FALSE
-en-US,Geopolitical - Agencies,Commission on Civil Rights,,FALSE
-en-US,Geopolitical - Agencies,Commission on International Religious Freedom,,FALSE
-en-US,Geopolitical - Agencies,Commission on Presidential Scholars,,FALSE
-en-US,Geopolitical - Agencies,Commission on Security and Cooperation in Europe,Helsinki Commission,FALSE
-en-US,Geopolitical - Agencies,Committee for the Implementation of Textile Agreements,,FALSE
-en-US,Geopolitical - Agencies,Committee on Foreign Investment in the United States,,FALSE
-en-US,Geopolitical - Agencies,Commodity Futures Trading Commission,CFTC,FALSE
-en-US,Geopolitical - Agencies,Community Oriented Policing Services,COPS,FALSE
-en-US,Geopolitical - Agencies,Community Planning and Development,,FALSE
-en-US,Geopolitical - Agencies,Office of Compliance,,FALSE
-en-US,Geopolitical - Agencies,Office of Comptroller of the Currency,OCC,FALSE
-en-US,Geopolitical - Agencies,Computer Emergency Readiness Team,US CERT,FALSE
-en-US,Geopolitical - Agencies,U.S. House of Representatives,,FALSE
-en-US,Geopolitical - Agencies,U.S. Senate,,FALSE
-en-US,Geopolitical - Agencies,Congressional Budget Office,CBO,FALSE
-en-US,Geopolitical - Agencies,Congressional Research Service,,FALSE
-en-US,Geopolitical - Agencies,Connecticut,,FALSE
-en-US,Geopolitical - Agencies,Bureau of Consular Affairs,,FALSE
-en-US,Geopolitical - Agencies,Consumer Financial Protection Bureau,,FALSE
-en-US,Geopolitical - Agencies,Consumer Product Safety Commission,CPSC,FALSE
-en-US,Geopolitical - Agencies,Coordinating Council on Juvenile Justice and Delinquency Prevention,,FALSE
-en-US,Geopolitical - Agencies,Copyright Office,,FALSE
-en-US,Geopolitical - Agencies,Corporation for National and Community Service,,FALSE
-en-US,Geopolitical - Agencies,Corps of Engineers,,FALSE
-en-US,Geopolitical - Agencies,Council of Economic Advisers,,FALSE
-en-US,Geopolitical - Agencies,Council of the Inspectors General on Integrity and Efficiency,,FALSE
-en-US,Geopolitical - Agencies,Council on Environmental Quality,,FALSE
-en-US,Geopolitical - Agencies,Court Services and Offender Supervision Agency for the District of Columbia,,FALSE
-en-US,Geopolitical - Agencies,Court of Appeals for Veterans Claims,,FALSE
-en-US,Geopolitical - Agencies,Court of Appeals for the Armed Forces,,FALSE
-en-US,Geopolitical - Agencies,Court of Appeals for the Federal Circuit,,FALSE
-en-US,Geopolitical - Agencies,Court of Federal Claims,,FALSE
-en-US,Geopolitical - Agencies,Court of International Trade,,FALSE
-en-US,Geopolitical - Agencies,Customs and Border Protection,,FALSE
-en-US,Geopolitical - Agencies,Defense Acquisition University,,FALSE
-en-US,Geopolitical - Agencies,Defense Advanced Research Projects Agency,DARPA,FALSE
-en-US,Geopolitical - Agencies,Defense Commissary Agency,,FALSE
-en-US,Geopolitical - Agencies,Defense Contract Audit Agency,,FALSE
-en-US,Geopolitical - Agencies,Defense Contract Management Agency,,FALSE
-en-US,Geopolitical - Agencies,Defense Department,DOD,FALSE
-en-US,Geopolitical - Agencies,Defense Finance and Accounting Service,DFAS,FALSE
-en-US,Geopolitical - Agencies,Defense Finance and Accounting Service Out-of-Service Debt Mgmt. Center,,FALSE
-en-US,Geopolitical - Agencies,Defense Health Agency,,FALSE
-en-US,Geopolitical - Agencies,Defense Information Systems Agency,DISA,FALSE
-en-US,Geopolitical - Agencies,Defense Intelligence Agency,DIA,FALSE
-en-US,Geopolitical - Agencies,Defense Logistics Agency,DLA,FALSE
-en-US,Geopolitical - Agencies,Defense Nuclear Facilities Safety Board,,FALSE
-en-US,Geopolitical - Agencies,Defense Security Cooperation Agency,DSCA,FALSE
-en-US,Geopolitical - Agencies,Defense Security Service,,FALSE
-en-US,Geopolitical - Agencies,Defense Technical Information Center,DTIC,FALSE
-en-US,Geopolitical - Agencies,Defense Threat Reduction Agency,DTRA,FALSE
-en-US,Geopolitical - Agencies,Delaware River Basin Commission,,FALSE
-en-US,Geopolitical - Agencies,Denali Commission,,FALSE
-en-US,Geopolitical - Agencies,Department of Agriculture,USDA,FALSE
-en-US,Geopolitical - Agencies,Department of Commerce,DOC,FALSE
-en-US,Geopolitical - Agencies,Department of Defense,DOD,FALSE
-en-US,Geopolitical - Agencies,Department of Education,ED,FALSE
-en-US,Geopolitical - Agencies,Department of Energy,DOE,FALSE
-en-US,Geopolitical - Agencies,Department of Health and Human Services,HHS,FALSE
-en-US,Geopolitical - Agencies,Department of Homeland Security,DHS,FALSE
-en-US,Geopolitical - Agencies,Department of Justice,DOJ,FALSE
-en-US,Geopolitical - Agencies,Department of Labor,DOL,FALSE
-en-US,Geopolitical - Agencies,Department of State,DOS,FALSE
-en-US,Geopolitical - Agencies,Department of Transportation,DOT,FALSE
-en-US,Geopolitical - Agencies,Department of Veterans Affairs,VA,FALSE
-en-US,Geopolitical - Agencies,Department of the Interior,DOI,FALSE
-en-US,Geopolitical - Agencies,Department of the Treasury,,FALSE
-en-US,Geopolitical - Agencies,Office of Director of National Intelligence,,FALSE
-en-US,Geopolitical - Agencies,Office of Disability Employment Policy,ODEP,FALSE
-en-US,Geopolitical - Agencies,District of Columbia,,FALSE
-en-US,Geopolitical - Agencies,Domestic Policy Council,,FALSE
-en-US,Geopolitical - Agencies,Drug Enforcement Administration,DEA,FALSE
-en-US,Geopolitical - Agencies,Dwight D. Eisenhower School for National Security and Resource Strategy,,FALSE
-en-US,Geopolitical - Agencies,Economic Adjustment Office,,FALSE
-en-US,Geopolitical - Agencies,Bureau of Economic Analysis,BEA,FALSE
-en-US,Geopolitical - Agencies,Economic Development Administration,EDA,FALSE
-en-US,Geopolitical - Agencies,"Economic Growth, Energy, and the Environment",,FALSE
-en-US,Geopolitical - Agencies,Economic Research Service,,FALSE
-en-US,Geopolitical - Agencies,Economics and Statistics Administration,,FALSE
-en-US,Geopolitical - Agencies,Education Department,ED,FALSE
-en-US,Geopolitical - Agencies,Education Resources Information Center,ERIC,FALSE
-en-US,Geopolitical - Agencies,Elder Justice Initiative,,FALSE
-en-US,Geopolitical - Agencies,Election Assistance Commission,EAC,FALSE
-en-US,Geopolitical - Agencies,Office of Elementary and Secondary Education,,FALSE
-en-US,Geopolitical - Agencies,Employee Benefits Security Administration,EBSA,FALSE
-en-US,Geopolitical - Agencies,Employment and Training Administration,,FALSE
-en-US,Geopolitical - Agencies,Endangered Species Program,,FALSE
-en-US,Geopolitical - Agencies,Energy Department,DOE,FALSE
-en-US,Geopolitical - Agencies,Energy Information Administration,,FALSE
-en-US,Geopolitical - Agencies,English Language Acquisition Office,,FALSE
-en-US,Geopolitical - Agencies,Bureau of Engraving and Printing,BEP,FALSE
-en-US,Geopolitical - Agencies,Environmental Management,,FALSE
-en-US,Geopolitical - Agencies,Environmental Protection Agency,EPA,FALSE
-en-US,Geopolitical - Agencies,Equal Employment Opportunity Commission,EEOC,FALSE
-en-US,Geopolitical - Agencies,European Command,,FALSE
-en-US,Geopolitical - Agencies,Executive Office for Immigration Review,,FALSE
-en-US,Geopolitical - Agencies,Fair Housing and Equal Opportunity,,FALSE
-en-US,Geopolitical - Agencies,Fannie Mae,,FALSE
-en-US,Geopolitical - Agencies,Farm Credit Administration,,FALSE
-en-US,Geopolitical - Agencies,Farm Credit System Insurance Corporation,,FALSE
-en-US,Geopolitical - Agencies,Farm Service Agency,,FALSE
-en-US,Geopolitical - Agencies,FedStats,,FALSE
-en-US,Geopolitical - Agencies,Federal Accounting Standards Advisory Board,,FALSE
-en-US,Geopolitical - Agencies,Federal Aviation Administration,FAA,FALSE
-en-US,Geopolitical - Agencies,Federal Bureau of Investigation,FBI,FALSE
-en-US,Geopolitical - Agencies,Federal Bureau of Prisons,BOP,FALSE
-en-US,Geopolitical - Agencies,Federal Citizen Information Center,,FALSE
-en-US,Geopolitical - Agencies,Federal Communications Commission,FCC,FALSE
-en-US,Geopolitical - Agencies,Federal Consulting Group,,FALSE
-en-US,Geopolitical - Agencies,Federal Deposit Insurance Corporation,FDIC,FALSE
-en-US,Geopolitical - Agencies,Federal Election Commission,,FALSE
-en-US,Geopolitical - Agencies,Federal Emergency Management Agency,FEMA,FALSE
-en-US,Geopolitical - Agencies,Federal Energy Regulatory Commission,,FALSE
-en-US,Geopolitical - Agencies,Federal Executive Boards,,FALSE
-en-US,Geopolitical - Agencies,Federal Financial Institutions Examination Council,,FALSE
-en-US,Geopolitical - Agencies,Federal Financing Bank,,FALSE
-en-US,Geopolitical - Agencies,Federal Geographic Data Committee,,FALSE
-en-US,Geopolitical - Agencies,Federal Highway Administration,FHA,FALSE
-en-US,Geopolitical - Agencies,Federal Home Loan Mortgage Corporation,Freddie Mac,FALSE
-en-US,Geopolitical - Agencies,Federal Housing Administration,FHA,FALSE
-en-US,Geopolitical - Agencies,Federal Housing Finance Agency,,FALSE
-en-US,Geopolitical - Agencies,Federal Interagency Committee on Education,,FALSE
-en-US,Geopolitical - Agencies,Federal Interagency Council on Statistical Policy,,FALSE
-en-US,Geopolitical - Agencies,Federal Judicial Center,,FALSE
-en-US,Geopolitical - Agencies,Federal Labor Relations Authority,FLRA,FALSE
-en-US,Geopolitical - Agencies,Federal Laboratory Consortium for Technology Transfer,,FALSE
-en-US,Geopolitical - Agencies,Federal Law Enforcement Training Center,FLETC,FALSE
-en-US,Geopolitical - Agencies,Federal Library and Information Center Committee,,FALSE
-en-US,Geopolitical - Agencies,Federal Maritime Commission,,FALSE
-en-US,Geopolitical - Agencies,Federal Mediation and Conciliation Service,,FALSE
-en-US,Geopolitical - Agencies,Federal Mine Safety and Health Review Commission,,FALSE
-en-US,Geopolitical - Agencies,Federal Motor Carrier Safety Administration,FMCSA,FALSE
-en-US,Geopolitical - Agencies,Federal National Mortgage Association,Fannie Mae,FALSE
-en-US,Geopolitical - Agencies,Federal Protective Service,,FALSE
-en-US,Geopolitical - Agencies,Federal Railroad Administration,FRA,FALSE
-en-US,Geopolitical - Agencies,Federal Register,,FALSE
-en-US,Geopolitical - Agencies,Federal Reserve System,,FALSE
-en-US,Geopolitical - Agencies,Federal Retirement Thrift Investment Board,,FALSE
-en-US,Geopolitical - Agencies,Federal Student Aid Information Center,,FALSE
-en-US,Geopolitical - Agencies,Federal Trade Commission,FTC,FALSE
-en-US,Geopolitical - Agencies,Federal Transit Administration,FTA,FALSE
-en-US,Geopolitical - Agencies,Federal Voting Assistance Program,,FALSE
-en-US,Geopolitical - Agencies,Bureau of the  Fiscal Service,,FALSE
-en-US,Geopolitical - Agencies,Fish and Wildlife Service,FWS,FALSE
-en-US,Geopolitical - Agencies,Fleet Forces Command,,FALSE
-en-US,Geopolitical - Agencies,Food Safety and Inspection Service,,FALSE
-en-US,Geopolitical - Agencies,National Institute of Food and Agriculture,,FALSE
-en-US,Geopolitical - Agencies,Food and Drug Administration,FDA,FALSE
-en-US,Geopolitical - Agencies,Food and Nutrition Service,,FALSE
-en-US,Geopolitical - Agencies,Foreign Agricultural Service,,FALSE
-en-US,Geopolitical - Agencies,Foreign Claims Settlement Commission,,FALSE
-en-US,Geopolitical - Agencies,Forest Service,,FALSE
-en-US,Geopolitical - Agencies,Fossil Energy,,FALSE
-en-US,Geopolitical - Agencies,Freddie Mac,,FALSE
-en-US,Geopolitical - Agencies,Fulbright Foreign Scholarship Board,,FALSE
-en-US,Geopolitical - Agencies,General Services Administration,GSA,FALSE
-en-US,Geopolitical - Agencies,Geological Survey,USGS,FALSE
-en-US,Geopolitical - Agencies,Ginnie Mae,,FALSE
-en-US,Geopolitical - Agencies,Government Accountability Office,GAO,FALSE
-en-US,Geopolitical - Agencies,Office of Government Ethics,OGE,FALSE
-en-US,Geopolitical - Agencies,Government National Mortgage Association,Ginnie Mae,FALSE
-en-US,Geopolitical - Agencies,Government Publishing Office,GPO,FALSE
-en-US,Geopolitical - Agencies,"Grain Inspection, Packers and Stockyards Administration",,FALSE
-en-US,Geopolitical - Agencies,Harry S. Truman Scholarship Foundation,,FALSE
-en-US,Geopolitical - Agencies,Health Resources and Services Administration,,FALSE
-en-US,Geopolitical - Agencies,Health and Human Services Department,HHS,FALSE
-en-US,Geopolitical - Agencies,Helsinki Commission,,FALSE
-en-US,Geopolitical - Agencies,Holocaust Memorial Museum,,FALSE
-en-US,Geopolitical - Agencies,Homeland Security Department,DHS,FALSE
-en-US,Geopolitical - Agencies,House Office of Inspector General,,FALSE
-en-US,Geopolitical - Agencies,House Office of the Clerk,,FALSE
-en-US,Geopolitical - Agencies,House of Representatives,,FALSE
-en-US,Geopolitical - Agencies,Housing Office,,FALSE
-en-US,Geopolitical - Agencies,Immigration and Citizenship Services,USCIS,FALSE
-en-US,Geopolitical - Agencies,Immigration and Customs Enforcement,ICE,FALSE
-en-US,Geopolitical - Agencies,Indian Affairs,,FALSE
-en-US,Geopolitical - Agencies,Indian Arts and Crafts Board,,FALSE
-en-US,Geopolitical - Agencies,Indian Health Service,,FALSE
-en-US,Geopolitical - Agencies,Industrial College of the Armed Forces,,FALSE
-en-US,Geopolitical - Agencies,Bureau of Industry and Security,BIS,FALSE
-en-US,Geopolitical - Agencies,Information Resource Management College,,FALSE
-en-US,Geopolitical - Agencies,Information Resources Center,ERIC,FALSE
-en-US,Geopolitical - Agencies,Innovation and Improvement Office,,FALSE
-en-US,Geopolitical - Agencies,Inspectors General,,FALSE
-en-US,Geopolitical - Agencies,Institute of Education Sciences,,FALSE
-en-US,Geopolitical - Agencies,Institute of Museum and Library Services,,FALSE
-en-US,Geopolitical - Agencies,Institute of Peace,,FALSE
-en-US,Geopolitical - Agencies,Inter-American Foundation,,FALSE
-en-US,Geopolitical - Agencies,Interagency Alternative Dispute Resolution Working Group,,FALSE
-en-US,Geopolitical - Agencies,Interagency Committee for the Management of Noxious and Exotic Weeds,,FALSE
-en-US,Geopolitical - Agencies,Interagency Council on Homelessness,,FALSE
-en-US,Geopolitical - Agencies,Interior Department,DOI,FALSE
-en-US,Geopolitical - Agencies,Internal Revenue Service,IRS,FALSE
-en-US,Geopolitical - Agencies,Bureau of International Labor Affairs,,FALSE
-en-US,Geopolitical - Agencies,International Trade Administration,ITA,FALSE
-en-US,Geopolitical - Agencies,International Trade Commission,,FALSE
-en-US,Geopolitical - Agencies,Interpol,,FALSE
-en-US,Geopolitical - Agencies,James Madison Memorial Fellowship Foundation,,FALSE
-en-US,Geopolitical - Agencies,Japan-United States Friendship Commission,,FALSE
-en-US,Geopolitical - Agencies,Job Corps,,FALSE
-en-US,Geopolitical - Agencies,John F. Kennedy Center for the Performing Arts,,FALSE
-en-US,Geopolitical - Agencies,Joint Board for the Enrollment of Actuaries,,FALSE
-en-US,Geopolitical - Agencies,Joint Chiefs of Staff,,FALSE
-en-US,Geopolitical - Agencies,Joint Congressional Committee on Inaugural Ceremonies,,FALSE
-en-US,Geopolitical - Agencies,Joint Fire Science Program,,FALSE
-en-US,Geopolitical - Agencies,Joint Forces Command,,FALSE
-en-US,Geopolitical - Agencies,Joint Forces Staff College,,FALSE
-en-US,Geopolitical - Agencies,Joint Military Intelligence College,,FALSE
-en-US,Geopolitical - Agencies,Joint Program Executive Office for Chemical and Biological Defense,,FALSE
-en-US,Geopolitical - Agencies,Judicial Circuit Courts of Appeal,,FALSE
-en-US,Geopolitical - Agencies,Judicial Panel on Multidistrict Litigation,,FALSE
-en-US,Geopolitical - Agencies,Justice Department,DOJ,FALSE
-en-US,Geopolitical - Agencies,Office of Justice Programs,,FALSE
-en-US,Geopolitical - Agencies,Bureau of Justice Statistics,,FALSE
-en-US,Geopolitical - Agencies,Office of Juvenile Justice and Delinquency Prevention,,FALSE
-en-US,Geopolitical - Agencies,Kennedy Center,,FALSE
-en-US,Geopolitical - Agencies,Labor Department,DOL,FALSE
-en-US,Geopolitical - Agencies,Bureau of Labor Statistics,,FALSE
-en-US,Geopolitical - Agencies,Bureau of Land Management,BLM,FALSE
-en-US,Geopolitical - Agencies,Legal Services Corporation,,FALSE
-en-US,Geopolitical - Agencies,Library of Congress,LOC,FALSE
-en-US,Geopolitical - Agencies,Office of Manufactured Housing Programs,,FALSE
-en-US,Geopolitical - Agencies,Marine Corps,,FALSE
-en-US,Geopolitical - Agencies,Marine Mammal Commission,,FALSE
-en-US,Geopolitical - Agencies,Maritime Administration,MARAD,FALSE
-en-US,Geopolitical - Agencies,Marketing and Regulatory Programs,,FALSE
-en-US,Geopolitical - Agencies,Marshals Service,,FALSE
-en-US,Geopolitical - Agencies,Mediation and Conciliation Service,,FALSE
-en-US,Geopolitical - Agencies,Medicaid,CMS,FALSE
-en-US,Geopolitical - Agencies,Medicaid and CHIP Payment and Access Commission,,FALSE
-en-US,Geopolitical - Agencies,Medicare,CMS,FALSE
-en-US,Geopolitical - Agencies,Medicare Payment Advisory Commission,,FALSE
-en-US,Geopolitical - Agencies,Merit Systems Protection Board,,FALSE
-en-US,Geopolitical - Agencies,Middle East Broadcasting Network,,FALSE
-en-US,Geopolitical - Agencies,Migratory Bird Conservation Commission,,FALSE
-en-US,Geopolitical - Agencies,Military Postal Service Agency,,FALSE
-en-US,Geopolitical - Agencies,Millennium Challenge Corporation,,FALSE
-en-US,Geopolitical - Agencies,Mine Safety and Health Administration,MSHA,FALSE
-en-US,Geopolitical - Agencies,Minority Business Development Agency,,FALSE
-en-US,Geopolitical - Agencies,Office of Minority Health,,FALSE
-en-US,Geopolitical - Agencies,Mint,,FALSE
-en-US,Geopolitical - Agencies,Missile Defense Agency,MDA,FALSE
-en-US,Geopolitical - Agencies,Mississippi River Commission,,FALSE
-en-US,Geopolitical - Agencies,Morris K. Udall and Stewart L. Udall Foundation,,FALSE
-en-US,Geopolitical - Agencies,Multifamily Housing Office,,FALSE
-en-US,Geopolitical - Agencies,NOAA Fisheries,,FALSE
-en-US,Geopolitical - Agencies,National AIDS Policy Office,,FALSE
-en-US,Geopolitical - Agencies,National Aeronautics and Space Administration,NASA,FALSE
-en-US,Geopolitical - Agencies,National Agricultural Statistics Service,,FALSE
-en-US,Geopolitical - Agencies,National Archives and Records Administration,NARA,FALSE
-en-US,Geopolitical - Agencies,National Cancer Institute,NCI,FALSE
-en-US,Geopolitical - Agencies,National Capital Planning Commission,,FALSE
-en-US,Geopolitical - Agencies,National Cemetery Administration,,FALSE
-en-US,Geopolitical - Agencies,National Constitution Center,,FALSE
-en-US,Geopolitical - Agencies,National Council on Disability,,FALSE
-en-US,Geopolitical - Agencies,National Credit Union Administration,NCUA,FALSE
-en-US,Geopolitical - Agencies,National Defense University,,FALSE
-en-US,Geopolitical - Agencies,National Defense University iCollege,,FALSE
-en-US,Geopolitical - Agencies,National Economic Council,,FALSE
-en-US,Geopolitical - Agencies,National Endowment for the Arts,NEA,FALSE
-en-US,Geopolitical - Agencies,National Endowment for the Humanities,,FALSE
-en-US,Geopolitical - Agencies,National Flood Insurance Program,NFIP,FALSE
-en-US,Geopolitical - Agencies,National Gallery of Art,,FALSE
-en-US,Geopolitical - Agencies,National Geospatial-Intelligence Agency,,FALSE
-en-US,Geopolitical - Agencies,National Guard,,FALSE
-en-US,Geopolitical - Agencies,National Health Information Center,NHIC,FALSE
-en-US,Geopolitical - Agencies,"National Heart, Lung, and Blood Institute",NHLBI,FALSE
-en-US,Geopolitical - Agencies,National Highway Traffic Safety Administration,NHTSA,FALSE
-en-US,Geopolitical - Agencies,National Indian Gaming Commission,,FALSE
-en-US,Geopolitical - Agencies,"National Institute of Arthritis, Musculoskeletal and Skin Diseases",,FALSE
-en-US,Geopolitical - Agencies,National Institute of Corrections,,FALSE
-en-US,Geopolitical - Agencies,National Institute of Food and Agriculture,,FALSE
-en-US,Geopolitical - Agencies,National Institute of Justice,,FALSE
-en-US,Geopolitical - Agencies,National Institute of Mental Health,NIMH,FALSE
-en-US,Geopolitical - Agencies,National Institute of Occupational Safety and Health,NIOSH,FALSE
-en-US,Geopolitical - Agencies,National Institute of Standards and Technology,NIST,FALSE
-en-US,Geopolitical - Agencies,National Institutes of Health,NIH,FALSE
-en-US,Geopolitical - Agencies,National Intelligence University,,FALSE
-en-US,Geopolitical - Agencies,National Interagency Fire Center,,FALSE
-en-US,Geopolitical - Agencies,National Labor Relations Board,NLRB,FALSE
-en-US,Geopolitical - Agencies,National Laboratories,,FALSE
-en-US,Geopolitical - Agencies,National Marine Fisheries Service,,FALSE
-en-US,Geopolitical - Agencies,National Mediation Board,,FALSE
-en-US,Geopolitical - Agencies,National Nuclear Security Administration,,FALSE
-en-US,Geopolitical - Agencies,National Ocean Service,,FALSE
-en-US,Geopolitical - Agencies,National Oceanic and Atmospheric Administration,NOAA,FALSE
-en-US,Geopolitical - Agencies,National Park Foundation,,FALSE
-en-US,Geopolitical - Agencies,National Park Service,NPS,FALSE
-en-US,Geopolitical - Agencies,National Passport Information Center,NPIC,FALSE
-en-US,Geopolitical - Agencies,National Pesticide Information Center,,FALSE
-en-US,Geopolitical - Agencies,National Railroad Passenger Corporation,AMTRAK,FALSE
-en-US,Geopolitical - Agencies,National Reconnaissance Office,,FALSE
-en-US,Geopolitical - Agencies,National Science Foundation,NSF,FALSE
-en-US,Geopolitical - Agencies,National Security Agency,NSA,FALSE
-en-US,Geopolitical - Agencies,National Security Council,,FALSE
-en-US,Geopolitical - Agencies,National Technical Information Service,,FALSE
-en-US,Geopolitical - Agencies,National Telecommunications and Information Administration,,FALSE
-en-US,Geopolitical - Agencies,National Transportation Safety Board,NTSB,FALSE
-en-US,Geopolitical - Agencies,National War College,,FALSE
-en-US,Geopolitical - Agencies,National Weather Service,,FALSE
-en-US,Geopolitical - Agencies,Natural Resources Conservation Service,,FALSE
-en-US,Geopolitical - Agencies,Office of Natural Resources Revenue,,FALSE
-en-US,Geopolitical - Agencies,Navy,,FALSE
-en-US,Geopolitical - Agencies,Northern Command,,FALSE
-en-US,Geopolitical - Agencies,Northwest Power Planning Council,,FALSE
-en-US,Geopolitical - Agencies,Northwest Power and Conservation Council,,FALSE
-en-US,Geopolitical - Agencies,Office of Nuclear Energy,,FALSE
-en-US,Geopolitical - Agencies,Nuclear Regulatory Commission,NRC,FALSE
-en-US,Geopolitical - Agencies,Nuclear Waste Technical Review Board,,FALSE
-en-US,Geopolitical - Agencies,Oak Ridge National Laboratory,,FALSE
-en-US,Geopolitical - Agencies,Occupational Safety and Health Administration,OSHA,FALSE
-en-US,Geopolitical - Agencies,Occupational Safety and Health Review Commission,,FALSE
-en-US,Geopolitical - Agencies,Bureau of Ocean Energy Management,,FALSE
-en-US,Geopolitical - Agencies,Department of Education Office for Civil Rights,,FALSE
-en-US,Geopolitical - Agencies,Department of Health and Human Services Office for Civil Rights,,FALSE
-en-US,Geopolitical - Agencies,"Office of Career, Technical, and Adult Education",,FALSE
-en-US,Geopolitical - Agencies,Office of Child Support Enforcement,OCSE,FALSE
-en-US,Geopolitical - Agencies,Office of Community Planning and Development,,FALSE
-en-US,Geopolitical - Agencies,Office of Compliance,,FALSE
-en-US,Geopolitical - Agencies,Office of Cuba Broadcasting,,FALSE
-en-US,Geopolitical - Agencies,Office of Disability Employment Policy,ODEP,FALSE
-en-US,Geopolitical - Agencies,Office of Elementary and Secondary Education,,FALSE
-en-US,Geopolitical - Agencies,Office of Environmental Management,,FALSE
-en-US,Geopolitical - Agencies,Office of Fair Housing and Equal Opportunity,,FALSE
-en-US,Geopolitical - Agencies,Office of Fossil Energy,,FALSE
-en-US,Geopolitical - Agencies,Office of Government Ethics,OGE,FALSE
-en-US,Geopolitical - Agencies,Office of Housing,,FALSE
-en-US,Geopolitical - Agencies,Office of Investor Education and Advocacy,,FALSE
-en-US,Geopolitical - Agencies,Office of Justice Programs,,FALSE
-en-US,Geopolitical - Agencies,Office of Juvenile Justice and Delinquency Prevention,,FALSE
-en-US,Geopolitical - Agencies,Office of Lead Hazard Control and Healthy Homes,,FALSE
-en-US,Geopolitical - Agencies,Office of Management and Budget,OMB,FALSE
-en-US,Geopolitical - Agencies,Office of Manufactured Housing Programs,,FALSE
-en-US,Geopolitical - Agencies,Office of Minority Health,,FALSE
-en-US,Geopolitical - Agencies,Office of National Drug Control Policy,ONDCP,FALSE
-en-US,Geopolitical - Agencies,Office of Natural Resources Revenue,,FALSE
-en-US,Geopolitical - Agencies,Office of Nuclear Energy,,FALSE
-en-US,Geopolitical - Agencies,Office of Personnel Management,OPM,FALSE
-en-US,Geopolitical - Agencies,Office of Policy Development and Research,,FALSE
-en-US,Geopolitical - Agencies,Office of Postsecondary Education,,FALSE
-en-US,Geopolitical - Agencies,Office of Refugee Resettlement,,FALSE
-en-US,Geopolitical - Agencies,Office of Science and Technology Policy,,FALSE
-en-US,Geopolitical - Agencies,Office of Scientific and Technical Information,,FALSE
-en-US,Geopolitical - Agencies,Office of Servicemember Affairs,,FALSE
-en-US,Geopolitical - Agencies,Office of Special Counsel,,FALSE
-en-US,Geopolitical - Agencies,Office of Special Education and Rehabilitative Services,OSERS,FALSE
-en-US,Geopolitical - Agencies,"Office of Surface Mining, Reclamation and Enforcement",,FALSE
-en-US,Geopolitical - Agencies,Office of the Comptroller of the Currency,OCC,FALSE
-en-US,Geopolitical - Agencies,Office of the Director of National Intelligence,,FALSE
-en-US,Geopolitical - Agencies,Office of the Federal Register,,FALSE
-en-US,Geopolitical - Agencies,Office of the Pardon Attorney,,FALSE
-en-US,Geopolitical - Agencies,Open World Leadership Center,,FALSE
-en-US,Geopolitical - Agencies,Out-of-Service Debt Management Center,,FALSE
-en-US,Geopolitical - Agencies,Overseas Private Investment Corporation,,FALSE
-en-US,Geopolitical - Agencies,Pacific Command,,FALSE
-en-US,Geopolitical - Agencies,Pacific Northwest Electric Power and Conservation Planning Council,,FALSE
-en-US,Geopolitical - Agencies,Office of Pardon Attorney,,FALSE
-en-US,Geopolitical - Agencies,Parole Commission,,FALSE
-en-US,Geopolitical - Agencies,Patent and Trademark Office,,FALSE
-en-US,Geopolitical - Agencies,Peace Corps,,FALSE
-en-US,Geopolitical - Agencies,Pension Benefit Guaranty Corporation,PBGC,FALSE
-en-US,Geopolitical - Agencies,Pentagon Force Protection Agency,,FALSE
-en-US,Geopolitical - Agencies,Pipeline and Hazardous Materials Safety Administration,,FALSE
-en-US,Geopolitical - Agencies,Policy Development and Research,,FALSE
-en-US,Geopolitical - Agencies,Political Affairs,,FALSE
-en-US,Geopolitical - Agencies,Postal Inspection Service,,FALSE
-en-US,Geopolitical - Agencies,Postal Regulatory Commission,,FALSE
-en-US,Geopolitical - Agencies,Postal Service,USPS,FALSE
-en-US,Geopolitical - Agencies,Office of Postsecondary Education,,FALSE
-en-US,Geopolitical - Agencies,Power Administrations,,FALSE
-en-US,Geopolitical - Agencies,"President's Council on Fitness, Sports and Nutrition",,FALSE
-en-US,Geopolitical - Agencies,Presidential Scholars Commission,,FALSE
-en-US,Geopolitical - Agencies,Presidio Trust,,FALSE
-en-US,Geopolitical - Agencies,Pretrial Services Agency for the District of Columbia,,FALSE
-en-US,Geopolitical - Agencies,Prisoner of War/Missing in Action Accounting Agency,,FALSE
-en-US,Geopolitical - Agencies,Privacy and Civil Liberties Oversight Board,PCLOB,FALSE
-en-US,Geopolitical - Agencies,Public Diplomacy and Public Affairs,,FALSE
-en-US,Geopolitical - Agencies,Public and Indian Housing,,FALSE
-en-US,Geopolitical - Agencies,Radio Free Asia,RFA,FALSE
-en-US,Geopolitical - Agencies,Radio Free Europe and Radio Liberty,RFE/RL,FALSE
-en-US,Geopolitical - Agencies,Radio Sawa,,FALSE
-en-US,Geopolitical - Agencies,Radio and TV Martí,,FALSE
-en-US,Geopolitical - Agencies,Railroad Retirement Board,RRB,FALSE
-en-US,Geopolitical - Agencies,Bureau of Reclamation,,FALSE
-en-US,Geopolitical - Agencies,Office of Refugee Resettlement,,FALSE
-en-US,Geopolitical - Agencies,Rehabilitation Services Administration,,FALSE
-en-US,Geopolitical - Agencies,Research and Innovative Technology Administration,,FALSE
-en-US,Geopolitical - Agencies,Risk Management Agency,,FALSE
-en-US,Geopolitical - Agencies,Rural Business and Cooperative Programs,,FALSE
-en-US,Geopolitical - Agencies,Rural Development,,FALSE
-en-US,Geopolitical - Agencies,Rural Housing Service,,FALSE
-en-US,Geopolitical - Agencies,Rural Utilities Service,,FALSE
-en-US,Geopolitical - Agencies,Bureau of Safety and Environmental Enforcement,,FALSE
-en-US,Geopolitical - Agencies,Saint Lawrence Seaway Development Corporation,,FALSE
-en-US,Geopolitical - Agencies,Science Office,,FALSE
-en-US,Geopolitical - Agencies,Office of Science and Technology Policy,,FALSE
-en-US,Geopolitical - Agencies,Office of Scientific and Technical Information,,FALSE
-en-US,Geopolitical - Agencies,Secret Service,,FALSE
-en-US,Geopolitical - Agencies,Securities and Exchange Commission,SEC,FALSE
-en-US,Geopolitical - Agencies,Selective Service System,SSS,FALSE
-en-US,Geopolitical - Agencies,Senate,,FALSE
-en-US,Geopolitical - Agencies,Sentencing Commission,,FALSE
-en-US,Geopolitical - Agencies,Office of Servicemember Affairs,,FALSE
-en-US,Geopolitical - Agencies,Small Business Administration,SBA,FALSE
-en-US,Geopolitical - Agencies,Smithsonian Institution,,FALSE
-en-US,Geopolitical - Agencies,Social Security Administration,SSA,FALSE
-en-US,Geopolitical - Agencies,Social Security Advisory Board,,FALSE
-en-US,Geopolitical - Agencies,Southeastern Power Administration,,FALSE
-en-US,Geopolitical - Agencies,Southern Command,,FALSE
-en-US,Geopolitical - Agencies,Southwestern Power Administration,,FALSE
-en-US,Geopolitical - Agencies,Office of Special Counsel,,FALSE
-en-US,Geopolitical - Agencies,Office of Special Education and Rehabilitative Services,OSERS,FALSE
-en-US,Geopolitical - Agencies,Special Forces Operations Command,,FALSE
-en-US,Geopolitical - Agencies,State Department,DOS,FALSE
-en-US,Geopolitical - Agencies,State Justice Institute,,FALSE
-en-US,Geopolitical - Agencies,Stennis Center for Public Service,,FALSE
-en-US,Geopolitical - Agencies,Strategic Command,,FALSE
-en-US,Geopolitical - Agencies,Substance Abuse and Mental Health Services Administration,SAMHSA,FALSE
-en-US,Geopolitical - Agencies,Supreme Court of the United States,,FALSE
-en-US,Geopolitical - Agencies,"Office of Surface Mining, Reclamation and Enforcement",,FALSE
-en-US,Geopolitical - Agencies,Surface Transportation Board,,FALSE
-en-US,Geopolitical - Agencies,Susquehanna River Basin Commission,,FALSE
-en-US,Geopolitical - Agencies,Tax Court,,FALSE
-en-US,Geopolitical - Agencies,Taxpayer Advocacy Panel,,FALSE
-en-US,Geopolitical - Agencies,Tennessee Valley Authority,TVA,FALSE
-en-US,Geopolitical - Agencies,Trade Representative,,FALSE
-en-US,Geopolitical - Agencies,Trade and Development Agency,,FALSE
-en-US,Geopolitical - Agencies,Transportation Department,DOT,FALSE
-en-US,Geopolitical - Agencies,Transportation Security Administration,TSA,FALSE
-en-US,Geopolitical - Agencies,Bureau of  Transportation Statistics,,FALSE
-en-US,Geopolitical - Agencies,Treasury Department,,FALSE
-en-US,Geopolitical - Agencies,Trustee Program,,FALSE
-en-US,Geopolitical - Agencies,U.S. AbilityOne Commission,,FALSE
-en-US,Geopolitical - Agencies,U.S. Access Board,,FALSE
-en-US,Geopolitical - Agencies,U.S. Agency for International Development,USAID,FALSE
-en-US,Geopolitical - Agencies,U.S. Air Force,,FALSE
-en-US,Geopolitical - Agencies,U.S. Air Force Reserve Command,,FALSE
-en-US,Geopolitical - Agencies,U.S. Arctic Research Commission,,FALSE
-en-US,Geopolitical - Agencies,U.S. Army,,FALSE
-en-US,Geopolitical - Agencies,U.S. Army Corps of Engineers,,FALSE
-en-US,Geopolitical - Agencies,U.S. Botanic Garden,,FALSE
-en-US,Geopolitical - Agencies,U.S. Capitol Police,,FALSE
-en-US,Geopolitical - Agencies,U.S. Capitol Visitor Center,,FALSE
-en-US,Geopolitical - Agencies,U.S. Census Bureau,,FALSE
-en-US,Geopolitical - Agencies,U.S. Central Command,CENTCOM,FALSE
-en-US,Geopolitical - Agencies,U.S. Chemical Safety Board,,FALSE
-en-US,Geopolitical - Agencies,U.S. Circuit Courts of Appeal,,FALSE
-en-US,Geopolitical - Agencies,U.S. Citizenship and Immigration Services,USCIS,FALSE
-en-US,Geopolitical - Agencies,U.S. Coast Guard,,FALSE
-en-US,Geopolitical - Agencies,U.S. Commission of Fine Arts,,FALSE
-en-US,Geopolitical - Agencies,U.S. Commission on International Religious Freedom,,FALSE
-en-US,Geopolitical - Agencies,U.S. Commodity Futures Trading Commission,CFTC,FALSE
-en-US,Geopolitical - Agencies,U.S. Court of Appeals for Veterans Claims,,FALSE
-en-US,Geopolitical - Agencies,U.S. Customs and Border Protection,,FALSE
-en-US,Geopolitical - Agencies,U.S. Department of Agriculture,USDA,FALSE
-en-US,Geopolitical - Agencies,U.S. Department of Commerce,DOC,FALSE
-en-US,Geopolitical - Agencies,U.S. Department of Defense,DOD,FALSE
-en-US,Geopolitical - Agencies,U.S. Department of Education,ED,FALSE
-en-US,Geopolitical - Agencies,U.S. Department of Energy,DOE,FALSE
-en-US,Geopolitical - Agencies,U.S. Department of Health and Human Services,HHS,FALSE
-en-US,Geopolitical - Agencies,U.S. Department of Homeland Security,DHS,FALSE
-en-US,Geopolitical - Agencies,U.S. Department of Housing and Urban Development,HUD,FALSE
-en-US,Geopolitical - Agencies,U.S. Department of Justice,DOJ,FALSE
-en-US,Geopolitical - Agencies,U.S. Department of Labor,DOL,FALSE
-en-US,Geopolitical - Agencies,U.S. Department of State,DOS,FALSE
-en-US,Geopolitical - Agencies,U.S. Department of Transportation,DOT,FALSE
-en-US,Geopolitical - Agencies,U.S. Department of Veterans Affairs,VA,FALSE
-en-US,Geopolitical - Agencies,U.S. Department of the Interior,DOI,FALSE
-en-US,Geopolitical - Agencies,U.S. Department of the Treasury,,FALSE
-en-US,Geopolitical - Agencies,U.S. Election Assistance Commission,EAC,FALSE
-en-US,Geopolitical - Agencies,U.S. European Command,,FALSE
-en-US,Geopolitical - Agencies,U.S. Fleet Forces Command,,FALSE
-en-US,Geopolitical - Agencies,U.S. Geological Survey,USGS,FALSE
-en-US,Geopolitical - Agencies,U.S. House of Representatives,,FALSE
-en-US,Geopolitical - Agencies,U.S. Immigration and Customs Enforcement,ICE,FALSE
-en-US,Geopolitical - Agencies,U.S. International Trade Commission,,FALSE
-en-US,Geopolitical - Agencies,U.S. Marine Corps,,FALSE
-en-US,Geopolitical - Agencies,U.S. Marshals Service,,FALSE
-en-US,Geopolitical - Agencies,"U.S. Military Academy, West Point",,FALSE
-en-US,Geopolitical - Agencies,U.S. Mission to the United Nations,,FALSE
-en-US,Geopolitical - Agencies,U.S. National Central Bureau - Interpol,,FALSE
-en-US,Geopolitical - Agencies,U.S. Navy,,FALSE
-en-US,Geopolitical - Agencies,U.S. Northern Command,,FALSE
-en-US,Geopolitical - Agencies,U.S. Nuclear Regulatory Commission,NRC,FALSE
-en-US,Geopolitical - Agencies,U.S. Pacific Command,,FALSE
-en-US,Geopolitical - Agencies,U.S. Parole Commission,,FALSE
-en-US,Geopolitical - Agencies,U.S. Patent and Trademark Office,,FALSE
-en-US,Geopolitical - Agencies,U.S. Postal Inspection Service,,FALSE
-en-US,Geopolitical - Agencies,U.S. Postal Service,USPS,FALSE
-en-US,Geopolitical - Agencies,U.S. Senate,,FALSE
-en-US,Geopolitical - Agencies,U.S. Sentencing Commission,,FALSE
-en-US,Geopolitical - Agencies,U.S. Southern Command,,FALSE
-en-US,Geopolitical - Agencies,U.S. Special Operations Command,,FALSE
-en-US,Geopolitical - Agencies,U.S. Strategic Command,,FALSE
-en-US,Geopolitical - Agencies,U.S. Trade Representative,,FALSE
-en-US,Geopolitical - Agencies,U.S. Trade and Development Agency,,FALSE
-en-US,Geopolitical - Agencies,U.S. Transportation Command,,FALSE
-en-US,Geopolitical - Agencies,U.S. Trustee Program,,FALSE
-en-US,Geopolitical - Agencies,US-CERT,US CERT,FALSE
-en-US,Geopolitical - Agencies,USAGov,,FALSE
-en-US,Geopolitical - Agencies,Unified Combatant Commands,,FALSE
-en-US,Geopolitical - Agencies,Uniformed Services University of the Health Sciences,,FALSE
-en-US,Geopolitical - Agencies,United States Mint,,FALSE
-en-US,Geopolitical - Agencies,Veterans Affairs Department,VA,FALSE
-en-US,Geopolitical - Agencies,Veterans Benefits Administration,VBA,FALSE
-en-US,Geopolitical - Agencies,Veterans Day National Committee,,FALSE
-en-US,Geopolitical - Agencies,Veterans Health Administration,VHA,FALSE
-en-US,Geopolitical - Agencies,Veterans' Employment and Training Service,VETS,FALSE
-en-US,Geopolitical - Agencies,Vietnam Education Foundation,,FALSE
-en-US,Geopolitical - Agencies,Voice of America,VOA,FALSE
-en-US,Geopolitical - Agencies,Washington Headquarters Services,,FALSE
-en-US,Geopolitical - Agencies,Weather Service,,FALSE
-en-US,Geopolitical - Agencies,Weights and Measures Division,,FALSE
-en-US,Geopolitical - Agencies,West Point Military Academy,,FALSE
-en-US,Geopolitical - Agencies,Western Area Power Administration,,FALSE
-en-US,Geopolitical - Agencies,White House Office of Administration,,FALSE
-en-US,Geopolitical - Agencies,Wireless Telecommunications Bureau,,FALSE
-en-US,Geopolitical - Agencies,Women's Bureau,,FALSE
-en-US,Geopolitical - Agencies,Woodrow Wilson International Center for Scholars,,FALSE
+Term Locale,Term Category,Term,Alias,CaseSensitive
+en-US,US Agencies,AbilityOne Commission,U.S. AbilityOne Commission,FALSE
+en-US,US Agencies,Access Board,,FALSE
+en-US,US Agencies,Administration for Children and Families,ACF,FALSE
+en-US,US Agencies,Administration for Community Living,,FALSE
+en-US,US Agencies,Administration for Native Americans,,FALSE
+en-US,US Agencies,Administration on Aging,AoA,FALSE
+en-US,US Agencies,Administration on Intellectual and Developmental Disabilities,,FALSE
+en-US,US Agencies,Administrative Conference of the United States,,FALSE
+en-US,US Agencies,Administrative Office of the U.S. Courts,,FALSE
+en-US,US Agencies,Advisory Council on Historic Preservation,,FALSE
+en-US,US Agencies,African Development Foundation,,FALSE
+en-US,US Agencies,Agency for Healthcare Research and Quality,AHRQ,FALSE
+en-US,US Agencies,Agency for International Development,USAID,FALSE
+en-US,US Agencies,Agency for Toxic Substances and Disease Registry,,FALSE
+en-US,US Agencies,Agricultural Marketing Service,AMS,FALSE
+en-US,US Agencies,Agricultural Research Service,,FALSE
+en-US,US Agencies,Alhurra TV,,FALSE
+en-US,US Agencies,American Battle Monuments Commission,,FALSE
+en-US,US Agencies,American Samoa,,FALSE
+en-US,US Agencies,AmeriCorps,,FALSE
+en-US,US Agencies,Animal and Plant Health Inspection Service,APHIS,FALSE
+en-US,US Agencies,Antitrust Division,,FALSE
+en-US,US Agencies,Architect of the Capitol,,FALSE
+en-US,US Agencies,Arctic Research Commission,U.S. Arctic Research Commission,FALSE
+en-US,US Agencies,Armed Forces Retirement Home,,FALSE
+en-US,US Agencies,Arms Control and International Security,,FALSE
+en-US,US Agencies,Barry M. Goldwater Scholarship and Excellence in Education Program,,FALSE
+en-US,US Agencies,Bonneville Power Administration,,FALSE
+en-US,US Agencies,Broadcasting Board of Governors,,FALSE
+en-US,US Agencies,Bureau of Alcohol and Tobacco Tax and Trade,TTB; Alcohol and Tobacco Tax and Trade Bureau,FALSE
+en-US,US Agencies,"Bureau of Alcohol, Tobacco, Firearms and Explosives","ATF; Alcohol, Tobacco, Firearms and Explosives Bureau",FALSE
+en-US,US Agencies,Bureau of Consular Affairs,,FALSE
+en-US,US Agencies,Bureau of Consumer Financial Protection,Consumer Financial Protection Bureau,FALSE
+en-US,US Agencies,Bureau of Economic Analysis,BEA,FALSE
+en-US,US Agencies,Bureau of Engraving and Printing,BEP,FALSE
+en-US,US Agencies,Bureau of Indian Affairs,Indian Affairs,FALSE
+en-US,US Agencies,Bureau of Industry and Security,BIS,FALSE
+en-US,US Agencies,Bureau of International Labor Affairs,,FALSE
+en-US,US Agencies,Bureau of Justice Statistics,,FALSE
+en-US,US Agencies,Bureau of Labor Statistics,,FALSE
+en-US,US Agencies,Bureau of Land Management,BLM,FALSE
+en-US,US Agencies,Bureau of Ocean Energy Management,,FALSE
+en-US,US Agencies,Bureau of Prisons,BOP; Federal Bureau of Prisons,FALSE
+en-US,US Agencies,Bureau of Reclamation,,FALSE
+en-US,US Agencies,Bureau of Safety and Environmental Enforcement,,FALSE
+en-US,US Agencies,Bureau of the Fiscal Service,,FALSE
+en-US,US Agencies,Bureau of Transportation Statistics,,FALSE
+en-US,US Agencies,Center for Food Safety and Applied Nutrition,,FALSE
+en-US,US Agencies,Center for Nutrition Policy and Promotion,CNPP,FALSE
+en-US,US Agencies,Centers for Disease Control and Prevention,CDC,FALSE
+en-US,US Agencies,Centers for Medicare and Medicaid Services,CMS; Medicaid; Medicare,FALSE
+en-US,US Agencies,Central Intelligence Agency,CIA,FALSE
+en-US,US Agencies,Chemical Safety Board,U.S. Chemical Safety Board,FALSE
+en-US,US Agencies,Chief Acquisition Officers Council,,FALSE
+en-US,US Agencies,Chief Financial Officers Council,,FALSE
+en-US,US Agencies,Chief Human Capital Officers Council,,FALSE
+en-US,US Agencies,Chief Information Officers Council,,FALSE
+en-US,US Agencies,Citizens' Stamp Advisory Committee,,FALSE
+en-US,US Agencies,Citizenship and Immigration Services,USCIS; Immigration and Citizenship Services,FALSE
+en-US,US Agencies,Coast Guard,,FALSE
+en-US,US Agencies,Commission of Fine Arts,,FALSE
+en-US,US Agencies,Commission on Civil Rights,,FALSE
+en-US,US Agencies,Commission on International Religious Freedom,,FALSE
+en-US,US Agencies,Commission on Presidential Scholars,,FALSE
+en-US,US Agencies,Commission on Security and Cooperation in Europe,Helsinki Commission,FALSE
+en-US,US Agencies,Committee for the Implementation of Textile Agreements,,FALSE
+en-US,US Agencies,Committee on Foreign Investment in the United States,,FALSE
+en-US,US Agencies,Commodity Futures Trading Commission,CFTC,FALSE
+en-US,US Agencies,Community Oriented Policing Services,COPS,FALSE
+en-US,US Agencies,Computer Emergency Readiness Team,US CERT; US-CERT,FALSE
+en-US,US Agencies,Congressional Budget Office,CBO,FALSE
+en-US,US Agencies,Congressional Research Service,,FALSE
+en-US,US Agencies,Connecticut,,FALSE
+en-US,US Agencies,Consumer Product Safety Commission,CPSC,FALSE
+en-US,US Agencies,Coordinating Council on Juvenile Justice and Delinquency Prevention,,FALSE
+en-US,US Agencies,Copyright Office,,FALSE
+en-US,US Agencies,Corporation for National and Community Service,,FALSE
+en-US,US Agencies,Corps of Engineers,,FALSE
+en-US,US Agencies,Council of Economic Advisers,,FALSE
+en-US,US Agencies,Council of the Inspectors General on Integrity and Efficiency,,FALSE
+en-US,US Agencies,Council on Environmental Quality,,FALSE
+en-US,US Agencies,Court of Appeals for the Armed Forces,,FALSE
+en-US,US Agencies,Court of Federal Claims,,FALSE
+en-US,US Agencies,Court of International Trade,,FALSE
+en-US,US Agencies,Court Services and Offender Supervision Agency for the District of Columbia,,FALSE
+en-US,US Agencies,Customs and Border Protection,,FALSE
+en-US,US Agencies,Defense Acquisition University,,FALSE
+en-US,US Agencies,Defense Advanced Research Projects Agency,DARPA,FALSE
+en-US,US Agencies,Defense Commissary Agency,,FALSE
+en-US,US Agencies,Defense Contract Audit Agency,,FALSE
+en-US,US Agencies,Defense Contract Management Agency,,FALSE
+en-US,US Agencies,Defense Finance and Accounting Service,DFAS,FALSE
+en-US,US Agencies,Defense Finance and Accounting Service Out-of-Service Debt Mgmt. Center,,FALSE
+en-US,US Agencies,Defense Health Agency,,FALSE
+en-US,US Agencies,Defense Information Systems Agency,DISA,FALSE
+en-US,US Agencies,Defense Intelligence Agency,DIA,FALSE
+en-US,US Agencies,Defense Logistics Agency,DLA,FALSE
+en-US,US Agencies,Defense Nuclear Facilities Safety Board,,FALSE
+en-US,US Agencies,Defense Security Cooperation Agency,DSCA,FALSE
+en-US,US Agencies,Defense Security Service,,FALSE
+en-US,US Agencies,Defense Technical Information Center,DTIC,FALSE
+en-US,US Agencies,Defense Threat Reduction Agency,DTRA,FALSE
+en-US,US Agencies,Delaware River Basin Commission,,FALSE
+en-US,US Agencies,Denali Commission,,FALSE
+en-US,US Agencies,Department of Agriculture,USDA; Agriculture Department,FALSE
+en-US,US Agencies,Department of Commerce,DOC; Commerce Department,FALSE
+en-US,US Agencies,Department of Defense,DOD;  Defense Department,FALSE
+en-US,US Agencies,Department of Education,ED; Education Department,FALSE
+en-US,US Agencies,Department of Education Office for Civil Rights,Department of Education Office of Civil Rights,FALSE
+en-US,US Agencies,Department of Energy,DOE; Energy Department,FALSE
+en-US,US Agencies,Department of Health and Human Services,HHS; Health and Human Services Department,FALSE
+en-US,US Agencies,Department of Health and Human Services Office for Civil Rights,,FALSE
+en-US,US Agencies,Department of Homeland Security,DHS; Homeland Security Department,FALSE
+en-US,US Agencies,Department of Justice,DOJ; Justice Department,FALSE
+en-US,US Agencies,Department of Labor,DOL; Labor Department,FALSE
+en-US,US Agencies,Department of State,DOS; State Department,FALSE
+en-US,US Agencies,Department of the Interior,DOI; Interior Department,FALSE
+en-US,US Agencies,Department of the Treasury,Treasury Department,FALSE
+en-US,US Agencies,Department of Transportation,DOT; Transportation Department,FALSE
+en-US,US Agencies,Department of Veterans Affairs,VA; Veterans Affairs Department,FALSE
+en-US,US Agencies,Domestic Policy Council,,FALSE
+en-US,US Agencies,Drug Enforcement Administration,DEA,FALSE
+en-US,US Agencies,Dwight D. Eisenhower School for National Security and Resource Strategy,,FALSE
+en-US,US Agencies,Economic Adjustment Office,,FALSE
+en-US,US Agencies,Economic Development Administration,EDA,FALSE
+en-US,US Agencies,"Economic Growth, Energy, and the Environment",,FALSE
+en-US,US Agencies,Economic Research Service,,FALSE
+en-US,US Agencies,Economics and Statistics Administration,,FALSE
+en-US,US Agencies,Education Resources Information Center,ERIC; Information Resources Center,FALSE
+en-US,US Agencies,Elder Justice Initiative,,FALSE
+en-US,US Agencies,Election Assistance Commission,EAC,FALSE
+en-US,US Agencies,Employee Benefits Security Administration,EBSA,FALSE
+en-US,US Agencies,Employment and Training Administration,,FALSE
+en-US,US Agencies,Endangered Species Program,,FALSE
+en-US,US Agencies,Energy Information Administration,,FALSE
+en-US,US Agencies,English Language Acquisition Office,,FALSE
+en-US,US Agencies,Environmental Protection Agency,EPA,FALSE
+en-US,US Agencies,Equal Employment Opportunity Commission,EEOC,FALSE
+en-US,US Agencies,Executive Office for Immigration Review,,FALSE
+en-US,US Agencies,Fair Housing and Equal Opportunity,,FALSE
+en-US,US Agencies,Farm Credit Administration,,FALSE
+en-US,US Agencies,Farm Credit System Insurance Corporation,,FALSE
+en-US,US Agencies,Farm Service Agency,,FALSE
+en-US,US Agencies,Federal Accounting Standards Advisory Board,,FALSE
+en-US,US Agencies,Federal Aviation Administration,FAA,FALSE
+en-US,US Agencies,Federal Bureau of Investigation,FBI,FALSE
+en-US,US Agencies,Federal Citizen Information Center,,FALSE
+en-US,US Agencies,Federal Communications Commission,FCC,FALSE
+en-US,US Agencies,Federal Consulting Group,,FALSE
+en-US,US Agencies,Federal Deposit Insurance Corporation,FDIC,FALSE
+en-US,US Agencies,Federal Election Commission,,FALSE
+en-US,US Agencies,Federal Emergency Management Agency,FEMA,FALSE
+en-US,US Agencies,Federal Energy Regulatory Commission,,FALSE
+en-US,US Agencies,Federal Executive Boards,,FALSE
+en-US,US Agencies,Federal Financial Institutions Examination Council,,FALSE
+en-US,US Agencies,Federal Financing Bank,,FALSE
+en-US,US Agencies,Federal Geographic Data Committee,,FALSE
+en-US,US Agencies,Federal Highway Administration,FHA,FALSE
+en-US,US Agencies,Federal Home Loan Mortgage Corporation,Freddie Mac; FHLMC,FALSE
+en-US,US Agencies,Federal Housing Administration,FHA,FALSE
+en-US,US Agencies,Federal Housing Finance Agency,,FALSE
+en-US,US Agencies,Federal Interagency Committee on Education,,FALSE
+en-US,US Agencies,Federal Interagency Council on Statistical Policy,,FALSE
+en-US,US Agencies,Federal Judicial Center,,FALSE
+en-US,US Agencies,Federal Labor Relations Authority,FLRA,FALSE
+en-US,US Agencies,Federal Laboratory Consortium for Technology Transfer,,FALSE
+en-US,US Agencies,Federal Law Enforcement Training Center,FLETC,FALSE
+en-US,US Agencies,Federal Library and Information Center Committee,,FALSE
+en-US,US Agencies,Federal Maritime Commission,,FALSE
+en-US,US Agencies,Federal Mediation and Conciliation Service,,FALSE
+en-US,US Agencies,Federal Mine Safety and Health Review Commission,,FALSE
+en-US,US Agencies,Federal Motor Carrier Safety Administration,FMCSA,FALSE
+en-US,US Agencies,Federal National Mortgage Association,Fannie Mae,FALSE
+en-US,US Agencies,Federal Protective Service,,FALSE
+en-US,US Agencies,Federal Railroad Administration,FRA,FALSE
+en-US,US Agencies,Federal Reserve System,,FALSE
+en-US,US Agencies,Federal Retirement Thrift Investment Board,,FALSE
+en-US,US Agencies,Federal Student Aid Information Center,,FALSE
+en-US,US Agencies,Federal Trade Commission,FTC,FALSE
+en-US,US Agencies,Federal Transit Administration,FTA,FALSE
+en-US,US Agencies,Federal Voting Assistance Program,,FALSE
+en-US,US Agencies,FedStats,,FALSE
+en-US,US Agencies,Fish and Wildlife Service,FWS,FALSE
+en-US,US Agencies,Fleet Forces Command,,FALSE
+en-US,US Agencies,Food and Drug Administration,FDA,FALSE
+en-US,US Agencies,Food and Nutrition Service,,FALSE
+en-US,US Agencies,Food Safety and Inspection Service,,FALSE
+en-US,US Agencies,Foreign Agricultural Service,,FALSE
+en-US,US Agencies,Foreign Claims Settlement Commission,,FALSE
+en-US,US Agencies,Forest Service,,FALSE
+en-US,US Agencies,Fulbright Foreign Scholarship Board,,FALSE
+en-US,US Agencies,General Services Administration,GSA,FALSE
+en-US,US Agencies,Geological Survey,USGS,FALSE
+en-US,US Agencies,Government Accountability Office,GAO,FALSE
+en-US,US Agencies,Government National Mortgage Association,Ginnie Mae,FALSE
+en-US,US Agencies,Government Publishing Office,GPO,FALSE
+en-US,US Agencies,"Grain Inspection, Packers and Stockyards Administration",,FALSE
+en-US,US Agencies,Harry S. Truman Scholarship Foundation,,FALSE
+en-US,US Agencies,Health Resources and Services Administration,,FALSE
+en-US,US Agencies,Holocaust Memorial Museum,,FALSE
+en-US,US Agencies,House Office of Inspector General,,FALSE
+en-US,US Agencies,House Office of the Clerk,,FALSE
+en-US,US Agencies,Immigration and Customs Enforcement,ICE,FALSE
+en-US,US Agencies,Indian Arts and Crafts Board,,FALSE
+en-US,US Agencies,Indian Health Service,,FALSE
+en-US,US Agencies,Industrial College of the Armed Forces,,FALSE
+en-US,US Agencies,Information Resource Management College,,FALSE
+en-US,US Agencies,Innovation and Improvement Office,,FALSE
+en-US,US Agencies,Inspectors General,,FALSE
+en-US,US Agencies,Institute of Education Sciences,,FALSE
+en-US,US Agencies,Institute of Museum and Library Services,,FALSE
+en-US,US Agencies,Institute of Peace,,FALSE
+en-US,US Agencies,Inter-American Foundation,,FALSE
+en-US,US Agencies,Interagency Alternative Dispute Resolution Working Group,,FALSE
+en-US,US Agencies,Interagency Committee for the Management of Noxious and Exotic Weeds,,FALSE
+en-US,US Agencies,Interagency Council on Homelessness,,FALSE
+en-US,US Agencies,Internal Revenue Service,IRS,FALSE
+en-US,US Agencies,International Trade Administration,ITA,FALSE
+en-US,US Agencies,International Trade Commission,,FALSE
+en-US,US Agencies,Interpol,U.S. National Central Bureau - Interpol,FALSE
+en-US,US Agencies,James Madison Memorial Fellowship Foundation,,FALSE
+en-US,US Agencies,Japan-United States Friendship Commission,,FALSE
+en-US,US Agencies,Job Corps,,FALSE
+en-US,US Agencies,John F. Kennedy Center for the Performing Arts,,FALSE
+en-US,US Agencies,Joint Board for the Enrollment of Actuaries,,FALSE
+en-US,US Agencies,Joint Chiefs of Staff,,FALSE
+en-US,US Agencies,Joint Congressional Committee on Inaugural Ceremonies,,FALSE
+en-US,US Agencies,Joint Fire Science Program,,FALSE
+en-US,US Agencies,Joint Forces Command,,FALSE
+en-US,US Agencies,Joint Forces Staff College,,FALSE
+en-US,US Agencies,Joint Military Intelligence College,,FALSE
+en-US,US Agencies,Joint Program Executive Office for Chemical and Biological Defense,,FALSE
+en-US,US Agencies,Judicial Panel on Multidistrict Litigation,,FALSE
+en-US,US Agencies,Kennedy Center,,FALSE
+en-US,US Agencies,Legal Services Corporation,,FALSE
+en-US,US Agencies,Library of Congress,LOC,FALSE
+en-US,US Agencies,Marine Corps,,FALSE
+en-US,US Agencies,Marine Mammal Commission,,FALSE
+en-US,US Agencies,Maritime Administration,MARAD,FALSE
+en-US,US Agencies,Marketing and Regulatory Programs,,FALSE
+en-US,US Agencies,Marshals Service,,FALSE
+en-US,US Agencies,Mediation and Conciliation Service,,FALSE
+en-US,US Agencies,Medicaid and CHIP Payment and Access Commission,,FALSE
+en-US,US Agencies,Medicare Payment Advisory Commission,,FALSE
+en-US,US Agencies,Merit Systems Protection Board,,FALSE
+en-US,US Agencies,Middle East Broadcasting Network,,FALSE
+en-US,US Agencies,Migratory Bird Conservation Commission,,FALSE
+en-US,US Agencies,Military Postal Service Agency,,FALSE
+en-US,US Agencies,Millennium Challenge Corporation,,FALSE
+en-US,US Agencies,Mine Safety and Health Administration,MSHA,FALSE
+en-US,US Agencies,Minority Business Development Agency,,FALSE
+en-US,US Agencies,Mint,,FALSE
+en-US,US Agencies,Missile Defense Agency,MDA,FALSE
+en-US,US Agencies,Mississippi River Commission,,FALSE
+en-US,US Agencies,Morris K. Udall and Stewart L. Udall Foundation,,FALSE
+en-US,US Agencies,Multifamily Housing Office,,FALSE
+en-US,US Agencies,National Aeronautics and Space Administration,NASA,FALSE
+en-US,US Agencies,National Agricultural Statistics Service,,FALSE
+en-US,US Agencies,National AIDS Policy Office,,FALSE
+en-US,US Agencies,National Archives and Records Administration,"NARA; Archives, National Archives and Records Administration",FALSE
+en-US,US Agencies,National Cancer Institute,NCI,FALSE
+en-US,US Agencies,National Capital Planning Commission,,FALSE
+en-US,US Agencies,National Cemetery Administration,,FALSE
+en-US,US Agencies,National Constitution Center,,FALSE
+en-US,US Agencies,National Council on Disability,,FALSE
+en-US,US Agencies,National Credit Union Administration,NCUA,FALSE
+en-US,US Agencies,National Defense University,,FALSE
+en-US,US Agencies,National Defense University iCollege,,FALSE
+en-US,US Agencies,National Economic Council,,FALSE
+en-US,US Agencies,National Endowment for the Arts,NEA,FALSE
+en-US,US Agencies,National Endowment for the Humanities,,FALSE
+en-US,US Agencies,National Flood Insurance Program,NFIP,FALSE
+en-US,US Agencies,National Gallery of Art,,FALSE
+en-US,US Agencies,National Geospatial-Intelligence Agency,,FALSE
+en-US,US Agencies,National Guard,,FALSE
+en-US,US Agencies,National Health Information Center,NHIC,FALSE
+en-US,US Agencies,"National Heart, Lung, and Blood Institute",NHLBI,FALSE
+en-US,US Agencies,National Highway Traffic Safety Administration,NHTSA,FALSE
+en-US,US Agencies,National Indian Gaming Commission,,FALSE
+en-US,US Agencies,"National Institute of Arthritis, Musculoskeletal and Skin Diseases",,FALSE
+en-US,US Agencies,National Institute of Corrections,,FALSE
+en-US,US Agencies,National Institute of Food and Agriculture,,FALSE
+en-US,US Agencies,National Institute of Justice,,FALSE
+en-US,US Agencies,National Institute of Mental Health,NIMH,FALSE
+en-US,US Agencies,National Institute of Occupational Safety and Health,NIOSH,FALSE
+en-US,US Agencies,National Institute of Standards and Technology,NIST,FALSE
+en-US,US Agencies,National Institutes of Health,NIH,FALSE
+en-US,US Agencies,National Intelligence University,,FALSE
+en-US,US Agencies,National Interagency Fire Center,,FALSE
+en-US,US Agencies,National Labor Relations Board,NLRB,FALSE
+en-US,US Agencies,National Laboratories,,FALSE
+en-US,US Agencies,National Marine Fisheries Service,,FALSE
+en-US,US Agencies,National Mediation Board,,FALSE
+en-US,US Agencies,National Nuclear Security Administration,,FALSE
+en-US,US Agencies,National Ocean Service,,FALSE
+en-US,US Agencies,National Oceanic and Atmospheric Administration,NOAA,FALSE
+en-US,US Agencies,National Park Foundation,,FALSE
+en-US,US Agencies,National Park Service,NPS,FALSE
+en-US,US Agencies,National Passport Information Center,NPIC,FALSE
+en-US,US Agencies,National Pesticide Information Center,,FALSE
+en-US,US Agencies,National Railroad Passenger Corporation,AMTRAK,FALSE
+en-US,US Agencies,National Reconnaissance Office,,FALSE
+en-US,US Agencies,National Science Foundation,NSF,FALSE
+en-US,US Agencies,National Security Agency,NSA,FALSE
+en-US,US Agencies,National Security Council,,FALSE
+en-US,US Agencies,National Technical Information Service,,FALSE
+en-US,US Agencies,National Telecommunications and Information Administration,,FALSE
+en-US,US Agencies,National Transportation Safety Board,NTSB,FALSE
+en-US,US Agencies,National War College,,FALSE
+en-US,US Agencies,National Weather Service,,FALSE
+en-US,US Agencies,Natural Resources Conservation Service,,FALSE
+en-US,US Agencies,NOAA Fisheries,,FALSE
+en-US,US Agencies,Northern Command,,FALSE
+en-US,US Agencies,Northwest Power and Conservation Council,,FALSE
+en-US,US Agencies,Northwest Power Planning Council,,FALSE
+en-US,US Agencies,Nuclear Regulatory Commission,NRC,FALSE
+en-US,US Agencies,Nuclear Waste Technical Review Board,,FALSE
+en-US,US Agencies,Oak Ridge National Laboratory,,FALSE
+en-US,US Agencies,Occupational Safety and Health Administration,OSHA,FALSE
+en-US,US Agencies,Occupational Safety and Health Review Commission,,FALSE
+en-US,US Agencies,"Office of Career, Technical, and Adult Education",,FALSE
+en-US,US Agencies,Office of Child Support Enforcement,OCSE,FALSE
+en-US,US Agencies,Office of Community Planning and Development,Community Planning and Development,FALSE
+en-US,US Agencies,Office of Compliance,,FALSE
+en-US,US Agencies,Office of Comptroller of the Currency,OCC; Office of the Comptroller of the Currency,FALSE
+en-US,US Agencies,Office of Cuba Broadcasting,,FALSE
+en-US,US Agencies,Office of Director of National Intelligence,Office of the Director of National Intelligence,FALSE
+en-US,US Agencies,Office of Disability Employment Policy,ODEP,FALSE
+en-US,US Agencies,Office of Elementary and Secondary Education,,FALSE
+en-US,US Agencies,Office of Environmental Management,Environmental Management,FALSE
+en-US,US Agencies,Office of Fair Housing and Equal Opportunity,Fair Housing and Equal Opportunity,FALSE
+en-US,US Agencies,Office of Fossil Energy,Fossil Energy,FALSE
+en-US,US Agencies,Office of Government Ethics,OGE,FALSE
+en-US,US Agencies,Office of Housing,Housing Office,FALSE
+en-US,US Agencies,Office of Investor Education and Advocacy,,FALSE
+en-US,US Agencies,Office of Justice Programs,,FALSE
+en-US,US Agencies,Office of Juvenile Justice and Delinquency Prevention,,FALSE
+en-US,US Agencies,Office of Lead Hazard Control and Healthy Homes,,FALSE
+en-US,US Agencies,Office of Management and Budget,OMB,FALSE
+en-US,US Agencies,Office of Manufactured Housing Programs,,FALSE
+en-US,US Agencies,Office of Minority Health,,FALSE
+en-US,US Agencies,Office of National Drug Control Policy,ONDCP,FALSE
+en-US,US Agencies,Office of Natural Resources Revenue,,FALSE
+en-US,US Agencies,Office of Nuclear Energy,,FALSE
+en-US,US Agencies,Office of Pardon Attorney,Office of the Pardon Attorney,FALSE
+en-US,US Agencies,Office of Personnel Management,OPM,FALSE
+en-US,US Agencies,Office of Policy Development and Research,Policy Development and Research,FALSE
+en-US,US Agencies,Office of Postsecondary Education,,FALSE
+en-US,US Agencies,Office of Refugee Resettlement,,FALSE
+en-US,US Agencies,Office of Science and Technology Policy,,FALSE
+en-US,US Agencies,Office of Scientific and Technical Information,,FALSE
+en-US,US Agencies,Office of Servicemember Affairs,,FALSE
+en-US,US Agencies,Office of Special Counsel,,FALSE
+en-US,US Agencies,Office of Special Education and Rehabilitative Services,OSERS,FALSE
+en-US,US Agencies,"Office of Surface Mining, Reclamation and Enforcement",,FALSE
+en-US,US Agencies,Office of the Federal Register,Federal Register,FALSE
+en-US,US Agencies,Open World Leadership Center,,FALSE
+en-US,US Agencies,Out-of-Service Debt Management Center,,FALSE
+en-US,US Agencies,Overseas Private Investment Corporation,,FALSE
+en-US,US Agencies,Pacific Command,,FALSE
+en-US,US Agencies,Pacific Northwest Electric Power and Conservation Planning Council,,FALSE
+en-US,US Agencies,Parole Commission,,FALSE
+en-US,US Agencies,Patent and Trademark Office,USPTO,FALSE
+en-US,US Agencies,Peace Corps,,FALSE
+en-US,US Agencies,Pension Benefit Guaranty Corporation,PBGC,FALSE
+en-US,US Agencies,Pentagon Force Protection Agency,,FALSE
+en-US,US Agencies,Pipeline and Hazardous Materials Safety Administration,,FALSE
+en-US,US Agencies,Political Affairs,,FALSE
+en-US,US Agencies,Postal Inspection Service,,FALSE
+en-US,US Agencies,Postal Regulatory Commission,,FALSE
+en-US,US Agencies,Postal Service,USPS,FALSE
+en-US,US Agencies,Power Administrations,,FALSE
+en-US,US Agencies,"President's Council on Fitness, Sports and Nutrition",,FALSE
+en-US,US Agencies,Presidential Scholars Commission,,FALSE
+en-US,US Agencies,Presidio Trust,,FALSE
+en-US,US Agencies,Pretrial Services Agency for the District of Columbia,,FALSE
+en-US,US Agencies,Prisoner of War/Missing in Action Accounting Agency,,FALSE
+en-US,US Agencies,Privacy and Civil Liberties Oversight Board,PCLOB,FALSE
+en-US,US Agencies,Public and Indian Housing,,FALSE
+en-US,US Agencies,Public Diplomacy and Public Affairs,,FALSE
+en-US,US Agencies,Radio and TV Martí,,FALSE
+en-US,US Agencies,Radio Free Asia,RFA,FALSE
+en-US,US Agencies,Radio Free Europe and Radio Liberty,RFE/RL,FALSE
+en-US,US Agencies,Radio Sawa,,FALSE
+en-US,US Agencies,Railroad Retirement Board,RRB,FALSE
+en-US,US Agencies,Rehabilitation Services Administration,,FALSE
+en-US,US Agencies,Research and Innovative Technology Administration,,FALSE
+en-US,US Agencies,Risk Management Agency,,FALSE
+en-US,US Agencies,Rural Business and Cooperative Programs,,FALSE
+en-US,US Agencies,Rural Development,,FALSE
+en-US,US Agencies,Rural Housing Service,,FALSE
+en-US,US Agencies,Rural Utilities Service,,FALSE
+en-US,US Agencies,Saint Lawrence Seaway Development Corporation,,FALSE
+en-US,US Agencies,Science Office,,FALSE
+en-US,US Agencies,Secret Service,,FALSE
+en-US,US Agencies,Securities and Exchange Commission,SEC,FALSE
+en-US,US Agencies,Selective Service System,SSS,FALSE
+en-US,US Agencies,Small Business Administration,SBA,FALSE
+en-US,US Agencies,Smithsonian Institution,,FALSE
+en-US,US Agencies,Social Security Administration,SSA,FALSE
+en-US,US Agencies,Social Security Advisory Board,,FALSE
+en-US,US Agencies,Southeastern Power Administration,,FALSE
+en-US,US Agencies,Southern Command,,FALSE
+en-US,US Agencies,Southwestern Power Administration,,FALSE
+en-US,US Agencies,Special Forces Operations Command,U.S. Special Operations Command,FALSE
+en-US,US Agencies,State Justice Institute,,FALSE
+en-US,US Agencies,Stennis Center for Public Service,,FALSE
+en-US,US Agencies,Strategic Command,,FALSE
+en-US,US Agencies,Substance Abuse and Mental Health Services Administration,SAMHSA,FALSE
+en-US,US Agencies,Surface Transportation Board,,FALSE
+en-US,US Agencies,Susquehanna River Basin Commission,,FALSE
+en-US,US Agencies,Taxpayer Advocacy Panel,,FALSE
+en-US,US Agencies,Tennessee Valley Authority,TVA,FALSE
+en-US,US Agencies,Trade and Development Agency,,FALSE
+en-US,US Agencies,Trade Representative,,FALSE
+en-US,US Agencies,Transportation Security Administration,TSA,FALSE
+en-US,US Agencies,Trustee Program,,FALSE
+en-US,US Agencies,U.S. Air Force,Air Force,FALSE
+en-US,US Agencies,U.S. Air Force Reserve Command,Air Force Reserve,FALSE
+en-US,US Agencies,U.S. Army,Army,FALSE
+en-US,US Agencies,U.S. Army Corps of Engineers,Army Corps of Engineers,FALSE
+en-US,US Agencies,U.S. Botanic Garden,Botanic Garden,FALSE
+en-US,US Agencies,U.S. Capitol Police,Capitol Police,FALSE
+en-US,US Agencies,U.S. Capitol Visitor Center,Capitol Visitor Center,FALSE
+en-US,US Agencies,U.S. Census Bureau,Census Bureau; Bureau of the Census,FALSE
+en-US,US Agencies,U.S. Central Command,CENTCOM; Central Command,FALSE
+en-US,US Agencies,U.S. Circuit Courts of Appeal,Judicial Circuit Courts of Appeal,FALSE
+en-US,US Agencies,U.S. Court of Appeals for Veterans Claims,Court of Appeals for Veterans Claims,FALSE
+en-US,US Agencies,U.S. Department of Housing and Urban Development,HUD,FALSE
+en-US,US Agencies,U.S. European Command,European Command,FALSE
+en-US,US Agencies,U.S. Mission to the United Nations,,FALSE
+en-US,US Agencies,U.S. Navy,Navy,FALSE
+en-US,US Agencies,U.S. Sentencing Commission,,FALSE
+en-US,US Agencies,U.S. Transportation Command,,FALSE
+en-US,US Agencies,Unified Combatant Commands,,FALSE
+en-US,US Agencies,Uniformed Services University of the Health Sciences,,FALSE
+en-US,US Agencies,United States Mint,,FALSE
+en-US,US Agencies,USAGov,,FALSE
+en-US,US Agencies,Veterans Benefits Administration,VBA,FALSE
+en-US,US Agencies,Veterans Day National Committee,,FALSE
+en-US,US Agencies,Veterans Health Administration,VHA,FALSE
+en-US,US Agencies,Veterans' Employment and Training Service,VETS,FALSE
+en-US,US Agencies,Vietnam Education Foundation,,FALSE
+en-US,US Agencies,Voice of America,VOA,FALSE
+en-US,US Agencies,Washington Headquarters Services,,FALSE
+en-US,US Agencies,Weather Service,,FALSE
+en-US,US Agencies,Weights and Measures Division,,FALSE
+en-US,US Agencies,West Point Military Academy,"U.S. Military Academy, West Point; West Point",FALSE
+en-US,US Agencies,Western Area Power Administration,,FALSE
+en-US,US Agencies,White House Office of Administration,,FALSE
+en-US,US Agencies,Wireless Telecommunications Bureau,,FALSE
+en-US,US Agencies,Women's Bureau,,FALSE
+en-US,US Agencies,Woodrow Wilson International Center for Scholars,Wilson Center,FALSE
