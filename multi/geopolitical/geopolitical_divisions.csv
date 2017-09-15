@@ -391,3 +391,16 @@ Entity ID,Entity Category,Entity Name,German Name,Spanish Name,French Name,ISO-3
 390,Chinese Provinces,Gansu,Gansu,Gansu,Gansu,CN-62,,GS; Gān; Lǒng; Gānsù Shěng; Kan su'u
 391,Chinese Provinces,Qinghai,Qinghai,Qinghai,Qinghai,CN-63,,QH; Qīng; Qīnghǎi Shěng; Kokonur
 392,Chinese Provinces,Taiwan,Taiwan,Taiwan,Taïwan,CN-71,,TW; Tái; Tâi-oân-séng; Thòi-vàn-sén; Táiwān shěng; Taiwan Province; Taiwan Region; Taiwan Area
+393,UK Countries/Provinces,England,England,Inglaterra,L'Angleterre; Angleterre,GB-ENG,,
+394,UK Countries/Provinces,Northern Ireland,Nordirland,Irlanda del Norte,Irlande du Nord,GB-NIR,,
+395,UK Countries/Provinces,Wales,Wales,Gales,Pays de Galles,GB-WLS,,
+396,UK Countries/Provinces,Scotland,Schottland,Escocia,Écosse,GB-SCT,,
+397,England Region,North East England,Nordostengland,Nordeste de Inglaterra,Angleterre du Nord-Est,,,
+398,England Region,East Midlands,Östliche Midlands,Midlands del este,Midlands de l'Est,,,
+399,England Region,Yorkshire and the Humber,Yorkshire und Humbergegend,Yorkshire y Humber,Yorkshire-et-Humber ,,,
+400,England Region,South West England,Südwestengland,Sudoeste de Inglaterra,Angleterre du Sud-Ouest ,,,
+401,England Region,West Midlands,Westliche Midlands,Midlands del Oeste,Midlands de l'Ouest,,,
+402,England Region,East of England,Ostengland,Este de Inglaterra,Angleterre de l'Est,,,
+403,England Region,North West England,Nordwestengland,Noroeste de Inglaterra,Angleterre du Nord-Ouest,,,
+404,England Region,Greater London,Groß-London,Gran Londres,Grand Londres,,,
+405,England Region,South East England,Südostengland,Sudeste de Inglaterra,Angleterre du Sud-Est,,,
