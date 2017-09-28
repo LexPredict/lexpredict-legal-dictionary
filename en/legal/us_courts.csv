@@ -1,5 +1,5 @@
 Term Locale,Term Category,Court ID,Level,Jurisdiction,Court Type,Court Name,Alias
-en-US,US Courts,1,Supreme Court,Federal,Court of Last Resort,United States Supreme Court,U.S.; Supreme Court; SCOTUS
+en-US,US Courts,1,Supreme Court,Federal,Court of Last Resort,United States Supreme Court,Supreme Court; SCOTUS
 en-US,US Courts,2,Federal,Federal,Appellate Court,First Circuit,1st Cir.
 en-US,US Courts,3,Federal,Federal,Appellate Court,Second Circuit,2nd Cir.
 en-US,US Courts,4,Federal,Federal,Appellate Court,Third Circuit,3rd Cir.
@@ -195,7 +195,7 @@ en-US,US Courts,193,Federal,West Virginia,Bankruptcy Court,Southern District of 
 en-US,US Courts,194,Federal,Wisconsin,Bankruptcy Court,Eastern District of Wisconsin,Bankr. E.D. Wis.
 en-US,US Courts,195,Federal,Wisconsin,Bankruptcy Court,Western District of Wisconsin,Bankr. W.D. Wis.
 en-US,US Courts,196,Federal,Wyoming,Bankruptcy Court,District of Wyoming,Bankr. D. Wyo.
-en-US,US Courts,108,Federal,Federal,Federal Court,United States Tax Court,Tax; Tax Court
+en-US,US Courts,108,Federal,Federal,Federal Court,United States Tax Court,Tax Court
 en-US,US Courts,109,Federal,Federal,Federal Court,Patent Trial and Appeal Board,PTAB
 en-US,US Courts,110,Federal,Federal,Federal Court,United States Court of International Trade,Ct. Intl. Trade; Court of International Trade
 en-US,US Courts,111,Federal,Federal,Federal Court,United States Court of Federal Claims,Fed Cl.; Court of Federal Claims
