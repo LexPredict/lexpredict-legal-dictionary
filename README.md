@@ -26,10 +26,13 @@ The contents and organization of this legal dictionary repository will evolve as
     * Canadian Regulators
   * Legal
     * Common Law (Black's 1910 Law Dictionary)
+    * Common Law Subset (1000 most frequent terms)
     * United States Code
     * US Code of Federal Regulations
     * US Courts
     * US Federal Acts
+    * US State Codes and Compiled Laws
+    * US State Courts
     * Australian Courts
     * Canadian Courts
   * Medical
@@ -59,5 +62,6 @@ The data in this repository is available under a Creative Commons Attribution Sh
 
 
 ## Releases
-* 1.0.0: August 1, 2017 - Initial open source release
+* 1.0.2: October 1, 2017 - October release, including over 10 new knowledge sets and word embedding models
 * 1.0.1: September 1, 2017 - September release, including over 20 new knowledge sets
+* 1.0.0: August 1, 2017 - Initial open source release
