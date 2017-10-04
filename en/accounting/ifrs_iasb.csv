@@ -1,331 +1,331 @@
-﻿Term Locale,Term Category,Term,Alias,Case Sensitive
-en-GB,Accounting - IFRS,account payable,A/P,FALSE
-en-GB,Accounting - IFRS,account receivable,A/R,FALSE
-en-GB,Accounting - IFRS,accountancy firm,,FALSE
-en-GB,Accounting - IFRS,accountancy profession,,FALSE
-en-GB,Accounting - IFRS,accounting,,FALSE
-en-GB,Accounting - IFRS,accounting equation,,FALSE
-en-GB,Accounting - IFRS,accounting period,,FALSE
-en-GB,Accounting - IFRS,accounting policies,,FALSE
-en-GB,Accounting - IFRS,accounting standards,,FALSE
-en-GB,Accounting - IFRS,Accounting Standards Board,ASB,FALSE
-en-GB,Accounting - IFRS,accruals basis,,FALSE
-en-GB,Accounting - IFRS,accumulated depreciation,,FALSE
-en-GB,Accounting - IFRS,acid test,,FALSE
-en-GB,Accounting - IFRS,acquiree,,FALSE
-en-GB,Accounting - IFRS,acquirer,,FALSE
-en-GB,Accounting - IFRS,acquisition,,FALSE
-en-GB,Accounting - IFRS,acquisition method,,FALSE
-en-GB,Accounting - IFRS,administrative expenses,,FALSE
-en-GB,Accounting - IFRS,agency,,FALSE
-en-GB,Accounting - IFRS,agency theory,,FALSE
-en-GB,Accounting - IFRS,aggregate depreciation,,FALSE
-en-GB,Accounting - IFRS,allocate,,FALSE
-en-GB,Accounting - IFRS,allocated,,FALSE
-en-GB,Accounting - IFRS,amortisation,,FALSE
-en-GB,Accounting - IFRS,annual report,,FALSE
-en-GB,Accounting - IFRS,articles of association,,FALSE
-en-GB,Accounting - IFRS,articulation,,FALSE
-en-GB,Accounting - IFRS,assets,,FALSE
-en-GB,Accounting - IFRS,associated company,,FALSE
-en-GB,Accounting - IFRS,audit,,FALSE
-en-GB,Accounting - IFRS,audit manager,,FALSE
-en-GB,Accounting - IFRS,bad debt,,FALSE
-en-GB,Accounting - IFRS,balance sheet,,FALSE
-en-GB,Accounting - IFRS,bank facility,,FALSE
-en-GB,Accounting - IFRS,bond,,FALSE
-en-GB,Accounting - IFRS,broker,stockbroker,FALSE
-en-GB,Accounting - IFRS,broker's report,,FALSE
-en-GB,Accounting - IFRS,business combination,,FALSE
-en-GB,Accounting - IFRS,business cycle,,FALSE
-en-GB,Accounting - IFRS,business entity,,FALSE
-en-GB,Accounting - IFRS,called up,,FALSE
-en-GB,Accounting - IFRS,capital,,FALSE
-en-GB,Accounting - IFRS,capital expenditure,,FALSE
-en-GB,Accounting - IFRS,capitalisation issue,,FALSE
-en-GB,Accounting - IFRS,cash,,FALSE
-en-GB,Accounting - IFRS,cash equivalents,,FALSE
-en-GB,Accounting - IFRS,cash flow projections,,FALSE
-en-GB,Accounting - IFRS,cash flow statement,,FALSE
-en-GB,Accounting - IFRS,chairman,,FALSE
-en-GB,Accounting - IFRS,charge,,FALSE
-en-GB,Accounting - IFRS,chief executive,CEO,FALSE
-en-GB,Accounting - IFRS,close season,,FALSE
-en-GB,Accounting - IFRS,commercial paper,,FALSE
-en-GB,Accounting - IFRS,Companies Act,,FALSE
-en-GB,Accounting - IFRS,comparability,,FALSE
-en-GB,Accounting - IFRS,completeness,,FALSE
-en-GB,Accounting - IFRS,conceptual framework,,FALSE
-en-GB,Accounting - IFRS,conservatism,,FALSE
-en-GB,Accounting - IFRS,consistency,,FALSE
-en-GB,Accounting - IFRS,consolidated financial statements,,FALSE
-en-GB,Accounting - IFRS,consolidation,,FALSE
-en-GB,Accounting - IFRS,contingent liabilities,,FALSE
-en-GB,Accounting - IFRS,control,,FALSE
-en-GB,Accounting - IFRS,convertible loan,,FALSE
-en-GB,Accounting - IFRS,corporate governance,,FALSE
-en-GB,Accounting - IFRS,corporate recovery department,,FALSE
-en-GB,Accounting - IFRS,corporate social responsibility,,FALSE
-en-GB,Accounting - IFRS,corporation tax,,FALSE
-en-GB,Accounting - IFRS,cost,,FALSE
-en-GB,Accounting - IFRS,cost of goods sold,COGS,FALSE
-en-GB,Accounting - IFRS,cost of sales,COS,FALSE
-en-GB,Accounting - IFRS,coupon,,FALSE
-en-GB,Accounting - IFRS,credit,,FALSE
-en-GB,Accounting - IFRS,credit note,,FALSE
-en-GB,Accounting - IFRS,credit purchase,,FALSE
-en-GB,Accounting - IFRS,credit sale,,FALSE
-en-GB,Accounting - IFRS,creditor,,FALSE
-en-GB,Accounting - IFRS,critical event,,FALSE
-en-GB,Accounting - IFRS,current asset,,FALSE
-en-GB,Accounting - IFRS,current liability,,FALSE
-en-GB,Accounting - IFRS,current value,,FALSE
-en-GB,Accounting - IFRS,customers' collection period,,FALSE
-en-GB,Accounting - IFRS,cut-off procedures,,FALSE
-en-GB,Accounting - IFRS,debenture,,FALSE
-en-GB,Accounting - IFRS,debtor,,FALSE
-en-GB,Accounting - IFRS,deep discount bond,,FALSE
-en-GB,Accounting - IFRS,default,,FALSE
-en-GB,Accounting - IFRS,deferred asset,,FALSE
-en-GB,Accounting - IFRS,deferred income,,FALSE
-en-GB,Accounting - IFRS,deferred taxation,,FALSE
-en-GB,Accounting - IFRS,depreciable amount,,FALSE
-en-GB,Accounting - IFRS,depreciation,,FALSE
-en-GB,Accounting - IFRS,derecognition,,FALSE
-en-GB,Accounting - IFRS,difference on consolidation,,FALSE
-en-GB,Accounting - IFRS,direct method,,FALSE
-en-GB,Accounting - IFRS,Directive,,FALSE
-en-GB,Accounting - IFRS,director,,FALSE
-en-GB,Accounting - IFRS,disclosed,,FALSE
-en-GB,Accounting - IFRS,discount received,,FALSE
-en-GB,Accounting - IFRS,dividend,,FALSE
-en-GB,Accounting - IFRS,dividend cover,,FALSE
-en-GB,Accounting - IFRS,dividend yield,,FALSE
-en-GB,Accounting - IFRS,doubtful debts,,FALSE
-en-GB,Accounting - IFRS,drawings,,FALSE
-en-GB,Accounting - IFRS,earnings for ordinary shareholders,,FALSE
-en-GB,Accounting - IFRS,earnings per share,,FALSE
-en-GB,Accounting - IFRS,effective interest rate,,FALSE
-en-GB,Accounting - IFRS,efficient markets hypothesis,,FALSE
-en-GB,Accounting - IFRS,endorsed,,FALSE
-en-GB,Accounting - IFRS,endorsement,,FALSE
-en-GB,Accounting - IFRS,enterprise,,FALSE
-en-GB,Accounting - IFRS,entity,,FALSE
-en-GB,Accounting - IFRS,entry price,,FALSE
-en-GB,Accounting - IFRS,equities analyst,,FALSE
-en-GB,Accounting - IFRS,equity,,FALSE
-en-GB,Accounting - IFRS,equity accounting,,FALSE
-en-GB,Accounting - IFRS,equity interest,,FALSE
-en-GB,Accounting - IFRS,equity portfolio,,FALSE
-en-GB,Accounting - IFRS,equity shares,,FALSE
-en-GB,Accounting - IFRS,eurobond market,,FALSE
-en-GB,Accounting - IFRS,exit price,,FALSE
-en-GB,Accounting - IFRS,exit value,,FALSE
-en-GB,Accounting - IFRS,expense,,FALSE
-en-GB,Accounting - IFRS,external reporting,,FALSE
-en-GB,Accounting - IFRS,external users,,FALSE
-en-GB,Accounting - IFRS,fair value,,FALSE
-en-GB,Accounting - IFRS,faithful presentation,,FALSE
-en-GB,Accounting - IFRS,financial accounting,,FALSE
-en-GB,Accounting - IFRS,financial adaptability,,FALSE
-en-GB,Accounting - IFRS,financial gearing,,FALSE
-en-GB,Accounting - IFRS,financial information,,FALSE
-en-GB,Accounting - IFRS,Financial Reporting Standard,,FALSE
-en-GB,Accounting - IFRS,financial risk,,FALSE
-en-GB,Accounting - IFRS,financial statements,,FALSE
-en-GB,Accounting - IFRS,financial viability,,FALSE
-en-GB,Accounting - IFRS,financing activities,,FALSE
-en-GB,Accounting - IFRS,fixed asset,,FALSE
-en-GB,Accounting - IFRS,fixed assets,,FALSE
-en-GB,Accounting - IFRS,fixed assets usage,,FALSE
-en-GB,Accounting - IFRS,fixed capital,,FALSE
-en-GB,Accounting - IFRS,fixed cost,,FALSE
-en-GB,Accounting - IFRS,floating charge,,FALSE
-en-GB,Accounting - IFRS,forecast,,FALSE
-en-GB,Accounting - IFRS,format,,FALSE
-en-GB,Accounting - IFRS,forward exchange contract,,FALSE
-en-GB,Accounting - IFRS,fully paid,,FALSE
-en-GB,Accounting - IFRS,fund manager,,FALSE
-en-GB,Accounting - IFRS,gearing,,FALSE
-en-GB,Accounting - IFRS,general purpose financial statements,,FALSE
-en-GB,Accounting - IFRS,going concern basis,,FALSE
-en-GB,Accounting - IFRS,goodwill,,FALSE
-en-GB,Accounting - IFRS,gross,,FALSE
-en-GB,Accounting - IFRS,gross margin,,FALSE
-en-GB,Accounting - IFRS,gross margin ratio,,FALSE
-en-GB,Accounting - IFRS,gross profit,,FALSE
-en-GB,Accounting - IFRS,group,,FALSE
-en-GB,Accounting - IFRS,highlights statement,,FALSE
-en-GB,Accounting - IFRS,historical cost,,FALSE
-en-GB,Accounting - IFRS,HM Revenue and Customs,HMRC,FALSE
-en-GB,Accounting - IFRS,IAS,,FALSE
-en-GB,Accounting - IFRS,IASB,,FALSE
-en-GB,Accounting - IFRS,IASB system,,FALSE
-en-GB,Accounting - IFRS,IFRS,,FALSE
-en-GB,Accounting - IFRS,impairment,,FALSE
-en-GB,Accounting - IFRS,impairment review,,FALSE
-en-GB,Accounting - IFRS,impairment test,,FALSE
-en-GB,Accounting - IFRS,improvement,,FALSE
-en-GB,Accounting - IFRS,income statement,,FALSE
-en-GB,Accounting - IFRS,incorporation,,FALSE
-en-GB,Accounting - IFRS,indirect method,,FALSE
-en-GB,Accounting - IFRS,insider information,,FALSE
-en-GB,Accounting - IFRS,institutional investor,,FALSE
-en-GB,Accounting - IFRS,intangible,,FALSE
-en-GB,Accounting - IFRS,interest,,FALSE
-en-GB,Accounting - IFRS,interim reports,,FALSE
-en-GB,Accounting - IFRS,internal reporting,,FALSE
-en-GB,Accounting - IFRS,inventory,,FALSE
-en-GB,Accounting - IFRS,investing activities,,FALSE
-en-GB,Accounting - IFRS,investors,,FALSE
-en-GB,Accounting - IFRS,joint and several liability,,FALSE
-en-GB,Accounting - IFRS,key performance indicators,,FALSE
-en-GB,Accounting - IFRS,leasing,,FALSE
-en-GB,Accounting - IFRS,legal form,,FALSE
-en-GB,Accounting - IFRS,leverage,,FALSE
-en-GB,Accounting - IFRS,liabilities,,FALSE
-en-GB,Accounting - IFRS,limited liability,,FALSE
-en-GB,Accounting - IFRS,limited liability company,,FALSE
-en-GB,Accounting - IFRS,liquidity,,FALSE
-en-GB,Accounting - IFRS,listed company,,FALSE
-en-GB,Accounting - IFRS,listing requirements,,FALSE
-en-GB,Accounting - IFRS,Listing Rules,,FALSE
-en-GB,Accounting - IFRS,loan covenants,,FALSE
-en-GB,Accounting - IFRS,loan notes,,FALSE
-en-GB,Accounting - IFRS,loan stock,,FALSE
-en-GB,Accounting - IFRS,long-term finance,,FALSE
-en-GB,Accounting - IFRS,management,,FALSE
-en-GB,Accounting - IFRS,management accounting,,FALSE
-en-GB,Accounting - IFRS,market value,,FALSE
-en-GB,Accounting - IFRS,marking to market,,FALSE
-en-GB,Accounting - IFRS,margin,,FALSE
-en-GB,Accounting - IFRS,matching,,FALSE
-en-GB,Accounting - IFRS,material,,FALSE
-en-GB,Accounting - IFRS,materiality,,FALSE
-en-GB,Accounting - IFRS,maturity,,FALSE
-en-GB,Accounting - IFRS,maturity profile of debt,,FALSE
-en-GB,Accounting - IFRS,memorandum,,FALSE
-en-GB,Accounting - IFRS,merger,,FALSE
-en-GB,Accounting - IFRS,minority interest,,FALSE
-en-GB,Accounting - IFRS,net,,FALSE
-en-GB,Accounting - IFRS,net assets,,FALSE
-en-GB,Accounting - IFRS,net book value,,FALSE
-en-GB,Accounting - IFRS,net profit,,FALSE
-en-GB,Accounting - IFRS,net realisable value,,FALSE
-en-GB,Accounting - IFRS,neutral,,FALSE
-en-GB,Accounting - IFRS,nominal value,,FALSE
-en-GB,Accounting - IFRS,non-controlling interest,,FALSE
-en-GB,Accounting - IFRS,non-current assets,,FALSE
-en-GB,Accounting - IFRS,non-current liabilities,,FALSE
-en-GB,Accounting - IFRS,notes to the accounts,,FALSE
-en-GB,Accounting - IFRS,off-balance-sheet finance,,FALSE
-en-GB,Accounting - IFRS,offer for sale,,FALSE
-en-GB,Accounting - IFRS,operating activities,,FALSE
-en-GB,Accounting - IFRS,operating and financial review,,FALSE
-en-GB,Accounting - IFRS,operating gearing,,FALSE
-en-GB,Accounting - IFRS,operating margin,,FALSE
-en-GB,Accounting - IFRS,operating risk,,FALSE
-en-GB,Accounting - IFRS,ordinary shares,,FALSE
-en-GB,Accounting - IFRS,ownership interest,,FALSE
-en-GB,Accounting - IFRS,par value,,FALSE
-en-GB,Accounting - IFRS,parent company,,FALSE
-en-GB,Accounting - IFRS,partnership,,FALSE
-en-GB,Accounting - IFRS,partnership deed,,FALSE
-en-GB,Accounting - IFRS,partnership law,,FALSE
-en-GB,Accounting - IFRS,portfolio,,FALSE
-en-GB,Accounting - IFRS,portfolio of shares,,FALSE
-en-GB,Accounting - IFRS,preference shares,,FALSE
-en-GB,Accounting - IFRS,preliminary announcement,,FALSE
-en-GB,Accounting - IFRS,premium,,FALSE
-en-GB,Accounting - IFRS,prepayment,,FALSE
-en-GB,Accounting - IFRS,present fairly,,FALSE
-en-GB,Accounting - IFRS,price to earnings ratio,,FALSE
-en-GB,Accounting - IFRS,price-sensitive information,,FALSE
-en-GB,Accounting - IFRS,primary financial statements,,FALSE
-en-GB,Accounting - IFRS,principal,,FALSE
-en-GB,Accounting - IFRS,private limited company,Ltd,FALSE
-en-GB,Accounting - IFRS,production overhead costs,,FALSE
-en-GB,Accounting - IFRS,profit,,FALSE
-en-GB,Accounting - IFRS,profit and loss account,,FALSE
-en-GB,Accounting - IFRS,prospective investor,,FALSE
-en-GB,Accounting - IFRS,prospectus,,FALSE
-en-GB,Accounting - IFRS,provision,,FALSE
-en-GB,Accounting - IFRS,provision for doubtful debts,,FALSE
-en-GB,Accounting - IFRS,prudence,,FALSE
-en-GB,Accounting - IFRS,public limited company,PLC,FALSE
-en-GB,Accounting - IFRS,purchase method,,FALSE
-en-GB,Accounting - IFRS,purchases,,FALSE
-en-GB,Accounting - IFRS,qualified audit opinion,,FALSE
-en-GB,Accounting - IFRS,quality of earnings,,FALSE
-en-GB,Accounting - IFRS,quoted company,,FALSE
-en-GB,Accounting - IFRS,long-term liabilities,,FALSE
-en-GB,Accounting - IFRS,realised profit,,FALSE
-en-GB,Accounting - IFRS,realisation,,FALSE
-en-GB,Accounting - IFRS,recognised,,FALSE
-en-GB,Accounting - IFRS,recognition,,FALSE
-en-GB,Accounting - IFRS,Registrar of Companies,,FALSE
-en-GB,Accounting - IFRS,relevance,,FALSE
-en-GB,Accounting - IFRS,reliability,,FALSE
-en-GB,Accounting - IFRS,replacement cost,,FALSE
-en-GB,Accounting - IFRS,reserves,,FALSE
-en-GB,Accounting - IFRS,residual value,,FALSE
-en-GB,Accounting - IFRS,retained earnings,,FALSE
-en-GB,Accounting - IFRS,retained profit,,FALSE
-en-GB,Accounting - IFRS,return,,FALSE
-en-GB,Accounting - IFRS,return on capital employed,,FALSE
-en-GB,Accounting - IFRS,return on total assets,,FALSE
-en-GB,Accounting - IFRS,return on shareholders' equity,,FALSE
-en-GB,Accounting - IFRS,return,,FALSE
-en-GB,Accounting - IFRS,revaluation reserve,,FALSE
-en-GB,Accounting - IFRS,revenue,,FALSE
-en-GB,Accounting - IFRS,rights issue,,FALSE
-en-GB,Accounting - IFRS,risk,,FALSE
-en-GB,Accounting - IFRS,sales,,FALSE
-en-GB,Accounting - IFRS,sales invoice,,FALSE
-en-GB,Accounting - IFRS,secured loan,,FALSE
-en-GB,Accounting - IFRS,segmental reporting,,FALSE
-en-GB,Accounting - IFRS,share capital,,FALSE
-en-GB,Accounting - IFRS,share certificate,,FALSE
-en-GB,Accounting - IFRS,share premium,,FALSE
-en-GB,Accounting - IFRS,shareholders,,FALSE
-en-GB,Accounting - IFRS,shareholders' funds,,FALSE
-en-GB,Accounting - IFRS,shares,,FALSE
-en-GB,Accounting - IFRS,short-term finance,,FALSE
-en-GB,Accounting - IFRS,sole trader,,FALSE
-en-GB,Accounting - IFRS,specific purpose financial statements,,FALSE
-en-GB,Accounting - IFRS,stakeholders,,FALSE
-en-GB,Accounting - IFRS,statement of changes in equity,,FALSE
-en-GB,Accounting - IFRS,statement of principles,,FALSE
-en-GB,Accounting - IFRS,statement of recognised income and expense,,FALSE
-en-GB,Accounting - IFRS,statement of total recognised gains and losses,,FALSE
-en-GB,Accounting - IFRS,stepped bond,,FALSE
-en-GB,Accounting - IFRS,stewardship,,FALSE
-en-GB,Accounting - IFRS,stock,,FALSE
-en-GB,Accounting - IFRS,stock exchange,,FALSE
-en-GB,Accounting - IFRS,stock holding period,,FALSE
-en-GB,Accounting - IFRS,stock market,,FALSE
-en-GB,Accounting - IFRS,subsidiary company,,FALSE
-en-GB,Accounting - IFRS,substance,,FALSE
-en-GB,Accounting - IFRS,subtotal,,FALSE
-en-GB,Accounting - IFRS,suppliers' payment period,,FALSE
-en-GB,Accounting - IFRS,tangible fixed assets,,FALSE
-en-GB,Accounting - IFRS,timeliness,,FALSE
-en-GB,Accounting - IFRS,total assets usage,,FALSE
-en-GB,Accounting - IFRS,trade creditors,,FALSE
-en-GB,Accounting - IFRS,trade debtors,,FALSE
-en-GB,Accounting - IFRS,trade payables,,FALSE
-en-GB,Accounting - IFRS,trade receivables,,FALSE
-en-GB,Accounting - IFRS,true and fair view,,FALSE
-en-GB,Accounting - IFRS,turnover,,FALSE
-en-GB,Accounting - IFRS,UK ASB system,,FALSE
-en-GB,Accounting - IFRS,understandability,,FALSE
-en-GB,Accounting - IFRS,unlisted,,FALSE
-en-GB,Accounting - IFRS,unrealised,,FALSE
-en-GB,Accounting - IFRS,unsecured creditors,,FALSE
-en-GB,Accounting - IFRS,unsecured loan,,FALSE
-en-GB,Accounting - IFRS,value to the business,,FALSE
-en-GB,Accounting - IFRS,variance,,FALSE
-en-GB,Accounting - IFRS,working capital,,FALSE
-en-GB,Accounting - IFRS,working capital cycle,,FALSE
-en-GB,Accounting - IFRS,work-in-progress,,FALSE
-en-GB,Accounting - IFRS,written down value,,FALSE
+Term Locale,Term Category,Term,Alias,Case Sensitive
+en-GB,Accounting - IFRS,account payable,A/P,False
+en-GB,Accounting - IFRS,account receivable,A/R,False
+en-GB,Accounting - IFRS,accountancy firm,,False
+en-GB,Accounting - IFRS,accountancy profession,,False
+en-GB,Accounting - IFRS,accounting,,False
+en-GB,Accounting - IFRS,accounting equation,,False
+en-GB,Accounting - IFRS,accounting period,,False
+en-GB,Accounting - IFRS,accounting policies,,False
+en-GB,Accounting - IFRS,accounting standards,,False
+en-GB,Accounting - IFRS,Accounting Standards Board,ASB,False
+en-GB,Accounting - IFRS,accruals basis,,False
+en-GB,Accounting - IFRS,accumulated depreciation,,False
+en-GB,Accounting - IFRS,acid test,,False
+en-GB,Accounting - IFRS,acquiree,,False
+en-GB,Accounting - IFRS,acquirer,,False
+en-GB,Accounting - IFRS,acquisition,,False
+en-GB,Accounting - IFRS,acquisition method,,False
+en-GB,Accounting - IFRS,administrative expenses,,False
+en-GB,Accounting - IFRS,agency,,False
+en-GB,Accounting - IFRS,agency theory,,False
+en-GB,Accounting - IFRS,aggregate depreciation,,False
+en-GB,Accounting - IFRS,allocate,,False
+en-GB,Accounting - IFRS,allocated,,False
+en-GB,Accounting - IFRS,amortisation,,False
+en-GB,Accounting - IFRS,annual report,,False
+en-GB,Accounting - IFRS,articles of association,,False
+en-GB,Accounting - IFRS,articulation,,False
+en-GB,Accounting - IFRS,assets,,False
+en-GB,Accounting - IFRS,associated company,,False
+en-GB,Accounting - IFRS,audit,,False
+en-GB,Accounting - IFRS,audit manager,,False
+en-GB,Accounting - IFRS,bad debt,,False
+en-GB,Accounting - IFRS,balance sheet,,False
+en-GB,Accounting - IFRS,bank facility,,False
+en-GB,Accounting - IFRS,bond,,False
+en-GB,Accounting - IFRS,broker,stockbroker,False
+en-GB,Accounting - IFRS,broker's report,,False
+en-GB,Accounting - IFRS,business combination,,False
+en-GB,Accounting - IFRS,business cycle,,False
+en-GB,Accounting - IFRS,business entity,,False
+en-GB,Accounting - IFRS,called up,,False
+en-GB,Accounting - IFRS,capital,,False
+en-GB,Accounting - IFRS,capital expenditure,,False
+en-GB,Accounting - IFRS,capitalisation issue,,False
+en-GB,Accounting - IFRS,cash,,False
+en-GB,Accounting - IFRS,cash equivalents,,False
+en-GB,Accounting - IFRS,cash flow projections,,False
+en-GB,Accounting - IFRS,cash flow statement,,False
+en-GB,Accounting - IFRS,chairman,,False
+en-GB,Accounting - IFRS,charge,,False
+en-GB,Accounting - IFRS,chief executive,CEO,False
+en-GB,Accounting - IFRS,close season,,False
+en-GB,Accounting - IFRS,commercial paper,,False
+en-GB,Accounting - IFRS,Companies Act,,False
+en-GB,Accounting - IFRS,comparability,,False
+en-GB,Accounting - IFRS,completeness,,False
+en-GB,Accounting - IFRS,conceptual framework,,False
+en-GB,Accounting - IFRS,conservatism,,False
+en-GB,Accounting - IFRS,consistency,,False
+en-GB,Accounting - IFRS,consolidated financial statements,,False
+en-GB,Accounting - IFRS,consolidation,,False
+en-GB,Accounting - IFRS,contingent liabilities,,False
+en-GB,Accounting - IFRS,control,,False
+en-GB,Accounting - IFRS,convertible loan,,False
+en-GB,Accounting - IFRS,corporate governance,,False
+en-GB,Accounting - IFRS,corporate recovery department,,False
+en-GB,Accounting - IFRS,corporate social responsibility,,False
+en-GB,Accounting - IFRS,corporation tax,,False
+en-GB,Accounting - IFRS,cost,,False
+en-GB,Accounting - IFRS,cost of goods sold,COGS,False
+en-GB,Accounting - IFRS,cost of sales,COS,False
+en-GB,Accounting - IFRS,coupon,,False
+en-GB,Accounting - IFRS,credit,,False
+en-GB,Accounting - IFRS,credit note,,False
+en-GB,Accounting - IFRS,credit purchase,,False
+en-GB,Accounting - IFRS,credit sale,,False
+en-GB,Accounting - IFRS,creditor,,False
+en-GB,Accounting - IFRS,critical event,,False
+en-GB,Accounting - IFRS,current asset,,False
+en-GB,Accounting - IFRS,current liability,,False
+en-GB,Accounting - IFRS,current value,,False
+en-GB,Accounting - IFRS,customers' collection period,,False
+en-GB,Accounting - IFRS,cut-off procedures,,False
+en-GB,Accounting - IFRS,debenture,,False
+en-GB,Accounting - IFRS,debtor,,False
+en-GB,Accounting - IFRS,deep discount bond,,False
+en-GB,Accounting - IFRS,default,,False
+en-GB,Accounting - IFRS,deferred asset,,False
+en-GB,Accounting - IFRS,deferred income,,False
+en-GB,Accounting - IFRS,deferred taxation,,False
+en-GB,Accounting - IFRS,depreciable amount,,False
+en-GB,Accounting - IFRS,depreciation,,False
+en-GB,Accounting - IFRS,derecognition,,False
+en-GB,Accounting - IFRS,difference on consolidation,,False
+en-GB,Accounting - IFRS,direct method,,False
+en-GB,Accounting - IFRS,Directive,,False
+en-GB,Accounting - IFRS,director,,False
+en-GB,Accounting - IFRS,disclosed,,False
+en-GB,Accounting - IFRS,discount received,,False
+en-GB,Accounting - IFRS,dividend,,False
+en-GB,Accounting - IFRS,dividend cover,,False
+en-GB,Accounting - IFRS,dividend yield,,False
+en-GB,Accounting - IFRS,doubtful debts,,False
+en-GB,Accounting - IFRS,drawings,,False
+en-GB,Accounting - IFRS,earnings for ordinary shareholders,,False
+en-GB,Accounting - IFRS,earnings per share,,False
+en-GB,Accounting - IFRS,effective interest rate,,False
+en-GB,Accounting - IFRS,efficient markets hypothesis,,False
+en-GB,Accounting - IFRS,endorsed,,False
+en-GB,Accounting - IFRS,endorsement,,False
+en-GB,Accounting - IFRS,enterprise,,False
+en-GB,Accounting - IFRS,entity,,False
+en-GB,Accounting - IFRS,entry price,,False
+en-GB,Accounting - IFRS,equities analyst,,False
+en-GB,Accounting - IFRS,equity,,False
+en-GB,Accounting - IFRS,equity accounting,,False
+en-GB,Accounting - IFRS,equity interest,,False
+en-GB,Accounting - IFRS,equity portfolio,,False
+en-GB,Accounting - IFRS,equity shares,,False
+en-GB,Accounting - IFRS,eurobond market,,False
+en-GB,Accounting - IFRS,exit price,,False
+en-GB,Accounting - IFRS,exit value,,False
+en-GB,Accounting - IFRS,expense,,False
+en-GB,Accounting - IFRS,external reporting,,False
+en-GB,Accounting - IFRS,external users,,False
+en-GB,Accounting - IFRS,fair value,,False
+en-GB,Accounting - IFRS,faithful presentation,,False
+en-GB,Accounting - IFRS,financial accounting,,False
+en-GB,Accounting - IFRS,financial adaptability,,False
+en-GB,Accounting - IFRS,financial gearing,,False
+en-GB,Accounting - IFRS,financial information,,False
+en-GB,Accounting - IFRS,Financial Reporting Standard,,False
+en-GB,Accounting - IFRS,financial risk,,False
+en-GB,Accounting - IFRS,financial statements,,False
+en-GB,Accounting - IFRS,financial viability,,False
+en-GB,Accounting - IFRS,financing activities,,False
+en-GB,Accounting - IFRS,fixed asset,,False
+en-GB,Accounting - IFRS,fixed assets,,False
+en-GB,Accounting - IFRS,fixed assets usage,,False
+en-GB,Accounting - IFRS,fixed capital,,False
+en-GB,Accounting - IFRS,fixed cost,,False
+en-GB,Accounting - IFRS,floating charge,,False
+en-GB,Accounting - IFRS,forecast,,False
+en-GB,Accounting - IFRS,format,,False
+en-GB,Accounting - IFRS,forward exchange contract,,False
+en-GB,Accounting - IFRS,fully paid,,False
+en-GB,Accounting - IFRS,fund manager,,False
+en-GB,Accounting - IFRS,gearing,,False
+en-GB,Accounting - IFRS,general purpose financial statements,,False
+en-GB,Accounting - IFRS,going concern basis,,False
+en-GB,Accounting - IFRS,goodwill,,False
+en-GB,Accounting - IFRS,gross,,False
+en-GB,Accounting - IFRS,gross margin,,False
+en-GB,Accounting - IFRS,gross margin ratio,,False
+en-GB,Accounting - IFRS,gross profit,,False
+en-GB,Accounting - IFRS,group,,False
+en-GB,Accounting - IFRS,highlights statement,,False
+en-GB,Accounting - IFRS,historical cost,,False
+en-GB,Accounting - IFRS,HM Revenue and Customs,HMRC,False
+en-GB,Accounting - IFRS,IAS,,False
+en-GB,Accounting - IFRS,IASB,,False
+en-GB,Accounting - IFRS,IASB system,,False
+en-GB,Accounting - IFRS,IFRS,,False
+en-GB,Accounting - IFRS,impairment,,False
+en-GB,Accounting - IFRS,impairment review,,False
+en-GB,Accounting - IFRS,impairment test,,False
+en-GB,Accounting - IFRS,improvement,,False
+en-GB,Accounting - IFRS,income statement,,False
+en-GB,Accounting - IFRS,incorporation,,False
+en-GB,Accounting - IFRS,indirect method,,False
+en-GB,Accounting - IFRS,insider information,,False
+en-GB,Accounting - IFRS,institutional investor,,False
+en-GB,Accounting - IFRS,intangible,,False
+en-GB,Accounting - IFRS,interest,,False
+en-GB,Accounting - IFRS,interim reports,,False
+en-GB,Accounting - IFRS,internal reporting,,False
+en-GB,Accounting - IFRS,inventory,,False
+en-GB,Accounting - IFRS,investing activities,,False
+en-GB,Accounting - IFRS,investors,,False
+en-GB,Accounting - IFRS,joint and several liability,,False
+en-GB,Accounting - IFRS,key performance indicators,,False
+en-GB,Accounting - IFRS,leasing,,False
+en-GB,Accounting - IFRS,legal form,,False
+en-GB,Accounting - IFRS,leverage,,False
+en-GB,Accounting - IFRS,liabilities,,False
+en-GB,Accounting - IFRS,limited liability,,False
+en-GB,Accounting - IFRS,limited liability company,,False
+en-GB,Accounting - IFRS,liquidity,,False
+en-GB,Accounting - IFRS,listed company,,False
+en-GB,Accounting - IFRS,listing requirements,,False
+en-GB,Accounting - IFRS,Listing Rules,,False
+en-GB,Accounting - IFRS,loan covenants,,False
+en-GB,Accounting - IFRS,loan notes,,False
+en-GB,Accounting - IFRS,loan stock,,False
+en-GB,Accounting - IFRS,long-term finance,,False
+en-GB,Accounting - IFRS,management,,False
+en-GB,Accounting - IFRS,management accounting,,False
+en-GB,Accounting - IFRS,market value,,False
+en-GB,Accounting - IFRS,marking to market,,False
+en-GB,Accounting - IFRS,margin,,False
+en-GB,Accounting - IFRS,matching,,False
+en-GB,Accounting - IFRS,material,,False
+en-GB,Accounting - IFRS,materiality,,False
+en-GB,Accounting - IFRS,maturity,,False
+en-GB,Accounting - IFRS,maturity profile of debt,,False
+en-GB,Accounting - IFRS,memorandum,,False
+en-GB,Accounting - IFRS,merger,,False
+en-GB,Accounting - IFRS,minority interest,,False
+en-GB,Accounting - IFRS,net,,False
+en-GB,Accounting - IFRS,net assets,,False
+en-GB,Accounting - IFRS,net book value,,False
+en-GB,Accounting - IFRS,net profit,,False
+en-GB,Accounting - IFRS,net realisable value,,False
+en-GB,Accounting - IFRS,neutral,,False
+en-GB,Accounting - IFRS,nominal value,,False
+en-GB,Accounting - IFRS,non-controlling interest,,False
+en-GB,Accounting - IFRS,non-current assets,,False
+en-GB,Accounting - IFRS,non-current liabilities,,False
+en-GB,Accounting - IFRS,notes to the accounts,,False
+en-GB,Accounting - IFRS,off-balance-sheet finance,,False
+en-GB,Accounting - IFRS,offer for sale,,False
+en-GB,Accounting - IFRS,operating activities,,False
+en-GB,Accounting - IFRS,operating and financial review,,False
+en-GB,Accounting - IFRS,operating gearing,,False
+en-GB,Accounting - IFRS,operating margin,,False
+en-GB,Accounting - IFRS,operating risk,,False
+en-GB,Accounting - IFRS,ordinary shares,,False
+en-GB,Accounting - IFRS,ownership interest,,False
+en-GB,Accounting - IFRS,par value,,False
+en-GB,Accounting - IFRS,parent company,,False
+en-GB,Accounting - IFRS,partnership,,False
+en-GB,Accounting - IFRS,partnership deed,,False
+en-GB,Accounting - IFRS,partnership law,,False
+en-GB,Accounting - IFRS,portfolio,,False
+en-GB,Accounting - IFRS,portfolio of shares,,False
+en-GB,Accounting - IFRS,preference shares,,False
+en-GB,Accounting - IFRS,preliminary announcement,,False
+en-GB,Accounting - IFRS,premium,,False
+en-GB,Accounting - IFRS,prepayment,,False
+en-GB,Accounting - IFRS,present fairly,,False
+en-GB,Accounting - IFRS,price to earnings ratio,,False
+en-GB,Accounting - IFRS,price-sensitive information,,False
+en-GB,Accounting - IFRS,primary financial statements,,False
+en-GB,Accounting - IFRS,principal,,False
+en-GB,Accounting - IFRS,private limited company,Ltd,False
+en-GB,Accounting - IFRS,production overhead costs,,False
+en-GB,Accounting - IFRS,profit,,False
+en-GB,Accounting - IFRS,profit and loss account,,False
+en-GB,Accounting - IFRS,prospective investor,,False
+en-GB,Accounting - IFRS,prospectus,,False
+en-GB,Accounting - IFRS,provision,,False
+en-GB,Accounting - IFRS,provision for doubtful debts,,False
+en-GB,Accounting - IFRS,prudence,,False
+en-GB,Accounting - IFRS,public limited company,PLC,False
+en-GB,Accounting - IFRS,purchase method,,False
+en-GB,Accounting - IFRS,purchases,,False
+en-GB,Accounting - IFRS,qualified audit opinion,,False
+en-GB,Accounting - IFRS,quality of earnings,,False
+en-GB,Accounting - IFRS,quoted company,,False
+en-GB,Accounting - IFRS,long-term liabilities,,False
+en-GB,Accounting - IFRS,realised profit,,False
+en-GB,Accounting - IFRS,realisation,,False
+en-GB,Accounting - IFRS,recognised,,False
+en-GB,Accounting - IFRS,recognition,,False
+en-GB,Accounting - IFRS,Registrar of Companies,,False
+en-GB,Accounting - IFRS,relevance,,False
+en-GB,Accounting - IFRS,reliability,,False
+en-GB,Accounting - IFRS,replacement cost,,False
+en-GB,Accounting - IFRS,reserves,,False
+en-GB,Accounting - IFRS,residual value,,False
+en-GB,Accounting - IFRS,retained earnings,,False
+en-GB,Accounting - IFRS,retained profit,,False
+en-GB,Accounting - IFRS,return,,False
+en-GB,Accounting - IFRS,return on capital employed,,False
+en-GB,Accounting - IFRS,return on total assets,,False
+en-GB,Accounting - IFRS,return on shareholders' equity,,False
+en-GB,Accounting - IFRS,return,,False
+en-GB,Accounting - IFRS,revaluation reserve,,False
+en-GB,Accounting - IFRS,revenue,,False
+en-GB,Accounting - IFRS,rights issue,,False
+en-GB,Accounting - IFRS,risk,,False
+en-GB,Accounting - IFRS,sales,,False
+en-GB,Accounting - IFRS,sales invoice,,False
+en-GB,Accounting - IFRS,secured loan,,False
+en-GB,Accounting - IFRS,segmental reporting,,False
+en-GB,Accounting - IFRS,share capital,,False
+en-GB,Accounting - IFRS,share certificate,,False
+en-GB,Accounting - IFRS,share premium,,False
+en-GB,Accounting - IFRS,shareholders,,False
+en-GB,Accounting - IFRS,shareholders' funds,,False
+en-GB,Accounting - IFRS,shares,,False
+en-GB,Accounting - IFRS,short-term finance,,False
+en-GB,Accounting - IFRS,sole trader,,False
+en-GB,Accounting - IFRS,specific purpose financial statements,,False
+en-GB,Accounting - IFRS,stakeholders,,False
+en-GB,Accounting - IFRS,statement of changes in equity,,False
+en-GB,Accounting - IFRS,statement of principles,,False
+en-GB,Accounting - IFRS,statement of recognised income and expense,,False
+en-GB,Accounting - IFRS,statement of total recognised gains and losses,,False
+en-GB,Accounting - IFRS,stepped bond,,False
+en-GB,Accounting - IFRS,stewardship,,False
+en-GB,Accounting - IFRS,stock,,False
+en-GB,Accounting - IFRS,stock exchange,,False
+en-GB,Accounting - IFRS,stock holding period,,False
+en-GB,Accounting - IFRS,stock market,,False
+en-GB,Accounting - IFRS,subsidiary company,,False
+en-GB,Accounting - IFRS,substance,,False
+en-GB,Accounting - IFRS,subtotal,,False
+en-GB,Accounting - IFRS,suppliers' payment period,,False
+en-GB,Accounting - IFRS,tangible fixed assets,,False
+en-GB,Accounting - IFRS,timeliness,,False
+en-GB,Accounting - IFRS,total assets usage,,False
+en-GB,Accounting - IFRS,trade creditors,,False
+en-GB,Accounting - IFRS,trade debtors,,False
+en-GB,Accounting - IFRS,trade payables,,False
+en-GB,Accounting - IFRS,trade receivables,,False
+en-GB,Accounting - IFRS,true and fair view,,False
+en-GB,Accounting - IFRS,turnover,,False
+en-GB,Accounting - IFRS,UK ASB system,,False
+en-GB,Accounting - IFRS,understandability,,False
+en-GB,Accounting - IFRS,unlisted,,False
+en-GB,Accounting - IFRS,unrealised,,False
+en-GB,Accounting - IFRS,unsecured creditors,,False
+en-GB,Accounting - IFRS,unsecured loan,,False
+en-GB,Accounting - IFRS,value to the business,,False
+en-GB,Accounting - IFRS,variance,,False
+en-GB,Accounting - IFRS,working capital,,False
+en-GB,Accounting - IFRS,working capital cycle,,False
+en-GB,Accounting - IFRS,work-in-progress,,False
+en-GB,Accounting - IFRS,written down value,,False

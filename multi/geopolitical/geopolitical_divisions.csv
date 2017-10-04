@@ -322,41 +322,85 @@ Entity ID,Entity Category,Entity Name,German Name,Spanish Name,French Name,ISO-3
 321,Australian States,Tasmania,Tasmanien,Tasmania,Tasmanie,AU-TAS,,TAS
 322,Australian States,Victoria,Victoria,Victoria,Victoria,AU-VIC,,VIC
 323,Australian States,Western Australia,West-Australien,Western Australia,Australie occidentale,AU-WA,,WA
-324,French States,Alsace,Elsass,Alsacia,Alsace,,,AA
-325,French States,Aquitaine,Aquitaine,Aquitania,Aquitaine,,,AQ
-326,French States,Auvergne,Auvergne,Auvernia,Auvergne,,,AU
-327,French States,Brittany,Bretagne,Bretaña,Bretagne,FR-BRE,,BT
-328,French States,Burgundy,Burgund,borgoña,Bourgogne,,,BG
-329,French States,Centre,Zentrum,Centrar,Centre,,,CN
-330,French States,Champagne-Ardenne,Champagne-Ardenne,Champaña-Ardenas,Champagne-Ardenne,,,CG
-331,French States,Corsica,Korsika,Córcega,la Corse,,,CE
-332,French States,Franche-Comte,Franche-Comte,Franco Condado,Franche-Comte,,,FC
-333,French States,Ile-de-France,Ile-de-France,Ile de France,Ile-de-France,FR-IDF,,IF
-334,French States,Languedoc-Roussillon,Languedoc-Roussillon,Languedoc-Roussillon,Languedoc-Roussillon,,,LU
-335,French States,Limousin,Limousin,Limousin,Limousin,,,LM
-336,French States,Lorraine,Lorraine,Lorena,Lorraine,,,LE
-337,French States,Lower Normandy,Basse Normandie,Baja Normandía,Basse Normandie,,,BN
-338,French States,Midi-Pyrenees,Midi-Pyrenees,Midi-Pyrénées,Midi-Pyrenees,,,MP
-339,French States,Nord-Pas-des-Calais,Nord-Pas-of-Calais,Nord-Pas-de-Calais,Nord-Pas-des-Calais,,,NP
-340,French States,Pays de la Loire,Loire,País del Loira,Pays de la Loire,FR-PDL,,PL
-341,French States,Picardy,Picardie,Picardy,Picardie,,,PI
-342,French States,Poitou-Charentes,Poitou-Charentes,Poitou-Charentes,Poitou-Charentes,,,PT
-343,French States,Provence-Alpes-Cote d'Azur,Provence-Alpes-Côte d'Azur,Provenza-Alpes-Costa Azul,Provence-Alpes-Cote d'Azur,FR-PAC,,PR
-344,French States,Rhone-Alpes,Rhone-Alpes,Rhone-Alpes,Rhone-Alpes,,,RA
-345,French States,Upper Normandy,Haute-Normandie,Alta Normandía,Haute-Normandie,,,HT
-346,German States,Baden-Wurttemberg,Baden-Wurttemberg; Baden-Württemberg,Baden-Wurttemberg,Bade-Wurtemberg,DE-BW,,BW; Baden-Württemberg
-347,German States,Bavaria,Bavaria; Bayern,Baviera,Bavière,DE-BY,,BY
-348,German States,Berlin,Berlin,Berlín,Berlin,DE-BE,,BE
-349,German States,Bremen,Bremen,Bremen,Brême,DE-HB,,HB
-350,German States,Hamburg,Hamburg,Hamburgo,Hambourg,DE-HH,,HH
-351,German States,Hesse,Hesse; Hessen,Hesse,Hesse,DE-HE,,HE
-352,German States,Lower Saxony,Niedersachsen,Baja sajonia,Basse-Saxe,DE-NI,,NI
-353,German States,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern; McPom,Mecklenburg-Vorpommern,Mecklembourg-Poméranie-Occidentale,DE-MV,,"MV; Mecklenburg-West Pomerania; Meck-Pomm"""
-354,German States,North Rhine-Westphalia,Nordrhein-Westfalen,Norte de Rhine-Westphalia,Rhénanie du Nord-Westphalie,DE-NW,,NW
-355,German States,Rhineland-Palatinate,Rheinland-Pfalz,Renania-Palatinado,Rhénanie-Palatinat,DE-RP,,RP
-356,German States,Saarland,Saarland,Sarre,Sarre,DE-SL,,SL
-357,German States,Saxony,Sachsen,Sajonia,Saxe,DE-SN,,SN
-358,German States,Saxony-Anhalt,Sachsen-anhalt,Sajonia-Anhalt,Saxe-Anhalt,DE-ST,,ST
-359,German States,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,DE-SH,,SH
-360,German States,Thuringia,Thüringen,Turingia,Thuringe,DE-TH,,TH
-361,German States,Brandenburg,Brandenburg,Brandeburgo; Brandemburgo,Brandebourg,DE-BB,,BB
+324,French States,Great East,Großer Osten,Gran Este,Grand Est,FR-GES,,Grand Est; ACAL; ALCA; Alsace-Champagne-Ardenne-Lorraine
+325,French States,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Auvernia-Ródano-Alpes,Auvergne-Rhône-Alpes; Ôvèrgne-Rôno-Ârpes; Auvèrnhe Ròse Aups,FR-ARA,,ARA
+326,French States,Brittany,Bretagne,Bretaña,Bretagne,FR-BRE,,BRE
+327,French States,Bourgogne-Franche-Comté,Burgund-Freigrafschaft,Borgoña-Franco Condado,La Bourgogne-Franche-Comté,FR-BFC,,BFC
+328,French States,Centre-Loire Valley,Zentrum-Loiretal,Centro-Valle de Loira,Centre-Val de Loire,FR-CVL,,CVL
+329,French States,Corsica,Korsika,Córcega,la Corse,FR-COR,,COR
+330,French States,New Aquitaine,Neu-Aquitanien,Nueva Aquitania,Nouvelle-Aquitaine; Nòva Aquitània; Akitania Berria; Novéle-Aguiéne,FR-NAQ,,Nouvelle-Aquitaine; NAQ
+331,French States,Ile-de-France,Ile-de-France,Ile de France,Ile-de-France,FR-IDF,,IDF
+332,French States,Occitanie,Okzitanien,Occitania; Occitània,Occitanie; Occitània,FR-OCC,,OCC
+333,French States,Normandy,Normandie,Normandía,Normandie; Normaundie,FR-NOR,,NOR
+334,French States,Hauts-de-France,Hauts-de-France,Alta Francia,Hauts-de-France,FR-HDF,,Upper France; HDF
+335,French States,Pays de la Loire,Loire,País del Loira,Pays de la Loire,FR-PDL,,PDL
+336,French States,Provence-Alpes-Cote d'Azur,Provence-Alpes-Côte d'Azur,Provenza-Alpes-Costa Azul,Provence-Alpes-Cote d'Azur,FR-PAC,,PAC
+337,German States,Baden-Wurttemberg,Baden-Wurttemberg; Baden-Württemberg,Baden-Wurttemberg,Bade-Wurtemberg,DE-BW,,BW; Baden-Württemberg
+338,German States,Bavaria,Bavaria; Bayern,Baviera,Bavière,DE-BY,,BY
+339,German States,Berlin,Berlin,Berlín,Berlin,DE-BE,,BE
+340,German States,Bremen,Bremen,Bremen,Brême,DE-HB,,HB
+341,German States,Hamburg,Hamburg,Hamburgo,Hambourg,DE-HH,,HH
+342,German States,Hesse,Hesse; Hessen,Hesse,Hesse,DE-HE,,HE
+343,German States,Lower Saxony,Niedersachsen,Baja sajonia,Basse-Saxe,DE-NI,,NI
+344,German States,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern; McPom,Mecklenburg-Vorpommern,Mecklembourg-Poméranie-Occidentale,DE-MV,,MV; Mecklenburg-West Pomerania; Meck-Pomm
+345,German States,North Rhine-Westphalia,Nordrhein-Westfalen,Norte de Rhine-Westphalia,Rhénanie du Nord-Westphalie,DE-NW,,NW
+346,German States,Rhineland-Palatinate,Rheinland-Pfalz,Renania-Palatinado,Rhénanie-Palatinat,DE-RP,,RP
+347,German States,Saarland,Saarland,Sarre,Sarre,DE-SL,,SL
+348,German States,Saxony,Sachsen,Sajonia,Saxe,DE-SN,,SN
+349,German States,Saxony-Anhalt,Sachsen-anhalt,Sajonia-Anhalt,Saxe-Anhalt,DE-ST,,ST
+350,German States,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Holstein,DE-SH,,SH
+351,German States,Thuringia,Thüringen,Turingia,Thuringe,DE-TH,,TH
+352,German States,Brandenburg,Brandenburg,Brandeburgo; Brandemburgo,Brandebourg,DE-BB,,BB
+353,Spanish Autonomies,Andalusia,Andalusien,Andalucía,Andalucía; Andalousie,ES-AN,,AN
+354,Spanish Autonomies,Aragon,Aragonien,Aragón,Aragón,ES-AR,,AR
+355,Spanish Autonomies,Asturias,Asturien,Principado de Asturias,Principado de Asturias; Principauté des Asturies,ES-AS,,AS; Principality of Asturias
+356,Spanish Autonomies,Balearic Islands,Balearische Inseln,Illes Balears; Islas Baleares,Illes Balears; Islas Baleares; Îles Baléares,ES-IB,,IB
+357,Spanish Autonomies,Basque Country,Baskenland,País Vasco; Euskal Herria,País Vasco; Euskal Herria; Pays basque,ES-PV,,PV
+358,Spanish Autonomies,Canary Islands,Kanarische Inseln,Canarias,Canarias; Îles Canaries,ES-CN,,CN; The Canaries
+359,Spanish Autonomies,Cantabria,Kantabrien,Cantabria,Cantabria; Cantabrie,ES-CB,,CB
+360,Spanish Autonomies,Castile and León,Kastilien und León,Castilla y León,Castilla y León; Castille-et-León,ES-CL,,CL
+361,Spanish Autonomies,Castilla-La Mancha,Kastilien-La Mancha,Castilla-La Mancha,Castilla-La Mancha; Castille-La Manche,ES-CM,,CM; Castile–La Mancha
+362,Spanish Autonomies,Catalonia,Katalonien,Catalunya; Cataluña,Catalunya; Cataluña; Catalogne,ES-CT,,CT
+363,Spanish Autonomies,Community of Madrid,Madrid,Comunidad de Madrid,Comunidad de Madrid; Communauté de Madrid,ES-MD,,M
+364,Spanish Autonomies,Extremadura,Extremadura,Extremadura,Extremadura; Estremaura; Estrémadure,ES-EX,,EX
+365,Spanish Autonomies,Galicia,Galicien,Galicia,Galicia; Galice,ES-GA,,GA
+366,Spanish Autonomies,La Rioja,La Rioja,La Rioja,La Rioja,ES-RI,,LO
+367,Spanish Autonomies,Navarre,Navarra,Comunidad Foral de Navarra; Nafarroako Foru Komunitatea,Comunidad Foral de Navarra; Nafarroako Foru Komunitatea; Communauté forale de Navarre,ES-NC,,NA; Chartered Community of Navarre
+368,Spanish Autonomies,Region of Murcia,Murcia,Región de Murcia,Región de Murcia; Région de Murcie,ES-MC,,MC
+369,Spanish Autonomies,Valencian Community,Valencia,Comunidad Valenciana; Comunitat Valenciana,Comunidad Valenciana; Comunitat Valenciana; Communauté Valencienne,ES-VC,,VC; Valencian Country
+370,Chinese Provinces,Hebei,Hebei,Hebei,Hebei,CN-13,,HE; HEB; Héběi; Hopeh; Jì
+371,Chinese Provinces,Shanxi,Shanxi,Shanxi,Shanxi,CN-14,,SX; Shānxī; Jìn
+372,Chinese Provinces,Liaoning,Liaoning,Liaoning,Liaoning,CN-21,,LN; Liáoníng; Liáoníng Shěng; Liáo
+373,Chinese Provinces,Jilin,Jilin,Jilin,Jilin,CN-22,,JL; Jílín; Jílín Shěng; Kirin
+374,Chinese Provinces,Heilongjiang,Heilongjiang,Heilongjiang,Heilongjiang,CN-23,,HL; Hēilóngjiāng; Hēilóngjiāng Shěng; Hēi
+375,Chinese Provinces,Jiangsu,Jiangsu,Jiangsu,Jiangsu,CN-32,,JS; Sū; Jiāngsū; Jiāngsū Shěng; Kiangsu; Kaonsu San
+376,Chinese Provinces,Zhejiang,Zhejiang,Zhejiang,Zhejiang,CN-33,,ZJ: Zhè; Zhèjiāng Shěng; Chekiang; Tsehkaon San
+377,Chinese Provinces,Anhui,Anhui,Anhui,Anhui,CN-34,,AH; Wǎn; Ānhuī Shěng; Ānhuī
+378,Chinese Provinces,Fujian,Fujian,Fujian,Fujian,CN-35,,FJ; Mǐn; Bân; Fújiàn; Fújiàn Shěng; Foken; Fouken; Fukien; Hokkien; Hok-kiàn; Hók-gióng
+379,Chinese Provinces,Jiangxi,Jiangxi,Jiangxi,Jiangxi,CN-36,,JX; Jiāngxī; Jiāngxī Shěng; Kongsi; Gong Si Sen; Chiang-hsi
+380,Chinese Provinces,Shandong,Shandong,Shandong,Shandong,CN-37,,SD; Lǔ; Shāndōng Shěng; Shantung
+381,Chinese Provinces,Henan,Henan,Henan,Henan,CN-41,,HA; HEN; Yù; Hénán Shěn;  Zhongyuan; Zhongzhou
+382,Chinese Provinces,Hubei,Hubei,Hubei,Hubei,CN-42,,HB; È; Húběi Shěng
+383,Chinese Provinces,Hunan,Hunan,Hunan,Hunan,CN-43,,HN; Xiāng; Húnán Shěng; Húnán; Shuangfeng; Changsha
+384,Chinese Provinces,Guangdong,Guangdong,Guangdong,Guangdong,CN-44,,GD; Yuè; Jyut; Guǎngdōng Shěng; Canton; Kwangtung
+385,Chinese Provinces,Hainan,Hainan,Hainan,Hainan,CN-46,,HI; Qióng; khêng; king; Hǎinán Shěng
+386,Chinese Provinces,Sichuan,Sichuan,Sichuan,Sichuan,CN-51,,SC; Chuān; Shǔ; Cuan; Su; Si cuan Sen; Sìchuān Shěng; Szechuan
+387,Chinese Provinces,Guizhou,Guizhou,Guizhou,Guizhou,CN-52,,GZ; Qián; Guì; Guìzhōu Shěng
+388,Chinese Provinces,Yunnan,Yunnan,Yunnan,Yunnan,CN-53,,YN; Diān; Yún; Yúnnán Shěng
+389,Chinese Provinces,Shaanxi,Shaanxi,Shaanxi,Shaanxi,CN-61,,SN; Shǎn; Qín; Shǎnxī Shěng
+390,Chinese Provinces,Gansu,Gansu,Gansu,Gansu,CN-62,,GS; Gān; Lǒng; Gānsù Shěng; Kan su'u
+391,Chinese Provinces,Qinghai,Qinghai,Qinghai,Qinghai,CN-63,,QH; Qīng; Qīnghǎi Shěng; Kokonur
+392,Chinese Provinces,Taiwan,Taiwan,Taiwan,Taïwan,CN-71,,TW; Tái; Tâi-oân-séng; Thòi-vàn-sén; Táiwān shěng; Taiwan Province; Taiwan Region; Taiwan Area
+393,UK Countries/Provinces,England,England,Inglaterra,L'Angleterre; Angleterre,GB-ENG,,
+394,UK Countries/Provinces,Northern Ireland,Nordirland,Irlanda del Norte,Irlande du Nord,GB-NIR,,
+395,UK Countries/Provinces,Wales,Wales,Gales,Pays de Galles,GB-WLS,,
+396,UK Countries/Provinces,Scotland,Schottland,Escocia,Écosse,GB-SCT,,
+397,England Region,North East England,Nordostengland,Nordeste de Inglaterra,Angleterre du Nord-Est,,,
+398,England Region,East Midlands,Östliche Midlands,Midlands del este,Midlands de l'Est,,,
+399,England Region,Yorkshire and the Humber,Yorkshire und Humbergegend,Yorkshire y Humber,Yorkshire-et-Humber ,,,
+400,England Region,South West England,Südwestengland,Sudoeste de Inglaterra,Angleterre du Sud-Ouest ,,,
+401,England Region,West Midlands,Westliche Midlands,Midlands del Oeste,Midlands de l'Ouest,,,
+402,England Region,East of England,Ostengland,Este de Inglaterra,Angleterre de l'Est,,,
+403,England Region,North West England,Nordwestengland,Noroeste de Inglaterra,Angleterre du Nord-Ouest,,,
+404,England Region,Greater London,Groß-London,Gran Londres,Grand Londres,,,
+405,England Region,South East England,Südostengland,Sudeste de Inglaterra,Angleterre du Sud-Est,,,

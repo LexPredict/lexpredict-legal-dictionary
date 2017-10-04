@@ -1,337 +1,337 @@
 Term Locale,Term Category,Term,Alias,Case Sensitive
-en-GB,Accounting - UK GAAP,Actuarial Association of Europe,AAE,FALSE
-en-GB,Accounting - UK GAAP,Association of British Insurers,ABI,FALSE
-en-GB,Accounting - UK GAAP,Association of Consulting Actuaries,ACA,FALSE
-en-GB,Accounting - UK GAAP,Association of Chartered Certified Accountants,ACCA,FALSE
-en-GB,Accounting - UK GAAP,Actuarial Profession Standard,APS,FALSE
-en-GB,Accounting - UK GAAP,Actuarial Stakeholder Group,ASG,FALSE
-en-GB,Accounting - UK GAAP,Actuarial Standard Technical Memorandum 1,AS TM1,FALSE
-en-GB,Accounting - UK GAAP,"Department for Business, Innovation and Skills",BIS,FALSE
-en-GB,Accounting - UK GAAP,Consultative Committee of Accountancy Bodies,CCAB,FALSE
-en-GB,Accounting - UK GAAP,Committee of European Insurance and Occupational Pension Supervisors,CEIOPS,FALSE
-en-GB,Accounting - UK GAAP,Committee of European Securities Regulators,CESR,FALSE
-en-GB,Accounting - UK GAAP,Chartered Institute of Management Accountants,CIMA,FALSE
-en-GB,Accounting - UK GAAP,Chartered Institute of Public Finance and Accountancy,CIPFA,FALSE
-en-GB,Accounting - UK GAAP,Continuing Professional Development,CPD,FALSE
-en-GB,Accounting - UK GAAP,European Enforcers Coordination Sessions,EECS,FALSE
-en-GB,Accounting - UK GAAP,Department for Work and Pensions,DWP,FALSE
-en-GB,Accounting - UK GAAP,European Banking Authority,EBA,FALSE
-en-GB,Accounting - UK GAAP,European Central Bank,ECB,FALSE
-en-GB,Accounting - UK GAAP,European Financial Reporting Advisory Group,EFRAG,FALSE
-en-GB,Accounting - UK GAAP,European Group of Auditors’ Oversight Bodies,EGAOB,FALSE
-en-GB,Accounting - UK GAAP,European Insurance and Occupational Pensions Authority,EIOPA,FALSE
-en-GB,Accounting - UK GAAP,Ethical Standard,ES,FALSE
-en-GB,Accounting - UK GAAP,European Standard of Actuarial Practice,ESAP,FALSE
-en-GB,Accounting - UK GAAP,European Securities and Markets Authority,ESMA,FALSE
-en-GB,Accounting - UK GAAP,European Union,EU,FALSE
-en-GB,Accounting - UK GAAP,Financial Accounting Standards Board,FASB,FALSE
-en-GB,Accounting - UK GAAP,Financial Conduct Authority,FCA,FALSE
-en-GB,Accounting - UK GAAP,Federation of European Accountants,FEE,FALSE
-en-GB,Accounting - UK GAAP,Funeral Planning Authority,FPA,FALSE
-en-GB,Accounting - UK GAAP,Financial Reporting Council,FRC,FALSE
-en-GB,Accounting - UK GAAP,Financial Reporting Review Panel,FRRP,FALSE
-en-GB,Accounting - UK GAAP,Financial Reporting Standard,FRS,FALSE
-en-GB,Accounting - UK GAAP,Financial Reporting Standard for Smaller Entities,FRSSE,FALSE
-en-GB,Accounting - UK GAAP,Financial Stability Board,FSB,FALSE
-en-GB,Accounting - UK GAAP,Generally Accepted Accounting Practice,GAAP,FALSE
-en-GB,Accounting - UK GAAP,Government Actuary’s Department,GAD,FALSE
-en-GB,Accounting - UK GAAP,Her Majesty's Revenue & Customs,HMRC,FALSE
-en-GB,Accounting - UK GAAP,Her Majesty's Treasury,HMT,FALSE
-en-GB,Accounting - UK GAAP,International Actuarial Association,IAA,FALSE
-en-GB,Accounting - UK GAAP,International Auditing and Assurance Standards Board,IAASB,FALSE
-en-GB,Accounting - UK GAAP,International Association of Insurance Supervisers,IAIS,FALSE
-en-GB,Accounting - UK GAAP,International Accounting Standard,IAS,FALSE
-en-GB,Accounting - UK GAAP,International Accounting Standards Board,IASB,FALSE
-en-GB,Accounting - UK GAAP,Institute of Chartered Accountants in England and Wales,ICAEW,FALSE
-en-GB,Accounting - UK GAAP,Institute of Chartered Accountants of Scotland,ICAS,FALSE
-en-GB,Accounting - UK GAAP,International Ethics Standards Board for Accountants,IESBA,FALSE
-en-GB,Accounting - UK GAAP,International Federation of Accountants,IFAC,FALSE
-en-GB,Accounting - UK GAAP,Institute and Faculty of Actuaries,IFoA,FALSE
-en-GB,Accounting - UK GAAP,International Forum of Accounting Standard Setters,IFASS,FALSE
-en-GB,Accounting - UK GAAP,International Financial Reporting Standard,IFRS,FALSE
-en-GB,Accounting - UK GAAP,IFRS Interpretations Committee,IFRIC; International Financial Reporting Interpretations Committee,FALSE
-en-GB,Accounting - UK GAAP,International Forum of Independent Audit Regulators,IFIAR,FALSE
-en-GB,Accounting - UK GAAP,International Organisation of Securities Commissions,IOSCO,FALSE
-en-GB,Accounting - UK GAAP,International Standard of Auditing,ISA,FALSE
-en-GB,Accounting - UK GAAP,International Standard of Actuarial Practice,ISAP,FALSE
-en-GB,Accounting - UK GAAP,Joint Forum on Actuarial Regulation,JFAR,FALSE
-en-GB,Accounting - UK GAAP,National Association of Pension Funds,NAPF,FALSE
-en-GB,Accounting - UK GAAP,Own Risk and Solvency Assessment,ORSA,FALSE
-en-GB,Accounting - UK GAAP,Proactive Accounting Activities in Europe,PAAinE,FALSE
-en-GB,Accounting - UK GAAP,Public Company Accounting Oversight Board,PCAOB,FALSE
-en-GB,Accounting - UK GAAP,Prudential Regulation Authority,PRA,FALSE
-en-GB,Accounting - UK GAAP,Packaged Retail Investment Product,PRIP,FALSE
-en-GB,Accounting - UK GAAP,Securities and Exchange Commission,SEC,FALSE
-en-GB,Accounting - UK GAAP,Standard for Investment Reporting,SIR,FALSE
-en-GB,Accounting - UK GAAP,Small and Medium sized Enterprises,SME,FALSE
-en-GB,Accounting - UK GAAP,Statutory Money Purchase Illustration,SMPI,FALSE
-en-GB,Accounting - UK GAAP,Society of Actuaries,SOA,FALSE
-en-GB,Accounting - UK GAAP,Statement of Recommended Practice,SORP,FALSE
-en-GB,Accounting - UK GAAP,Technical Actuarial Standard,TAS,FALSE
-en-GB,Accounting - UK GAAP,The Pensions Regulator,TPR,FALSE
-en-GB,Accounting - UK GAAP,UK Generally Accepted Accounting Practice,UK GAAP,FALSE
-en-GB,Accounting - UK GAAP,accounting policies,,FALSE
-en-GB,Accounting - UK GAAP,accrual basis,,FALSE
-en-GB,Accounting - UK GAAP,accrual basis of accounting,,FALSE
-en-GB,Accounting - UK GAAP,accumulating compensated absences,,FALSE
-en-GB,Accounting - UK GAAP,acquisition date,,FALSE
-en-GB,Accounting - UK GAAP,active market,,FALSE
-en-GB,Accounting - UK GAAP,actuarial assumptions,,FALSE
-en-GB,Accounting - UK GAAP,actuarial gains and losses,,FALSE
-en-GB,Accounting - UK GAAP,agent,,FALSE
-en-GB,Accounting - UK GAAP,agricultural activity,,FALSE
-en-GB,Accounting - UK GAAP,agricultural produce,,FALSE
-en-GB,Accounting - UK GAAP,amortisation,,FALSE
-en-GB,Accounting - UK GAAP,amortised cost,,FALSE
-en-GB,Accounting - UK GAAP,amortised cost of a ﬁnancial asset,,FALSE
-en-GB,Accounting - UK GAAP,asset,,FALSE
-en-GB,Accounting - UK GAAP,asset held by a long-term employee beneﬁt fund,,FALSE
-en-GB,Accounting - UK GAAP,associate,,FALSE
-en-GB,Accounting - UK GAAP,biological asset,,FALSE
-en-GB,Accounting - UK GAAP,borrowing costs,,FALSE
-en-GB,Accounting - UK GAAP,business,,FALSE
-en-GB,Accounting - UK GAAP,business combination,,FALSE
-en-GB,Accounting - UK GAAP,carrying amount,,FALSE
-en-GB,Accounting - UK GAAP,cash,,FALSE
-en-GB,Accounting - UK GAAP,cash equivalents,,FALSE
-en-GB,Accounting - UK GAAP,cash ﬂows,,FALSE
-en-GB,Accounting - UK GAAP,cash-generating unit,,FALSE
-en-GB,Accounting - UK GAAP,cash-settled share-based payment transaction,,FALSE
-en-GB,Accounting - UK GAAP,change in accounting estimate,,FALSE
-en-GB,Accounting - UK GAAP,class of assets,,FALSE
-en-GB,Accounting - UK GAAP,close members of the family of a person,,FALSE
-en-GB,Accounting - UK GAAP,closing rate,,FALSE
-en-GB,Accounting - UK GAAP,combination that is in substance is a gift,,FALSE
-en-GB,Accounting - UK GAAP,commencement of lease term,,FALSE
-en-GB,Accounting - UK GAAP,component of an entity,,FALSE
-en-GB,Accounting - UK GAAP,compound ﬁnancial instrument,,FALSE
-en-GB,Accounting - UK GAAP,consolidated ﬁnancial statements,,FALSE
-en-GB,Accounting - UK GAAP,construction contract,,FALSE
-en-GB,Accounting - UK GAAP,constructive obligation,,FALSE
-en-GB,Accounting - UK GAAP,contingent asset,,FALSE
-en-GB,Accounting - UK GAAP,contingent liability,,FALSE
-en-GB,Accounting - UK GAAP,contingent rent,,FALSE
-en-GB,Accounting - UK GAAP,control,,FALSE
-en-GB,Accounting - UK GAAP,control of an entity,,FALSE
-en-GB,Accounting - UK GAAP,credit risk,,FALSE
-en-GB,Accounting - UK GAAP,current assets,,FALSE
-en-GB,Accounting - UK GAAP,current liabilities,,FALSE
-en-GB,Accounting - UK GAAP,current tax,,FALSE
-en-GB,Accounting - UK GAAP,date of transition,,FALSE
-en-GB,Accounting - UK GAAP,deemed cost,,FALSE
-en-GB,Accounting - UK GAAP,deferred acquisition costs,,FALSE
-en-GB,Accounting - UK GAAP,deferred tax,,FALSE
-en-GB,Accounting - UK GAAP,deferred tax assets,,FALSE
-en-GB,Accounting - UK GAAP,deferred tax liabilities,,FALSE
-en-GB,Accounting - UK GAAP,deﬁned beneﬁt obligation,,FALSE
-en-GB,Accounting - UK GAAP,present value of deﬁned beneﬁt obligation,,FALSE
-en-GB,Accounting - UK GAAP,deﬁned beneﬁt plans,,FALSE
-en-GB,Accounting - UK GAAP,deﬁned contribution plans,,FALSE
-en-GB,Accounting - UK GAAP,depreciable amount,,FALSE
-en-GB,Accounting - UK GAAP,depreciated replacement cost,,FALSE
-en-GB,Accounting - UK GAAP,depreciation,,FALSE
-en-GB,Accounting - UK GAAP,derecognition,,FALSE
-en-GB,Accounting - UK GAAP,derivative,,FALSE
-en-GB,Accounting - UK GAAP,development,,FALSE
-en-GB,Accounting - UK GAAP,discontinued operation,,FALSE
-en-GB,Accounting - UK GAAP,discretionary participation feature,,FALSE
-en-GB,Accounting - UK GAAP,disposal group,,FALSE
-en-GB,Accounting - UK GAAP,effective interest method,,FALSE
-en-GB,Accounting - UK GAAP,effective interest rate,,FALSE
-en-GB,Accounting - UK GAAP,employee beneﬁts,,FALSE
-en-GB,Accounting - UK GAAP,entity combination,,FALSE
-en-GB,Accounting - UK GAAP,equity,,FALSE
-en-GB,Accounting - UK GAAP,equity-settled share-based payment transaction,,FALSE
-en-GB,Accounting - UK GAAP,errors,,FALSE
-en-GB,Accounting - UK GAAP,expenses,,FALSE
-en-GB,Accounting - UK GAAP,EU-adopted IFRS,,FALSE
-en-GB,Accounting - UK GAAP,fair value,,FALSE
-en-GB,Accounting - UK GAAP,fair value less costs to sell,,FALSE
-en-GB,Accounting - UK GAAP,ﬁnance lease,,FALSE
-en-GB,Accounting - UK GAAP,ﬁnancial asset,,FALSE
-en-GB,Accounting - UK GAAP,ﬁnancial guarantee contract,,FALSE
-en-GB,Accounting - UK GAAP,ﬁnancial institution,,FALSE
-en-GB,Accounting - UK GAAP,ﬁnancial instrument,,FALSE
-en-GB,Accounting - UK GAAP,ﬁnancial liability,,FALSE
-en-GB,Accounting - UK GAAP,ﬁnancial position,,FALSE
-en-GB,Accounting - UK GAAP,ﬁnancial statements,,FALSE
-en-GB,Accounting - UK GAAP,ﬁnancial risk,,FALSE
-en-GB,Accounting - UK GAAP,ﬁnancing activities,,FALSE
-en-GB,Accounting - UK GAAP,ﬁrm commitment,,FALSE
-en-GB,Accounting - UK GAAP,ﬁrst-time adopter of this FRS,,FALSE
-en-GB,Accounting - UK GAAP,ﬁxed assets,,FALSE
-en-GB,Accounting - UK GAAP,forecast transaction,,FALSE
-en-GB,Accounting - UK GAAP,foreign operation,,FALSE
-en-GB,Accounting - UK GAAP,FRS 100,,FALSE
-en-GB,Accounting - UK GAAP,FRS 101,,FALSE
-en-GB,Accounting - UK GAAP,FRS 102,,FALSE
-en-GB,Accounting - UK GAAP,FRS 103,,FALSE
-en-GB,Accounting - UK GAAP,FRS 104,,FALSE
-en-GB,Accounting - UK GAAP,FRS 105,,FALSE
-en-GB,Accounting - UK GAAP,functional currency,,FALSE
-en-GB,Accounting - UK GAAP,funding of post-employment beneﬁts,,FALSE
-en-GB,Accounting - UK GAAP,gains,,FALSE
-en-GB,Accounting - UK GAAP,general purpose ﬁnancial statements,,FALSE
-en-GB,Accounting - UK GAAP,going concern,,FALSE
-en-GB,Accounting - UK GAAP,goodwill,,FALSE
-en-GB,Accounting - UK GAAP,government grant,,FALSE
-en-GB,Accounting - UK GAAP,grant date,,FALSE
-en-GB,Accounting - UK GAAP,gross investment in a lease,,FALSE
-en-GB,Accounting - UK GAAP,group,,FALSE
-en-GB,Accounting - UK GAAP,group reconstruction,,FALSE
-en-GB,Accounting - UK GAAP,amortised cost of a ﬁnancial liability,,FALSE
-en-GB,Accounting - UK GAAP,hedging gain,,FALSE
-en-GB,Accounting - UK GAAP,held exclusively with a view to subsequent resale,,FALSE
-en-GB,Accounting - UK GAAP,held as part of an investment portfolio,,FALSE
-en-GB,Accounting - UK GAAP,heritage assets,,FALSE
-en-GB,Accounting - UK GAAP,highly probable,,FALSE
-en-GB,Accounting - UK GAAP,IAS Regulation,,FALSE
-en-GB,Accounting - UK GAAP,International Financial Reporting Standards,IFRS,FALSE
-en-GB,Accounting - UK GAAP,impairment loss,,FALSE
-en-GB,Accounting - UK GAAP,impracticable,,FALSE
-en-GB,Accounting - UK GAAP,imputed rate of interest,,FALSE
-en-GB,Accounting - UK GAAP,inception of the lease,,FALSE
-en-GB,Accounting - UK GAAP,income,,FALSE
-en-GB,Accounting - UK GAAP,income and expenditure,,FALSE
-en-GB,Accounting - UK GAAP,income statement,,FALSE
-en-GB,Accounting - UK GAAP,income tax,,FALSE
-en-GB,Accounting - UK GAAP,individual ﬁnancial statements,,FALSE
-en-GB,Accounting - UK GAAP,infrastructure assets,,FALSE
-en-GB,Accounting - UK GAAP,insurance contract,,FALSE
-en-GB,Accounting - UK GAAP,intangible asset,,FALSE
-en-GB,Accounting - UK GAAP,interest rate implicit in the lease,,FALSE
-en-GB,Accounting - UK GAAP,interim ﬁnancial report,,FALSE
-en-GB,Accounting - UK GAAP,interim period,,FALSE
-en-GB,Accounting - UK GAAP,intrinsic value,,FALSE
-en-GB,Accounting - UK GAAP,inventories,,FALSE
-en-GB,Accounting - UK GAAP,hedging loss,,FALSE
-en-GB,Accounting - UK GAAP,inventories held for distribution at no consideration,,FALSE
-en-GB,Accounting - UK GAAP,inventories held for distribution at nominal consideration,,FALSE
-en-GB,Accounting - UK GAAP,investing activities,,FALSE
-en-GB,Accounting - UK GAAP,investment property,,FALSE
-en-GB,Accounting - UK GAAP,joint control,,FALSE
-en-GB,Accounting - UK GAAP,joint venture,,FALSE
-en-GB,Accounting - UK GAAP,jointly controlled entity,,FALSE
-en-GB,Accounting - UK GAAP,key management personnel,,FALSE
-en-GB,Accounting - UK GAAP,lease,,FALSE
-en-GB,Accounting - UK GAAP,lease incentives,,FALSE
-en-GB,Accounting - UK GAAP,lease term,,FALSE
-en-GB,Accounting - UK GAAP,lessee’s incremental borrowing rate,,FALSE
-en-GB,Accounting - UK GAAP,liability,,FALSE
-en-GB,Accounting - UK GAAP,liquidity risk,,FALSE
-en-GB,Accounting - UK GAAP,LLP Regulations,,FALSE
-en-GB,Accounting - UK GAAP,loans payable,,FALSE
-en-GB,Accounting - UK GAAP,market condition,,FALSE
-en-GB,Accounting - UK GAAP,market risk,,FALSE
-en-GB,Accounting - UK GAAP,material,,FALSE
-en-GB,Accounting - UK GAAP,measurement,,FALSE
-en-GB,Accounting - UK GAAP,merger,,FALSE
-en-GB,Accounting - UK GAAP,minimum lease payments,,FALSE
-en-GB,Accounting - UK GAAP,monetary items,,FALSE
-en-GB,Accounting - UK GAAP,multi-employer plans,,FALSE
-en-GB,Accounting - UK GAAP,multi-employer beneﬁt plans,,FALSE
-en-GB,Accounting - UK GAAP,net assets available for beneﬁts,,FALSE
-en-GB,Accounting - UK GAAP,net deﬁned beneﬁt liability,,FALSE
-en-GB,Accounting - UK GAAP,net investment in a foreign operation,,FALSE
-en-GB,Accounting - UK GAAP,net investment in a lease,,FALSE
-en-GB,Accounting - UK GAAP,non-controlling interest,,FALSE
-en-GB,Accounting - UK GAAP,non-current assets,,FALSE
-en-GB,Accounting - UK GAAP,non-current liabilities,,FALSE
-en-GB,Accounting - UK GAAP,non-exchange transaction,,FALSE
-en-GB,Accounting - UK GAAP,notes to ﬁnancial statements,,FALSE
-en-GB,Accounting - UK GAAP,notional amount,,FALSE
-en-GB,Accounting - UK GAAP,objective of ﬁnancial statements,,FALSE
-en-GB,Accounting - UK GAAP,onerous contract,,FALSE
-en-GB,Accounting - UK GAAP,operating activities,,FALSE
-en-GB,Accounting - UK GAAP,operating lease,,FALSE
-en-GB,Accounting - UK GAAP,operating segment,,FALSE
-en-GB,Accounting - UK GAAP,ordinary share,,FALSE
-en-GB,Accounting - UK GAAP,other comprehensive income,,FALSE
-en-GB,Accounting - UK GAAP,owners,,FALSE
-en-GB,Accounting - UK GAAP,parent,,FALSE
-en-GB,Accounting - UK GAAP,performance,,FALSE
-en-GB,Accounting - UK GAAP,performance-related condition,,FALSE
-en-GB,Accounting - UK GAAP,permanent differences,,FALSE
-en-GB,Accounting - UK GAAP,plan assets,,FALSE
-en-GB,Accounting - UK GAAP,plan assets of an employee beneﬁt plan,,FALSE
-en-GB,Accounting - UK GAAP,post-employment beneﬁts,,FALSE
-en-GB,Accounting - UK GAAP,post-employment beneﬁt plans,,FALSE
-en-GB,Accounting - UK GAAP,potential ordinary share,,FALSE
-en-GB,Accounting - UK GAAP,present value,,FALSE
-en-GB,Accounting - UK GAAP,presentation currency,,FALSE
-en-GB,Accounting - UK GAAP,prevailing market rate,,FALSE
-en-GB,Accounting - UK GAAP,principal,,FALSE
-en-GB,Accounting - UK GAAP,probable,,FALSE
-en-GB,Accounting - UK GAAP,proﬁt,,FALSE
-en-GB,Accounting - UK GAAP,loss,,FALSE
-en-GB,Accounting - UK GAAP,projected unit credit method,,FALSE
-en-GB,Accounting - UK GAAP,"property, plant and equipment",,FALSE
-en-GB,Accounting - UK GAAP,"property, plant, and equipment",,FALSE
-en-GB,Accounting - UK GAAP,"property, plant and equipment",,FALSE
-en-GB,Accounting - UK GAAP,prospectively,,FALSE
-en-GB,Accounting - UK GAAP,prospectively applying a change in accounting policy,,FALSE
-en-GB,Accounting - UK GAAP,provision,,FALSE
-en-GB,Accounting - UK GAAP,prudence,,FALSE
-en-GB,Accounting - UK GAAP,public beneﬁt entity,,FALSE
-en-GB,Accounting - UK GAAP,public beneﬁt entity concessionary loan,,FALSE
-en-GB,Accounting - UK GAAP,public beneﬁt entity group,,FALSE
-en-GB,Accounting - UK GAAP,publicly traded,,FALSE
-en-GB,Accounting - UK GAAP,qualifying asset,,FALSE
-en-GB,Accounting - UK GAAP,qualifying entity,,FALSE
-en-GB,Accounting - UK GAAP,qualifying insurance policies,,FALSE
-en-GB,Accounting - UK GAAP,recognition,,FALSE
-en-GB,Accounting - UK GAAP,recoverable amount,,FALSE
-en-GB,Accounting - UK GAAP,Regulations,,FALSE
-en-GB,Accounting - UK GAAP,reinsurance contract,,FALSE
-en-GB,Accounting - UK GAAP,related party,,FALSE
-en-GB,Accounting - UK GAAP,related party transaction,,FALSE
-en-GB,Accounting - UK GAAP,relevance,,FALSE
-en-GB,Accounting - UK GAAP,reliability,,FALSE
-en-GB,Accounting - UK GAAP,reporting date,,FALSE
-en-GB,Accounting - UK GAAP,reporting period,,FALSE
-en-GB,Accounting - UK GAAP,research,,FALSE
-en-GB,Accounting - UK GAAP,residual value,,FALSE
-en-GB,Accounting - UK GAAP,residual value of an asset,,FALSE
-en-GB,Accounting - UK GAAP,restriction,,FALSE
-en-GB,Accounting - UK GAAP,restructuring,,FALSE
-en-GB,Accounting - UK GAAP,retirement beneﬁt plan,,FALSE
-en-GB,Accounting - UK GAAP,retrospective application,,FALSE
-en-GB,Accounting - UK GAAP,retrospective application of an accounting policy,,FALSE
-en-GB,Accounting - UK GAAP,revenue,,FALSE
-en-GB,Accounting - UK GAAP,separate ﬁnancial statements,,FALSE
-en-GB,Accounting - UK GAAP,service concession arrangement,,FALSE
-en-GB,Accounting - UK GAAP,service potential,,FALSE
-en-GB,Accounting - UK GAAP,share-based payment transaction,,FALSE
-en-GB,Accounting - UK GAAP,share option,,FALSE
-en-GB,Accounting - UK GAAP,signiﬁcant inﬂuence,,FALSE
-en-GB,Accounting - UK GAAP,Small Companies Regulations,,FALSE
-en-GB,Accounting - UK GAAP,small entity,,FALSE
-en-GB,Accounting - UK GAAP,Small LLP Regulations,,FALSE
-en-GB,Accounting - UK GAAP,Statement of Recommended Practice,SORP,FALSE
-en-GB,Accounting - UK GAAP,state,,FALSE
-en-GB,Accounting - UK GAAP,state plan,,FALSE
-en-GB,Accounting - UK GAAP,state employee beneﬁt plan,,FALSE
-en-GB,Accounting - UK GAAP,statement of cash ﬂows,,FALSE
-en-GB,Accounting - UK GAAP,statement of comprehensive income,,FALSE
-en-GB,Accounting - UK GAAP,statement of ﬁnancial position,,FALSE
-en-GB,Accounting - UK GAAP,statement of income and retained earnings,,FALSE
-en-GB,Accounting - UK GAAP,subsidiary,,FALSE
-en-GB,Accounting - UK GAAP,substantively enacted,,FALSE
-en-GB,Accounting - UK GAAP,tax expense,,FALSE
-en-GB,Accounting - UK GAAP,tax loss,,FALSE
-en-GB,Accounting - UK GAAP,taxable proﬁt,,FALSE
-en-GB,Accounting - UK GAAP,termination beneﬁts,,FALSE
-en-GB,Accounting - UK GAAP,timing differences,,FALSE
-en-GB,Accounting - UK GAAP,timeliness,,FALSE
-en-GB,Accounting - UK GAAP,total comprehensive income,,FALSE
-en-GB,Accounting - UK GAAP,transaction costs ﬁnancial instruments,,FALSE
-en-GB,Accounting - UK GAAP,transaction costs,,FALSE
-en-GB,Accounting - UK GAAP,treasury shares,,FALSE
-en-GB,Accounting - UK GAAP,turnover,,FALSE
-en-GB,Accounting - UK GAAP,understandability,,FALSE
-en-GB,Accounting - UK GAAP,useful life,,FALSE
-en-GB,Accounting - UK GAAP,value in use,,FALSE
-en-GB,Accounting - UK GAAP,value in use in respect of assets held for their service potential,,FALSE
-en-GB,Accounting - UK GAAP,venturer,,FALSE
-en-GB,Accounting - UK GAAP,vest,,FALSE
-en-GB,Accounting - UK GAAP,vested beneﬁts,,FALSE
+en-GB,Accounting - UK GAAP,Actuarial Association of Europe,AAE,False
+en-GB,Accounting - UK GAAP,Association of British Insurers,ABI,False
+en-GB,Accounting - UK GAAP,Association of Consulting Actuaries,ACA,False
+en-GB,Accounting - UK GAAP,Association of Chartered Certified Accountants,ACCA,False
+en-GB,Accounting - UK GAAP,Actuarial Profession Standard,APS,False
+en-GB,Accounting - UK GAAP,Actuarial Stakeholder Group,ASG,False
+en-GB,Accounting - UK GAAP,Actuarial Standard Technical Memorandum 1,AS TM1,False
+en-GB,Accounting - UK GAAP,"Department for Business, Innovation and Skills",BIS,False
+en-GB,Accounting - UK GAAP,Consultative Committee of Accountancy Bodies,CCAB,False
+en-GB,Accounting - UK GAAP,Committee of European Insurance and Occupational Pension Supervisors,CEIOPS,False
+en-GB,Accounting - UK GAAP,Committee of European Securities Regulators,CESR,False
+en-GB,Accounting - UK GAAP,Chartered Institute of Management Accountants,CIMA,False
+en-GB,Accounting - UK GAAP,Chartered Institute of Public Finance and Accountancy,CIPFA,False
+en-GB,Accounting - UK GAAP,Continuing Professional Development,CPD,False
+en-GB,Accounting - UK GAAP,European Enforcers Coordination Sessions,EECS,False
+en-GB,Accounting - UK GAAP,Department for Work and Pensions,DWP,False
+en-GB,Accounting - UK GAAP,European Banking Authority,EBA,False
+en-GB,Accounting - UK GAAP,European Central Bank,ECB,False
+en-GB,Accounting - UK GAAP,European Financial Reporting Advisory Group,EFRAG,False
+en-GB,Accounting - UK GAAP,European Group of Auditors’ Oversight Bodies,EGAOB,False
+en-GB,Accounting - UK GAAP,European Insurance and Occupational Pensions Authority,EIOPA,False
+en-GB,Accounting - UK GAAP,Ethical Standard,ES,False
+en-GB,Accounting - UK GAAP,European Standard of Actuarial Practice,ESAP,False
+en-GB,Accounting - UK GAAP,European Securities and Markets Authority,ESMA,False
+en-GB,Accounting - UK GAAP,European Union,EU,False
+en-GB,Accounting - UK GAAP,Financial Accounting Standards Board,FASB,False
+en-GB,Accounting - UK GAAP,Financial Conduct Authority,FCA,False
+en-GB,Accounting - UK GAAP,Federation of European Accountants,FEE,False
+en-GB,Accounting - UK GAAP,Funeral Planning Authority,FPA,False
+en-GB,Accounting - UK GAAP,Financial Reporting Council,FRC,False
+en-GB,Accounting - UK GAAP,Financial Reporting Review Panel,FRRP,False
+en-GB,Accounting - UK GAAP,Financial Reporting Standard,FRS,False
+en-GB,Accounting - UK GAAP,Financial Reporting Standard for Smaller Entities,FRSSE,False
+en-GB,Accounting - UK GAAP,Financial Stability Board,FSB,False
+en-GB,Accounting - UK GAAP,Generally Accepted Accounting Practice,GAAP,False
+en-GB,Accounting - UK GAAP,Government Actuary’s Department,GAD,False
+en-GB,Accounting - UK GAAP,Her Majesty's Revenue & Customs,HMRC,False
+en-GB,Accounting - UK GAAP,Her Majesty's Treasury,HMT,False
+en-GB,Accounting - UK GAAP,International Actuarial Association,IAA,False
+en-GB,Accounting - UK GAAP,International Auditing and Assurance Standards Board,IAASB,False
+en-GB,Accounting - UK GAAP,International Association of Insurance Supervisers,IAIS,False
+en-GB,Accounting - UK GAAP,International Accounting Standard,IAS,False
+en-GB,Accounting - UK GAAP,International Accounting Standards Board,IASB,False
+en-GB,Accounting - UK GAAP,Institute of Chartered Accountants in England and Wales,ICAEW,False
+en-GB,Accounting - UK GAAP,Institute of Chartered Accountants of Scotland,ICAS,False
+en-GB,Accounting - UK GAAP,International Ethics Standards Board for Accountants,IESBA,False
+en-GB,Accounting - UK GAAP,International Federation of Accountants,IFAC,False
+en-GB,Accounting - UK GAAP,Institute and Faculty of Actuaries,IFoA,False
+en-GB,Accounting - UK GAAP,International Forum of Accounting Standard Setters,IFASS,False
+en-GB,Accounting - UK GAAP,International Financial Reporting Standard,IFRS,False
+en-GB,Accounting - UK GAAP,IFRS Interpretations Committee,IFRIC; International Financial Reporting Interpretations Committee,False
+en-GB,Accounting - UK GAAP,International Forum of Independent Audit Regulators,IFIAR,False
+en-GB,Accounting - UK GAAP,International Organisation of Securities Commissions,IOSCO,False
+en-GB,Accounting - UK GAAP,International Standard of Auditing,ISA,False
+en-GB,Accounting - UK GAAP,International Standard of Actuarial Practice,ISAP,False
+en-GB,Accounting - UK GAAP,Joint Forum on Actuarial Regulation,JFAR,False
+en-GB,Accounting - UK GAAP,National Association of Pension Funds,NAPF,False
+en-GB,Accounting - UK GAAP,Own Risk and Solvency Assessment,ORSA,False
+en-GB,Accounting - UK GAAP,Proactive Accounting Activities in Europe,PAAinE,False
+en-GB,Accounting - UK GAAP,Public Company Accounting Oversight Board,PCAOB,False
+en-GB,Accounting - UK GAAP,Prudential Regulation Authority,PRA,False
+en-GB,Accounting - UK GAAP,Packaged Retail Investment Product,PRIP,False
+en-GB,Accounting - UK GAAP,Securities and Exchange Commission,SEC,False
+en-GB,Accounting - UK GAAP,Standard for Investment Reporting,SIR,False
+en-GB,Accounting - UK GAAP,Small and Medium sized Enterprises,SME,False
+en-GB,Accounting - UK GAAP,Statutory Money Purchase Illustration,SMPI,False
+en-GB,Accounting - UK GAAP,Society of Actuaries,SOA,False
+en-GB,Accounting - UK GAAP,Statement of Recommended Practice,SORP,False
+en-GB,Accounting - UK GAAP,Technical Actuarial Standard,TAS,False
+en-GB,Accounting - UK GAAP,The Pensions Regulator,TPR,False
+en-GB,Accounting - UK GAAP,UK Generally Accepted Accounting Practice,UK GAAP,False
+en-GB,Accounting - UK GAAP,accounting policies,,False
+en-GB,Accounting - UK GAAP,accrual basis,,False
+en-GB,Accounting - UK GAAP,accrual basis of accounting,,False
+en-GB,Accounting - UK GAAP,accumulating compensated absences,,False
+en-GB,Accounting - UK GAAP,acquisition date,,False
+en-GB,Accounting - UK GAAP,active market,,False
+en-GB,Accounting - UK GAAP,actuarial assumptions,,False
+en-GB,Accounting - UK GAAP,actuarial gains and losses,,False
+en-GB,Accounting - UK GAAP,agent,,False
+en-GB,Accounting - UK GAAP,agricultural activity,,False
+en-GB,Accounting - UK GAAP,agricultural produce,,False
+en-GB,Accounting - UK GAAP,amortisation,,False
+en-GB,Accounting - UK GAAP,amortised cost,,False
+en-GB,Accounting - UK GAAP,amortised cost of a ﬁnancial asset,,False
+en-GB,Accounting - UK GAAP,asset,,False
+en-GB,Accounting - UK GAAP,asset held by a long-term employee beneﬁt fund,,False
+en-GB,Accounting - UK GAAP,associate,,False
+en-GB,Accounting - UK GAAP,biological asset,,False
+en-GB,Accounting - UK GAAP,borrowing costs,,False
+en-GB,Accounting - UK GAAP,business,,False
+en-GB,Accounting - UK GAAP,business combination,,False
+en-GB,Accounting - UK GAAP,carrying amount,,False
+en-GB,Accounting - UK GAAP,cash,,False
+en-GB,Accounting - UK GAAP,cash equivalents,,False
+en-GB,Accounting - UK GAAP,cash ﬂows,,False
+en-GB,Accounting - UK GAAP,cash-generating unit,,False
+en-GB,Accounting - UK GAAP,cash-settled share-based payment transaction,,False
+en-GB,Accounting - UK GAAP,change in accounting estimate,,False
+en-GB,Accounting - UK GAAP,class of assets,,False
+en-GB,Accounting - UK GAAP,close members of the family of a person,,False
+en-GB,Accounting - UK GAAP,closing rate,,False
+en-GB,Accounting - UK GAAP,combination that is in substance is a gift,,False
+en-GB,Accounting - UK GAAP,commencement of lease term,,False
+en-GB,Accounting - UK GAAP,component of an entity,,False
+en-GB,Accounting - UK GAAP,compound ﬁnancial instrument,,False
+en-GB,Accounting - UK GAAP,consolidated ﬁnancial statements,,False
+en-GB,Accounting - UK GAAP,construction contract,,False
+en-GB,Accounting - UK GAAP,constructive obligation,,False
+en-GB,Accounting - UK GAAP,contingent asset,,False
+en-GB,Accounting - UK GAAP,contingent liability,,False
+en-GB,Accounting - UK GAAP,contingent rent,,False
+en-GB,Accounting - UK GAAP,control,,False
+en-GB,Accounting - UK GAAP,control of an entity,,False
+en-GB,Accounting - UK GAAP,credit risk,,False
+en-GB,Accounting - UK GAAP,current assets,,False
+en-GB,Accounting - UK GAAP,current liabilities,,False
+en-GB,Accounting - UK GAAP,current tax,,False
+en-GB,Accounting - UK GAAP,date of transition,,False
+en-GB,Accounting - UK GAAP,deemed cost,,False
+en-GB,Accounting - UK GAAP,deferred acquisition costs,,False
+en-GB,Accounting - UK GAAP,deferred tax,,False
+en-GB,Accounting - UK GAAP,deferred tax assets,,False
+en-GB,Accounting - UK GAAP,deferred tax liabilities,,False
+en-GB,Accounting - UK GAAP,deﬁned beneﬁt obligation,,False
+en-GB,Accounting - UK GAAP,present value of deﬁned beneﬁt obligation,,False
+en-GB,Accounting - UK GAAP,deﬁned beneﬁt plans,,False
+en-GB,Accounting - UK GAAP,deﬁned contribution plans,,False
+en-GB,Accounting - UK GAAP,depreciable amount,,False
+en-GB,Accounting - UK GAAP,depreciated replacement cost,,False
+en-GB,Accounting - UK GAAP,depreciation,,False
+en-GB,Accounting - UK GAAP,derecognition,,False
+en-GB,Accounting - UK GAAP,derivative,,False
+en-GB,Accounting - UK GAAP,development,,False
+en-GB,Accounting - UK GAAP,discontinued operation,,False
+en-GB,Accounting - UK GAAP,discretionary participation feature,,False
+en-GB,Accounting - UK GAAP,disposal group,,False
+en-GB,Accounting - UK GAAP,effective interest method,,False
+en-GB,Accounting - UK GAAP,effective interest rate,,False
+en-GB,Accounting - UK GAAP,employee beneﬁts,,False
+en-GB,Accounting - UK GAAP,entity combination,,False
+en-GB,Accounting - UK GAAP,equity,,False
+en-GB,Accounting - UK GAAP,equity-settled share-based payment transaction,,False
+en-GB,Accounting - UK GAAP,errors,,False
+en-GB,Accounting - UK GAAP,expenses,,False
+en-GB,Accounting - UK GAAP,EU-adopted IFRS,,False
+en-GB,Accounting - UK GAAP,fair value,,False
+en-GB,Accounting - UK GAAP,fair value less costs to sell,,False
+en-GB,Accounting - UK GAAP,ﬁnance lease,,False
+en-GB,Accounting - UK GAAP,ﬁnancial asset,,False
+en-GB,Accounting - UK GAAP,ﬁnancial guarantee contract,,False
+en-GB,Accounting - UK GAAP,ﬁnancial institution,,False
+en-GB,Accounting - UK GAAP,ﬁnancial instrument,,False
+en-GB,Accounting - UK GAAP,ﬁnancial liability,,False
+en-GB,Accounting - UK GAAP,ﬁnancial position,,False
+en-GB,Accounting - UK GAAP,ﬁnancial statements,,False
+en-GB,Accounting - UK GAAP,ﬁnancial risk,,False
+en-GB,Accounting - UK GAAP,ﬁnancing activities,,False
+en-GB,Accounting - UK GAAP,ﬁrm commitment,,False
+en-GB,Accounting - UK GAAP,ﬁrst-time adopter of this FRS,,False
+en-GB,Accounting - UK GAAP,ﬁxed assets,,False
+en-GB,Accounting - UK GAAP,forecast transaction,,False
+en-GB,Accounting - UK GAAP,foreign operation,,False
+en-GB,Accounting - UK GAAP,FRS 100,,False
+en-GB,Accounting - UK GAAP,FRS 101,,False
+en-GB,Accounting - UK GAAP,FRS 102,,False
+en-GB,Accounting - UK GAAP,FRS 103,,False
+en-GB,Accounting - UK GAAP,FRS 104,,False
+en-GB,Accounting - UK GAAP,FRS 105,,False
+en-GB,Accounting - UK GAAP,functional currency,,False
+en-GB,Accounting - UK GAAP,funding of post-employment beneﬁts,,False
+en-GB,Accounting - UK GAAP,gains,,False
+en-GB,Accounting - UK GAAP,general purpose ﬁnancial statements,,False
+en-GB,Accounting - UK GAAP,going concern,,False
+en-GB,Accounting - UK GAAP,goodwill,,False
+en-GB,Accounting - UK GAAP,government grant,,False
+en-GB,Accounting - UK GAAP,grant date,,False
+en-GB,Accounting - UK GAAP,gross investment in a lease,,False
+en-GB,Accounting - UK GAAP,group,,False
+en-GB,Accounting - UK GAAP,group reconstruction,,False
+en-GB,Accounting - UK GAAP,amortised cost of a ﬁnancial liability,,False
+en-GB,Accounting - UK GAAP,hedging gain,,False
+en-GB,Accounting - UK GAAP,held exclusively with a view to subsequent resale,,False
+en-GB,Accounting - UK GAAP,held as part of an investment portfolio,,False
+en-GB,Accounting - UK GAAP,heritage assets,,False
+en-GB,Accounting - UK GAAP,highly probable,,False
+en-GB,Accounting - UK GAAP,IAS Regulation,,False
+en-GB,Accounting - UK GAAP,International Financial Reporting Standards,IFRS,False
+en-GB,Accounting - UK GAAP,impairment loss,,False
+en-GB,Accounting - UK GAAP,impracticable,,False
+en-GB,Accounting - UK GAAP,imputed rate of interest,,False
+en-GB,Accounting - UK GAAP,inception of the lease,,False
+en-GB,Accounting - UK GAAP,income,,False
+en-GB,Accounting - UK GAAP,income and expenditure,,False
+en-GB,Accounting - UK GAAP,income statement,,False
+en-GB,Accounting - UK GAAP,income tax,,False
+en-GB,Accounting - UK GAAP,individual ﬁnancial statements,,False
+en-GB,Accounting - UK GAAP,infrastructure assets,,False
+en-GB,Accounting - UK GAAP,insurance contract,,False
+en-GB,Accounting - UK GAAP,intangible asset,,False
+en-GB,Accounting - UK GAAP,interest rate implicit in the lease,,False
+en-GB,Accounting - UK GAAP,interim ﬁnancial report,,False
+en-GB,Accounting - UK GAAP,interim period,,False
+en-GB,Accounting - UK GAAP,intrinsic value,,False
+en-GB,Accounting - UK GAAP,inventories,,False
+en-GB,Accounting - UK GAAP,hedging loss,,False
+en-GB,Accounting - UK GAAP,inventories held for distribution at no consideration,,False
+en-GB,Accounting - UK GAAP,inventories held for distribution at nominal consideration,,False
+en-GB,Accounting - UK GAAP,investing activities,,False
+en-GB,Accounting - UK GAAP,investment property,,False
+en-GB,Accounting - UK GAAP,joint control,,False
+en-GB,Accounting - UK GAAP,joint venture,,False
+en-GB,Accounting - UK GAAP,jointly controlled entity,,False
+en-GB,Accounting - UK GAAP,key management personnel,,False
+en-GB,Accounting - UK GAAP,lease,,False
+en-GB,Accounting - UK GAAP,lease incentives,,False
+en-GB,Accounting - UK GAAP,lease term,,False
+en-GB,Accounting - UK GAAP,lessee’s incremental borrowing rate,,False
+en-GB,Accounting - UK GAAP,liability,,False
+en-GB,Accounting - UK GAAP,liquidity risk,,False
+en-GB,Accounting - UK GAAP,LLP Regulations,,False
+en-GB,Accounting - UK GAAP,loans payable,,False
+en-GB,Accounting - UK GAAP,market condition,,False
+en-GB,Accounting - UK GAAP,market risk,,False
+en-GB,Accounting - UK GAAP,material,,False
+en-GB,Accounting - UK GAAP,measurement,,False
+en-GB,Accounting - UK GAAP,merger,,False
+en-GB,Accounting - UK GAAP,minimum lease payments,,False
+en-GB,Accounting - UK GAAP,monetary items,,False
+en-GB,Accounting - UK GAAP,multi-employer plans,,False
+en-GB,Accounting - UK GAAP,multi-employer beneﬁt plans,,False
+en-GB,Accounting - UK GAAP,net assets available for beneﬁts,,False
+en-GB,Accounting - UK GAAP,net deﬁned beneﬁt liability,,False
+en-GB,Accounting - UK GAAP,net investment in a foreign operation,,False
+en-GB,Accounting - UK GAAP,net investment in a lease,,False
+en-GB,Accounting - UK GAAP,non-controlling interest,,False
+en-GB,Accounting - UK GAAP,non-current assets,,False
+en-GB,Accounting - UK GAAP,non-current liabilities,,False
+en-GB,Accounting - UK GAAP,non-exchange transaction,,False
+en-GB,Accounting - UK GAAP,notes to ﬁnancial statements,,False
+en-GB,Accounting - UK GAAP,notional amount,,False
+en-GB,Accounting - UK GAAP,objective of ﬁnancial statements,,False
+en-GB,Accounting - UK GAAP,onerous contract,,False
+en-GB,Accounting - UK GAAP,operating activities,,False
+en-GB,Accounting - UK GAAP,operating lease,,False
+en-GB,Accounting - UK GAAP,operating segment,,False
+en-GB,Accounting - UK GAAP,ordinary share,,False
+en-GB,Accounting - UK GAAP,other comprehensive income,,False
+en-GB,Accounting - UK GAAP,owners,,False
+en-GB,Accounting - UK GAAP,parent,,False
+en-GB,Accounting - UK GAAP,performance,,False
+en-GB,Accounting - UK GAAP,performance-related condition,,False
+en-GB,Accounting - UK GAAP,permanent differences,,False
+en-GB,Accounting - UK GAAP,plan assets,,False
+en-GB,Accounting - UK GAAP,plan assets of an employee beneﬁt plan,,False
+en-GB,Accounting - UK GAAP,post-employment beneﬁts,,False
+en-GB,Accounting - UK GAAP,post-employment beneﬁt plans,,False
+en-GB,Accounting - UK GAAP,potential ordinary share,,False
+en-GB,Accounting - UK GAAP,present value,,False
+en-GB,Accounting - UK GAAP,presentation currency,,False
+en-GB,Accounting - UK GAAP,prevailing market rate,,False
+en-GB,Accounting - UK GAAP,principal,,False
+en-GB,Accounting - UK GAAP,probable,,False
+en-GB,Accounting - UK GAAP,proﬁt,,False
+en-GB,Accounting - UK GAAP,loss,,False
+en-GB,Accounting - UK GAAP,projected unit credit method,,False
+en-GB,Accounting - UK GAAP,"property, plant and equipment",,False
+en-GB,Accounting - UK GAAP,"property, plant, and equipment",,False
+en-GB,Accounting - UK GAAP,"property, plant and equipment",,False
+en-GB,Accounting - UK GAAP,prospectively,,False
+en-GB,Accounting - UK GAAP,prospectively applying a change in accounting policy,,False
+en-GB,Accounting - UK GAAP,provision,,False
+en-GB,Accounting - UK GAAP,prudence,,False
+en-GB,Accounting - UK GAAP,public beneﬁt entity,,False
+en-GB,Accounting - UK GAAP,public beneﬁt entity concessionary loan,,False
+en-GB,Accounting - UK GAAP,public beneﬁt entity group,,False
+en-GB,Accounting - UK GAAP,publicly traded,,False
+en-GB,Accounting - UK GAAP,qualifying asset,,False
+en-GB,Accounting - UK GAAP,qualifying entity,,False
+en-GB,Accounting - UK GAAP,qualifying insurance policies,,False
+en-GB,Accounting - UK GAAP,recognition,,False
+en-GB,Accounting - UK GAAP,recoverable amount,,False
+en-GB,Accounting - UK GAAP,Regulations,,False
+en-GB,Accounting - UK GAAP,reinsurance contract,,False
+en-GB,Accounting - UK GAAP,related party,,False
+en-GB,Accounting - UK GAAP,related party transaction,,False
+en-GB,Accounting - UK GAAP,relevance,,False
+en-GB,Accounting - UK GAAP,reliability,,False
+en-GB,Accounting - UK GAAP,reporting date,,False
+en-GB,Accounting - UK GAAP,reporting period,,False
+en-GB,Accounting - UK GAAP,research,,False
+en-GB,Accounting - UK GAAP,residual value,,False
+en-GB,Accounting - UK GAAP,residual value of an asset,,False
+en-GB,Accounting - UK GAAP,restriction,,False
+en-GB,Accounting - UK GAAP,restructuring,,False
+en-GB,Accounting - UK GAAP,retirement beneﬁt plan,,False
+en-GB,Accounting - UK GAAP,retrospective application,,False
+en-GB,Accounting - UK GAAP,retrospective application of an accounting policy,,False
+en-GB,Accounting - UK GAAP,revenue,,False
+en-GB,Accounting - UK GAAP,separate ﬁnancial statements,,False
+en-GB,Accounting - UK GAAP,service concession arrangement,,False
+en-GB,Accounting - UK GAAP,service potential,,False
+en-GB,Accounting - UK GAAP,share-based payment transaction,,False
+en-GB,Accounting - UK GAAP,share option,,False
+en-GB,Accounting - UK GAAP,signiﬁcant inﬂuence,,False
+en-GB,Accounting - UK GAAP,Small Companies Regulations,,False
+en-GB,Accounting - UK GAAP,small entity,,False
+en-GB,Accounting - UK GAAP,Small LLP Regulations,,False
+en-GB,Accounting - UK GAAP,Statement of Recommended Practice,SORP,False
+en-GB,Accounting - UK GAAP,state,,False
+en-GB,Accounting - UK GAAP,state plan,,False
+en-GB,Accounting - UK GAAP,state employee beneﬁt plan,,False
+en-GB,Accounting - UK GAAP,statement of cash ﬂows,,False
+en-GB,Accounting - UK GAAP,statement of comprehensive income,,False
+en-GB,Accounting - UK GAAP,statement of ﬁnancial position,,False
+en-GB,Accounting - UK GAAP,statement of income and retained earnings,,False
+en-GB,Accounting - UK GAAP,subsidiary,,False
+en-GB,Accounting - UK GAAP,substantively enacted,,False
+en-GB,Accounting - UK GAAP,tax expense,,False
+en-GB,Accounting - UK GAAP,tax loss,,False
+en-GB,Accounting - UK GAAP,taxable proﬁt,,False
+en-GB,Accounting - UK GAAP,termination beneﬁts,,False
+en-GB,Accounting - UK GAAP,timing differences,,False
+en-GB,Accounting - UK GAAP,timeliness,,False
+en-GB,Accounting - UK GAAP,total comprehensive income,,False
+en-GB,Accounting - UK GAAP,transaction costs ﬁnancial instruments,,False
+en-GB,Accounting - UK GAAP,transaction costs,,False
+en-GB,Accounting - UK GAAP,treasury shares,,False
+en-GB,Accounting - UK GAAP,turnover,,False
+en-GB,Accounting - UK GAAP,understandability,,False
+en-GB,Accounting - UK GAAP,useful life,,False
+en-GB,Accounting - UK GAAP,value in use,,False
+en-GB,Accounting - UK GAAP,value in use in respect of assets held for their service potential,,False
+en-GB,Accounting - UK GAAP,venturer,,False
+en-GB,Accounting - UK GAAP,vest,,False
+en-GB,Accounting - UK GAAP,vested beneﬁts,,False

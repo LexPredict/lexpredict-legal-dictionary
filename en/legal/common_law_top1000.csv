@@ -1,0 +1,1001 @@
+Term Locale,Term Category,Term,CaseSensitive
+en-US,US Code - Title 16,agreement,False
+en-US,US Code - Title 15,borrower,False
+en-US,US Code - Title 12,loan,False
+en-US,US Code - Title 12,lender,False
+en-US,Legal - CFR Title 15,section,False
+en-US,US Code - Title 15,agent,False
+en-US,US Code - Title 16,party,False
+en-US,Accounting - US GAAP,term,False
+en-US,US Code - Title 26,interest,False
+en-US,US Code - Title 12,obligation,False
+en-US,US Code - Title 12,bank,False
+en-US,US Code - Title 15,document,False
+en-US,US Code - Title 12,payment,False
+en-US,US Code - Title 12,company,False
+en-US,US Code - Title 16,day,False
+en-US,US Code - Title 2,page,False
+en-US,US Code - Title 10,credit,False
+en-US,Financial,right,False
+en-US,US Code - Title 38,notice,False
+en-US,US Code - Title 48,law,False
+en-US,Accounting - FASB,event,False
+en-US,Accounting - US GAAP,obligations,False
+en-US,Accounting - US GAAP,period,False
+en-US,US Code - Title 10,contractor,False
+en-US,US Code - Title 42,business,False
+en-US,US Code - Title 16,RTO,True
+en-US,US Code - Title 15,material,False
+en-US,Legal - CFR Title 7,condition,False
+en-US,US Code - Title 12,subsidiary,False
+en-US,US Code - Title 22,property,False
+en-US,US Code - Title 10,contract,False
+en-US,US Code - Title 10,rate,False
+en-US,US Code - Title 16,parties,False
+en-US,US Code - Title 12,person,False
+en-US,US Code - Title 12,owner,False
+en-US,Legal - CFR Title 15,days,False
+en-US,US Code - Title 22,pay,False
+en-US,US Code - Title 26,case,False
+en-US,US Code - Title 28,work,False
+en-US,US Code - Title 2,cost,False
+en-US,US Code - Title 15,security,False
+en-US,US Code - Title 12,default,False
+en-US,US Code - Title 15,principal,False
+en-US,US Code - Title 26,liability,False
+en-US,US Code - Title 10,state,False
+en-US,US Code - Title 18,benefit,False
+en-US,Accounting - US GAAP,note,False
+en-US,US Code - Title 49,fee,False
+en-US,US Code - Title 10,construction,False
+en-US,US Code - Title 15,termination,False
+en-US,US Code - Title 26,employment,False
+en-US,US Code - Title 16,action,False
+en-US,US Code - Title 12,employee,False
+en-US,US Code - Title 10,plan,False
+en-US,US Code - Title 15,service,False
+en-US,Legal - CFR Title 22,request,False
+en-US,US Code - Title 18,part,False
+en-US,US Code - Title 12,account,False
+en-US,Accounting - US GAAP,expense,False
+en-US,US Code - Title 49,order,False
+en-US,US Code - Title 15,year,False
+en-US,US Code - Title 10,consent,False
+en-US,US Code - Title 15,information,False
+en-US,US Code - Title 12,project,False
+en-US,US Code - Title 21,necessary,False
+en-US,US Code - Title 18,statement,False
+en-US,US Code - Title 42,certificate,False
+en-US,US Code - Title 11,claim,False
+en-US,Accounting - US GAAP,outstanding,False
+en-US,US Code - Title 49,title,False
+en-US,Legal - CFR Title 7,received,False
+en-US,US Code - Title 18,writing,False
+en-US,Accounting - FASB,fees,False
+en-US,US Code - Title 26,use,False
+en-US,US Code - Title 42,costs,False
+en-US,US Code - Title 11,lien,False
+en-US,Legal - CFR Title 12,provide,False
+en-US,US Code - Title 12,corporation,False
+en-US,US Code - Title 28,asset,False
+en-US,US Code - Title 11,act,False
+en-US,US Code - Title 26,portion,False
+en-US,Legal - CFR Title 7,loan documents,False
+en-US,US Code - Title 10,officer,False
+en-US,US Code - Title 50,good,False
+en-US,US Code - Title 19,authority,False
+en-US,Legal - CFR Title 8,in writing,False
+en-US,US Code - Title 21,article,False
+en-US,Accounting - US GAAP,credit agreement,False
+en-US,Legal - CFR Title 26,related,False
+en-US,US Code - Title 31,assignment,False
+en-US,US Code - Title 20,assets,False
+en-US,US Code - Title 20,regulation,False
+en-US,US Code - Title 15,insurance,False
+en-US,US Code - Title 42,new,False
+en-US,US Code - Title 19,used,False
+en-US,Accounting - FASB,delivery,False
+en-US,US Code - Title 42,operation,False
+en-US,US Code - Title 10,facility,False
+en-US,US Code - Title 10,expenses,False
+en-US,Accounting - US GAAP,instrument,False
+en-US,US Code - Title 15,transaction,False
+en-US,US Code - Title 16,immediately,False
+en-US,US Code - Title 7,receipt,False
+en-US,US Code - Title 19,services,False
+en-US,US Code - Title 11,affiliate,False
+en-US,Financial,basis,False
+en-US,US Code - Title 16,permit,False
+en-US,US Code - Title 42,base,False
+en-US,US Code - Title 10,fund,False
+en-US,US Code - Title 12,control,False
+en-US,US Code - Title 11,demand,False
+en-US,US Code - Title 7,approval,False
+en-US,US Code - Title 12,business day,False
+en-US,US Code - Title 15,month,False
+en-US,US Code - Title 11,code,False
+en-US,Accounting - FASB,warranty,False
+en-US,Legal - CFR Title 26,indebtedness,False
+en-US,US Code - Title 33,guarantor,False
+en-US,US Code - Title 15,banks,False
+en-US,Legal - CFR Title 26,notes,False
+en-US,US Code - Title 20,equipment,False
+en-US,US Code - Title 34,jurisdiction,False
+en-US,Legal - CFR Title 7,advances,False
+en-US,Legal - CFR Title 26,taxes,False
+en-US,US Code - Title 30,materials,False
+en-US,US Code - Title 12,any person,False
+en-US,US Code - Title 12,stock,False
+en-US,US Code - Title 29,successor,False
+en-US,US Code - Title 12,director,False
+en-US,US Code - Title 15,sale,False
+en-US,US Code - Title 12,compensation,False
+en-US,US Code - Title 11,board,False
+en-US,US Code - Title 21,authorized,False
+en-US,US Code - Title 19,directly,False
+en-US,US Code - Title 12,office,False
+en-US,US Code - Title 18,damage,False
+en-US,US Code - Title 16,system,False
+en-US,US Code - Title 19,existing,False
+en-US,US Code - Title 12,securities,False
+en-US,Financial,warrants,False
+en-US,Accounting - US GAAP,collateral,False
+en-US,US Code - Title 26,purchase,False
+en-US,US Code - Title 22,benefits,False
+en-US,US Code - Title 16,report,False
+en-US,US Code - Title 18,proceeds,False
+en-US,Legal - CFR Title 19,issued,False
+en-US,US Code - Title 16,states,False
+en-US,US Code - Title 12,capital,False
+en-US,US Code - Title 21,entity,False
+en-US,US Code - Title 18,funds,False
+en-US,US Code - Title 11,debt,False
+en-US,US Code - Title 16,applicable law,False
+en-US,US Code - Title 15,remedy,False
+en-US,US Code - Title 49,price,False
+en-US,US Code - Title 42,effective date,False
+en-US,US Code - Title 16,addition,False
+en-US,Legal - CFR Title 7,duty,False
+en-US,US Code - Title 10,force,False
+en-US,US Code - Title 12,liabilities,False
+en-US,US Code - Title 10,united states,False
+en-US,US Code - Title 16,take,False
+en-US,US Code - Title 7,terminate,False
+en-US,US Code - Title 15,rule,False
+en-US,US Code - Title 42,release,False
+en-US,US Code - Title 21,application,False
+en-US,US Code - Title 12,consolidated,False
+en-US,US Code - Title 16,taken,False
+en-US,US Code - Title 12,deposit,False
+en-US,US Code - Title 10,court,False
+en-US,US Code - Title 12,income,False
+en-US,US Code - Title 30,lease,False
+en-US,Legal - CFR Title 19,DOE,True
+en-US,US Code - Title 12,cash,False
+en-US,Legal - CFR Title 5,substantially,False
+en-US,US Code - Title 11,value,False
+en-US,US Code - Title 7,extension,False
+en-US,Accounting - US GAAP,balance,False
+en-US,US Code - Title 19,employees,False
+en-US,US Code - Title 7,option,False
+en-US,US Code - Title 10,transfer,False
+en-US,US Code - Title 15,exchange,False
+en-US,US Code - Title 50,policy,False
+en-US,Accounting - US GAAP,share,False
+en-US,US Code - Title 11,judgment,False
+en-US,US Code - Title 42,regulations,False
+en-US,US Code - Title 26,equity,False
+en-US,Legal - CFR Title 7,exercise,False
+en-US,US Code - Title 15,license,False
+en-US,US Code - Title 19,entered,False
+en-US,Accounting - FASB,properties,False
+en-US,US Code - Title 38,reserve,False
+en-US,US Code - Title 15,record,False
+en-US,US Code - Title 26,tax,False
+en-US,Legal - CFR Title 15,software,False
+en-US,Legal - CFR Title 25,owned,False
+en-US,US Code - Title 15,subcontractor,False
+en-US,US Code - Title 18,employer,False
+en-US,Accounting - US GAAP,net,False
+en-US,US Code - Title 19,determination,False
+en-US,Financial,maturity,False
+en-US,US Code - Title 16,trust,False
+en-US,US Code - Title 2,modification,False
+en-US,US Code - Title 16,representative,False
+en-US,Legal - CFR Title 19,duties,False
+en-US,Accounting - US GAAP,test,False
+en-US,Legal - CFR Title 15,item,False
+en-US,US Code - Title 19,indirectly,False
+en-US,US Code - Title 10,agency,False
+en-US,US Code - Title 12,guarantee,False
+en-US,US Code - Title 8,substantial,False
+en-US,Legal - CFR Title 9,evidence,False
+en-US,US Code - Title 33,damages,False
+en-US,US Code - Title 18,loss,False
+en-US,US Code - Title 12,improvement,False
+en-US,US Code - Title 2,breach,False
+en-US,Accounting - US GAAP,accounting,False
+en-US,US Code - Title 46,acknowledge,False
+en-US,Accounting - US GAAP,financial statements,False
+en-US,US Code - Title 18,money,False
+en-US,US Code - Title 8,national,False
+en-US,Accounting - US GAAP,letter of credit,False
+en-US,US Code - Title 15,persons,False
+en-US,US Code - Title 15,management,False
+en-US,US Code - Title 15,good faith,False
+en-US,US Code - Title 28,original,False
+en-US,US Code - Title 7,market,False
+en-US,US Code - Title 50,address,False
+en-US,US Code - Title 19,standard,False
+en-US,Legal - CFR Title 9,subsection,False
+en-US,US Code - Title 46,consideration,False
+en-US,Accounting - US GAAP,interest rate,False
+en-US,US Code - Title 11,commission,False
+en-US,Legal - CFR Title 13,other party,False
+en-US,Legal - CFR Title 12,GAAP,True
+en-US,Accounting - US GAAP,guaranty,False
+en-US,US Code - Title 16,chief,False
+en-US,US Code - Title 42,design,False
+en-US,US Code - Title 7,kind,False
+en-US,US Code - Title 12,member,False
+en-US,US Code - Title 16,acquisition,False
+en-US,Legal - CFR Title 26,group,False
+en-US,Accounting - US GAAP,disbursement,False
+en-US,US Code - Title 10,participant,False
+en-US,US Code - Title 2,current,False
+en-US,US Code - Title 6,type,False
+en-US,US Code - Title 7,knowledge,False
+en-US,US Code - Title 51,commercial,False
+en-US,US Code - Title 30,investment,False
+en-US,US Code - Title 15,records,False
+en-US,Legal - CFR Title 12,signature,False
+en-US,US Code - Title 28,relevant,False
+en-US,US Code - Title 25,documentation,False
+en-US,US Code - Title 15,president,False
+en-US,US Code - Title 38,third party,False
+en-US,Legal - CFR Title 13,collectively,False
+en-US,US Code - Title 26,quarter,False
+en-US,US Code - Title 12,arrangement,False
+en-US,US Code - Title 11,return,False
+en-US,US Code - Title 2,architect,False
+en-US,US Code - Title 15,represent,False
+en-US,US Code - Title 23,maintenance,False
+en-US,US Code - Title 26,correct,False
+en-US,US Code - Title 16,the plan,False
+en-US,Legal - CFR Title 17,aggregate amount,False
+en-US,US Code - Title 15,reduction,False
+en-US,US Code - Title 26,deposits,False
+en-US,Financial,trade,False
+en-US,US Code - Title 7,enter,False
+en-US,US Code - Title 47,line,False
+en-US,Accounting - FASB,coverage,False
+en-US,Accounting - FASB,revenue,False
+en-US,Legal - CFR Title 12,shares,False
+en-US,US Code - Title 15,specifications,False
+en-US,US Code - Title 5,eligible,False
+en-US,US Code - Title 26,adjustment,False
+en-US,US Code - Title 15,product,False
+en-US,US Code - Title 11,attorney,False
+en-US,Legal - CFR Title 26,retirement,False
+en-US,US Code - Title 10,conduct,False
+en-US,Legal - CFR Title 9,acceptable,False
+en-US,US Code - Title 12,mortgage,False
+en-US,US Code - Title 1,association,False
+en-US,US Code - Title 12,participation,False
+en-US,US Code - Title 11,security interest,False
+en-US,US Code - Title 20,funding,False
+en-US,US Code - Title 18,bankruptcy,False
+en-US,Accounting - US GAAP,issue,False
+en-US,US Code - Title 26,capacity,False
+en-US,Legal - CFR Title 19,incorporated,False
+en-US,US Code - Title 21,prepared,False
+en-US,Legal - CFR Title 12,activity,False
+en-US,US Code - Title 42,acquired,False
+en-US,US Code - Title 10,fiscal year,False
+en-US,US Code - Title 15,communication,False
+en-US,US Code - Title 12,board of directors,False
+en-US,Accounting - FASB,certificates,False
+en-US,US Code - Title 16,development,False
+en-US,US Code - Title 1,individual,False
+en-US,US Code - Title 47,ICO,True
+en-US,Accounting - FASB,restriction,False
+en-US,US Code - Title 12,termination date,False
+en-US,Accounting - US GAAP,review,False
+en-US,US Code - Title 30,penalty,False
+en-US,US Code - Title 16,partnership,False
+en-US,US Code - Title 20,parent,False
+en-US,Accounting - US GAAP,warrant,False
+en-US,US Code - Title 10,grant,False
+en-US,Legal - CFR Title 14,data,False
+en-US,Legal - CFR Title 19,foreign,False
+en-US,US Code - Title 26,bond,False
+en-US,Legal - CFR Title 19,U.S.,True
+en-US,US Code - Title 42,authorization,False
+en-US,US Code - Title 16,facilities,False
+en-US,US Code - Title 18,ordinary course of business,False
+en-US,US Code - Title 10,customer,False
+en-US,US Code - Title 16,city,False
+en-US,US Code - Title 15,licensee,False
+en-US,US Code - Title 12,senior,False
+en-US,US Code - Title 10,program,False
+en-US,Accounting - US GAAP,error,False
+en-US,US Code - Title 28,years,False
+en-US,US Code - Title 15,inspection,False
+en-US,US Code - Title 11,trustee,False
+en-US,US Code - Title 18,election,False
+en-US,US Code - Title 22,detail,False
+en-US,US Code - Title 21,distribution,False
+en-US,US Code - Title 5,pledge,False
+en-US,US Code - Title 12,violation,False
+en-US,US Code - Title 11,represents,False
+en-US,US Code - Title 15,replacement,False
+en-US,US Code - Title 15,local,False
+en-US,Accounting - US GAAP,labor,False
+en-US,US Code - Title 16,taking,False
+en-US,US Code - Title 11,purchaser,False
+en-US,Accounting - FASB,activities,False
+en-US,US Code - Title 15,well,False
+en-US,US Code - Title 26,beneficiary,False
+en-US,US Code - Title 21,licensed,False
+en-US,US Code - Title 10,creditor,False
+en-US,US Code - Title 54,protection,False
+en-US,Accounting - US GAAP,conversion,False
+en-US,US Code - Title 15,process,False
+en-US,US Code - Title 5,reimbursement,False
+en-US,Accounting - US GAAP,margin,False
+en-US,US Code - Title 30,risk,False
+en-US,US Code - Title 22,location,False
+en-US,US Code - Title 16,practice,False
+en-US,Financial,holding,False
+en-US,Accounting - US GAAP,withholding,False
+en-US,US Code - Title 28,statute,False
+en-US,US Code - Title 7,supply,False
+en-US,US Code - Title 20,holder,False
+en-US,Accounting - US GAAP,encumbrance,False
+en-US,Accounting - US GAAP,insolvency,False
+en-US,US Code - Title 18,telephone,False
+en-US,Financial,sell,False
+en-US,US Code - Title 15,disclosure,False
+en-US,Financial,balance sheet,False
+en-US,Accounting - FASB,testing,False
+en-US,US Code - Title 12,institution,False
+en-US,US Code - Title 18,sentence,False
+en-US,Accounting - US GAAP,negligence,False
+en-US,Legal - CFR Title 12,renewal,False
+en-US,Accounting - US GAAP,merger,False
+en-US,US Code - Title 12,organization,False
+en-US,US Code - Title 33,discharge,False
+en-US,Accounting - FASB,assumption,False
+en-US,US Code - Title 10,includes,False
+en-US,US Code - Title 12,area,False
+en-US,US Code - Title 16,reserves,False
+en-US,US Code - Title 25,assessment,False
+en-US,Legal - CFR Title 20,qualified,False
+en-US,US Code - Title 10,unit,False
+en-US,US Code - Title 11,mail,False
+en-US,US Code - Title 50,bonus,False
+en-US,US Code - Title 25,list,False
+en-US,US Code - Title 22,position,False
+en-US,Financial,sales,False
+en-US,US Code - Title 18,relief,False
+en-US,US Code - Title 15,reorganization,False
+en-US,US Code - Title 5,award,False
+en-US,US Code - Title 22,support,False
+en-US,US Code - Title 12,administration,False
+en-US,US Code - Title 42,employed,False
+en-US,US Code - Title 11,accountant,False
+en-US,US Code - Title 50,access,False
+en-US,US Code - Title 15,manager,False
+en-US,US Code - Title 50,investigation,False
+en-US,US Code - Title 48,outstanding principal,False
+en-US,US Code - Title 1,county,False
+en-US,US Code - Title 16,land,False
+en-US,US Code - Title 34,chief executive,False
+en-US,US Code - Title 38,pension,False
+en-US,US Code - Title 15,resolution,False
+en-US,US Code - Title 26,contribution,False
+en-US,US Code - Title 23,substantial completion,False
+en-US,Financial,options,False
+en-US,US Code - Title 41,official,False
+en-US,Legal - CFR Title 19,relationship,False
+en-US,US Code - Title 40,building,False
+en-US,US Code - Title 30,commence,False
+en-US,US Code - Title 15,operate,False
+en-US,US Code - Title 15,committee,False
+en-US,Accounting - US GAAP,incorporation,False
+en-US,Legal - CFR Title 26,contract price,False
+en-US,US Code - Title 12,maturity date,False
+en-US,US Code - Title 22,government,False
+en-US,US Code - Title 12,acquire,False
+en-US,Legal - CFR Title 24,omission,False
+en-US,Accounting - US GAAP,pro rata,False
+en-US,US Code - Title 38,confidentiality,False
+en-US,US Code - Title 11,willful,False
+en-US,US Code - Title 50,premium,False
+en-US,US Code - Title 16,partner,False
+en-US,US Code - Title 21,standards,False
+en-US,US Code - Title 22,profit,False
+en-US,US Code - Title 10,rating,False
+en-US,US Code - Title 54,collection,False
+en-US,Accounting - US GAAP,limited liability,False
+en-US,US Code - Title 11,disability,False
+en-US,US Code - Title 29,consultant,False
+en-US,Accounting - US GAAP,liquidation,False
+en-US,US Code - Title 11,security agreement,False
+en-US,US Code - Title 20,personnel,False
+en-US,US Code - Title 42,domestic,False
+en-US,US Code - Title 42,energy,False
+en-US,US Code - Title 18,members,False
+en-US,US Code - Title 16,change in control,False
+en-US,US Code - Title 11,receivable,False
+en-US,US Code - Title 18,multiple,False
+en-US,US Code - Title 49,gas,False
+en-US,US Code - Title 26,term loan,False
+en-US,US Code - Title 15,supplier,False
+en-US,Legal - CFR Title 12,this paragraph,False
+en-US,US Code - Title 5,participate,False
+en-US,Accounting - US GAAP,offer,False
+en-US,US Code - Title 1,vessel,False
+en-US,US Code - Title 42,utility,False
+en-US,Financial,capital stock,False
+en-US,US Code - Title 11,debtor,False
+en-US,Accounting - US GAAP,shareholder,False
+en-US,US Code - Title 48,budget,False
+en-US,US Code - Title 26,expenses incurred,False
+en-US,Financial,cash flow,False
+en-US,US Code - Title 12,executive officer,False
+en-US,Accounting - US GAAP,securities and exchange commission,False
+en-US,US Code - Title 7,entry,False
+en-US,US Code - Title 42,bid,False
+en-US,US Code - Title 19,fair,False
+en-US,US Code - Title 16,environmental law,False
+en-US,US Code - Title 12,limited liability company,False
+en-US,US Code - Title 50,disclose,False
+en-US,US Code - Title 42,practices,False
+en-US,US Code - Title 42,average,False
+en-US,Accounting - US GAAP,copyright,False
+en-US,US Code - Title 18,manifest,False
+en-US,US Code - Title 42,gross negligence,False
+en-US,Accounting - US GAAP,real property,False
+en-US,US Code - Title 33,source,False
+en-US,Accounting - US GAAP,finance,False
+en-US,US Code - Title 10,willful misconduct,False
+en-US,US Code - Title 42,installation,False
+en-US,US Code - Title 15,audit,False
+en-US,US Code - Title 18,venture,False
+en-US,US Code - Title 15,subcontract,False
+en-US,US Code - Title 33,removal,False
+en-US,US Code - Title 15,invoice,False
+en-US,US Code - Title 35,body,False
+en-US,Legal - CFR Title 17,settlement,False
+en-US,Accounting - US GAAP,internal revenue code,False
+en-US,US Code - Title 12,net income,False
+en-US,US Code - Title 42,repair,False
+en-US,Accounting - US GAAP,chief financial officer,False
+en-US,Financial,accrued interest,False
+en-US,Accounting - US GAAP,endorsement,False
+en-US,US Code - Title 28,injury,False
+en-US,Accounting - FASB,incentive,False
+en-US,Accounting - US GAAP,consolidation,False
+en-US,Accounting - US GAAP,promissory note,False
+en-US,Legal - CFR Title 26,disposition,False
+en-US,US Code - Title 21,patent,False
+en-US,US Code - Title 5,suspension,False
+en-US,US Code - Title 16,certification,False
+en-US,US Code - Title 16,receiver,False
+en-US,Accounting - US GAAP,federal reserve system,False
+en-US,US Code - Title 45,accrue,False
+en-US,US Code - Title 15,articles,False
+en-US,US Code - Title 16,class,False
+en-US,US Code - Title 42,offered,False
+en-US,US Code - Title 2,person or entity,False
+en-US,US Code - Title 10,function,False
+en-US,US Code - Title 26,insured,False
+en-US,Accounting - US GAAP,quality,False
+en-US,Legal - CFR Title 13,substantially all,False
+en-US,US Code - Title 26,supplies,False
+en-US,US Code - Title 15,joint venture,False
+en-US,US Code - Title 42,treatment,False
+en-US,US Code - Title 15,industry,False
+en-US,US Code - Title 42,all costs,False
+en-US,US Code - Title 15,electronic,False
+en-US,US Code - Title 15,subdivision,False
+en-US,US Code - Title 16,authorized officer,False
+en-US,US Code - Title 10,financial institution,False
+en-US,US Code - Title 42,federal fund,False
+en-US,US Code - Title 16,park,False
+en-US,US Code - Title 19,generally accepted accounting principles,False
+en-US,Accounting - US GAAP,common stock,False
+en-US,US Code - Title 31,credit facility,False
+en-US,Legal - CFR Title 18,ERO,True
+en-US,US Code - Title 42,storage,False
+en-US,US Code - Title 5,the corporation,False
+en-US,US Code - Title 10,secretary,False
+en-US,US Code - Title 11,indenture,False
+en-US,US Code - Title 16,ordinance,False
+en-US,US Code - Title 15,franchise,False
+en-US,Accounting - US GAAP,compensate,False
+en-US,Legal - CFR Title 12,consummation,False
+en-US,US Code - Title 34,care,False
+en-US,Legal - CFR Title 19,heading,False
+en-US,US Code - Title 19,firm,False
+en-US,US Code - Title 20,technology,False
+en-US,US Code - Title 38,availability,False
+en-US,US Code - Title 39,hazardous material,False
+en-US,US Code - Title 22,chief executive officer,False
+en-US,US Code - Title 21,supplement,False
+en-US,US Code - Title 11,inventory,False
+en-US,US Code - Title 15,surety,False
+en-US,US Code - Title 10,administrator,False
+en-US,Accounting - US GAAP,floor,False
+en-US,US Code - Title 10,department,False
+en-US,US Code - Title 31,milestone,False
+en-US,US Code - Title 21,transportation,False
+en-US,US Code - Title 7,treated,False
+en-US,US Code - Title 15,court of competent jurisdiction,False
+en-US,US Code - Title 23,obligor,False
+en-US,US Code - Title 25,construction contract,False
+en-US,Accounting - US GAAP,close,False
+en-US,US Code - Title 16,preserve,False
+en-US,US Code - Title 16,plant,False
+en-US,US Code - Title 16,resource,False
+en-US,Accounting - US GAAP,prime rate,False
+en-US,Accounting - US GAAP,declare,False
+en-US,Accounting - US GAAP,privilege,False
+en-US,Accounting - US GAAP,recovery,False
+en-US,US Code - Title 26,dividend,False
+en-US,US Code - Title 14,discharged,False
+en-US,US Code - Title 5,net worth,False
+en-US,US Code - Title 16,governor,False
+en-US,US Code - Title 42,completion date,False
+en-US,US Code - Title 39,governors,False
+en-US,US Code - Title 15,lessor,False
+en-US,US Code - Title 17,incidental,False
+en-US,US Code - Title 12,branch,False
+en-US,US Code - Title 26,payment date,False
+en-US,US Code - Title 12,board of governors,False
+en-US,US Code - Title 26,purchase price,False
+en-US,US Code - Title 15,issuer,False
+en-US,US Code - Title 15,personal property,False
+en-US,US Code - Title 11,intellectual property,False
+en-US,Accounting - FASB,without cause,False
+en-US,Legal - CFR Title 17,analysis,False
+en-US,Legal - CFR Title 1,duplication,False
+en-US,Legal - CFR Title 7,significant,False
+en-US,US Code - Title 33,oil,False
+en-US,US Code - Title 26,insurance policy,False
+en-US,Accounting - FASB,causes,False
+en-US,US Code - Title 19,production,False
+en-US,Legal - CFR Title 10,waste,False
+en-US,US Code - Title 47,meeting,False
+en-US,US Code - Title 15,trademark,False
+en-US,US Code - Title 12,insurance company,False
+en-US,US Code - Title 18,computer,False
+en-US,Legal - CFR Title 7,subordinated,False
+en-US,US Code - Title 37,units,False
+en-US,Accounting - FASB,phase,False
+en-US,US Code - Title 12,investor,False
+en-US,US Code - Title 22,component,False
+en-US,US Code - Title 5,quarters,False
+en-US,US Code - Title 25,temporary,False
+en-US,US Code - Title 15,institute,False
+en-US,Accounting - US GAAP,stockholder,False
+en-US,US Code - Title 22,reasonable time,False
+en-US,US Code - Title 16,structure,False
+en-US,US Code - Title 18,key,False
+en-US,Accounting - US GAAP,contingency,False
+en-US,US Code - Title 54,undertaking,False
+en-US,Legal - CFR Title 21,for cause,False
+en-US,Accounting - US GAAP,exemption,False
+en-US,Legal - CFR Title 10,remainder,False
+en-US,US Code - Title 28,unable,False
+en-US,US Code - Title 26,calendar year,False
+en-US,US Code - Title 43,leased,False
+en-US,Legal - CFR Title 7,purchased,False
+en-US,US Code - Title 26,multiemployer plan,False
+en-US,US Code - Title 43,developed,False
+en-US,US Code - Title 26,fiduciary,False
+en-US,US Code - Title 15,earnings,False
+en-US,Legal - CFR Title 11,pages,False
+en-US,US Code - Title 42,response,False
+en-US,Accounting - US GAAP,treasury,False
+en-US,Accounting - US GAAP,cash flows,False
+en-US,US Code - Title 26,other property,False
+en-US,US Code - Title 33,political subdivision,False
+en-US,US Code - Title 26,deficiency,False
+en-US,Legal - CFR Title 26,premiums,False
+en-US,US Code - Title 42,customers,False
+en-US,US Code - Title 31,protest,False
+en-US,US Code - Title 54,designation,False
+en-US,US Code - Title 29,goods,False
+en-US,US Code - Title 21,processing,False
+en-US,Financial,market value,False
+en-US,US Code - Title 34,courts,False
+en-US,US Code - Title 16,treaty,False
+en-US,US Code - Title 26,equity interest,False
+en-US,US Code - Title 15,insurer,False
+en-US,Accounting - FASB,recourse,False
+en-US,Accounting - US GAAP,confirmation,False
+en-US,US Code - Title 26,internal revenue code of 1986,False
+en-US,US Code - Title 16,authorizations,False
+en-US,Accounting - US GAAP,expenditure,False
+en-US,US Code - Title 15,vendor,False
+en-US,US Code - Title 11,appeal,False
+en-US,US Code - Title 19,assist,False
+en-US,US Code - Title 26,contributions,False
+en-US,US Code - Title 11,petition,False
+en-US,US Code - Title 13,survey,False
+en-US,US Code - Title 49,binding obligation,False
+en-US,US Code - Title 10,proposal,False
+en-US,US Code - Title 15,series,False
+en-US,US Code - Title 42,lapse,False
+en-US,Accounting - US GAAP,dissolution,False
+en-US,US Code - Title 18,trade secret,False
+en-US,US Code - Title 15,lessee,False
+en-US,US Code - Title 16,district,False
+en-US,Accounting - US GAAP,dividends,False
+en-US,US Code - Title 15,seller,False
+en-US,Accounting - FASB,capital lease,False
+en-US,US Code - Title 28,division,False
+en-US,US Code - Title 11,custodian,False
+en-US,US Code - Title 50,pro rata share,False
+en-US,Accounting - US GAAP,pledged,False
+en-US,US Code - Title 42,disposal,False
+en-US,Financial,distributions,False
+en-US,US Code - Title 12,chairman,False
+en-US,US Code - Title 12,real estate,False
+en-US,US Code - Title 18,substantial part,False
+en-US,US Code - Title 45,the court,False
+en-US,Legal - CFR Title 24,likely,False
+en-US,US Code - Title 42,environment,False
+en-US,US Code - Title 17,publicly,False
+en-US,US Code - Title 26,remove,False
+en-US,US Code - Title 26,offset,False
+en-US,US Code - Title 43,replacements,False
+en-US,US Code - Title 26,due date,False
+en-US,US Code - Title 12,governmental agency,False
+en-US,US Code - Title 26,controls,False
+en-US,US Code - Title 47,contest,False
+en-US,US Code - Title 26,intangible,False
+en-US,Accounting - US GAAP,in arrears,False
+en-US,US Code - Title 7,marketing,False
+en-US,US Code - Title 15,refund,False
+en-US,US Code - Title 16,resources,False
+en-US,US Code - Title 21,transferee,False
+en-US,US Code - Title 10,network,False
+en-US,US Code - Title 8,permanent,False
+en-US,US Code - Title 11,authorized representative,False
+en-US,US Code - Title 6,the secretary,False
+en-US,US Code - Title 18,represented,False
+en-US,Financial,vesting,False
+en-US,US Code - Title 16,field,False
+en-US,US Code - Title 16,fair market value,False
+en-US,Financial,limited partnership,False
+en-US,US Code - Title 4,income tax,False
+en-US,US Code - Title 19,master,False
+en-US,US Code - Title 22,laws of the united states,False
+en-US,US Code - Title 21,verify,False
+en-US,US Code - Title 22,NITC,True
+en-US,US Code - Title 18,uniform,False
+en-US,US Code - Title 10,savings,False
+en-US,US Code - Title 15,center,False
+en-US,US Code - Title 42,proportion,False
+en-US,US Code - Title 11,insolvent,False
+en-US,US Code - Title 43,withdrawal,False
+en-US,Accounting - US GAAP,money market,False
+en-US,US Code - Title 42,allowance,False
+en-US,Accounting - US GAAP,draft,False
+en-US,US Code - Title 12,loan commitment,False
+en-US,US Code - Title 7,registrant,False
+en-US,US Code - Title 10,distribute,False
+en-US,Accounting - FASB,expenditures,False
+en-US,US Code - Title 6,liability insurance,False
+en-US,Legal - CFR Title 7,date of determination,False
+en-US,US Code - Title 15,emergency,False
+en-US,US Code - Title 18,rules and regulations,False
+en-US,Accounting - US GAAP,revenues,False
+en-US,US Code - Title 12,surplus,False
+en-US,US Code - Title 12,holding company,False
+en-US,Accounting - US GAAP,employee benefit plan,False
+en-US,US Code - Title 12,extension of credit,False
+en-US,US Code - Title 26,retirement plan,False
+en-US,US Code - Title 26,interest expense,False
+en-US,Accounting - US GAAP,stock options,False
+en-US,US Code - Title 4,retirement income,False
+en-US,US Code - Title 2,client,False
+en-US,Accounting - FASB,income taxes,False
+en-US,US Code - Title 52,identification,False
+en-US,US Code - Title 12,check,False
+en-US,US Code - Title 6,examination,False
+en-US,Legal - CFR Title 5,customarily,False
+en-US,Accounting - US GAAP,fixture,False
+en-US,US Code - Title 26,reportable event,False
+en-US,Legal - CFR Title 7,light,False
+en-US,US Code - Title 49,mechanic,False
+en-US,US Code - Title 42,discount,False
+en-US,US Code - Title 15,broker,False
+en-US,Accounting - FASB,vest,False
+en-US,US Code - Title 21,expiration date,False
+en-US,US Code - Title 42,selection,False
+en-US,US Code - Title 30,royalty,False
+en-US,Accounting - US GAAP,internal revenue service,False
+en-US,US Code - Title 10,assistance,False
+en-US,US Code - Title 19,week,False
+en-US,Accounting - US GAAP,working capital,False
+en-US,US Code - Title 29,produced,False
+en-US,US Code - Title 49,secured party,False
+en-US,US Code - Title 18,user,False
+en-US,US Code - Title 42,appraisal,False
+en-US,Legal - CFR Title 27,removed,False
+en-US,US Code - Title 15,investment company,False
+en-US,US Code - Title 20,line of credit,False
+en-US,US Code - Title 26,rule or regulation,False
+en-US,US Code - Title 18,training,False
+en-US,Legal - CFR Title 7,sample,False
+en-US,US Code - Title 7,swap,False
+en-US,US Code - Title 28,without prejudice,False
+en-US,US Code - Title 16,impact,False
+en-US,US Code - Title 26,controlled group,False
+en-US,US Code - Title 33,reasonable cost,False
+en-US,US Code - Title 11,relative,False
+en-US,US Code - Title 12,reserve bank,False
+en-US,Legal - CFR Title 5,transfers,False
+en-US,Accounting - US GAAP,federal reserve bank,False
+en-US,Accounting - FASB,equity interests,False
+en-US,US Code - Title 16,home,False
+en-US,Legal - CFR Title 15,affects,False
+en-US,US Code - Title 19,country,False
+en-US,Accounting - US GAAP,treasurer,False
+en-US,US Code - Title 15,hazardous substance,False
+en-US,US Code - Title 25,consultation,False
+en-US,Accounting - FASB,assumptions,False
+en-US,Legal - CFR Title 5,personally,False
+en-US,US Code - Title 28,accident,False
+en-US,Accounting - US GAAP,escrow,False
+en-US,US Code - Title 51,implementation,False
+en-US,US Code - Title 22,affiliated,False
+en-US,US Code - Title 18,minor,False
+en-US,Accounting - US GAAP,bylaws,False
+en-US,Accounting - US GAAP,capitalized lease,False
+en-US,US Code - Title 15,manufacture,False
+en-US,Accounting - US GAAP,receivables,False
+en-US,US Code - Title 42,allocation,False
+en-US,Legal - CFR Title 12,unconditional,False
+en-US,Accounting - US GAAP,amortization,False
+en-US,Financial,hedging,False
+en-US,US Code - Title 16,import,False
+en-US,US Code - Title 12,uniform commercial code,False
+en-US,US Code - Title 19,category,False
+en-US,US Code - Title 16,length,False
+en-US,US Code - Title 30,regulatory authority,False
+en-US,Accounting - US GAAP,certified public accountant,False
+en-US,US Code - Title 15,invention,False
+en-US,US Code - Title 10,suspend,False
+en-US,Accounting - US GAAP,repairs,False
+en-US,US Code - Title 34,contact,False
+en-US,US Code - Title 12,family,False
+en-US,US Code - Title 12,recipient,False
+en-US,US Code - Title 12,bankruptcy code,False
+en-US,Accounting - US GAAP,consolidated financial statements,False
+en-US,US Code - Title 28,guidelines,False
+en-US,US Code - Title 18,interfere with,False
+en-US,US Code - Title 26,carrier,False
+en-US,US Code - Title 15,manufacturer,False
+en-US,Accounting - FASB,in force,False
+en-US,Financial,floating rate,False
+en-US,US Code - Title 42,offering,False
+en-US,Financial,debenture,False
+en-US,Accounting - FASB,upgrade,False
+en-US,Legal - CFR Title 7,clean,False
+en-US,US Code - Title 42,declaration,False
+en-US,Financial,quantity,False
+en-US,Legal - CFR Title 12,significant subsidiary,False
+en-US,US Code - Title 42,station,False
+en-US,US Code - Title 23,incident,False
+en-US,US Code - Title 12,preservation,False
+en-US,US Code - Title 5,the act,False
+en-US,Accounting - FASB,face amount,False
+en-US,US Code - Title 20,hazard,False
+en-US,US Code - Title 26,rents,False
+en-US,US Code - Title 14,construct,False
+en-US,US Code - Title 15,food,False
+en-US,US Code - Title 49,hardware,False
+en-US,Legal - CFR Title 7,mature,False
+en-US,Accounting - FASB,points,False
+en-US,US Code - Title 1,vehicle,False
+en-US,US Code - Title 18,device,False
+en-US,US Code - Title 30,amount due,False
+en-US,US Code - Title 15,index,False
+en-US,US Code - Title 42,legal representative,False
+en-US,Accounting - FASB,owners,False
+en-US,Financial,regulation u,False
+en-US,US Code - Title 12,fulfillment,False
+en-US,US Code - Title 8,wall,False
+en-US,Legal - CFR Title 26,amounts paid,False
+en-US,US Code - Title 42,agencies,False
+en-US,US Code - Title 23,leverage,False
+en-US,Accounting - US GAAP,purchase order,False
+en-US,US Code - Title 15,voting securities,False
+en-US,US Code - Title 15,voting security,False
+en-US,Accounting - FASB,subrogation,False
+en-US,Accounting - US GAAP,contingent liability,False
+en-US,Accounting - US GAAP,inquiry,False
+en-US,US Code - Title 18,source code,False
+en-US,US Code - Title 30,formation,False
+en-US,Legal - CFR Title 19,departure,False
+en-US,US Code - Title 16,assistant secretary,False
+en-US,Accounting - US GAAP,depreciation,False
+en-US,US Code - Title 15,performance bond,False
+en-US,Accounting - US GAAP,purchases,False
+en-US,US Code - Title 15,evaluation,False
+en-US,US Code - Title 16,moratorium,False
+en-US,US Code - Title 11,order for relief,False
+en-US,Accounting - US GAAP,wage,False
+en-US,Accounting - US GAAP,foreclosure,False
+en-US,US Code - Title 26,applicable rate,False
+en-US,US Code - Title 15,fuel,False
+en-US,Accounting - US GAAP,excise tax,False
+en-US,US Code - Title 49,project cost,False
+en-US,US Code - Title 42,eligibility,False
+en-US,US Code - Title 50,classification,False
+en-US,US Code - Title 10,petroleum,False
+en-US,US Code - Title 10,spouse,False
+en-US,US Code - Title 50,proprietary information,False
+en-US,US Code - Title 26,applicable provision,False
+en-US,US Code - Title 6,classified,False
+en-US,Financial,commercial paper,False
+en-US,Legal - CFR Title 20,recommended,False
+en-US,US Code - Title 34,abuse,False
+en-US,US Code - Title 15,ATV,True
+en-US,Accounting - FASB,ownership interests,False
+en-US,Accounting - US GAAP,present value,False
+en-US,US Code - Title 42,material breach,False
+en-US,Accounting - FASB,underlying,False
+en-US,US Code - Title 10,integration,False
+en-US,Accounting - FASB,interval,False
+en-US,Accounting - US GAAP,capital expenditure,False
+en-US,US Code - Title 42,grace period,False
+en-US,US Code - Title 46,built,False
+en-US,US Code - Title 26,executor,False
+en-US,Accounting - US GAAP,leasehold,False
+en-US,US Code - Title 16,map,False
+en-US,US Code - Title 26,public utility,False
+en-US,Accounting - US GAAP,overhead,False
+en-US,US Code - Title 15,package,False
+en-US,US Code - Title 15,independent contractor,False
+en-US,Accounting - US GAAP,issued and outstanding,False
+en-US,US Code - Title 26,amount paid,False
+en-US,US Code - Title 42,legal process,False
+en-US,US Code - Title 11,related party,False
+en-US,US Code - Title 10,settle,False
+en-US,Accounting - FASB,licensing,False
+en-US,US Code - Title 45,capital expenditures,False
+en-US,US Code - Title 12,claimant,False
+en-US,US Code - Title 15,drug,False
+en-US,US Code - Title 42,applicable provisions,False
+en-US,Accounting - FASB,balance sheets,False
+en-US,US Code - Title 12,enterprise,False
+en-US,US Code - Title 2,general counsel,False
+en-US,US Code - Title 42,introduction,False
+en-US,US Code - Title 15,calendar quarter,False
+en-US,US Code - Title 23,capitalization,False
+en-US,Accounting - US GAAP,valuation,False
+en-US,US Code - Title 50,entitlement,False
+en-US,US Code - Title 15,mile,False
+en-US,US Code - Title 12,associate,False
+en-US,US Code - Title 5,deadline,False
+en-US,Legal - CFR Title 18,discrimination,False
+en-US,US Code - Title 12,actual cost,False
+en-US,US Code - Title 26,plan administrator,False
+en-US,US Code - Title 45,funded debt,False
+en-US,US Code - Title 42,hazardous waste,False
+en-US,Legal - CFR Title 19,reimbursable,False
+en-US,Accounting - FASB,license agreement,False
+en-US,US Code - Title 15,registration statement,False
+en-US,US Code - Title 15,solicitation,False
+en-US,Accounting - US GAAP,accrual,False
+en-US,Legal - CFR Title 16,continuous,False
+en-US,US Code - Title 49,conveyance,False
+en-US,US Code - Title 19,holiday,False
+en-US,US Code - Title 47,operating agreement,False
+en-US,Accounting - US GAAP,proxy,False
+en-US,US Code - Title 30,designee,False
+en-US,US Code - Title 16,range,False
+en-US,US Code - Title 49,beneficial owner,False
+en-US,US Code - Title 18,bodily injury,False
+en-US,US Code - Title 26,governmental body,False
+en-US,US Code - Title 12,knowingly,False
+en-US,Financial,sells,False
+en-US,Legal - CFR Title 17,solicit,False
+en-US,Accounting - US GAAP,solvency,False
+en-US,US Code - Title 12,total assets,False
+en-US,Accounting - US GAAP,auditor,False
+en-US,Accounting - US GAAP,gain,False
+en-US,US Code - Title 26,interest payment date,False
+en-US,US Code - Title 26,subordinate,False
+en-US,US Code - Title 50,fitness,False
+en-US,US Code - Title 16,operator,False
+en-US,Accounting - US GAAP,dispute resolution,False
+en-US,US Code - Title 26,hedge,False
+en-US,US Code - Title 49,model,False
+en-US,US Code - Title 31,plan year,False
+en-US,Accounting - US GAAP,pro forma,False
+en-US,Accounting - US GAAP,projection,False
+en-US,US Code - Title 23,rating agency,False
+en-US,US Code - Title 19,applicable percentage,False
+en-US,US Code - Title 26,applicable requirement,False
+en-US,Accounting - FASB,foreign currency,False
+en-US,US Code - Title 49,spare part,False
+en-US,US Code - Title 26,wages,False
+en-US,US Code - Title 26,accrued benefit,False
+en-US,US Code - Title 42,applicable condition,False
+en-US,US Code - Title 15,internet,False
+en-US,US Code - Title 50,documented,False
+en-US,Legal - CFR Title 7,hard,False
+en-US,Accounting - US GAAP,output,False
+en-US,US Code - Title 26,related person,False
+en-US,Accounting - FASB,trading,False
+en-US,US Code - Title 16,enhancement,False
+en-US,US Code - Title 7,long term,False
+en-US,US Code - Title 16,project costs,False
+en-US,US Code - Title 34,provider,False
+en-US,Accounting - FASB,spare parts,False
+en-US,Financial,liquidity,False
+en-US,US Code - Title 15,commerce,False
+en-US,Legal - CFR Title 12,material change,False
+en-US,US Code - Title 19,royalties,False
+en-US,US Code - Title 15,state law,False
+en-US,US Code - Title 12,title company,False
+en-US,US Code - Title 12,bureau,False
+en-US,Accounting - FASB,compensation plan,False
+en-US,US Code - Title 48,delegate,False
+en-US,US Code - Title 20,final judgment,False
+en-US,Accounting - US GAAP,form 10-k,False
+en-US,US Code - Title 19,unemployment insurance,False
+en-US,US Code - Title 26,cash equivalent,False
+en-US,Accounting - US GAAP,form 8-k,False
+en-US,US Code - Title 15,lot,False
+en-US,US Code - Title 26,preferred stock,False
+en-US,US Code - Title 26,applicable requirements,False
+en-US,US Code - Title 33,pollution,False
+en-US,Accounting - US GAAP,restructuring,False
+en-US,Accounting - US GAAP,without recourse,False
+en-US,US Code - Title 20,dependent,False
+en-US,US Code - Title 15,laboratory,False
+en-US,US Code - Title 33,pollutant,False
+en-US,US Code - Title 7,produce,False
+en-US,US Code - Title 26,automobile,False
+en-US,US Code - Title 12,foundation,False
+en-US,Legal - CFR Title 26,absorber,False
+en-US,Legal - CFR Title 10,cap,False
+en-US,Legal - CFR Title 26,date of issuance,False
+en-US,US Code - Title 43,distance,False
+en-US,US Code - Title 16,uses,False
+en-US,US Code - Title 50,destruction,False
+en-US,US Code - Title 18,district court,False
+en-US,Accounting - US GAAP,retained earnings,False
+en-US,US Code - Title 10,territory,False
+en-US,Accounting - US GAAP,fraud,False
+en-US,US Code - Title 22,annual report,False
+en-US,US Code - Title 11,cash collateral,False
+en-US,US Code - Title 31,formula,False
+en-US,Accounting - FASB,inducement,False
+en-US,US Code - Title 2,publication,False
+en-US,US Code - Title 42,debt service,False
+en-US,US Code - Title 21,inspector,False
+en-US,Legal - CFR Title 22,accommodation,False
+en-US,US Code - Title 12,national banking association,False
+en-US,US Code - Title 15,principal place of business,False
+en-US,Accounting - US GAAP,parent company,False
+en-US,US Code - Title 49,senior executive,False
+en-US,US Code - Title 48,team,False
+en-US,US Code - Title 19,article 5,False
+en-US,US Code - Title 25,confer,False
+en-US,US Code - Title 10,landlord,False
+en-US,Accounting - US GAAP,retire,False
+en-US,US Code - Title 18,felony,False
+en-US,US Code - Title 15,guidance,False
+en-US,Legal - CFR Title 12,next business day,False
+en-US,US Code - Title 42,noncompliance,False
+en-US,Accounting - US GAAP,rate of return,False
+en-US,US Code - Title 26,commodity,False
