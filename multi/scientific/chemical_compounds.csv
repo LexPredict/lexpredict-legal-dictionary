@@ -15,8 +15,7 @@ Scientific - Chemicals,ammonium chloride,ammonium chloride,Ammoniumchlorid,Cloru
 Scientific - Chemicals,ammonium hydrogen fluoride,ammonium hydrogen fluoride,Ammoniumhydrogendifluorid,Bifluoruro de amonio,Difluorure d'ammonium,,FALSE
 Scientific - Chemicals,ammonium hydroxide,ammonium hydroxide,Ammoniakwasser,Hidróxido de amonio,Ammoniaque,,FALSE
 Scientific - Chemicals,ammonium nitrate,ammonium nitrate,Ammoniumnitrat,Nitrato de amonio,Nitrate d'ammonium,,FALSE
-Scientific - Chemicals,ammonium peroxdisulphate,ammonium peroxdisulphate,Ammoniumperoxodisulfat,peroxodisulfato de amonio,"
-peroxodisulfate d'ammonium",,FALSE
+Scientific - Chemicals,ammonium peroxdisulphate,ammonium peroxdisulphate,Ammoniumperoxodisulfat,peroxodisulfato de amonio,peroxodisulfate d'ammonium,,FALSE
 Scientific - Chemicals,ammonium persulfate,ammonium persulfate,Ammoniumperoxodisulfat,persulfate de amonio,Persulfate d'ammonium,,FALSE
 Scientific - Chemicals,ammonium phosphate,ammonium phosphate,Ammoniumphosphat,fosfato de amonio,Phosphate d'ammonium,,FALSE
 Scientific - Chemicals,ammonium sulfate,ammonium sulfate,Ammoniumsulfat,Sulfato de amonio,Sulfate d'ammonium,,FALSE
@@ -28,128 +27,116 @@ Scientific - Chemicals,aviation fuel,aviation fuel,Luftfahrtbetriebsstoff,Combus
 Scientific - Chemicals,baker's ammonia,baker's ammonia,Ammoniumcarbonat,Carbonato de amonio,Carbonate d'ammonium,,FALSE
 Scientific - Chemicals,Sodium hydrogen carbonate,Sodium hydrogen carbonate,Natriumhydrogencarbonat,Bicarbonato de sodio,Bicarbonate de sodium,baking soda; bicarbonate of soda,FALSE
 Scientific - Chemicals,barium carbonate,barium carbonate,Bariumcarbonat,Carbonato de bario,Carbonate de baryum,,FALSE
-Scientific - Chemicals,barium sulfate,barium sulfate,Bariumsulfat,"sulfato de bario
-",Sulfate de baryum,Barytes,FALSE
+Scientific - Chemicals,barium sulfate,barium sulfate,Bariumsulfat,sulfato de bario,Sulfate de baryum,Barytes,FALSE
 Scientific - Chemicals,benzoic acid peroxide,benzoic acid peroxide,Peroxybenzoesäure,Ácido peroxibenzoico,Acide perbenzoïque,Peroxybenzoic acid,FALSE
 Scientific - Chemicals,benzoyl peroxide,benzoyl peroxide,Dibenzoylperoxid,Peróxido de benzoílo,Peroxyde de benzoyle,,FALSE
 Scientific - Chemicals,bismuth,bismuth,Bismut,Bismuto,Bismuth,,FALSE
 Scientific - Chemicals,bismuth subsalicylate,bismuth subsalicylate,Bismutsubsalicylat,Salicilato de bismuto,Sous-salicylate de bismuth,,FALSE
 Scientific - Chemicals,Sodium hypochlorite,Sodium hypochlorite,Natriumhypochlorit,Hipoclorito de sodio,Hypochlorite de sodium,bleach,FALSE
-Scientific - Chemicals,bluestone,bluestone,Blaustein (Naturstein),,Pierre bleue (calcaire),Copper II sulfate pentahydrate,FALSE
 Scientific - Chemicals,boracic acid,boracic acid,Borsäure,Ácido bórico,Acide borique,Boric acid,FALSE
 Scientific - Chemicals,bromthymol blue,bromthymol blue,Bromthymolblau,Azul de bromotimol,Bleu de bromothymol,,FALSE
 Scientific - Chemicals,butane,butane,N-Butan,Butano,Butane,,FALSE
 Scientific - Chemicals,cadmium sulfide,cadmium sulfide,Cadmiumsulfid,Sulfuro de cadmio,Sulfure de cadmium; Jaune de cadmium,cadmium yellow,FALSE
-Scientific - Chemicals,caffeine,caffeine,Coffein; Tein; Teein; Thein,Cafeína,"Caféine; méthylthéobromine; 1,3,7-triméthylxanthine",,FALSE
+Scientific - Chemicals,caffeine,caffeine,Coffein; Koffein; Caffein,Cafeína,"Caféine; méthylthéobromine; 1,3,7-triméthylxanthine",,FALSE
 Scientific - Chemicals,calcium,calcium,Calcium,Calcio,Calcium,,FALSE
-Scientific - Chemicals,calcium barbide,calcium barbide,,,,,FALSE
+Scientific - Chemicals,calcium carbide,calcium carbide,Calciumcarbid,Carburo de calcio,Carbure de calcium,,FALSE
 Scientific - Chemicals,calcium chloride,calcium chloride,Calciumchlorid,Cloruro de calcio,Chlorure de calcium,,FALSE
 Scientific - Chemicals,calcium hydroxide,calcium hydroxide,Calciumhydroxid,Hidróxido de calcio,Hydroxyde de calcium,Milk of lime,FALSE
 Scientific - Chemicals,calcium hypochlorite,calcium hypochlorite,Calciumhypochlorit,Hipoclorito de calcio,Hypochlorite de calcium,,FALSE
 Scientific - Chemicals,calcium nitrate,calcium nitrate; Norgessalpetre;  norwegian saltpetre,Calciumnitrat,Nitrato de calcio,Nitrate de calcium,Norgessalpeter; norwegian saltpeter,FALSE
-Scientific - Chemicals,calcium phosphate monobasic,calcium phosphate monobasic,Dinatriumhydrogenphosphat,,Hydrogénophosphate de sodium,,FALSE
+Scientific - Chemicals,Monocalcium phosphate,Monocalcium phosphate,Calciumdihydrogenphosphat; Monocalciumphosphat; Monokalziumphosphat, fosfato de monocalcio,phosphate monocalcique,Acid calcium phosphate; Calcium acid phosphate; Calcium diorthophosphate; Calcium biphosphate; Calcium superphosphate; Monobasic calcium phosphate; Monocalcium orthophosphate; Phosphoric acid; calcium salt,FALSE
 Scientific - Chemicals,calcium sulfate anhydrous,calcium sulfate anhydrous,Calciumsulfat,Sulfato de calcio,Sulfate de calcium,,FALSE
 Scientific - Chemicals,calcium sulfate hemihydrate,calcium sulfate hemihydrate,Bassanit,Bassanita,Bassanite,,FALSE
-Scientific - Chemicals,campden tablets,campden tablets,,,,,FALSE
 Scientific - Chemicals,camphor,camphor,Campher,Alcanfor,Camphre,,FALSE
 Scientific - Chemicals,candle hardener,candle hardener,Tristearin,Estearina,Tristéarine,,FALSE
-Scientific - Chemicals,carbamide,carbamide,,Urea,Urée,,FALSE
-Scientific - Chemicals,carbon dioxide,carbon dioxide,,Dióxido de carbono,Dioxyde de carbone,,FALSE
-Scientific - Chemicals,carbon steel,carbon steel,,Acero al carbono,Acier au carbone,,FALSE
+Scientific - Chemicals,carbamide,carbamide,Harnstoff,Urea,Urée; carbamide ,urea,FALSE
+Scientific - Chemicals,carbon dioxide,carbon dioxide,Kohlenstoffdioxid; Kohlendioxid ,Dióxido de carbono,Dioxyde de carbone,,FALSE
+Scientific - Chemicals,carbon steel,carbon steel,Kohlenstoffstahl,Acero al carbono,Acier au carbone,,FALSE
 Scientific - Chemicals,carbonic acid,carbonic acid,Kohlensäure,Ácido carbónico,Acide carbonique,Phenol,FALSE
 Scientific - Chemicals,carrageenan,carrageenan,Carrageen,Carragenano,Carraghénane,,FALSE
-Scientific - Chemicals,casting resin,casting resin,,Resina#Resinas sint.C3.A9ticas,,,FALSE
+Scientific - Chemicals,casting resin,casting resin,Gießharz,resina de moldeo,résine de coulée; résine de scellement,,FALSE
 Scientific - Chemicals,caustic potash,caustic potash,Kaliumhydroxid,Hidróxido de potasio,Hydroxyde de potassium,,FALSE
 Scientific - Chemicals,caustic soda,caustic soda,Natriumhydroxid,Hidróxido de sodio,Hydroxyde de sodium,lye; Sodium hydroxide,FALSE
 Scientific - Chemicals,cellulose,cellulose,Cellulose,Celulosa,Cellulose,,FALSE
-Scientific - Chemicals,cellulose thinner,cellulose thinner,,,,,FALSE
+Scientific - Chemicals,cellulose thinner,cellulose thinner,Nitroverdünner; Nitroverdünnung,diluyente para nitrocelulósicas; diluyente de celulosa ,diluant nitrique; diluant nitro,,FALSE
 Scientific - Chemicals,charcoal,charcoal,Holzkohle,Carbón vegetal,Charbon de bois,,FALSE
-Scientific - Chemicals,chile saltpeter,chile saltpetre,Nitronatrit,Nitratina,Nitronatrite,Sodium nitrate,FALSE
-Scientific - Chemicals,chromium oxide,chromium oxide,Chromoxid,Óxido de cromo,,,FALSE
+Scientific - Chemicals,chile saltpeter,chile saltpetre,Nitronatrit; Chilesalpeter,Nitratina; salitre de chile,salpêtre chili,Sodium nitrate,FALSE
+Scientific - Chemicals,chromium oxide,chromium oxide,Chromoxid,Óxido de cromo,oxyde de chrome,,FALSE
 Scientific - Chemicals,citric acid,citric acid,Citronensäure,Ácido cítrico,Acide citrique,,FALSE
-Scientific - Chemicals,clearwater,clearwater,,,,,FALSE
-Scientific - Chemicals,copper,copper,Kupfer,,Cuivre,,FALSE
-Scientific - Chemicals,copper naphthenate,copper naphthenate,Naphthensäure,,,,FALSE
-Scientific - Chemicals,copper sulfate,copper sulfate,Kupfersulfat,Sulfato de cobre (II),Sulfate de cuivre,,FALSE
-Scientific - Chemicals,copper sulfate pnetahydrate,copper sulfate pnetahydrate,,,,,FALSE
-Scientific - Chemicals,copperas,copperas,Eisen(II)-sulfat,Sulfato de hierro (II),Sulfate de fer(II),Hydrated ferrous sulfate,FALSE
-Scientific - Chemicals,corn starch,corn starch,Stärke,Maicena,,,FALSE
+Scientific - Chemicals,copper,copper,Kupfer,Cobre,Cuivre,,FALSE
+Scientific - Chemicals,copper naphthenate,copper naphthenate,Naphthensäure,naftenato de cobre,naphténate de cuivre,Naphthenic acid,FALSE
+Scientific - Chemicals,copper sulfate,copper sulfate,Kupfersulfat,Sulfato de cobre (II),Sulfate de cuivre,"Copper sulfate pentahydrate; cupric sulfate, copper(II) sulfate; copper sulphate",FALSE
+Scientific - Chemicals,copperas,copperas; Iron(ii) sulphate,Eisen(II)-sulfat,Sulfato de hierro (II),Sulfate de fer(II),Hydrated ferrous sulfate; iron(II) sulphate; ferrous sulfate,FALSE
+Scientific - Chemicals,corn starch,corn starch,Stärke,Maicena,fécule de maïs; amidon de maïs,,FALSE
 Scientific - Chemicals,corn syrup,corn syrup,Maissirup,Jarabe de maíz,Sirop de maïs,,FALSE
 Scientific - Chemicals,Potassium hydrogen tartrate,Potassium hydrogen tartrate,Weinstein,Bitartrato de potasio,Bitartrate de potassium,cream of tartar,FALSE
 Scientific - Chemicals,cupric sulfate,cupric sulfate,Kupfersulfat,Sulfato de cobre (II),Sulfate de cuivre,,FALSE
-Scientific - Chemicals,cyanuric acid,cyanuric acid,Cyanursäure,,Acide cyanurique,,FALSE
-Scientific - Chemicals,darkroom chemical,darkroom chemical,Dunkelkammer (Fotografie),Cuarto oscuro (fotografía),,,FALSE
-Scientific - Chemicals,degreaser,degreaser,Teilereinigung,,,,FALSE
-Scientific - Chemicals,dextrose,dextrose,Acid-Citrate-Dextrose,,,Glucose,FALSE
-Scientific - Chemicals,diamond,diamond,,Diamante,Diamant,Carbon,FALSE
+Scientific - Chemicals,cyanuric acid,cyanuric acid,Cyanursäure,ácido cianúrico,acide cyanurique,"1,3,5-Triazinetriol; s-Triazinetriol; s-Triazinetrione; Tricarbimide; Isocyanuric acid;  Pseudocyanuric acid",FALSE
+Scientific - Chemicals,darkroom chemical,darkroom chemical,Dunkelkammer,químico de cuarto oscuro,chambre noire chimique,,FALSE
+Scientific - Chemicals,degreaser,degreaser,Teilereinigung; Entfetter; Entfettungsmittel; Fettlöser,desengrasante,dégraissant; dégraisseur,,FALSE
+Scientific - Chemicals,dextrose,dextrose,Acid-Citrate-Dextrose; dextrose; Traubenzucker,dextrosa; glucosa,dextrose,Glucose,FALSE
+Scientific - Chemicals,diamond,diamond,Diamant,Diamante,Diamant,Carbon,FALSE
 Scientific - Chemicals,dichloromethane,dichloromethane,Dichlormethan,Cloruro de metileno,Dichlorométhane,,FALSE
 Scientific - Chemicals,diethyl ether,diethyl ether,Diethylether,Éter etílico,Éther diéthylique,,FALSE
 Scientific - Chemicals,dimethyl sulfoxide,dimethyl sulfoxide,Dimethylsulfoxid,Dimetilsulfóxido,Diméthylsulfoxyde,,FALSE
 Scientific - Chemicals,disappearing ink,disappearing ink,Geheimtinte,Tinta invisible,Encre invisible,,FALSE
-Scientific - Chemicals,disodium phosphate,disodium phosphate,Dinatriumhydrogenphosphat,,Hydrogénophosphate de sodium,,FALSE
+Scientific - Chemicals,disodium phosphate,disodium phosphate,Dinatriumhydrogenphosphat,Fosfato disódico,Hydrogénophosphate de sodium,,FALSE
 Scientific - Chemicals,dmso,dmso,Dimethylsulfoxid,Dimetilsulfóxido,Diméthylsulfoxyde,,FALSE
-Scientific - Chemicals,egg preserver,egg preserver,Hiranyaksha,,Hiranyaksha,,FALSE
+Scientific - Chemicals,egg preserver,egg preserver,Eierpfleger,conservante de huevo,conservateur d'oeufs,,FALSE
 Scientific - Chemicals,epsom salt,epsom salt,Magnesiumsulfat,Sulfato de magnesio,Sulfate de magnésium,,FALSE
-Scientific - Chemicals,etching solution,etching solution,,,Gravure (micro-fabrication),,FALSE
+Scientific - Chemicals,etching solution,etching solution,Ätzlösung,solución de aguafuerte,Gravure; solution de gravure,,FALSE
 Scientific - Chemicals,ether,ether,Ether,Éter (química),Éther-oxyde,,FALSE
 Scientific - Chemicals,ethoxyethane,ethoxyethane,Diethylether,Éter etílico,Éther diéthylique,,FALSE
-Scientific - Chemicals,ethyl alcohol,ethyl alcohol,,Etanol,Éthanol,grain alcohol; ethanol,FALSE
+Scientific - Chemicals,ethyl alcohol,ethyl alcohol,Ethanol; Äthanol,Etanol,Éthanol,grain alcohol; ethanol,FALSE
 Scientific - Chemicals,ethylene glycol,ethylene glycol,Ethylenglycol,Etilenglicol,Éthylène glycol,,FALSE
 Scientific - Chemicals,ethyne,ethyne,Ethin,Acetileno,Acétylène,,FALSE
 Scientific - Chemicals,eugenol,eugenol,Eugenol,Eugenol,Eugénol,,FALSE
-Scientific - Chemicals,everclear,everclear,,,,,FALSE
 Scientific - Chemicals,ferric chloride,ferric chloride,Eisen(III)-chlorid,Cloruro de hierro (III),Chlorure de fer(III),,FALSE
 Scientific - Chemicals,ferric oxide,ferric oxide,Eisen(III)-oxid,Óxido de hierro (III),Oxyde de fer(III),,FALSE
 Scientific - Chemicals,ferrous ferric oxide,ferrous ferric oxide,"Eisen(II,III)-oxid","Óxido de hierro (II, III)",Tétroxyde de trifer,,FALSE
 Scientific - Chemicals,ferrous sulfate,ferrous sulfate,Eisen(II)-sulfat,Sulfato de hierro (II),Sulfate de fer(II),,FALSE
-Scientific - Chemicals,flocculating powder,flocculating powder,Kieselsol,,,,FALSE
-Scientific - Chemicals,formic acid,formic acid,,Ácido fórmico,Acide méthanoïque,,FALSE
+Scientific - Chemicals,flocculating powder,flocculating powder,Kieselsol; Flockungspulver,polvo floculante,poudre floculante,,FALSE
+Scientific - Chemicals,formic acid,formic acid,Ameisensäure; Methansäure,Ácido fórmico,Acide méthanoïque; acide formique,,FALSE
 Scientific - Chemicals,fructose,fructose,Fructose,Fructosa,Fructose,,FALSE
 Scientific - Chemicals,fruit sugar,fruit sugar,Fructose,Fructosa,Fructose,,FALSE
-Scientific - Chemicals,galvanised steel,galvanised steel,Feuerverzinken,,Galvanisation#Galvanisation .C3.A0 Chaud,,FALSE
-Scientific - Chemicals,galvanised wire,galvanised wire,Draht,Alambre,Conducteur (électricité),,FALSE
-Scientific - Chemicals,gllycerol,gllycerol,,,,,FALSE
-Scientific - Chemicals,glycerin,glycerin,Glycerin,Glicerol,Glycérol,,FALSE
+Scientific - Chemicals,galvanised steel,galvanised steel,Feuerverzinken; verzinkter Stahl,acero galvanizado,acier galvanisé,,FALSE
+Scientific - Chemicals,galvanised wire,galvanised wire,verzinkter Draht,alambre galvanizado,fil galvanisé,,FALSE
+Scientific - Chemicals,glycerin,glycerin,Glycerin; Glycerol; Glyzerin,Glicerol; glicerin,Glycérol; glycérine,glycerol; glycerine,FALSE
 Scientific - Chemicals,graphene,graphene,Graphen,Grafeno,Graphène,,FALSE
 Scientific - Chemicals,graphite,graphite,Graphit,Grafito,Graphite,Carbon,FALSE
 Scientific - Chemicals,gum acacia,gum acacia,Gummi arabicum,Goma arábiga,Gomme arabique,,FALSE
 Scientific - Chemicals,gum arabic,gum arabic,Gummi arabicum,Goma arábiga,Gomme arabique,,FALSE
 Scientific - Chemicals,gypsum,gypsum,Gips,Yeso (mineral),Gypse,,FALSE
-Scientific - Chemicals,hand warmer,hand warmer,Handwärmer,,,,FALSE
-Scientific - Chemicals,helium,helium,,,Hélium,,FALSE
+Scientific - Chemicals,hand warmer,hand warmer,Handwärmer,calentador de la mano,chauffe-mains,,FALSE
+Scientific - Chemicals,helium,helium,helium,helio,Hélium,,FALSE
 Scientific - Chemicals,hexamethylenetetramine,hexamethylenetetramine,Urotropin,Hexametilentetramina,Méthénamine,,FALSE
 Scientific - Chemicals,hexamine,hexamine,Urotropin,Hexametilentetramina,Méthénamine,,FALSE
 Scientific - Chemicals,hot tub salt,hot tub salt,Whirlpool (Becken),Bañera de hidromasaje,Bain tourbillon,,FALSE
 Scientific - Chemicals,hydrochloric acid,hydrochloric acid,Salzsäure,Ácido clorhídrico,Acide chlorhydrique,Muriatic acid,FALSE
 Scientific - Chemicals,hydrofluoric acid,hydrofluoric acid,Flusssäure,Ácido fluorhídrico,Acide fluorhydrique,,FALSE
-Scientific - Chemicals,hydrogen gas,hydrogen gas,,Hidrógeno comprimido,,,FALSE
+Scientific - Chemicals,hydrogen gas,hydrogen gas,Wasserstoffgas,Hidrógeno comprimido; gas hidrógeno; gas de hidrógeno,hydrogène gazeux,Compressed hydrogen,FALSE
 Scientific - Chemicals,hydrogen peroxide,hydrogen peroxide,Wasserstoffperoxid,Peróxido de hidrógeno,Peroxyde d'hydrogène,,FALSE
 Scientific - Chemicals,hydroquinone,hydroquinone,Hydrochinon,Hidroquinona,Hydroquinone,,FALSE
-Scientific - Chemicals,hypo,hypo,,,,Sodium thiosulfate pentahydrate,FALSE
 Scientific - Chemicals,hypochlorous acid,hypochlorous acid,Hypochlorige Säure,Ácido hipocloroso,Acide hypochloreux,,FALSE
-Scientific - Chemicals,ice melter,ice melter,Flugzeugenteisung,,Dégivrage (aéronautique),,FALSE
+Scientific - Chemicals,ice melter,ice melter,Flugzeugenteisung,derretidor de hielo,Dégivrage,,FALSE
 Scientific - Chemicals,iodide,iodide,Iodide,Yoduro,Iodure,,FALSE
 Scientific - Chemicals,iodine,iodine,Iod,Yodo,Iode,,FALSE
-Scientific - Chemicals,iron sulfate,iron sulfate,Eisensulfat,Sulfato de hierro,,,FALSE
-Scientific - Chemicals,isocyanuric acid,isocyanuric acid,Cyanursäure,,Acide cyanurique,,FALSE
+Scientific - Chemicals,iron sulfate,iron sulfate,Eisensulfat,Sulfato de hierro; sulfato ferroso,sulfate de fer,sulfate of iron,FALSE
+Scientific - Chemicals,isocyanuric acid,isocyanuric acid,Cyanursäure; Isocyanursäure,ácido isocianúrico; ácido cianúrico,Acide cyanurique; acide isocyanurique,"Cyanuric acid; 1,3,5-triazine-2,4,6-triol",FALSE
 Scientific - Chemicals,kerosene,kerosene,Petroleum,Queroseno,Kérosène,,FALSE
 Scientific - Chemicals,killed acid,killed acid,Weinsäure,Ácido tartárico,Acide tartrique,,FALSE
 Scientific - Chemicals,lactic acid,lactic acid,Milchsäure,Ácido láctico,Acide lactique,,FALSE
-Scientific - Chemicals,latex,latex,Milchsaft,,Latex (matériau),,FALSE
-Scientific - Chemicals,laughing gas,laughing gas,Distickstoffmonoxid,Óxido de nitrógeno (I),Protoxyde d'azote,Dinitrogen oxide,FALSE
-Scientific - Chemicals,lead,lead,,Plomo,Plomb,,FALSE
-Scientific - Chemicals,lead free shot,lead free shot,Schrotkugel,Perdigón (munición),Grenaille de plomb,,FALSE
-Scientific - Chemicals,lead free sinkers,lead free sinkers,,,,,FALSE
-Scientific - Chemicals,lead-free shot,lead-free shot,Schrotkugel,Perdigón (munición),Grenaille de plomb,,FALSE
-Scientific - Chemicals,lead-free sinkers,lead-free sinkers,,,,,FALSE
-Scientific - Chemicals,lime,lime,,,,Calcium oxide,FALSE
+Scientific - Chemicals,latex,latex,Milchsaft,látex,Latex,,FALSE
+Scientific - Chemicals,laughing gas,laughing gas,Distickstoffmonoxid; Lachgas,Óxido de nitrógeno; gas hilarante,Protoxyde d'azote,Dinitrogen oxide,FALSE
+Scientific - Chemicals,lead,lead,Blei,Plomo,Plomb,,FALSE
+Scientific - Chemicals,lead free shot,lead free shot,Schrotkugel,Perdigón munición,Grenaille de plomb,lead-free shot,FALSE
+Scientific - Chemicals,lead free sinkers,lead free sinkers,bleifreie Platinen,hechas sin plomo,turluttes sans plomb,lead-free sinkers,FALSE
+Scientific - Chemicals,lime,lime,kalk,cal,chaux,Calcium oxide,FALSE
 Scientific - Chemicals,limestone,limestone,Kalkstein,Caliza,Calcaire,Calcium carbonate,FALSE
 Scientific - Chemicals,linseed oil,linseed oil,Leinöl,Linaza,Huile de lin,,FALSE
-Scientific - Chemicals,liquid latex,liquid latex,Latexkleidung,,,,FALSE
+Scientific - Chemicals,liquid latex,liquid latex,Latexkleidung; flüssige Latex,látex líquido,atex liquide,,FALSE
 Scientific - Chemicals,liquid nitrogen,liquid nitrogen,Flüssigstickstoff,Nitrógeno líquido,Azote liquide,,FALSE
-Scientific - Chemicals,lithopone,lithopone,Lithopone,,,,FALSE
-Scientific - Chemicals,lushui,lushui,Lushui,,Xian de Lushui,,FALSE
-Scientific - Chemicals,magic rocks,magic rocks,,,,,FALSE
+Scientific - Chemicals,lithopone,lithopone,Lithopone,Litopón,lithopone,,FALSE
 Scientific - Chemicals,magnesium carbonate,magnesium carbonate,Magnesiumcarbonat,Carbonato de magnesio,Carbonate de magnésium,,FALSE
 Scientific - Chemicals,magnesium chloride,magnesium chloride,Magnesiumchlorid,Cloruro de magnesio,Chlorure de magnésium,,FALSE
 Scientific - Chemicals,magnesium hydroxide,magnesium hydroxide,Magnesiumhydroxid,Hidróxido de magnesio,Hydroxyde de magnésium,Milk of magnesia,FALSE
@@ -157,135 +144,129 @@ Scientific - Chemicals,magnesium silicate,magnesium silicate,Talk (Mineral),Talc
 Scientific - Chemicals,magnesium sulfate,magnesium sulfate,Magnesiumsulfat,Sulfato de magnesio,Sulfate de magnésium,,FALSE
 Scientific - Chemicals,magnetite,magnetite,Magnetit,Magnetita,Magnétite,,FALSE
 Scientific - Chemicals,manganese dioxide,manganese dioxide,Mangan(IV)-oxid,Óxido de manganeso (IV),Dioxyde de manganèse,,FALSE
-Scientific - Chemicals,masonry cleaner,masonry cleaner,,,,,FALSE
+Scientific - Chemicals,masonry cleaner,masonry cleaner,Mauerreiniger,limpiador de mampostería,doux à maçonnerie,,FALSE
 Scientific - Chemicals,methane,methane,Methan,Metano,Méthane,,FALSE
-Scientific - Chemicals,methanoic acid,methanoic acid,,Ácido fórmico,Acide méthanoïque,,FALSE
-Scientific - Chemicals,methidote,methidote,,,,,FALSE
-Scientific - Chemicals,methyl alcohol,methyl alcohol,,Metanol,Méthanol,wood  alcohol; methanol,FALSE
+Scientific - Chemicals,methanoic acid,methanoic acid,Ameisensäure; Methansäure,Ácido fórmico,Acide méthanoïque,formic acid,FALSE
+Scientific - Chemicals,methyl alcohol,methyl alcohol,Methylalkohol; methanol,Metanol; alcohol metílico,Méthanol; alcool méthylique,wood  alcohol; methanol,FALSE
 Scientific - Chemicals,methyl ethyl ketone,methyl ethyl ketone,Butanon,Butanona,Butanone,MEK,FALSE
-Scientific - Chemicals,methyl ethyl ketone peroxide,methyl ethyl ketone peroxide,,,Peroxyde de méthyléthylcétone,,FALSE
-Scientific - Chemicals,methyl isobutyle ketone,methyl isobutyle ketone,,,,,FALSE
+Scientific - Chemicals,methyl ethyl ketone peroxide,methyl ethyl ketone peroxide,Methylethylketonperoxid ,El peróxido metil-etil-ketone,Peroxyde de méthyléthylcétone,,FALSE
+Scientific - Chemicals,methyl isobutyl ketone,methyl isobutyl ketone,Methylisobutylketon,metil isobutil cetona,Méthylisobutylcétone,MIBK,FALSE
 Scientific - Chemicals,methyl salicylate,methyl salicylate,Salicylsäuremethylester,Salicilato de metilo,Salicylate de méthyle,oil of wintergreen,FALSE
 Scientific - Chemicals,methylene blue,methylene blue,Methylenblau,Azul de metileno,Bleu de méthylène,,FALSE
 Scientific - Chemicals,methylene chloride,methylene chloride,Dichlormethan,Cloruro de metileno,Dichlorométhane,Dichloromethane;  DCM,FALSE
-Scientific - Chemicals,mild steel,mild steel,,Acero al carbono,Acier au carbone,,FALSE
+Scientific - Chemicals,mild steel,mild steel,Baustahl; Schmiedestahl; Flussstahl,Acero al carbono; acero dulce; ,Acier au carbone; acier doux,,FALSE
 Scientific - Chemicals,milk acid,milk acid,Milchsäure,Ácido láctico,Acide lactique,,FALSE
 Scientific - Chemicals,mineral oil,mineral oil,Mineralöl,Aceite mineral,Huile minérale,,FALSE
 Scientific - Chemicals,monosodium glutamate,monosodium glutamate,Mononatriumglutamat,Glutamato monosódico,Glutamate monosodique,,FALSE
-Scientific - Chemicals,moss killer,moss killer,,,,,FALSE
+Scientific - Chemicals,moss killer,moss killer,Moos- Vernichtungsmittel,anti-musgo,désherbant ,,FALSE
 Scientific - Chemicals,moth flakes,moth flakes,Naphthalin,Naftalina,Naphtalène,,FALSE
 Scientific - Chemicals,mountains in minutes,mountains in minutes,60 Minutes,60 Minutes,60 Minutes,,FALSE
-Scientific - Chemicals,MSG,MSG,,,,Sodium hydrogen glutamate,TRUE
+Scientific - Chemicals,MSG,MSG,Mononatriumglutamat,glutamato monosódico,glutamate monosodique; glutamate de monosodium,monosodium glutamate,TRUE
 Scientific - Chemicals,naphthalene,naphthalene,Naphthalin,Naftalina,Naphtalène,Moth balls,FALSE
 Scientific - Chemicals,natural gas,natural gas,Erdgas,Gas natural,Gaz naturel,,FALSE
 Scientific - Chemicals,nigari,nigari,Magnesiumchlorid,Cloruro de magnesio,Chlorure de magnésium,,FALSE
 Scientific - Chemicals,nitrate of ammonia,nitrate of ammonia,Ammoniumnitrat,Nitrato de amonio,Nitrate d'ammonium,,FALSE
 Scientific - Chemicals,nitrous oxide,nitrous oxide,Distickstoffmonoxid,Óxido de nitrógeno (I),Protoxyde d'azote,,FALSE
-Scientific - Chemicals,oganesson,oganesson,Oganesson,,,,FALSE
-Scientific - Chemicals,oil of clove,oil of clove,Eugenol,,,,FALSE
-Scientific - Chemicals,oil of vitriol,oil of vitriol,,Ácido sulfúrico,Acide sulfurique,Sulfuric acid; sulphuric acid,FALSE
+Scientific - Chemicals,oganesson,oganesson,Oganesson,Oganesón; ununoctio,Oganesson,,FALSE
+Scientific - Chemicals,oil of clove,oil of clove,Eugenol; Öl der Nelke,aceite de clavo,essence de girofle,,FALSE
+Scientific - Chemicals,oil of vitriol,oil of vitriol,Schwefelsäure,Ácido sulfúrico,Acide sulfurique,Sulfuric acid; sulphuric acid,FALSE
 Scientific - Chemicals,oxalic acid,oxalic acid,Oxalsäure,Ácido oxálico,Acide oxalique,,FALSE
-Scientific - Chemicals,para-dichlorobenzene,para-dichlorobenzene,"1,4-Dichlorbenzol",,"1,4-Dichlorobenzène",,FALSE
-Scientific - Chemicals,paraffin,paraffin,,,,,FALSE
+Scientific - Chemicals,para-dichlorobenzene,para-dichlorobenzene,"1,4-Dichlorbenzol",paradiclorobenceno ,"1,4-Dichlorobenzène; para-dichlorobenzène",PDB,FALSE
+Scientific - Chemicals,paraffin,paraffin,Paraffin,parafina; queroseno,paraffine,,FALSE
 Scientific - Chemicals,pepto-bismal,pepto-bismal,Bismutsubsalicylat,Salicilato de bismuto,Sous-salicylate de bismuth,,FALSE
-Scientific - Chemicals,peroxide,peroxide,,Peróxido,Peroxyde,,FALSE
+Scientific - Chemicals,peroxide,peroxide,Peroxid,Peróxido,Peroxyde,,FALSE
 Scientific - Chemicals,phenol red,phenol red,Phenolrot,Rojo de fenol,Rouge de phénol,,FALSE
 Scientific - Chemicals,phenolphthalein,phenolphthalein,Phenolphthalein,Fenolftaleína,Phénolphtaléine,,FALSE
 Scientific - Chemicals,phenolsulfonephthalein,phenolsulfonephthalein,Phenolrot,Rojo de fenol,Rouge de phénol,,FALSE
 Scientific - Chemicals,phosphoric acid,phosphoric acid,Phosphorsäure,Ácido fosfórico,Acide phosphorique,,FALSE
 Scientific - Chemicals,plaster of paris,plaster of paris,Putz (Bauteil),Yeso,Plâtre,,FALSE
-Scientific - Chemicals,polystyrene,polystyrene,Polystyrol,,Polystyrène,,FALSE
-Scientific - Chemicals,polyurethane foam,polyurethane foam,,,,,FALSE
+Scientific - Chemicals,polystyrene,polystyrene,Polystyrol,Poliestireno,Polystyrène,,FALSE
+Scientific - Chemicals,polyurethane foam,polyurethane foam,Polyurethanschaum,espuma de poliuretano,mousse de polyuréthane; mousse polyuréthane,,FALSE
 Scientific - Chemicals,pompholyx,pompholyx,Dyshidrosis,Eccema dishidrótico,Dyshidrose,,FALSE
 Scientific - Chemicals,potassium aluminum sulfate,potassium aluminium sulfate; potassium aluminium sulphate,Aluminiumkaliumsulfat-Dodecahydrat,Alumbre de potasio; Calinita,Alun,potassium aluminum sulphate; aluminum potassium sulfate,FALSE
 Scientific - Chemicals,potassium bitartrate,potassium bitartrate,Weinstein,Bitartrato de potasio,Bitartrate de potassium,,FALSE
 Scientific - Chemicals,potassium bromide,potassium bromide,Kaliumbromid,Bromuro de potasio,Bromure de potassium,,FALSE
 Scientific - Chemicals,potassium carbonate,potassium carbonate,Kaliumcarbonat,Carbonato de potasio,Carbonate de potassium,potash,FALSE
 Scientific - Chemicals,potassium chloride,potassium chloride,Kaliumchlorid,Cloruro de potasio,Chlorure de potassium,,FALSE
-Scientific - Chemicals,potassium chrome alum,potassium chrome alum,Chrom(III)-kaliumsulfat-Dodecahydrat,,,,FALSE
-Scientific - Chemicals,potassium chromium sulfate,potassium chromium sulfate,Chrom(III)-kaliumsulfat-Dodecahydrat,,,,FALSE
+Scientific - Chemicals,chrome alum,chrome alum,Chrom(III)-kaliumsulfat-Dodecahydrat,alum de cromo,alun de chrome,Chromium(III) potassium sulfate; potassium chromium sulfate,FALSE
 Scientific - Chemicals,potassium dichromate,potassium dichromate,Kaliumdichromat,Dicromato de potasio,Dichromate de potassium,,FALSE
 Scientific - Chemicals,potassium hydroxide,potassium hydroxide,Kaliumhydroxid,Hidróxido de potasio,Hydroxyde de potassium,,FALSE
 Scientific - Chemicals,potassium iodide,potassium iodide,Kaliumiodid,Yoduro de potasio,Iodure de potassium,,FALSE
 Scientific - Chemicals,potassium iron hexacyanoferrate,potassium iron hexacyanoferrate,Kaliumhexacyanidoferrat(III),Ferricianuro de potasio,Ferricyanure de potassium,,FALSE
-Scientific - Chemicals,potassium metabisulfite,potassium metabisulfite,Kaliumdisulfit,Metabisulfito de potasio,Métabisulfite de potassium,,FALSE
+Scientific - Chemicals,potassium metabisulfite,potassium metabisulfite,Kaliumdisulfit,Metabisulfito de potasio,Métabisulfite de potassium,campden tablet,FALSE
 Scientific - Chemicals,potassium permanganate,potassium permanganate,Kaliumpermanganat,Permanganato de potasio,Permanganate de potassium,,FALSE
 Scientific - Chemicals,potassium sodium tartrate,potassium sodium tartrate,Seignettesalz,Sal de Seignette,Sel de Seignette,,FALSE
 Scientific - Chemicals,propane,propane,Propan,Propano,Propane,,FALSE
-Scientific - Chemicals,proponal,proponal,,,,,FALSE
+Scientific - Chemicals,Propranolol,Propranolol,Propranolol,Propranolol,propranolol,,FALSE
 Scientific - Chemicals,pyrolusite,pyrolusite,Pyrolusit,Pirolusita,Pyrolusite,,FALSE
 Scientific - Chemicals,quicklime,quicklime,Calciumoxid,Óxido de calcio,Oxyde de calcium,,FALSE
 Scientific - Chemicals,radiation pills,radiation pills,Kaliumiodid,Yoduro de potasio,Iodure de potassium,,FALSE
-Scientific - Chemicals,road salt,road salt,,,,,FALSE
+Scientific - Chemicals,road salt,road salt,Streusalz;  Straßensalz;  Viehsalz,sal para carreteras,sel de voirie; sel de déneigement,,FALSE
 Scientific - Chemicals,rochelle salt,rochelle salt,Seignettesalz,Sal de Seignette,Sel de Seignette,,FALSE
-Scientific - Chemicals,rubbing alcohol,rubbing alcohol,Franzbranntwein,,,2-propanol; propyl alcohol; isopropyl alcohol,FALSE
-Scientific - Chemicals,rust,rust,Rost,Herrumbre,Rouille (oxyde),,FALSE
-Scientific - Chemicals,salt of ammon,salt of ammon,,,Ammon Hennacy,,FALSE
+Scientific - Chemicals,rubbing alcohol,rubbing alcohol,Franzbranntwein; Reinigungsalkohol,alcohol isopropilo,alcool dénaturé,2-propanol; propyl alcohol; isopropyl alcohol,FALSE
+Scientific - Chemicals,rust,rust,Rost,Herrumbre; óxido; moho,rouille,,FALSE
 Scientific - Chemicals,salt of hartshorn,salt of hartshorn,Ammoniumcarbonat,Carbonato de amonio,Carbonate d'ammonium,Ammonium carbonate ,FALSE
-Scientific - Chemicals,salt substitute,salt substitute,Kochsalzersatz,,,,FALSE
-Scientific - Chemicals,saltpeter,saltpetre,,Nitro (mineral),Nitre,Potassium nitrate,FALSE
-Scientific - Chemicals,sand,,Sand,Arena,Sable,Silicon dioxide,FALSE
-Scientific - Chemicals,sandblasting sand,,Sandstrahlgebläse,Arenado,Sablage,,FALSE
-Scientific - Chemicals,silica,,Siliciumdioxid,Óxido de silicio (IV),Dioxyde de silicium,Silicon dioxide,FALSE
-Scientific - Chemicals,silicon carbide,,Siliciumcarbid,Carburo de silicio,Carbure de silicium,carborundum,FALSE
-Scientific - Chemicals,slaked lime,,Calciumhydroxid,Hidróxido de calcio,Hydroxyde de calcium,,FALSE
-Scientific - Chemicals,smelling salts,,Riechsalz,,,ammonium carbonate,FALSE
-Scientific - Chemicals,soda ash,,Natriumcarbonat,Carbonato de sodio,Carbonate de sodium,washing soda; Sodium carbonate,FALSE
-Scientific - Chemicals,sodium acetate,,Natriumacetat,Acetato de sodio,Acétate de sodium,,FALSE
-Scientific - Chemicals,sodium bicarbonate,,Natriumhydrogencarbonat,Bicarbonato de sodio,Bicarbonate de sodium,Alka Seltzer; baking powder,FALSE
-Scientific - Chemicals,sodium bisulfate,,Natriumhydrogensulfat,Bisulfato de sodio,Hydrogénosulfate de sodium,,FALSE
-Scientific - Chemicals,sodium borate,,BORAX-Experimente,BORAX-I,,,FALSE
-Scientific - Chemicals,sodium bromide,,Natriumbromid,Bromuro de sodio,Bromure de sodium,,FALSE
-Scientific - Chemicals,sodium carbonate peroxyhydrate,,Natriumpercarbonat,,Percarbonate de sodium,,FALSE
-Scientific - Chemicals,sodium chlorate,,Natriumchlorat,Clorato de sodio,Chlorate de sodium,,FALSE
-Scientific - Chemicals,sodium chloride,,Natriumchlorid,Cloruro de sodio,Chlorure de sodium,,FALSE
-Scientific - Chemicals,sodium fluoride,,Natriumfluorid,Fluoruro sódico,Fluorure de sodium,,FALSE
-Scientific - Chemicals,sodium hexametaphosphate,,,,Hexamétaphosphate de sodium,,FALSE
-Scientific - Chemicals,sodium metabisulfite,,Natriumdisulfit,Disulfito de sodio,Métabisulfite de sodium,,FALSE
-Scientific - Chemicals,sodium phosphate,,,Fosfato sódico,Phosphate de sodium (homonymie),,FALSE
-Scientific - Chemicals,sodium silicate,,Natriumsilicate,Silicato sódico,Silicate de sodium,,FALSE
-Scientific - Chemicals,sodium sulfate,,Natriumsulfat,Sulfato de sodio,Sulfate de sodium,,FALSE
-Scientific - Chemicals,sodium sulfite,,Natriumsulfit,Sulfito de sodio,Sulfite de sodium,,FALSE
-Scientific - Chemicals,sodium tetraborate decahydrate,,BORAX-Experimente,BORAX-I,,borax,FALSE
-Scientific - Chemicals,sodium thiosulfate,,Natriumthiosulfat,Tiosulfato de sodio,Thiosulfate de sodium,,FALSE
-Scientific - Chemicals,soldering lfux,,,,,,FALSE
-Scientific - Chemicals,sour salt,,Citronensäure,Ácido cítrico,Acide citrique,,FALSE
-Scientific - Chemicals,stainless steel,,Rostfreier Stahl,Acero inoxidable,Acier inoxydable,,FALSE
-Scientific - Chemicals,stearic acid,,Stearinsäure,Ácido esteárico,Acide stéarique,,FALSE
-Scientific - Chemicals,steel,,Stahl,Acero,Acier,,FALSE
-Scientific - Chemicals,styptic pencils,,Hämostatikum,,,,FALSE
-Scientific - Chemicals,sucrose,,Saccharose,Sacarosa,Saccharose,sugar,FALSE
-Scientific - Chemicals,sulfate of iron,,Eisen(II)-sulfat,Sulfato de hierro (II),Sulfate de fer(II),,FALSE
-Scientific - Chemicals,sulfur,,,Azufre,Soufre,,FALSE
-Scientific - Chemicals,sulphur,,,Azufre,Soufre,,FALSE
-Scientific - Chemicals,superphosphate,,Calciumdihydrogenphosphat,,,,FALSE
-Scientific - Chemicals,talc,,Talk (Mineral),Talco,Talc,,FALSE
-Scientific - Chemicals,tannic acid,,,Ácido tánico,Acide tannique,,FALSE
-Scientific - Chemicals,tannin,,Tannine,Tanino,Tanin,,FALSE
-Scientific - Chemicals,tartaric acid,,Weinsäure,Ácido tartárico,Acide tartrique,,FALSE
-Scientific - Chemicals,tetrachloroethylene,,Tetrachlorethen,Tetracloroetileno,Perchloroéthylène,tetrachloroethene,FALSE
-Scientific - Chemicals,tetrafluoroethane,,"1,1,1,2-Tetrafluorethan",,"1,1,1,2-Tétrafluoroéthane",,FALSE
-Scientific - Chemicals,thickening agent,,Verdickungsmittel,Espesante,Épaississant,,FALSE
-Scientific - Chemicals,thiocarbamide,,Thioharnstoff,,Thiocarbamide,,FALSE
-Scientific - Chemicals,thiourea,,Thioharnstoff,,Thiocarbamide,,FALSE
-Scientific - Chemicals,thymolphthalein,,Thymolphthalein,Timolftaleína,Thymolphtaléine,,FALSE
-Scientific - Chemicals,tinner's fluid,,,,,,FALSE
-Scientific - Chemicals,titanium dioxide,,Titan(IV)-oxid,Óxido de titanio (IV),Dioxyde de titane,,FALSE
-Scientific - Chemicals,titanium white,,Titan(IV)-oxid,Óxido de titanio (IV),Dioxyde de titane,,FALSE
-Scientific - Chemicals,toluene,,Toluol,Tolueno,Toluène,Toluol,FALSE
-Scientific - Chemicals,trichloroethane,,Trichlorethan,,Trichloroéthane,methyl chloroform,FALSE
-Scientific - Chemicals,trichloroethylene,,Trichlorethen,Tricloroetileno,Trichloréthylène,,FALSE
-Scientific - Chemicals,trisodium phosphate,,Natriumphosphat,Fosfato trisódico,Phosphate de sodium,TSP,FALSE
-Scientific - Chemicals,tungsten,,Wolfram,,Tungstène,,FALSE
-Scientific - Chemicals,turpentine,,Terpentinöl,Aguarrás,Essence de térébenthine,,FALSE
-Scientific - Chemicals,urea,,,Urea,Urée,,FALSE
-Scientific - Chemicals,vitriol,,,,Vitriol,,FALSE
-Scientific - Chemicals,water,,Wasser,,Eau,H2O,FALSE
-Scientific - Chemicals,water glass,,Natriumsilicate,Silicato sódico,Silicate de sodium,,FALSE
-Scientific - Chemicals,whipping gas,,Schlagsahne,Nata montada,Crème chantilly,,FALSE
-Scientific - Chemicals,white vinegar,,Essig,Vinagre,Vinaigre,,FALSE
-Scientific - Chemicals,wine preservative,,Konservierungsmittel,Conservante,,,FALSE
-Scientific - Chemicals,xylene,,Xylole,Xileno,Xylène,,FALSE
-Scientific - Chemicals,zinc chloride,,Zinkchlorid,Cloruro de cinc,Chlorure de zinc,,FALSE
-Scientific - Chemicals,zinc oxide,,Zinkoxid,Óxido de cinc,Oxyde de zinc,,FALSE
-Scientific - Chemicals,zinc sulfate,,Zinksulfat,Sulfato de cinc,Sulfate de zinc,,FALSE
+Scientific - Chemicals,salt substitute,salt substitute,Kochsalzersatz,sustituto de sal,substitut du sel; succédané du sel,,FALSE
+Scientific - Chemicals,saltpeter,saltpetre,Salpeter,salitre,salpêtre,Potassium nitrate,FALSE
+Scientific - Chemicals,sand,sand,Sand,Arena,Sable,Silicon dioxide,FALSE
+Scientific - Chemicals,sandblasting sand,sandblasting sand,Sandstrahlgebläse,Arenado,Sablage,,FALSE
+Scientific - Chemicals,silica,silica,Siliciumdioxid,Óxido de silicio (IV),Dioxyde de silicium,Silicon dioxide,FALSE
+Scientific - Chemicals,silicon carbide,silicon carbide,Siliciumcarbid,Carburo de silicio,Carbure de silicium,carborundum,FALSE
+Scientific - Chemicals,slaked lime,slaked lime,Calciumhydroxid,Hidróxido de calcio,Hydroxyde de calcium,,FALSE
+Scientific - Chemicals,smelling salts,smelling salts,Riechsalz,sales aromáticas,flacon de sels,ammonium carbonate,FALSE
+Scientific - Chemicals,soda ash,soda ash,Natriumcarbonat,Carbonato de sodio,Carbonate de sodium,washing soda; Sodium carbonate,FALSE
+Scientific - Chemicals,sodium acetate,sodium acetate,Natriumacetat,Acetato de sodio,Acétate de sodium,,FALSE
+Scientific - Chemicals,sodium bicarbonate,sodium bicarbonate,Natriumhydrogencarbonat,Bicarbonato de sodio,Bicarbonate de sodium,Alka Seltzer; baking powder,FALSE
+Scientific - Chemicals,sodium bisulfate,sodium bisulfate,Natriumhydrogensulfat,Bisulfato de sodio,Hydrogénosulfate de sodium,,FALSE
+Scientific - Chemicals,sodium borate,sodium borate,BORAX-Experimente,borato sódico; borato de sodio,borate de sodium,,FALSE
+Scientific - Chemicals,sodium bromide,sodium bromide,Natriumbromid,Bromuro de sodio,Bromure de sodium,,FALSE
+Scientific - Chemicals,sodium carbonate peroxyhydrate,sodium carbonate peroxyhydrate,Natriumpercarbonat; Natrium Perkarbonat Wasserstoff Peroxid,percarbonato de sodio,Percarbonate de sodium,,FALSE
+Scientific - Chemicals,sodium chlorate,sodium chlorate,Natriumchlorat,Clorato de sodio,Chlorate de sodium,,FALSE
+Scientific - Chemicals,sodium chloride,sodium chloride,Natriumchlorid,Cloruro de sodio,Chlorure de sodium,,FALSE
+Scientific - Chemicals,sodium fluoride,sodium fluoride,Natriumfluorid,Fluoruro sódico,Fluorure de sodium,,FALSE
+Scientific - Chemicals,sodium hexametaphosphate,sodium hexametaphosphate,Natriumhexametaphosphat,Hexametafosfato Sódico,Hexamétaphosphate de sodium,,FALSE
+Scientific - Chemicals,sodium metabisulfite,sodium metabisulfite,Natriumdisulfit,Disulfito de sodio,Métabisulfite de sodium,,FALSE
+Scientific - Chemicals,sodium phosphate,sodium phosphate,Natriumphosphat,Fosfato sódico,Phosphate de sodium,,FALSE
+Scientific - Chemicals,sodium silicate,sodium silicate,Natriumsilicate,Silicato sódico,Silicate de sodium,,FALSE
+Scientific - Chemicals,sodium sulfate,sodium sulfate,Natriumsulfat,Sulfato de sodio,Sulfate de sodium,,FALSE
+Scientific - Chemicals,sodium sulfite,sodium sulfite,Natriumsulfit,Sulfito de sodio,Sulfite de sodium,,FALSE
+Scientific - Chemicals,sodium tetraborate decahydrate,sodium tetraborate decahydrate,BORAX-Experimente; Natriumtetraborat-Decahydrat,"BORAX-I; 
+tetraborato de sodio decahidratado", tétraborate de sodium décahydrate,borax,FALSE
+Scientific - Chemicals,sodium thiosulfate,sodium thiosulfate,Natriumthiosulfat,Tiosulfato de sodio,Thiosulfate de sodium,,FALSE
+Scientific - Chemicals,soldering flux,soldering flux,Flussmittel; Lötflussmittel,soldadura ,soudage tendre,,FALSE
+Scientific - Chemicals,sour salt,sour salt,Citronensäure,Ácido cítrico,Acide citrique,,FALSE
+Scientific - Chemicals,stainless steel,stainless steel,Rostfreier Stahl,Acero inoxidable,Acier inoxydable,,FALSE
+Scientific - Chemicals,stearic acid,stearic acid,Stearinsäure,Ácido esteárico,Acide stéarique,,FALSE
+Scientific - Chemicals,steel,steel,Stahl,Acero,Acier,,FALSE
+Scientific - Chemicals,styptic pencils,styptic pencils,Alaunstift; Alaunstein,lapiz estíptico,crayon styptique,,FALSE
+Scientific - Chemicals,sucrose,sucrose,Saccharose,Sacarosa,Saccharose,sugar,FALSE
+Scientific - Chemicals,sulfate of iron,sulfate of iron,Eisen(II)-sulfat,Sulfato de hierro (II),Sulfate de fer(II),,FALSE
+Scientific - Chemicals,sulfur,sulfur,Schwefel,Azufre,Soufre,sulphur,FALSE
+Scientific - Chemicals,superphosphate,superphosphate,Calciumdihydrogenphosphat; Superphosphat,superfosfato,superphosphate,,FALSE
+Scientific - Chemicals,talc,talc,Talk,Talco,Talc,,FALSE
+Scientific - Chemicals,tannic acid,tannic acid,Gerbsäure,Ácido tánico,Acide tannique,,FALSE
+Scientific - Chemicals,tannin,tannin,Tannine,Tanino,Tanin,,FALSE
+Scientific - Chemicals,tartaric acid,tartaric acid,Weinsäure,Ácido tartárico,Acide tartrique,,FALSE
+Scientific - Chemicals,tetrachloroethylene,tetrachloroethylene,Tetrachlorethen,Tetracloroetileno,Perchloroéthylène,tetrachloroethene,FALSE
+Scientific - Chemicals,tetrafluoroethane,tetrafluoroethane,"1,1,1,2-Tetrafluorethan;  tetrafluoroethane",Tetrafluoretano,"1,1,1,2-Tétrafluoroéthane; Tétrafluoroéthane",,FALSE
+Scientific - Chemicals,thickening agent,thickening agent,Verdickungsmittel,Espesante,Épaississant,,FALSE
+Scientific - Chemicals,thiocarbamide,thiocarbamide,Thioharnstoff,tiocarbamida,Thiocarbamide,,FALSE
+Scientific - Chemicals,thiourea,thiourea,Thioharnstoff,tiourea,Thiocarbamide,,FALSE
+Scientific - Chemicals,thymolphthalein,thymolphthalein,Thymolphthalein,Timolftaleína,Thymolphtaléine,,FALSE
+Scientific - Chemicals,titanium dioxide,titanium dioxide,Titan(IV)-oxid,Óxido de titanio (IV),Dioxyde de titane,,FALSE
+Scientific - Chemicals,titanium white,titanium white,Titan(IV)-oxid,Óxido de titanio (IV),Dioxyde de titane,,FALSE
+Scientific - Chemicals,toluene,toluene,Toluol,Tolueno,Toluène,Toluol,FALSE
+Scientific - Chemicals,trichloroethane,trichloroethane,Trichlorethan,tricloroetano,Trichloroéthane,methyl chloroform,FALSE
+Scientific - Chemicals,trichloroethylene,trichloroethylene,Trichlorethen,Tricloroetileno,Trichloréthylène,,FALSE
+Scientific - Chemicals,trisodium phosphate,trisodium phosphate,Natriumphosphat,Fosfato trisódico,Phosphate de sodium,TSP,FALSE
+Scientific - Chemicals,tungsten,tungsten,Wolfram,tungsteno; volframio; volframio,Tungstène,,FALSE
+Scientific - Chemicals,turpentine,turpentine,Terpentinöl,Aguarrás,Essence de térébenthine,,FALSE
+Scientific - Chemicals,water,water,Wasser,agua,Eau,H2O,FALSE
+Scientific - Chemicals,water glass,water glass,Natriumsilicate,Silicato sódico,Silicate de sodium,,FALSE
+Scientific - Chemicals,whipping gas,whipping gas,Schlagsahne,Nata montada,Crème chantilly,,FALSE
+Scientific - Chemicals,white vinegar,white vinegar,Essig,Vinagre,Vinaigre,,FALSE
+Scientific - Chemicals,wine preservative,wine preservative,Weinkonservierungsmittel,conservante de vino,Weinkonservierungsmittel,,FALSE
+Scientific - Chemicals,xylene,xylene,Xylole,Xileno,Xylène,,FALSE
+Scientific - Chemicals,zinc chloride,zinc chloride,Zinkchlorid,Cloruro de cinc,Chlorure de zinc,#REF!,FALSE
+Scientific - Chemicals,zinc oxide,zinc oxide,Zinkoxid,Óxido de cinc,Oxyde de zinc,,FALSE
+Scientific - Chemicals,zinc sulfate,zinc sulfate,Zinksulfat,Sulfato de cinc,Sulfate de zinc,,FALSE
