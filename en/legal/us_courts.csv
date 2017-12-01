@@ -1,16 +1,16 @@
 Term Locale,Term Category,Court ID,Level,Jurisdiction,Court Type,Court Name,Alias
 en-US,US Courts,1,Supreme Court,Federal,Court of Last Resort,United States Supreme Court,Supreme Court; SCOTUS
-en-US,US Courts,2,Federal,Federal,Appellate Court,First Circuit,1st Cir.
-en-US,US Courts,3,Federal,Federal,Appellate Court,Second Circuit,2nd Cir.
-en-US,US Courts,4,Federal,Federal,Appellate Court,Third Circuit,3rd Cir.
-en-US,US Courts,5,Federal,Federal,Appellate Court,Fourth Circuit,4th Cir.
-en-US,US Courts,6,Federal,Federal,Appellate Court,Fifth Circuit,5th Cir.
-en-US,US Courts,7,Federal,Federal,Appellate Court,Sixth Circuit,6th Cir.
-en-US,US Courts,8,Federal,Federal,Appellate Court,Seventh Circuit,7th Cir.
-en-US,US Courts,9,Federal,Federal,Appellate Court,Eighth Circuit,8th Cir.
-en-US,US Courts,10,Federal,Federal,Appellate Court,Ninth Circuit,9th Cir.
-en-US,US Courts,11,Federal,Federal,Appellate Court,Tenth Circuit,10th Cir.
-en-US,US Courts,12,Federal,Federal,Appellate Court,Eleventh Circuit,11th Cir.
+en-US,US Courts,2,Federal,Federal,Appellate Court,First Circuit,1st Circuit; 1st Cir.; First Cir.
+en-US,US Courts,3,Federal,Federal,Appellate Court,Second Circuit,2nd Circuit; 2nd Cir.; Second Cir.
+en-US,US Courts,4,Federal,Federal,Appellate Court,Third Circuit,3rd Circuit; 3rd Cir.; Third Cir.
+en-US,US Courts,5,Federal,Federal,Appellate Court,Fourth Circuit,4th Circuit; 4th Cir.; Fourth Cir.
+en-US,US Courts,6,Federal,Federal,Appellate Court,Fifth Circuit,5th Circuit; 5th Cir.; Fifth Cir.
+en-US,US Courts,7,Federal,Federal,Appellate Court,Sixth Circuit,6th Circuit; 6th Cir.; Sixth Cir.
+en-US,US Courts,8,Federal,Federal,Appellate Court,Seventh Circuit,7th Circuit; 7th Cir.; Seventh Cir.
+en-US,US Courts,9,Federal,Federal,Appellate Court,Eighth Circuit,8th Circuit; 8th Cir.; Eighth Cir.
+en-US,US Courts,10,Federal,Federal,Appellate Court,Ninth Circuit,9th Circuit; 9th Cir.; Ninth Cir.
+en-US,US Courts,11,Federal,Federal,Appellate Court,Tenth Circuit,10th Circuit; 10th Cir.; Tenth Cir.
+en-US,US Courts,12,Federal,Federal,Appellate Court,Eleventh Circuit,11th Circuit; 11th Cir.; Eleventh Cir.
 en-US,US Courts,13,Federal,Federal,Appellate Court,D.C. Circuit,D.C. Cir.
 en-US,US Courts,14,Federal,Federal,Appellate Court,Federal Circuit,Fed. Cir.
 en-US,US Courts,15,Federal,Alabama,Federal District Court,Middle District of Alabama,M.D. Ala.
@@ -68,7 +68,7 @@ en-US,US Courts,66,Federal,New Jersey,Federal District Court,District of New Jer
 en-US,US Courts,67,Federal,New Mexico,Federal District Court,District of New Mexico,D.N.M.
 en-US,US Courts,68,Federal,New York,Federal District Court,Eastern District of New York,E.D.N.Y.
 en-US,US Courts,69,Federal,New York,Federal District Court,Northern District of New York,N.D.N.Y.
-en-US,US Courts,70,Federal,New York,Federal District Court,Southern District of New York,W.D.N.Y.
+en-US,US Courts,70,Federal,New York,Federal District Court,Southern District of New York,S.D.N.Y.
 en-US,US Courts,71,Federal,North Carolina,Federal District Court,Eastern District of North Carolina,E.D.N.C.
 en-US,US Courts,72,Federal,North Carolina,Federal District Court,Middle District of North Carolina,M.D.N.C.
 en-US,US Courts,73,Federal,North Carolina,Federal District Court,Western District of North Carolina,W.D.N.C.
@@ -159,7 +159,7 @@ en-US,US Courts,157,Federal,New Jersey,Bankruptcy Court,District of New Jersey,B
 en-US,US Courts,158,Federal,New Mexico,Bankruptcy Court,District of New Mexico,Bankr. D.N.M.
 en-US,US Courts,159,Federal,New York,Bankruptcy Court,Eastern District of New York,Bankr. E.D.N.Y.
 en-US,US Courts,160,Federal,New York,Bankruptcy Court,Northern District of New York,Bankr. N.D.N.Y.
-en-US,US Courts,161,Federal,New York,Bankruptcy Court,Southern District of New York,Bankr. W.D.N.Y.
+en-US,US Courts,161,Federal,New York,Bankruptcy Court,Southern District of New York,Bankr. S.D.N.Y.
 en-US,US Courts,162,Federal,North Carolina,Bankruptcy Court,Eastern District of North Carolina,Bankr. E.D.N.C.
 en-US,US Courts,163,Federal,North Carolina,Bankruptcy Court,Middle District of North Carolina,Bankr. M.D.N.C.
 en-US,US Courts,164,Federal,North Carolina,Bankruptcy Court,Western District of North Carolina,Bankr. W.D.N.C.
