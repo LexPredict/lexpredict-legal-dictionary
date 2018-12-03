@@ -1,406 +1,406 @@
-"Entity ID","Entity Category","Entity Name","Entity Priority","German Name","Spanish Name","French Name","ISO-3166-2","ISO-3166-3","Alias"
-1,"Countries","Afghanistan",800,"Afghanistan","Afganistán;República Islámica de Afganistán","l'Afghanistan","AF","AFG",
-2,"Countries","Albania",800,"Albanien","República de Albania;Albania","l'Albanie;la République d'Albanie","AL","ALB",
-3,"Countries","Algeria",800,"Algerien","República Argelina Democrática y Popular;Argelia","Algérie","DZ","DZA",
-4,"Countries","American Samoa",800,"Amerikanisch-Samoa","Samoa Americana","Samoa américaines","AS","ASM",
-5,"Countries","Andorra",800,"Andorra","Principado de Andorra;Andorra","l'Andorre;la principauté d'Andorre","AD","AND",
-6,"Countries","Angola",800,"Angola","República de Angola;Angola","Angola","AO","AGO",
-7,"Countries","Anguilla",800,"Anguilla","Anguila","Anguilla","AI","AIA",
-8,"Countries","Antarctica",800,"Antarktis","Antártida","Antarctique","AQ","ATA",
-9,"Countries","Antigua and Barbuda",800,"Antigua und Barbuda","Antigua y Barbuda","Antigua-et-Barbuda","AG","ATG",
-10,"Countries","Argentina",800,"Argentinien","República Argentina;Argentina","l'Argentine;la République argentine","AR","ARG",
-11,"Countries","Armenia",800,"Armenien","República de Armenia;Armenia","l'Arménie;la République d'Arménie","AM","ARM",
-12,"Countries","Aruba",800,"Aruba","Aruba","Aruba","AW","ABW",
-13,"Countries","Australia",800,"Australien","Mancomunidad de Australia;Australia","l'Australie;le Commonwealth d'Australie","AU","AUS",
-14,"Countries","Austria",800,"Österreich","República de Austria;Austria","l'Autriche;la République d'Autriche","AT","AUT",
-15,"Countries","Azerbaijan",800,"Aserbaidschan","República de Azerbaiyán;Azerbaiyán","l'Azerbaïdjan;la République d'Azerbaïdjan","AZ","AZE",
-16,"Countries","Bahamas",800,"Bahamas","Mancomunidad de las Bahamas;Bahamas","Bahamas","BS","BHS",
-17,"Countries","Bahrain",800,"Bahrain;Bahrein","Bahrein","Bahreïn;le Royaume de Bahreïn","BH","BHR",
-18,"Countries","Bangladesh",800,"Bangladesch","Bangladesh","le Bangladesh;la République populaire du Banglades","BD","BGD",
-19,"Countries","Barbados",800,"Barbados","Barbados","La Barbade","BB","BRB",
-20,"Countries","Belarus",800,"Weißrußland","Belarús","Bélarus","BY","BLR",
-21,"Countries","Belgium",800,"Belgien","Reino de Bélgica;Bélgica","la Belgique;le Royaume de Belgique","BE","BEL",
-22,"Countries","Belize",800,"Belize","Belice","le Belize","BZ","BLZ",
-23,"Countries","Benin",800,"Benin","República de Benín;Benín","Bénin","BJ","BEN",
-24,"Countries","Bermuda",800,"Bermuda","islas Bermudas","Bermudes","BM","BMU",
-25,"Countries","Bhutan",800,"Bhutan","Reino de Bután;Bután","le Bhoutan","BT","BTN",
-26,"Countries","Bolivia",800,"Bolivien","Estado Plurinacional de Bolivia;Bolivia","la Bolivie","BO","BOL",
-27,"Countries","Bonaire",800,"Bonaire","Bonaire","Bonaire","BQ",,
-28,"Countries","Bosnia and Herzegovina",800,"Bosnien und Herzegovina","Bosnia y Herzegovina","la Bosnie-Herzégovine;la Bosnie et Herzégovine","BA","BIH",
-29,"Countries","Botswana",800,"Botswana","República de Botsuana;Botsuana","le Botswana;la République du Botswana","BW","BWA",
-30,"Countries","Bouvet Island",800,"Bouvetinsel","Isla Bouvet","Île de Bouvet","BV","BVT",
-31,"Countries","Brazil",800,"Brasilien","República Federativa del Brasil;Brasil","Brésil","BR","BRA",
-32,"Countries","British Indian Ocean Territory",800,"Britisches Territorium im Indischen Ozean","Territorio Británico del Océano Índico","Territoire britannique de l'océan Indien","IO","IOT",
-33,"Countries","British Virgin Islands",800,"Britische Jungferninseln","Islas Vírgenes Británicas","Îles Vierges britanniques","VG","VGB",
-34,"Countries","Brunei Darussalam",800,"Brunei Darussalam","Brunei Darussalam","Brunei Darussalam","BN","BRN","Brunei"
-35,"Countries","Bulgaria",800,"Bulgarien","República de Bulgaria;Bulgaria","la Bulgarie;la République de Bulgarie","BG","BGR",
-36,"Countries","Burkina Faso",800,"Burkina Faso","Burkina Faso","Burkina Faso","BF","BFA",
-37,"Countries","Burundi",800,"Burundi","República de Burundi;Burundi","le Burundi;la République du Burundi","BI","BDI",
-38,"Countries","Cambodia",800,"Kambodscha","Reino de Camboya;Camboya","le Cambodge;le Royaume du Cambodge","KH","KHM",
-39,"Countries","Cameroon",800,"Kamerun","República de Camerún;Camerún","le Cameroun;la République du Cameroun","CM","CMR",
-40,"Countries","Canada",800,"Kanada","Canadá","Canada","CA","CAN",
-41,"Countries","Cape Verde",800,"Kap Verde","República de Cabo Verde;Cabo Verde","le Cap-Vert","CV","CPV",
-42,"Countries","Cayman Islands",800,"Kaimaninseln","Islas Caimán","Îles Caïmans","KY","CYM",
-43,"Countries","Central African Republic",800,"Zentralafrikanische Republik","República Centroafricana","République centrafricaine","CF","CAF",
-44,"Countries","Chad",800,"Tschad","República de Chad;Chad","le Tchad;la République du Tchad","TD","TCD",
-45,"Countries","Chile",800,"Chile","República de Chile;Chile","Chili","CL","CHL",
-46,"Countries","China",800,"China","República Popular China;China","la Chine;la République populaire de Chin","CN","CHN","People's Republic of China; PRC"
-47,"Countries","Christmas Island",800,"Weihnachtsinsel","Isla de Navidad","L'île de noël","CX","CXR",
-48,"Countries","Cocos Islands",800,"Kokosinseln","Islas Cocos","Îles Cocos","CC","CCK",
-49,"Countries","Colombia",800,"Kolumbien","República de Colombia;Colombia","la Colombie;la République de Colombie","CO","COL",
-50,"Countries","Comoros",800,"Komoren","Unión de las Comoras;Comoras","Comores","KM","COM",
-51,"Countries","Congo",800,"Kongo","Congo","Congo","CG","COG",
-52,"Countries","Cook Islands",800,"Cookinseln","Islas Cook","les Îles Cook","CK","COK",
-53,"Countries","Costa Rica",800,"Costa Rica","Costa Rica;República de Costa Rica","Costa Rica","CR","CRI","Republic of Costa Rica"
-54,"Countries","Croatia",800,"Kroatien","República de Croacia;Croacia","la République de Croatie;la Croatie","HR","HRV",
-55,"Countries","Cuba",800,"Kuba","República de Cuba;Cuba","la République de Cuba;Cuba","CU","CUB",
-56,"Countries","Curaçao",800,"Curaçao","Curaçao","Curaçao","CW","CUW",
-57,"Countries","Cyprus",800,"Zypern","Chipre; República de Chipre","Chypre; la République de Chypre","CY","CYP","Republic of Cyprus"
-58,"Countries","Czech Republic",800,"Tschechien","República Checa","République Tchèque","CZ","CZE",
-59,"Countries","Côte d'Ivoire",800,"Elfenbeinküste","Costa de Marfil","Côte d'Ivoire","CI","CIV",
-60,"Countries","Democratic Republic of the Congo",800,"Demokratische Republik Kongo","República Democrática del Congo","République Démocratique du Congo","CD","COD",
-61,"Countries","Denmark",800,"Dänemark","Reino de Dinamarca;Dinamarca","le Danemark;le Royaume du Danemark","DK","DNK",
-62,"Countries","Djibouti",800,"Dschibuti","República de Yibuti;Yibuti","Djibouti;la République de Djibouti","DJ","DJI",
-63,"Countries","Dominica",800,"Dominica","Mancomunidad de Dominica;Dominica","la Dominique","DM","DMA",
-64,"Countries","Dominican Republic",800,"Dominikanische Republik","República Dominicana","République Dominicaine","DO","DOM",
-65,"Countries","Ecuador",800,"Ecuador","República del Ecuador;Ecuador","l'Équateur;la République de l'Équateur","EC","ECU",
-66,"Countries","Egypt",800,"Ägypten","República Árabe de Egipto;Egipto","l'Égypte;la République arabe d'Égypt","EG","EGY",
-67,"Countries","El Salvador",800,"El Salvador","El Salvador","Le sauveur","SV","SLV",
-68,"Countries","Equatorial Guinea",800,"Äquatorialguinea","República de Guinea Ecuatorial;Guinea Ecuatorial","la Guinée équatoriale;la Guinée Équatoriale","GQ","GNQ",
-69,"Countries","Eritrea",800,"Eritrea","Estado de Eritrea;Eritrea","l'Érythrée;l'État d'Érythrée","ER","ERI",
-70,"Countries","Estonia",800,"Estland","República de Estonia;Estonia","l'Estonie;la République d'Estonie","EE","EST",
-71,"Countries","Ethiopia",800,"Äthiopien","República Democrática Federal de Etiopía;Etiopía","l'Éthiopie;la République démocratique fédérale d'Éthiopie","ET","ETH",
-72,"Countries","Falkland Islands",800,"Falklandinseln","Islas Malvinas","les îles Falkland","FK","FLK",
-73,"Countries","Faroe Islands",800,"Färöer;Färöer-Inseln","Islas Faroe","Îles Féroé","FO","FRO",
-74,"Countries","Federated States of Micronesia",800,"Föderierte Staaten von Mikronesien;Mikronesien","Estados Federados de Micronesia; Micronesia","la Micronésie;la Micronésie","FM","FSM","Micronesia"
-75,"Countries","Fiji",800,"Fidschi","República de Fiyi;Fiyi","les Fidji","FJ","FJI",
-76,"Countries","Finland",800,"Finnland","República de Finlandia;Finlandia","la Finlande;la République de Finlande","FI","FIN",
-77,"Countries","France",800,"Frankreich","República Francesa;Francia","la France;la République français","FR","FRA",
-78,"Countries","French Guiana",800,"Französisch-Guayana","Guayana Francesa","Guinée Française","GF","GUF",
-79,"Countries","French Polynesia",800,"Französisch-Polynesien","Polinesia francés","Polynésie française","PF","PYF",
-80,"Countries","French Southern Territories",800,"Französische Süd- und Antarktisgebiete","Territorios Franceses del Sur","Territoires du Sud français","TF","ATF",
-81,"Countries","Gabon",800,"Gabun","República Gabonesa;Gabón","le Gabon;la République gabonais","GA","GAB",
-82,"Countries","Gambia",800,"Gambia","Gambia","Gambie","GM","GMB",
-83,"Countries","Georgia",800,"Georgien","República de Georgia;Georgia","la Géorgie","GE","GEO",
-84,"Countries","Germany",800,"Deutschland","República Federal Alemana;Alemania","l'Allemagne;la République fédérale d'Allemagn","DE","DEU",
-85,"Countries","Ghana",800,"Ghana","República de Ghana;Ghana","le Ghana;la République du Ghana","GH","GHA",
-86,"Countries","Gibraltar",800,"Gibraltar","Gibraltar","Gibraltar","GI","GIB",
-87,"Countries","Greece",800,"Griechenland","República Helénica;Grecia","la Grèce;la République helléniqu","GR","GRC",
-88,"Countries","Greenland",800,"Grönland","Tierra Verde","Groenland","GL","GRL",
-89,"Countries","Grenada",800,"Grenada","Granada","Grenade","GD","GRD",
-90,"Countries","Guadeloupe",800,"Guadeloupe","Guadalupe","Guadeloupe","GP","GLP",
-91,"Countries","Guam",800,"Guam","Guam","Guam","GU","GUM",
-92,"Countries","Guatemala",800,"Guatemala","República de Guatemala;Guatemala","le Guatemala","GT","GTM",
-93,"Countries","Guernsey",800,"Guernsey","Guernesey","Guernesey","GG","GGY",
-94,"Countries","Guinea",800,"Guinea","República de Guinea;Guinea","la Guinée;la République de Guinée","GN","GIN",
-95,"Countries","Guinea-Bissau",800,"Guinea-Bissau","Guinea-Bissau","la Guinée-Bissau","GW","GNB",
-96,"Countries","Guyana",800,"Guyana","República Cooperativa de Guyana;Guyana","Guyane","GY","GUY",
-97,"Countries","Haiti",800,"Haiti","República de Haití;Haití","Haïti;la République d'Haïti","HT","HTI",
-98,"Countries","Heard Island and McDonald Islands",800,"Heard und Mcdonaldinseln","Islas Heard y McDonald","Îles Heard et McDonald","HM","HMD",
-99,"Countries","Holy See",800,"Heiliger Stuhl","Santa Sede","Saint-Siège","VA","VAT",
-100,"Countries","Honduras",800,"Honduras","República de Honduras;Honduras","Honduras","HN","HND",
-101,"Countries","Hong Kong",800,"Hongkong","Hong Kong","Hong Kong","HK","HKG",
-102,"Countries","Hungary",800,"Ungarn","República de Hungría;Hungría","la Hongrie;Hongrie","HU","HUN",
-103,"Countries","Iceland",800,"Island","República de Islandia;Islandia","l'Islande;la République d'Islande","IS","ISL",
-104,"Countries","India",800,"Indien","República de la India;India","l'Inde;la République de l'Ind","IN","IND",
-105,"Countries","Indonesia",800,"Indonesien","República de Indonesia;Indonesia","l'Indonésie;la République d'Indonésie","ID","IDN",
-106,"Countries","Iran",800,"Islamische Republik Iran;Iran","Irán; Corrí","Iran","IR","IRN",
-107,"Countries","Iraq",800,"Irak","Irak","Irak","IQ","IRQ",
-108,"Countries","Ireland",800,"Irland","Irlanda","l'Irlande","IE","IRL",
-109,"Countries","Isle of Man",800,"Insel Man","Isla de Man","Isle of Man","IM","IMN",
-110,"Countries","Israel",800,"Israel","Estado de Israel;Israel","Israël;l'État d'Israë","IL","ISR",
-111,"Countries","Italy",800,"Italien","República italiana;Italia","l'Italie;la République italienn","IT","ITA",
-112,"Countries","Jamaica",800,"Jamaika","Jamaica","Jamaïque","JM","JAM",
-113,"Countries","Jan Mayen",800,"Jan Mayen","Jan Mayen","L'île Jan Mayen","SJ","SJM",
-114,"Countries","Japan",800,"Japan","Estado de Japón;Japón","le Japon","JP","JPN",
-115,"Countries","Jersey",800,"Jersey","Jersey","Jersey","JE","JEY",
-116,"Countries","Jordan",800,"Jordanien","Reino Hachemita de Jordania;Jordania","la Jordanie;le Royaume hachémite de Jordanie","JO","JOR",
-117,"Countries","Kazakhstan",800,"Kasachstan","República de Kazajistán;Kazajistán","le Kazakhstan","KZ","KAZ",
-118,"Countries","Kenya",800,"Kenya","República de Kenia;Kenia","le Kenya;la République du Kenya","KE","KEN",
-119,"Countries","Kiribati",800,"Kiribati","República de Kiribati;Kiribati","Kiribati","KI","KIR",
-120,"Countries","Kuwait",800,"Kuwait","Estado de Kuwait;Kuwait","le Koweït","KW","KWT",
-121,"Countries","Kyrgyzstan",800,"Kirgisistan","República Kirguisa;Kirguistán","la Kirghizie","KG","KGZ",
-122,"Countries","Laos",800,"Laos; Demokratische Volksrepublik Laos","Laos; República Democrática Popular Lao","le Laos; République démocratique populaire lao","LA","LAO","Lao People's Democratic Republic"
-123,"Countries","Latvia",800,"Lettland","República de Letonia;Letonia","la Lettonie;la République de Lettoni","LV","LVA",
-124,"Countries","Lebanon",800,"Libanon","República Libanesa;Líbano","le Liban;la République libanais","LB","LBN",
-125,"Countries","Lesotho",800,"Lesotho","Reino de Lesoto;Lesoto","le Lesotho;le Royaume du Lesotho","LS","LSO",
-126,"Countries","Liberia",800,"Liberia","República de Liberia;Liberia","le Liberia","LR","LBR",
-127,"Countries","Libya",800,"Libyen","Estado de Libia;Libia","la Libye","LY","LBY",
-128,"Countries","Liechtenstein",800,"Liechtenstein","Principado de Liechtenstein;Liechtenstein","le Liechtenstein;la Principauté du Liechtenstein","LI","LIE",
-129,"Countries","Lithuania",800,"Litauen","República de Lituania;Lituania","la Lituanie;la République de Lituanie","LT","LTU",
-130,"Countries","Luxembourg",800,"Luxemburg","Gran Ducado de Luxemburgo;Luxemburgo","le Luxembourg;le Grand-Duché de Luxembourg","LU","LUX",
-131,"Countries","Macao",800,"Macao","Macao","Macao","MO","MAC",
-132,"Countries","Macedonia",800,"Mazedonien","Macedonia","Macédoine","MK","MKD",
-133,"Countries","Madagascar",800,"Madagaskar","República de Madagascar;Madagascar","Madagascar;la République de Madagasca","MG","MDG",
-134,"Countries","Malawi",800,"Malawi","República de Malaui;Malaui","le Malawi;la République du Malawi","MW","MWI",
-135,"Countries","Malaysia",800,"Malaysia","Malasia","la Malaisie;la Fédération de Malaisie","MY","MYS",
-136,"Countries","Maldives",800,"Malediven","República de las Maldivas;Maldivas","Maldives","MV","MDV",
-137,"Countries","Mali",800,"Mali","Mali","Mali","ML","MLI",
-138,"Countries","Malta",800,"Malta","República de Malta;Malta","Malte;la République de Malte","MT","MLT",
-139,"Countries","Marshall Islands",800,"Marshallinseln","República de las Islas Marshall;Islas Marshall","Iles Marshall","MH","MHL",
-140,"Countries","Martinique",800,"Martinique","Martinica","Martinique","MQ","MTQ",
-141,"Countries","Mauritania",800,"Mauretanien","República Islámica de Mauritania;Mauritania","la Mauritanie;la République islamique de Mauritani","MR","MRT",
-142,"Countries","Mauritius",800,"Mauritius","Mauricio","Maurice","MU","MUS",
-143,"Countries","Mayotte",800,"Mayotte","Mayotte","Mayotte","YT","MYT",
-144,"Countries","Mexico",800,"Mexiko","Estados Unidos Mexicanos;México","le Mexique;les États unis mexicains","MX","MEX",
-145,"Countries","Moldova",800,"Moldawien;Republik Moldau","Moldavia","la Moldavie; Moldavie","MD","MDA",
-146,"Countries","Monaco",800,"Monaco","Principado de Mónaco;Mónaco","Monaco;la principauté de Monaco","MC","MCO",
-147,"Countries","Mongolia",800,"Mongolei","Mongolia","Mongolie","MN","MNG",
-148,"Countries","Montenegro",800,"Montenegro","República de Montenegro;Montenegro","le Monténégro","ME","MNE",
-149,"Countries","Montserrat",800,"Montserrat","Montserrat","Montserrat","MS","MSR",
-150,"Countries","Morocco",800,"Marokko","Reino de Marruecos;Marruecos","Maroc","MA","MAR",
-151,"Countries","Mozambique",800,"Mosambik","República de Mozambique;Mozambique","le Mozambique;la République du Mozambique","MZ","MOZ",
-152,"Countries","Myanmar",800,"Myanmar","Myanmar; Birmania","Myanmar; Birmanie","MM","MMR","Burma"
-153,"Countries","Namibia",800,"Namibia","República de Namibia;Namibia","la Namibie;la République de Namibie","NA","NAM",
-154,"Countries","Nauru",800,"Nauru","República de Nauru;Nauru","Nauru;la République de Nauru","NR","NRU",
-155,"Countries","Nepal",800,"Nepal","República Federal Democrática de Nepal;Nepal","le Népal","NP","NPL",
-156,"Countries","Netherlands",800,"Niederlande","Reino de los Países Bajos;Países Bajos","Pays-Bas","NL","NLD",
-157,"Countries","New Caledonia",800,"Neu-Kaledonien","Nueva Caledonia","Nouvelle Calédonie","NC","NCL",
-158,"Countries","New Zealand",800,"Neuseeland","Nueva Zelanda","la Nouvelle-Zéland","NZ","NZL",
-159,"Countries","Nicaragua",800,"Republik Nicaragua;Nicaragua;Nikaragua","República de Nicaragua;Nicaragua","le Nicaragua;la République du Nicaragua; Nicaragua","NI","NIC",
-160,"Countries","Niger",800,"Niger","República del Níger;Níger","le Niger;la République du Niger","NE","NER",
-161,"Countries","Nigeria",800,"Nigeria","República Federal de Nigeria;Nigeria","le Nigéria","NG","NGA",
-162,"Countries","Niue",800,"Niue","Niue","Niue","NU","NIU",
-163,"Countries","Norfolk Island",800,"Norfolkinsel","Isla Norfolk","Île de Norfolk","NF","NFK",
-164,"Countries","North Korea",800,"Nordkorea;Nord Korea;Demokratische Volksrepublik Korea","República Popular Democrática de Corea;Corea del Norte","la Corée du Nord; République populaire démocratique de Corée","KP","PRK","Democratic People's Republic of Korea"
-165,"Countries","Northern Mariana Islands",800,"Nördliche Marianen","Islas Marianas del Norte","Îles Mariannes du Nord","MP","MNP",
-166,"Countries","Norway",800,"Norwegen","Reino de Noruega;Noruega","la Norvège;le Royaume de Norvège","NO","NOR",
-167,"Countries","Oman",800,"Oman","Sultanato de Omán;Omán","Oman;l'Oman","OM","OMN",
-168,"Countries","Pakistan",800,"Pakistan","República Islámica de Pakistán;Pakistán","le Pakistan","PK","PAK",
-169,"Countries","Palau",800,"Palau","Palaos","Palau","PW","PLW",
-170,"Countries","Palestine",800,"Palästina","Estado de Palestina;Palestina","Palestine","PS","PSE",
-171,"Countries","Panama",800,"Panama","República de Panamá;Panamá","Panama","PA","PAN",
-172,"Countries","Papua New Guinea",800,"Papua-Neuguinea","Estado Independiente de Papúa Nueva Guinea;Papúa Nueva Guinea","la Papouasie-Nouvelle-Guinée;la Papouasie - Nouvelle-Guinée","PG","PNG",
-173,"Countries","Paraguay",800,"Paraguay","República del Paraguay;Paraguay","le Paraguay;la République du Paraguay","PY","PRY",
-174,"Countries","Peru",800,"Peru","República del Perú;Perú","le Pérou;la République du Pérou","PE","PER",
-175,"Countries","Philippines",800,"Philippinen","República de Filipinas;Filipinas","Philippines","PH","PHL",
-176,"Countries","Pitcairn",800,"Pitcairn","Pitcairn","Pitcairn","PN","PCN",
-177,"Countries","Poland",800,"Polen","República de Polonia;Polonia","la Pologne;la République de Pologne","PL","POL",
-178,"Countries","Portugal",800,"Portugal","República Portuguesa;Portugal","le Portugal;la République portugais","PT","PRT",
-179,"Countries","Puerto Rico",800,"Puerto Rico","Puerto Rico","Porto Rico","PR","PRI",
-180,"Countries","Qatar",800,"Katar","Katar","le Qatar","QA","QAT",
-181,"Countries","Romania",800,"Rumänien","Rumania","Roumanie","RO","ROU",
-182,"Countries","Russian Federation",800,"Russische Föderation","Federación Rusa","Fédération Russe","RU","RUS",
-183,"Countries","Rwanda",800,"Ruanda","República de Ruanda;Ruanda","le Rwanda;la République rwandaise","RW","RWA",
-184,"Countries","Réunion",800,"La Réunion; Réunion","Reunión","Réunion","RE","REU",
-185,"Countries","Saba",800,"Saba","Saba","Saba","BQ",,
-186,"Countries","Saint Barthélemy",800,"Saint Barthélemy","San Bartolomé","Saint Barthélemy","BL","BLM",
-187,"Countries","Saint Helena, Ascension and Tristan da Cunha",800,"St. Helena, Ascension und Tristan da Cunha","Santa Helena, Ascensión y Tristán da Cunha","Sainte-Hélène, Ascension et Tristan da Cunha","SH","SHN",
-188,"Countries","Saint Kitts and Nevis",800,"St. Kitts und Nevis","Federación de San Cristóbal y Nieves;San Cristóbal y Nieves","Saint-Christophe-et-Niévès","KN","KNA",
-189,"Countries","Saint Lucia",800,"Saint Lucia","Santa Lucía","Saint Lucia","LC","LCA",
-190,"Countries","Saint Martin",800,"Saint Martin","San Martín","Saint Martin","MF","MAF",
-191,"Countries","Saint Pierre and Miquelon",800,"Saint Pierre und Miquelon","San Pedro y Miquelón","Saint Pierre et Miquelon","PM","SPM",
-192,"Countries","Saint Vincent and the Grenadines",800,"St. Vincent und die Grenadinen","San Vicente y las Granadinas","Saint-Vincent-et-les Grenadines","VC","VCT",
-193,"Countries","Samoa",800,"Samoa","Estado Independiente de Samoa;Samoa","les Samoa","WS","WSM",
-194,"Countries","San Marino",800,"San Marino","Serenísima República de San Marino;San Marino","Saint Marin","SM","SMR",
-195,"Countries","Sao Tome and Principe",800,"São Tomé und Príncipe","República Democrática de Santo Tomé y Príncipe;Santo Tomé y Príncipe","Sao Tomé-et-Principe","ST","STP",
-196,"Countries","Saudi Arabia",800,"Saudi-Arabien","Arabia Saudita","l'Arabie saoudite;le Royaume d'Arabie saoudite","SA","SAU",
-197,"Countries","Senegal",800,"Senegal","República de Senegal;Senegal","Sénégal","SN","SEN",
-198,"Countries","Serbia",800,"Serbien","República de Serbia;Serbia","la Serbie;la République de Serbie","RS","SRB",
-199,"Countries","Seychelles",800,"Seychellen","República de las Seychelles;Seychelles","les Seychelles;la République des Seychelles","SC","SYC",
-200,"Countries","Sierra Leone",800,"Sierra Leone","República de Sierra Leona;Sierra Leona","la Sierra Leone;la République de Sierra Leone","SL","SLE",
-201,"Countries","Singapore",800,"Singapur","República de Singapur;Singapur","Singapour;la République de Singapour","SG","SGP",
-202,"Countries","Sint Eustatius",800,"Sint Eustatius","San Eustaquio","Saint-Eustache","BQ",,"Statia"
-203,"Countries","Sint Maarten",800,"Sint Maarten","Sint Maarten","Saint-Martin; Pays de Saint-Martin","SX",,
-204,"Countries","Slovakia",800,"Slowakei","República de Eslovaquia;Eslovaquia","la Slovaquie;la République slovaque","SK","SVK","Slovakia Republic"
-205,"Countries","Slovenia",800,"Slowenien","República de Eslovenia;Eslovenia","la Slovénie;la République de Slovénie","SI","SVN","Republic of Slovenia"
-206,"Countries","Solomon Islands",800,"Salomonen","Islas Salomón","Les îles Salomon","SB","SLB",
-207,"Countries","Somalia",800,"Somalia","República Federal de Somalia;Somalia","la Somalie","SO","SOM",
-208,"Countries","South Africa",800,"Südafrika","República de Sudáfrica;Sudáfrica","l'Afrique du Sud;la République d'Afrique du Sud","ZA","ZAF",
-209,"Countries","South Georgia and the South Sandwich Islands",800,"Südgeorgien und die Südlichen Sandwichinseln","Georgia del sur y las islas Sandwich del sur","Géorgie du Sud et les îles Sandwich du Sud","GS","SGS",
-210,"Countries","South Korea",800,"Südkorea;Süd Korea; Republik Korea","República de Corea;Corea del Sur","la Corée du Sud; République de Corée","KR","KOR","Republic of Korea"
-211,"Countries","South Sudan",800,"Der Südsudan; Republik Südsudan","Sudán del sur; República de Sudán del Sur","le Soudan du Sud; la République du Soudan du Sud","SS","SSD","Republic of South Sudan"
-212,"Countries","Spain",800,"Spanien","Reino de España;España","l'Espagne;le Royaume d'Espagne","ES","ESP",
-213,"Countries","Sri Lanka",800,"Sri Lanka","República Democrática Socialista de Sri Lanka;Sri Lanka","Sri Lanka","LK","LKA",
-214,"Countries","Sudan",800,"Sudan","República del Sudán;Sudán","le Soudan;la République du Soudan","SD","SDN",
-215,"Countries","Suriname",800,"Suriname","República del Surinam;Surinam","le Suriname","SR","SUR",
-216,"Countries","Svalbard",800,"Svalbard","Svalbard","Svalbard","SJ","SJM",
-217,"Countries","Swaziland",800,"Swasiland","Reino de Suazilandia;Suazilandia","le Swaziland","SZ","SWZ",
-218,"Countries","Sweden",800,"Schweden","Reino de Suecia;Suecia","la Suède;le Royaume de Suède","SE","SWE",
-219,"Countries","Switzerland",800,"Schweiz","Confederación Helvética;Suiza","la Suisse;la Confédération suiss","CH","CHE",
-220,"Countries","Syria",800,"Arabische Republik Syrien; Syrien","Siria;República Árabe Siria","la Syrie;République arabe syrienne","SY","SYR","Syrian Arab Republic"
-221,"Countries","Taiwan",800,"Taiwan; Republik China","Taiwán; República de China","Taïwan; République de Chine","TW","TWN","Republic of China"
-222,"Countries","Tajikistan",800,"Tadschikistan","República de Tayikistán;Tayikistán","le Tadjikistan;la République du Tadjikistan","TJ","TJK",
-223,"Countries","Tanzania",800,"Tansania","República Unida de Tanzania;Tanzania","la Tanzanie","TZ","TZA",
-224,"Countries","Thailand",800,"Thailand","Reino de Tailandia;Tailandia","la Thaïlande;le Royaume de Thaïlande","TH","THA",
-225,"Countries","Timor-Leste",800,"Osttimor","Timor Oriental","Timor-Leste","TL","TLS",
-226,"Countries","Togo",800,"Togo","República Togolesa;Togo","le Togo;la République togolais","TG","TGO",
-227,"Countries","Tokelau",800,"Tokelau","Tokelau","Tokelau","TK","TKL",
-228,"Countries","Tonga",800,"Tonga; Königreich Tonga","Reino de Tonga;Tonga","les Tonga;le Royaume des Tong","TO","TON",
-229,"Countries","Trinidad and Tobago",800,"Trinidad und Tobago","República de Trinidad y Tobago;Trinidad y Tobago","la Trinité-et-Tobago","TT","TTO",
-230,"Countries","Tunisia",800,"Tunesien","República Tunecina;Túnez","la Tunisie;la République tunisienne","TN","TUN",
-231,"Countries","Turkey",800,"Türkei","República de Turquía;Turquía","la Turquie;la République de Turquie","TR","TUR",
-232,"Countries","Turkmenistan",800,"Turkmenistan","Turkmenistán","le Turkménistan","TM","TKM",
-233,"Countries","Turks and Caicos Islands",800,"Turks- und Caicosinseln","Islas Turcas y Caicos","îles Turques-et-Caïques","TC","TCA","TCI"
-234,"Countries","Tuvalu",800,"Tuvalu","Tuvalu","les Tuvalu","TV","TUV",
-235,"Countries","US Virgin Islands",800,"US Jungferninseln","Islas Vírgenes de EE.UU","Îles Vierges américaines","VI","VIR",
-236,"Countries","Uganda",800,"Uganda","República de Uganda;Uganda","l'Ouganda;la République d'Ouganda","UG","UGA",
-237,"Countries","Ukraine",800,"Ukraine","Ucrania","Ukraine","UA","UKR",
-238,"Countries","United Arab Emirates",800,"Vereinigte Arabische Emirate","Emiratos Árabes Unidos","les Émirats arabes unis;la fédération des Émirats arabes unis","AE","ARE","UAE"
-239,"Countries","United Kingdom",800,"Vereinigtes Königreich","Reino Unido de Gran Bretaña e Irlanda del Norte;Reino Unido","Royaume-Uni","GB","GBR",
-240,"Countries","United States",800,"Vereinigte Staaten","Los Estatados Unidos","les États-Unis","US","USA","USA; United States of America"
-241,"Countries","United States Minor Outlying Islands",800,"Vereinigte Staaten Minor Outlying Islands; Kleinere Inselbesitzungen der Vereinigten Staaten","Islas menores alejadas de los Estados Unidos","Îles mineures éloignées des États-Unis","UM","UMI",
-242,"Countries","Uruguay",800,"Uruguay","República Oriental del Uruguay;Uruguay","Uruguay","UY","URY",
-243,"Countries","Uzbekistan",800,"Usbekistan","República de Uzbekistán;Uzbekistán","l'Ouzbékistan;la République d'Ouzbékistan","UZ","UZB",
-244,"Countries","Vanuatu",800,"Vanuatu","República de Vanuatu;Vanuatu","Vanuatu","VU","VUT",
-245,"Countries","Vatican City",800,"Vatikanstadt","Ciudad del Vaticano","Cité du Vatican","VA","VAT",
-246,"Countries","Venezuela",800,"Venezuela","República Bolivariana de Venezuela;Venezuela","Venezuela; République bolivarienne du Venezuela","VE","VEN","Bolivarian Republic of Venezuel"
-247,"Countries","Viet Nam",800,"Vietnam; Sozialistische Republik Vietnam","Vietnam","Viêt-Nam","VN","VNM","Vietnam"
-248,"Countries","Wallis and Futuna",800,"Wallis und Futuna","Wallis y Futuna","Wallis et Futuna","WF","WLF",
-249,"Countries","Western Sahara",800,"Westsahara","Sahara Occidental","Western Sahara","EH","ESH",
-250,"Countries","Yemen",800,"Jemen","República de Yemen;Yemen","le Yémen;la République du Yémen","YE","YEM",
-251,"Countries","Zambia",800,"Sambia","República de Zambia;Zambia","la Zambie;la République de Zambie","ZM","ZMB",
-252,"Countries","Zimbabwe",800,"Simbabwe","República de Zimbabue;Zimbabue","le Zimbabwe;la République du Zimbabwe","ZW","ZWE",
-253,"Countries","Åland Islands",800,"Ålandinseln","Islas Aland","Iles Aland","AX","ALA",
-254,"US States","Alabama",900,"Alabama","Alabama","L'Alabama","US-AL",,"AL"
-255,"US States","Alaska",900,"Alaska","Alaska","Alaska","US-AK",,"AK"
-256,"US States","Arizona",900,"Arizona","Arizona","Arizona","US-AZ",,"AZ"
-257,"US States","Arkansas",900,"Arkansas","Arkansas","Arkansas","US-AR",,"AR"
-258,"US States","California",900,"Kalifornien","California","Californie","US-CA",,"CA"
-259,"US States","Colorado",900,"Colorado","Colorado","Colorado","US-CO",,"CO"
-260,"US States","Connecticut",900,"Connecticut","Connecticut","Connecticut","US-CT",,"CT"
-261,"US States","Delaware",900,"Delaware","Delaware","Delaware","US-DE",,"DE"
-262,"US States","District of Columbia",900,"Bezirk von Kolumbien","Distrito de Columbia","District de Colombie","US-DC",,"DC"
-263,"US States","Florida",900,"Florida","Florida","Floride","US-FL",,"FL"
-264,"US States","Georgia",900,"Georgia","Georgia","Géorgie","US-GA",,"GA"
-265,"US States","Hawaii",900,"Hawaii","Hawai","Hawaii","US-HI",,"HI"
-266,"US States","Idaho",900,"Idaho","Idaho","Idaho","US-ID",,"ID"
-267,"US States","Illinois",900,"Illinois","Illinois","Illinois","US-IL",,"IL"
-268,"US States","Indiana",900,"Indiana","Indiana","Indiana","US-IN",,"IN"
-269,"US States","Iowa",900,"Iowa","Iowa","Iowa","US-IA",,"IA"
-270,"US States","Kansas",900,"Kansas","Kansas","Kansas","US-KS",,"KS"
-271,"US States","Kentucky",900,"Kentucky","Kentucky","Kentucky","US-KY",,"KY"
-272,"US States","Louisiana",900,"Louisiana","Luisiana","Louisiane","US-LA",,"LA"
-273,"US States","Maine",900,"Maine","Maine","Maine","US-ME",,"ME"
-274,"US States","Maryland",900,"Maryland","Maryland","Maryland","US-MD",,"MD"
-275,"US States","Massachusetts",900,"Massachusetts","Massachusetts","Massachusetts","US-MA",,"MA"
-276,"US States","Michigan",900,"Michigan","Michigan","Michigan","US-MI",,"MI"
-277,"US States","Minnesota",900,"Minnesota","Minnesota","Minnesota","US-MN",,"MN"
-278,"US States","Mississippi",900,"Mississippi","Misisipí","Mississippi","US-MS",,"MS"
-279,"US States","Missouri",900,"Missouri","Misuri","Missouri","US-MO",,"MO"
-280,"US States","Montana",900,"Montana","Montana","Montana","US-MT",,"MT"
-281,"US States","Nebraska",900,"Nebraska","Nebraska","Nebraska","US-NE",,"NE"
-282,"US States","Nevada",900,"Nevada","Nevada","Nevada","US-NV",,"NV"
-283,"US States","New Hamsphire",900,"New Hampshire","New Hampshire","New Hampshire","US-NH",,"NH"
-284,"US States","New Jersey",900,"New Jersey","New Jersey","New Jersey","US-NJ",,"NJ"
-285,"US States","New Mexico",900,"New-Mexiko","Nuevo Mexico","Nouveau Mexique","US-NM",,"NM"
-286,"US States","New York",900,"New York","Nueva York","New York","US-NY",,"NY"
-287,"US States","North Carolina",900,"North Carolina","Carolina del Norte","Caroline du Nord","US-NC",,"NC"
-288,"US States","North Dakota",900,"Norddakota","Dakota del Norte","Dakota du nord","US-ND",,"ND"
-289,"US States","Ohio",900,"Ohio","Ohio","Ohio","US-OH",,"OH"
-290,"US States","Oklahoma",900,"Oklahoma","Oklahoma","Oklahoma","US-OK",,"OK"
-291,"US States","Oregon",900,"Oregon","Oregón","Oregon","US-OR",,"OR"
-292,"US States","Pennsylvania",900,"Pennsylvania","Pensilvania","Pennsylvanie","US-PA",,"PA"
-293,"US States","Rhode Island",900,"Rhode Island","Rhode Island","Rhode Island","US-RI",,"RI"
-294,"US States","South Carolina",900,"South Carolina","Carolina del Sur","Caroline du Sud","US-SC",,"SC"
-295,"US States","South Dakota",900,"Süddakota","Dakota del Sur","Dakota du Sud","US-SD",,"SD"
-296,"US States","Tennessee",900,"Tennessee","Tennesse","Tennessee","US-TN",,"TN"
-297,"US States","Texas",900,"Texas","Texas","Texas","US-TX",,"TX"
-298,"US States","Utah",900,"Utah","Utah","Utah","US-UT",,"UT"
-299,"US States","Vermont",900,"Vermont","Vermont","Vermont","US-VT",,"VT"
-300,"US States","Virginia",900,"Virginia","Virginia","Virginie","US-VA",,"VA"
-301,"US States","Washington",900,"Washington","Washington","Washington","US-WA",,"WA"
-302,"US States","West Virginia",900,"West Virginia","Virginia del Oeste","West Virginia","US-WV",,"WV"
-303,"US States","Wisconsin",900,"Wisconsin","Wisconsin","Wisconsin","US-WI",,"WI"
-304,"US States","Wyoming",900,"Wyoming","Wyoming","Wyoming","US-WY",,"WY"
-305,"Canadian Provinces","Alberta",,"Alberta","Alberta","Alberta","CA-AB",,"AB"
-306,"Canadian Provinces","British Columbia",,"Britisch-Kolumbien","Columbia Británica","Colombie britannique; Colombie-Britannique","CA-BC",,"BC"
-307,"Canadian Provinces","Manitoba",,"Manitoba","Manitoba","Manitoba","CA-MB",,"MB"
-308,"Canadian Provinces","Newfoundland and Labrador",,"Neufundland und Labrador","Newfoundland y Labrador","Terre-Neuve-et-Labrador","CA-NL",,"NL"
-309,"Canadian Provinces","Northwest Territories",,"Nordwestliche Territorien","Territorios del Noroeste","Territoires du nord-ouest","CA-NT",,"NT"
-310,"Canadian Provinces","Nova Scotia",,"Neuschottland","nueva Escocia","Nouvelle-Écosse","CA-NS",,"NS"
-311,"Canadian Provinces","Nunavut",,"Nunavut","Nunavut","Nunavut","CA-NU",,"NU"
-312,"Canadian Provinces","Ontario",,"Ontario","Ontario","Ontario","CA-ON",,"ON"
-313,"Canadian Provinces","Prince Edward Island",,"Prinz Edward Insel","Prince Edward Island","Île-du-Prince-Édouard","CA-PE",,"PE"
-314,"Canadian Provinces","Quebec",,"Québec","Quebec","Quebec","CA-QC",,"QC"
-315,"Canadian Provinces","Saskatchewan",,"Saskatchewan","Saskatchewan","Saskatchewan","CA-SK",,"SK"
-316,"Canadian Provinces","Yukon",,"Yukon","Yukon","Yukon","CA-YT",,"YT"
-317,"Canadian Provinces","New Brunswick",,"Nouveau-Brunswick","Nuevo Brunswick","Nouveau-Brunswick","CA-NB",,"NB"
-318,"Australian States","New South Wales",,"New South Wales","Nueva Gales del Sur","Nouvelle Galles du Sud","AU-NSW",,"NSW"
-319,"Australian States","Queensland",,"Queensland","Queensland","Queensland","AU-QLD",,"QLD"
-320,"Australian States","South Australia",,"Süd Australien","Sur de Australia","Australie du Sud","AU-SA",,"SA"
-321,"Australian States","Tasmania",,"Tasmanien","Tasmania","Tasmanie","AU-TAS",,"TAS"
-322,"Australian States","Victoria",,"Victoria","Victoria","Victoria","AU-VIC",,"VIC"
-323,"Australian States","Western Australia",,"West-Australien","Western Australia","Australie occidentale","AU-WA",,"WA"
-324,"French States","Great East",,"Großer Osten","Gran Este","Grand Est","FR-GES",,"Grand Est; ACAL; ALCA; Alsace-Champagne-Ardenne-Lorraine"
-325,"French States","Auvergne-Rhône-Alpes",,"Auvergne-Rhône-Alpes","Auvernia-Ródano-Alpes","Auvergne-Rhône-Alpes; Ôvèrgne-Rôno-Ârpes; Auvèrnhe Ròse Aups","FR-ARA",,"ARA"
-326,"French States","Brittany",,"Bretagne","Bretaña","Bretagne","FR-BRE",,"BRE"
-327,"French States","Bourgogne-Franche-Comté",,"Burgund-Freigrafschaft","Borgoña-Franco Condado","La Bourgogne-Franche-Comté","FR-BFC",,"BFC"
-328,"French States","Centre-Loire Valley",,"Zentrum-Loiretal","Centro-Valle de Loira","Centre-Val de Loire","FR-CVL",,"CVL"
-329,"French States","Corsica",,"Korsika","Córcega","la Corse","FR-COR",,"COR"
-330,"French States","New Aquitaine",,"Neu-Aquitanien","Nueva Aquitania","Nouvelle-Aquitaine; Nòva Aquitània; Akitania Berria; Novéle-Aguiéne","FR-NAQ",,"Nouvelle-Aquitaine; NAQ"
-331,"French States","Ile-de-France",,"Ile-de-France","Ile de France","Ile-de-France","FR-IDF",,"IDF"
-332,"French States","Occitanie",,"Okzitanien","Occitania; Occitània","Occitanie; Occitània","FR-OCC",,"OCC"
-333,"French States","Normandy",,"Normandie","Normandía","Normandie; Normaundie","FR-NOR",,"NOR"
-334,"French States","Hauts-de-France",,"Hauts-de-France","Alta Francia","Hauts-de-France","FR-HDF",,"Upper France; HDF"
-335,"French States","Pays de la Loire",,"Loire","País del Loira","Pays de la Loire","FR-PDL",,"PDL"
-336,"French States","Provence-Alpes-Cote d'Azur",,"Provence-Alpes-Côte d'Azur","Provenza-Alpes-Costa Azul","Provence-Alpes-Cote d'Azur","FR-PAC",,"PAC"
-337,"German States","Baden-Wurttemberg",,"Baden-Wurttemberg; Baden-Württemberg","Baden-Wurttemberg","Bade-Wurtemberg","DE-BW",,"BW; Baden-Württemberg"
-338,"German States","Bavaria",,"Bavaria; Bayern","Baviera","Bavière","DE-BY",,"BY"
-339,"German States","Berlin",,"Berlin","Berlín","Berlin","DE-BE",,"BE"
-340,"German States","Bremen",,"Bremen","Bremen","Brême","DE-HB",,"HB"
-341,"German States","Hamburg",,"Hamburg","Hamburgo","Hambourg","DE-HH",,"HH"
-342,"German States","Hesse",,"Hesse; Hessen","Hesse","Hesse","DE-HE",,"HE"
-343,"German States","Lower Saxony",,"Niedersachsen","Baja sajonia","Basse-Saxe","DE-NI",,"NI"
-344,"German States","Mecklenburg-Vorpommern",,"Mecklenburg-Vorpommern; McPom","Mecklenburg-Vorpommern","Mecklembourg-Poméranie-Occidentale","DE-MV",,"MV; Mecklenburg-West Pomerania; Meck-Pomm"
-345,"German States","North Rhine-Westphalia",,"Nordrhein-Westfalen","Norte de Rhine-Westphalia","Rhénanie du Nord-Westphalie","DE-NW",,"NW"
-346,"German States","Rhineland-Palatinate",,"Rheinland-Pfalz","Renania-Palatinado","Rhénanie-Palatinat","DE-RP",,"RP"
-347,"German States","Saarland",,"Saarland","Sarre","Sarre","DE-SL",,"SL"
-348,"German States","Saxony",,"Sachsen","Sajonia","Saxe","DE-SN",,"SN"
-349,"German States","Saxony-Anhalt",,"Sachsen-anhalt","Sajonia-Anhalt","Saxe-Anhalt","DE-ST",,"ST"
-350,"German States","Schleswig-Holstein",,"Schleswig-Holstein","Schleswig-Holstein","Schleswig-Holstein","DE-SH",,"SH"
-351,"German States","Thuringia",,"Thüringen","Turingia","Thuringe","DE-TH",,"TH"
-352,"German States","Brandenburg",,"Brandenburg","Brandeburgo; Brandemburgo","Brandebourg","DE-BB",,"BB"
-353,"Spanish Autonomies","Andalusia",,"Andalusien","Andalucía","Andalucía; Andalousie","ES-AN",,"AN"
-354,"Spanish Autonomies","Aragon",,"Aragonien","Aragón","Aragón","ES-AR",,"AR"
-355,"Spanish Autonomies","Asturias",,"Asturien","Principado de Asturias","Principado de Asturias; Principauté des Asturies","ES-AS",,"AS; Principality of Asturias"
-356,"Spanish Autonomies","Balearic Islands",,"Balearische Inseln","Illes Balears; Islas Baleares","Illes Balears; Islas Baleares; Îles Baléares","ES-IB",,"IB"
-357,"Spanish Autonomies","Basque Country",,"Baskenland","País Vasco; Euskal Herria","País Vasco; Euskal Herria; Pays basque","ES-PV",,"PV"
-358,"Spanish Autonomies","Canary Islands",,"Kanarische Inseln","Canarias","Canarias; Îles Canaries","ES-CN",,"CN; The Canaries"
-359,"Spanish Autonomies","Cantabria",,"Kantabrien","Cantabria","Cantabria; Cantabrie","ES-CB",,"CB"
-360,"Spanish Autonomies","Castile and León",,"Kastilien und León","Castilla y León","Castilla y León; Castille-et-León","ES-CL",,"CL"
-361,"Spanish Autonomies","Castilla-La Mancha",,"Kastilien-La Mancha","Castilla-La Mancha","Castilla-La Mancha; Castille-La Manche","ES-CM",,"CM; Castile–La Mancha"
-362,"Spanish Autonomies","Catalonia",,"Katalonien","Catalunya; Cataluña","Catalunya; Cataluña; Catalogne","ES-CT",,"CT"
-363,"Spanish Autonomies","Community of Madrid",,"Madrid","Comunidad de Madrid","Comunidad de Madrid; Communauté de Madrid","ES-MD",,"M"
-364,"Spanish Autonomies","Extremadura",,"Extremadura","Extremadura","Extremadura; Estremaura; Estrémadure","ES-EX",,"EX"
-365,"Spanish Autonomies","Galicia",,"Galicien","Galicia","Galicia; Galice","ES-GA",,"GA"
-366,"Spanish Autonomies","La Rioja",,"La Rioja","La Rioja","La Rioja","ES-RI",,"LO"
-367,"Spanish Autonomies","Navarre",,"Navarra","Comunidad Foral de Navarra; Nafarroako Foru Komunitatea","Comunidad Foral de Navarra; Nafarroako Foru Komunitatea; Communauté forale de Navarre","ES-NC",,"NA; Chartered Community of Navarre"
-368,"Spanish Autonomies","Region of Murcia",,"Murcia","Región de Murcia","Región de Murcia; Région de Murcie","ES-MC",,"MC"
-369,"Spanish Autonomies","Valencian Community",,"Valencia","Comunidad Valenciana; Comunitat Valenciana","Comunidad Valenciana; Comunitat Valenciana; Communauté Valencienne","ES-VC",,"VC; Valencian Country"
-370,"Chinese Provinces","Hebei",,"Hebei","Hebei","Hebei","CN-13",,"HE; HEB; Héběi; Hopeh; Jì"
-371,"Chinese Provinces","Shanxi",,"Shanxi","Shanxi","Shanxi","CN-14",,"SX; Shānxī; Jìn"
-372,"Chinese Provinces","Liaoning",,"Liaoning","Liaoning","Liaoning","CN-21",,"LN; Liáoníng; Liáoníng Shěng; Liáo"
-373,"Chinese Provinces","Jilin",,"Jilin","Jilin","Jilin","CN-22",,"JL; Jílín; Jílín Shěng; Kirin"
-374,"Chinese Provinces","Heilongjiang",,"Heilongjiang","Heilongjiang","Heilongjiang","CN-23",,"HL; Hēilóngjiāng; Hēilóngjiāng Shěng; Hēi"
-375,"Chinese Provinces","Jiangsu",,"Jiangsu","Jiangsu","Jiangsu","CN-32",,"JS; Sū; Jiāngsū; Jiāngsū Shěng; Kiangsu; Kaonsu San"
-376,"Chinese Provinces","Zhejiang",,"Zhejiang","Zhejiang","Zhejiang","CN-33",,"ZJ: Zhè; Zhèjiāng Shěng; Chekiang; Tsehkaon San"
-377,"Chinese Provinces","Anhui",,"Anhui","Anhui","Anhui","CN-34",,"AH; Wǎn; Ānhuī Shěng; Ānhuī"
-378,"Chinese Provinces","Fujian",,"Fujian","Fujian","Fujian","CN-35",,"FJ; Mǐn; Bân; Fújiàn; Fújiàn Shěng; Foken; Fouken; Fukien; Hokkien; Hok-kiàn; Hók-gióng"
-379,"Chinese Provinces","Jiangxi",,"Jiangxi","Jiangxi","Jiangxi","CN-36",,"JX; Jiāngxī; Jiāngxī Shěng; Kongsi; Gong Si Sen; Chiang-hsi"
-380,"Chinese Provinces","Shandong",,"Shandong","Shandong","Shandong","CN-37",,"SD; Lǔ; Shāndōng Shěng; Shantung"
-381,"Chinese Provinces","Henan",,"Henan","Henan","Henan","CN-41",,"HA; HEN; Yù; Hénán Shěn;  Zhongyuan; Zhongzhou"
-382,"Chinese Provinces","Hubei",,"Hubei","Hubei","Hubei","CN-42",,"HB; È; Húběi Shěng"
-383,"Chinese Provinces","Hunan",,"Hunan","Hunan","Hunan","CN-43",,"HN; Xiāng; Húnán Shěng; Húnán; Shuangfeng; Changsha"
-384,"Chinese Provinces","Guangdong",,"Guangdong","Guangdong","Guangdong","CN-44",,"GD; Yuè; Jyut; Guǎngdōng Shěng; Canton; Kwangtung"
-385,"Chinese Provinces","Hainan",,"Hainan","Hainan","Hainan","CN-46",,"HI; Qióng; khêng; king; Hǎinán Shěng"
-386,"Chinese Provinces","Sichuan",,"Sichuan","Sichuan","Sichuan","CN-51",,"SC; Chuān; Shǔ; Cuan; Su; Si cuan Sen; Sìchuān Shěng; Szechuan"
-387,"Chinese Provinces","Guizhou",,"Guizhou","Guizhou","Guizhou","CN-52",,"GZ; Qián; Guì; Guìzhōu Shěng"
-388,"Chinese Provinces","Yunnan",,"Yunnan","Yunnan","Yunnan","CN-53",,"YN; Diān; Yún; Yúnnán Shěng"
-389,"Chinese Provinces","Shaanxi",,"Shaanxi","Shaanxi","Shaanxi","CN-61",,"SN; Shǎn; Qín; Shǎnxī Shěng"
-390,"Chinese Provinces","Gansu",,"Gansu","Gansu","Gansu","CN-62",,"GS; Gān; Lǒng; Gānsù Shěng; Kan su'u"
-391,"Chinese Provinces","Qinghai",,"Qinghai","Qinghai","Qinghai","CN-63",,"QH; Qīng; Qīnghǎi Shěng; Kokonur"
-392,"Chinese Provinces","Taiwan",,"Taiwan","Taiwan","Taïwan","CN-71",,"TW; Tái; Tâi-oân-séng; Thòi-vàn-sén; Táiwān shěng; Taiwan Province; Taiwan Region; Taiwan Area"
-393,"UK Countries/Provinces","England",,"England","Inglaterra","L'Angleterre; Angleterre","GB-ENG",,
-394,"UK Countries/Provinces","Northern Ireland",,"Nordirland","Irlanda del Norte","Irlande du Nord","GB-NIR",,
-395,"UK Countries/Provinces","Wales",,"Wales","Gales","Pays de Galles","GB-WLS",,
-396,"UK Countries/Provinces","Scotland",,"Schottland","Escocia","Écosse","GB-SCT",,
-397,"England Region","North East England",,"Nordostengland","Nordeste de Inglaterra","Angleterre du Nord-Est",,,
-398,"England Region","East Midlands",,"Östliche Midlands","Midlands del este","Midlands de l'Est",,,
-399,"England Region","Yorkshire and the Humber",,"Yorkshire und Humbergegend","Yorkshire y Humber","Yorkshire-et-Humber ",,,
-400,"England Region","South West England",,"Südwestengland","Sudoeste de Inglaterra","Angleterre du Sud-Ouest ",,,
-401,"England Region","West Midlands",,"Westliche Midlands","Midlands del Oeste","Midlands de l'Ouest",,,
-402,"England Region","East of England",,"Ostengland","Este de Inglaterra","Angleterre de l'Est",,,
-403,"England Region","North West England",,"Nordwestengland","Noroeste de Inglaterra","Angleterre du Nord-Ouest",,,
-404,"England Region","Greater London",,"Groß-London","Gran Londres","Grand Londres",,,
-405,"England Region","South East England",,"Südostengland","Sudeste de Inglaterra","Angleterre du Sud-Est",,,
+"Entity ID","Entity Category","Entity Name","Entity Priority","German Name","Spanish Name","French Name","ISO-3166-2","ISO-3166-3","Alias","Latitude","Longitude"
+1,"Countries","Afghanistan",800,"Afghanistan","Afganistán;República Islámica de Afganistán","l'Afghanistan","AF","AFG","","33","66"
+2,"Countries","Albania",800,"Albanien","República de Albania;Albania","l'Albanie;la République d'Albanie","AL","ALB","","41","20"
+3,"Countries","Algeria",800,"Algerien","República Argelina Democrática y Popular;Argelia","Algérie","DZ","DZA","","28","3"
+4,"Countries","American Samoa",800,"Amerikanisch-Samoa","Samoa Americana","Samoa américaines","AS","ASM","","-14.23377","-169.47767"
+5,"Countries","Andorra",800,"Andorra","Principado de Andorra;Andorra","l'Andorre;la principauté d'Andorre","AD","AND","","42.55","1.58333"
+6,"Countries","Angola",800,"Angola","República de Angola;Angola","Angola","AO","AGO","","-12.5","18.5"
+7,"Countries","Anguilla",800,"Anguilla","Anguila","Anguilla","AI","AIA","","18.21667","-63.05"
+8,"Countries","Antarctica",800,"Antarktis","Antártida","Antarctique","AQ","ATA","","-82.67628","8.78906"
+9,"Countries","Antigua and Barbuda",800,"Antigua und Barbuda","Antigua y Barbuda","Antigua-et-Barbuda","AG","ATG","","17.05","-61.8"
+10,"Countries","Argentina",800,"Argentinien","República Argentina;Argentina","l'Argentine;la République argentine","AR","ARG","","-34","-64"
+11,"Countries","Armenia",800,"Armenien","República de Armenia;Armenia","l'Arménie;la République d'Arménie","AM","ARM","","40.25","45"
+12,"Countries","Aruba",800,"Aruba","Aruba","Aruba","AW","ABW","","12.5","-69.96667"
+13,"Countries","Australia",800,"Australien","Mancomunidad de Australia;Australia","l'Australie;le Commonwealth d'Australie","AU","AUS","","-25","135"
+14,"Countries","Austria",800,"Österreich","República de Austria;Austria","l'Autriche;la République d'Autriche","AT","AUT","","47.33333","13.33333"
+15,"Countries","Azerbaijan",800,"Aserbaidschan","República de Azerbaiyán;Azerbaiyán","l'Azerbaïdjan;la République d'Azerbaïdjan","AZ","AZE","","40.5","47.5"
+16,"Countries","Bahamas",800,"Bahamas","Mancomunidad de las Bahamas;Bahamas","Bahamas","BS","BHS","","25.04082","-77.37122"
+17,"Countries","Bahrain",800,"Bahrain;Bahrein","Bahrein","Bahreïn;le Royaume de Bahreïn","BH","BHR","","26.03333","50.55"
+18,"Countries","Bangladesh",800,"Bangladesch","Bangladesh","le Bangladesh;la République populaire du Banglades","BD","BGD","","24","90"
+19,"Countries","Barbados",800,"Barbados","Barbados","La Barbade","BB","BRB","","13.16453","-59.55165"
+20,"Countries","Belarus",800,"Weißrußland","Belarús","Bélarus","BY","BLR","","53","28"
+21,"Countries","Belgium",800,"Belgien","Reino de Bélgica;Bélgica","la Belgique;le Royaume de Belgique","BE","BEL","","50.75","4.5"
+22,"Countries","Belize",800,"Belize","Belice","le Belize","BZ","BLZ","","17.25","-88.75"
+23,"Countries","Benin",800,"Benin","República de Benín;Benín","Bénin","BJ","BEN","","9.5","2.25"
+24,"Countries","Bermuda",800,"Bermuda","islas Bermudas","Bermudes","BM","BMU","","32.33022","-64.74003"
+25,"Countries","Bhutan",800,"Bhutan","Reino de Bután;Bután","le Bhoutan","BT","BTN","","27.5","90.5"
+26,"Countries","Bolivia",800,"Bolivien","Estado Plurinacional de Bolivia;Bolivia","la Bolivie","BO","BOL","","-17","-65"
+27,"Countries","Bonaire",800,"Bonaire","Bonaire","Bonaire","BQ","","","12.21286","-68.29445"
+28,"Countries","Bosnia and Herzegovina",800,"Bosnien und Herzegovina","Bosnia y Herzegovina","la Bosnie-Herzégovine;la Bosnie et Herzégovine","BA","BIH","","44.25","17.83333"
+29,"Countries","Botswana",800,"Botswana","República de Botsuana;Botsuana","le Botswana;la République du Botswana","BW","BWA","","-22","24"
+30,"Countries","Bouvet Island",800,"Bouvetinsel","Isla Bouvet","Île de Bouvet","BV","BVT","","-54.43333","3.4"
+31,"Countries","Brazil",800,"Brasilien","República Federativa del Brasil;Brasil","Brésil","BR","BRA","","-10","-55"
+32,"Countries","British Indian Ocean Territory",800,"Britisches Territorium im Indischen Ozean","Territorio Británico del Océano Índico","Territoire britannique de l'océan Indien","IO","IOT","","-6","72"
+33,"Countries","British Virgin Islands",800,"Britische Jungferninseln","Islas Vírgenes Británicas","Îles Vierges britanniques","VG","VGB","","18.5","-64.5"
+34,"Countries","Brunei Darussalam",800,"Brunei Darussalam","Brunei Darussalam","Brunei Darussalam","BN","BRN","Brunei","4.5","114.66667"
+35,"Countries","Bulgaria",800,"Bulgarien","República de Bulgaria;Bulgaria","la Bulgarie;la République de Bulgarie","BG","BGR","","42.66667","25.25"
+36,"Countries","Burkina Faso",800,"Burkina Faso","Burkina Faso","Burkina Faso","BF","BFA","","12.5","-1.66667"
+37,"Countries","Burundi",800,"Burundi","República de Burundi;Burundi","le Burundi;la République du Burundi","BI","BDI","","-3.5","30"
+38,"Countries","Cambodia",800,"Kambodscha","Reino de Camboya;Camboya","le Cambodge;le Royaume du Cambodge","KH","KHM","","13","105"
+39,"Countries","Cameroon",800,"Kamerun","República de Camerún;Camerún","le Cameroun;la République du Cameroun","CM","CMR","","6","12.5"
+40,"Countries","Canada",800,"Kanada","Canadá","Canada","CA","CAN","","60.10867","-113.64258"
+41,"Countries","Cape Verde",800,"Kap Verde","República de Cabo Verde;Cabo Verde","le Cap-Vert","CV","CPV","","16","-24"
+42,"Countries","Cayman Islands",800,"Kaimaninseln","Islas Caimán","Îles Caïmans","KY","CYM","","19.5","-80.66667"
+43,"Countries","Central African Republic",800,"Zentralafrikanische Republik","República Centroafricana","République centrafricaine","CF","CAF","","7","21"
+44,"Countries","Chad",800,"Tschad","República de Chad;Chad","le Tchad;la République du Tchad","TD","TCD","","15","19"
+45,"Countries","Chile",800,"Chile","República de Chile;Chile","Chili","CL","CHL","","-30","-71"
+46,"Countries","China",800,"China","República Popular China;China","la Chine;la République populaire de Chin","CN","CHN","People's Republic of China; PRC","35","105"
+47,"Countries","Christmas Island",800,"Weihnachtsinsel","Isla de Navidad","L'île de noël","CX","CXR","","-10.5","105.66667"
+48,"Countries","Cocos Islands",800,"Kokosinseln","Islas Cocos","Îles Cocos","CC","CCK","","-12.1642","96.87332"
+49,"Countries","Colombia",800,"Kolumbien","República de Colombia;Colombia","la Colombie;la République de Colombie","CO","COL","","4","-73.25"
+50,"Countries","Comoros",800,"Komoren","Unión de las Comoras;Comoras","Comores","KM","COM","","-12.23333","44.44553"
+51,"Countries","Congo",800,"Kongo","Congo","Congo","CG","COG","","-1","15.5"
+52,"Countries","Cook Islands",800,"Cookinseln","Islas Cook","les Îles Cook","CK","COK","","-21.24842","-159.78516"
+53,"Countries","Costa Rica",800,"Costa Rica","Costa Rica;República de Costa Rica","Costa Rica","CR","CRI","Republic of Costa Rica","10","-84"
+54,"Countries","Croatia",800,"Kroatien","República de Croacia;Croacia","la République de Croatie;la Croatie","HR","HRV","","45.16667","15.5"
+55,"Countries","Cuba",800,"Kuba","República de Cuba;Cuba","la République de Cuba;Cuba","CU","CUB","","22","-79.5"
+56,"Countries","Curaçao",800,"Curaçao","Curaçao","Curaçao","CW","CUW","","12.16667","-68.96667"
+57,"Countries","Cyprus",800,"Zypern","Chipre; República de Chipre","Chypre; la République de Chypre","CY","CYP","Republic of Cyprus","35","33"
+58,"Countries","Czech Republic",800,"Tschechien","República Checa","République Tchèque","CZ","CZE","","49.75","15"
+59,"Countries","Côte d'Ivoire",800,"Elfenbeinküste","Costa de Marfil","Côte d'Ivoire","CI","CIV","","8","-5.5"
+60,"Countries","Democratic Republic of the Congo",800,"Demokratische Republik Kongo","República Democrática del Congo","République Démocratique du Congo","CD","COD","","-2.5","23.5"
+61,"Countries","Denmark",800,"Dänemark","Reino de Dinamarca;Dinamarca","le Danemark;le Royaume du Danemark","DK","DNK","","56","10"
+62,"Countries","Djibouti",800,"Dschibuti","República de Yibuti;Yibuti","Djibouti;la République de Djibouti","DJ","DJI","","11.83333","42.5"
+63,"Countries","Dominica",800,"Dominica","Mancomunidad de Dominica;Dominica","la Dominique","DM","DMA","","15.5","-61.33333"
+64,"Countries","Dominican Republic",800,"Dominikanische Republik","República Dominicana","République Dominicaine","DO","DOM","","19","-70.66667"
+65,"Countries","Ecuador",800,"Ecuador","República del Ecuador;Ecuador","l'Équateur;la République de l'Équateur","EC","ECU","","-1.25","-78.25"
+66,"Countries","Egypt",800,"Ägypten","República Árabe de Egipto;Egipto","l'Égypte;la République arabe d'Égypt","EG","EGY","","27","30"
+67,"Countries","El Salvador",800,"El Salvador","El Salvador","Le sauveur","SV","SLV","","13.83333","-88.91667"
+68,"Countries","Equatorial Guinea",800,"Äquatorialguinea","República de Guinea Ecuatorial;Guinea Ecuatorial","la Guinée équatoriale;la Guinée Équatoriale","GQ","GNQ","","1.7","10.5"
+69,"Countries","Eritrea",800,"Eritrea","Estado de Eritrea;Eritrea","l'Érythrée;l'État d'Érythrée","ER","ERI","","15","39"
+70,"Countries","Estonia",800,"Estland","República de Estonia;Estonia","l'Estonie;la République d'Estonie","EE","EST","","59","26"
+71,"Countries","Ethiopia",800,"Äthiopien","República Democrática Federal de Etiopía;Etiopía","l'Éthiopie;la République démocratique fédérale d'Éthiopie","ET","ETH","","9","39.5"
+72,"Countries","Falkland Islands",800,"Falklandinseln","Islas Malvinas","les îles Falkland","FK","FLK","","-51.75","-59.16667"
+73,"Countries","Faroe Islands",800,"Färöer;Färöer-Inseln","Islas Faroe","Îles Féroé","FO","FRO","","62","-7"
+74,"Countries","Federated States of Micronesia",800,"Föderierte Staaten von Mikronesien;Mikronesien","Estados Federados de Micronesia; Micronesia","la Micronésie;la Micronésie","FM","FSM","Micronesia","6.924","158.162"
+75,"Countries","Fiji",800,"Fidschi","República de Fiyi;Fiyi","les Fidji","FJ","FJI","","-18","178"
+76,"Countries","Finland",800,"Finnland","República de Finlandia;Finlandia","la Finlande;la République de Finlande","FI","FIN","","64","26"
+77,"Countries","France",800,"Frankreich","República Francesa;Francia","la France;la République français","FR","FRA","","46","2"
+78,"Countries","French Guiana",800,"Französisch-Guayana","Guayana Francesa","Guinée Française","GF","GUF","","4","-53"
+79,"Countries","French Polynesia",800,"Französisch-Polynesien","Polinesia francés","Polynésie française","PF","PYF","","-15","-140"
+80,"Countries","French Southern Territories",800,"Französische Süd- und Antarktisgebiete","Territorios Franceses del Sur","Territoires du Sud français","TF","ATF","","-43","67"
+81,"Countries","Gabon",800,"Gabun","República Gabonesa;Gabón","le Gabon;la République gabonais","GA","GAB","","-1","11.75"
+82,"Countries","Gambia",800,"Gambia","Gambia","Gambie","GM","GMB","","13.5","-15.5"
+83,"Countries","Georgia",800,"Georgien","República de Georgia;Georgia","la Géorgie","GE","GEO","","41.99998","43.4999"
+84,"Countries","Germany",800,"Deutschland","República Federal Alemana;Alemania","l'Allemagne;la République fédérale d'Allemagn","DE","DEU","","51.5","10.5"
+85,"Countries","Ghana",800,"Ghana","República de Ghana;Ghana","le Ghana;la République du Ghana","GH","GHA","","8.1","-1.2"
+86,"Countries","Gibraltar",800,"Gibraltar","Gibraltar","Gibraltar","GI","GIB","","36.13333","-5.35"
+87,"Countries","Greece",800,"Griechenland","República Helénica;Grecia","la Grèce;la République helléniqu","GR","GRC","","39","22"
+88,"Countries","Greenland",800,"Grönland","Tierra Verde","Groenland","GL","GRL","","72","-40"
+89,"Countries","Grenada",800,"Grenada","Granada","Grenade","GD","GRD","","12.11667","-61.66667"
+90,"Countries","Guadeloupe",800,"Guadeloupe","Guadalupe","Guadeloupe","GP","GLP","","16.25","-61.58333"
+91,"Countries","Guam",800,"Guam","Guam","Guam","GU","GUM","","13.47861","144.81834"
+92,"Countries","Guatemala",800,"Guatemala","República de Guatemala;Guatemala","le Guatemala","GT","GTM","","15.5","-90.25"
+93,"Countries","Guernsey",800,"Guernsey","Guernesey","Guernesey","GG","GGY","","49.45474","-2.57629"
+94,"Countries","Guinea",800,"Guinea","República de Guinea;Guinea","la Guinée;la République de Guinée","GN","GIN","","10.83333","-10.66667"
+95,"Countries","Guinea-Bissau",800,"Guinea-Bissau","Guinea-Bissau","la Guinée-Bissau","GW","GNB","","12","-15"
+96,"Countries","Guyana",800,"Guyana","República Cooperativa de Guyana;Guyana","Guyane","GY","GUY","","5","-59"
+97,"Countries","Haiti",800,"Haiti","República de Haití;Haití","Haïti;la République d'Haïti","HT","HTI","","19","-72.41667"
+98,"Countries","Heard Island and McDonald Islands",800,"Heard und Mcdonaldinseln","Islas Heard y McDonald","Îles Heard et McDonald","HM","HMD","","-53.11711","73.50952"
+99,"Countries","Holy See",800,"Heiliger Stuhl","Santa Sede","Saint-Siège","VA","VAT","","41.90225","12.4533"
+100,"Countries","Honduras",800,"Honduras","República de Honduras;Honduras","Honduras","HN","HND","","15","-86.5"
+101,"Countries","Hong Kong",800,"Hongkong","Hong Kong","Hong Kong","HK","HKG","","22.25","114.16667"
+102,"Countries","Hungary",800,"Ungarn","República de Hungría;Hungría","la Hongrie;Hongrie","HU","HUN","","47","20"
+103,"Countries","Iceland",800,"Island","República de Islandia;Islandia","l'Islande;la République d'Islande","IS","ISL","","65","-18"
+104,"Countries","India",800,"Indien","República de la India;India","l'Inde;la République de l'Ind","IN","IND","","22","79"
+105,"Countries","Indonesia",800,"Indonesien","República de Indonesia;Indonesia","l'Indonésie;la République d'Indonésie","ID","IDN","","-5","120"
+106,"Countries","Iran",800,"Islamische Republik Iran;Iran","Irán; Corrí","Iran","IR","IRN","","32","53"
+107,"Countries","Iraq",800,"Irak","Irak","Irak","IQ","IRQ","","33","44"
+108,"Countries","Ireland",800,"Irland","Irlanda","l'Irlande","IE","IRL","","53","-8"
+109,"Countries","Isle of Man",800,"Insel Man","Isla de Man","Isle of Man","IM","IMN","","54.25","-4.5"
+110,"Countries","Israel",800,"Israel","Estado de Israel;Israel","Israël;l'État d'Israë","IL","ISR","","31.5","34.75"
+111,"Countries","Italy",800,"Italien","República italiana;Italia","l'Italie;la République italienn","IT","ITA","","42.83333","12.83333"
+112,"Countries","Jamaica",800,"Jamaika","Jamaica","Jamaïque","JM","JAM","","18.16667","-77.25"
+113,"Countries","Jan Mayen",800,"Jan Mayen","Jan Mayen","L'île Jan Mayen","SJ","SJM","","70.98333","-8.5"
+114,"Countries","Japan",800,"Japan","Estado de Japón;Japón","le Japon","JP","JPN","","35.68536","139.75309"
+115,"Countries","Jersey",800,"Jersey","Jersey","Jersey","JE","JEY","","49.21667","-2.11667"
+116,"Countries","Jordan",800,"Jordanien","Reino Hachemita de Jordania;Jordania","la Jordanie;le Royaume hachémite de Jordanie","JO","JOR","","31","36"
+117,"Countries","Kazakhstan",800,"Kasachstan","República de Kazajistán;Kazajistán","le Kazakhstan","KZ","KAZ","","48","68"
+118,"Countries","Kenya",800,"Kenya","República de Kenia;Kenia","le Kenya;la République du Kenya","KE","KEN","","1","38"
+119,"Countries","Kiribati",800,"Kiribati","República de Kiribati;Kiribati","Kiribati","KI","KIR","","1.421","172.984"
+120,"Countries","Kuwait",800,"Kuwait","Estado de Kuwait;Kuwait","le Koweït","KW","KWT","","29.5","47.75"
+121,"Countries","Kyrgyzstan",800,"Kirgisistan","República Kirguisa;Kirguistán","la Kirghizie","KG","KGZ","","41.5","75"
+122,"Countries","Laos",800,"Laos; Demokratische Volksrepublik Laos","Laos; República Democrática Popular Lao","le Laos; République démocratique populaire lao","LA","LAO","Lao People's Democratic Republic","18","105"
+123,"Countries","Latvia",800,"Lettland","República de Letonia;Letonia","la Lettonie;la République de Lettoni","LV","LVA","","57","25"
+124,"Countries","Lebanon",800,"Libanon","República Libanesa;Líbano","le Liban;la République libanais","LB","LBN","","33.83333","35.83333"
+125,"Countries","Lesotho",800,"Lesotho","Reino de Lesoto;Lesoto","le Lesotho;le Royaume du Lesotho","LS","LSO","","-29.5","28.25"
+126,"Countries","Liberia",800,"Liberia","República de Liberia;Liberia","le Liberia","LR","LBR","","6.5","-9.5"
+127,"Countries","Libya",800,"Libyen","Estado de Libia;Libia","la Libye","LY","LBY","","28","17"
+128,"Countries","Liechtenstein",800,"Liechtenstein","Principado de Liechtenstein;Liechtenstein","le Liechtenstein;la Principauté du Liechtenstein","LI","LIE","","47.16667","9.53333"
+129,"Countries","Lithuania",800,"Litauen","República de Lituania;Lituania","la Lituanie;la République de Lituanie","LT","LTU","","55.41667","24"
+130,"Countries","Luxembourg",800,"Luxemburg","Gran Ducado de Luxemburgo;Luxemburgo","le Luxembourg;le Grand-Duché de Luxembourg","LU","LUX","","49.75","6.16667"
+131,"Countries","Macao",800,"Macao","Macao","Macao","MO","MAC","","22.15778","113.55972"
+132,"Countries","Macedonia",800,"Mazedonien","Macedonia","Macédoine","MK","MKD","","41.66667","21.75"
+133,"Countries","Madagascar",800,"Madagaskar","República de Madagascar;Madagascar","Madagascar;la République de Madagasca","MG","MDG","","-20","47"
+134,"Countries","Malawi",800,"Malawi","República de Malaui;Malaui","le Malawi;la République du Malawi","MW","MWI","","-13.5","34"
+135,"Countries","Malaysia",800,"Malaysia","Malasia","la Malaisie;la Fédération de Malaisie","MY","MYS","","2.5","112.5"
+136,"Countries","Maldives",800,"Malediven","República de las Maldivas;Maldivas","Maldives","MV","MDV","","3.2","73"
+137,"Countries","Mali",800,"Mali","Mali","Mali","ML","MLI","","18","-2"
+138,"Countries","Malta",800,"Malta","República de Malta;Malta","Malte;la République de Malte","MT","MLT","","35.91667","14.43333"
+139,"Countries","Marshall Islands",800,"Marshallinseln","República de las Islas Marshall;Islas Marshall","Iles Marshall","MH","MHL","","7.113","171.236"
+140,"Countries","Martinique",800,"Martinique","Martinica","Martinique","MQ","MTQ","","14.66667","-61"
+141,"Countries","Mauritania",800,"Mauretanien","República Islámica de Mauritania;Mauritania","la Mauritanie;la République islamique de Mauritani","MR","MRT","","20.25","-10.5"
+142,"Countries","Mauritius",800,"Mauritius","Mauricio","Maurice","MU","MUS","","-20.3","57.58333"
+143,"Countries","Mayotte",800,"Mayotte","Mayotte","Mayotte","YT","MYT","","-12.83333","45.16667"
+144,"Countries","Mexico",800,"Mexiko","Estados Unidos Mexicanos;México","le Mexique;les États unis mexicains","MX","MEX","","23","-102"
+145,"Countries","Moldova",800,"Moldawien;Republik Moldau","Moldavia","la Moldavie; Moldavie","MD","MDA","","47.25","28.58333"
+146,"Countries","Monaco",800,"Monaco","Principado de Mónaco;Mónaco","Monaco;la principauté de Monaco","MC","MCO","","43.73141","7.41903"
+147,"Countries","Mongolia",800,"Mongolei","Mongolia","Mongolie","MN","MNG","","46","105"
+148,"Countries","Montenegro",800,"Montenegro","República de Montenegro;Montenegro","le Monténégro","ME","MNE","","42.75","19.25"
+149,"Countries","Montserrat",800,"Montserrat","Montserrat","Montserrat","MS","MSR","","16.75","-62.2"
+150,"Countries","Morocco",800,"Marokko","Reino de Marruecos;Marruecos","Maroc","MA","MAR","","32","-6"
+151,"Countries","Mozambique",800,"Mosambik","República de Mozambique;Mozambique","le Mozambique;la République du Mozambique","MZ","MOZ","","-18.25","35"
+152,"Countries","Myanmar",800,"Myanmar","Myanmar; Birmania","Myanmar; Birmanie","MM","MMR","Burma","21","96"
+153,"Countries","Namibia",800,"Namibia","República de Namibia;Namibia","la Namibie;la République de Namibie","","NAM","","-22","17"
+154,"Countries","Nauru",800,"Nauru","República de Nauru;Nauru","Nauru;la République de Nauru","NR","NRU","","-0.517","166.933"
+155,"Countries","Nepal",800,"Nepal","República Federal Democrática de Nepal;Nepal","le Népal","NP","NPL","","28","84"
+156,"Countries","Netherlands",800,"Niederlande","Reino de los Países Bajos;Países Bajos","Pays-Bas","NL","NLD","","52.25","5.75"
+157,"Countries","New Caledonia",800,"Neu-Kaledonien","Nueva Caledonia","Nouvelle Calédonie","NC","NCL","","-21.5","165.5"
+158,"Countries","New Zealand",800,"Neuseeland","Nueva Zelanda","la Nouvelle-Zéland","NZ","NZL","","-42","174"
+159,"Countries","Nicaragua",800,"Republik Nicaragua;Nicaragua;Nikaragua","República de Nicaragua;Nicaragua","le Nicaragua;la République du Nicaragua; Nicaragua","NI","NIC","","13","-85"
+160,"Countries","Niger",800,"Niger","República del Níger;Níger","le Niger;la République du Niger","NE","NER","","18","9"
+161,"Countries","Nigeria",800,"Nigeria","República Federal de Nigeria;Nigeria","le Nigéria","NG","NGA","","10","8"
+162,"Countries","Niue",800,"Niue","Niue","Niue","NU","NIU","","-19.03333","-169.86667"
+163,"Countries","Norfolk Island",800,"Norfolkinsel","Isla Norfolk","Île de Norfolk","NF","NFK","","-29.03333","167.95"
+164,"Countries","North Korea",800,"Nordkorea;Nord Korea;Demokratische Volksrepublik Korea","República Popular Democrática de Corea;Corea del Norte","la Corée du Nord; République populaire démocratique de Corée","KP","PRK","Democratic People's Republic of Korea","40","127"
+165,"Countries","Northern Mariana Islands",800,"Nördliche Marianen","Islas Marianas del Norte","Îles Mariannes du Nord","MP","MNP","","15.214","145.756"
+166,"Countries","Norway",800,"Norwegen","Reino de Noruega;Noruega","la Norvège;le Royaume de Norvège","NO","NOR","","62","10"
+167,"Countries","Oman",800,"Oman","Sultanato de Omán;Omán","Oman;l'Oman","OM","OMN","","21","57"
+168,"Countries","Pakistan",800,"Pakistan","República Islámica de Pakistán;Pakistán","le Pakistan","PK","PAK","","30","70"
+169,"Countries","Palau",800,"Palau","Palaos","Palau","PW","PLW","","7.503","134.621"
+170,"Countries","Palestine",800,"Palästina","Estado de Palestina;Palestina","Palestine","PS","PSE","","31.92157","35.20329"
+171,"Countries","Panama",800,"Panama","República de Panamá;Panamá","Panama","PA","PAN","","9","-80"
+172,"Countries","Papua New Guinea",800,"Papua-Neuguinea","Estado Independiente de Papúa Nueva Guinea;Papúa Nueva Guinea","la Papouasie-Nouvelle-Guinée;la Papouasie - Nouvelle-Guinée","PG","PNG","","-6","147"
+173,"Countries","Paraguay",800,"Paraguay","República del Paraguay;Paraguay","le Paraguay;la République du Paraguay","PY","PRY","","-23.33333","-58"
+174,"Countries","Peru",800,"Peru","República del Perú;Perú","le Pérou;la République du Pérou","PE","PER","","-10","-75.25"
+175,"Countries","Philippines",800,"Philippinen","República de Filipinas;Filipinas","Philippines","PH","PHL","","13","122"
+176,"Countries","Pitcairn",800,"Pitcairn","Pitcairn","Pitcairn","PN","PCN","","-25.06667","-130.1"
+177,"Countries","Poland",800,"Polen","República de Polonia;Polonia","la Pologne;la République de Pologne","PL","POL","","52","20"
+178,"Countries","Portugal",800,"Portugal","República Portuguesa;Portugal","le Portugal;la République portugais","PT","PRT","","39.6945","-8.13057"
+179,"Countries","Puerto Rico",800,"Puerto Rico","Puerto Rico","Porto Rico","PR","PRI","","18.24829","-66.49989"
+180,"Countries","Qatar",800,"Katar","Katar","le Qatar","QA","QAT","","25.5","51.25"
+181,"Countries","Romania",800,"Rumänien","Rumania","Roumanie","RO","ROU","","46","25"
+182,"Countries","Russian Federation",800,"Russische Föderation","Federación Rusa","Fédération Russe","RU","RUS","","60","100"
+183,"Countries","Rwanda",800,"Ruanda","República de Ruanda;Ruanda","le Rwanda;la République rwandaise","RW","RWA","","-2","30"
+184,"Countries","Réunion",800,"La Réunion; Réunion","Reunión","Réunion","RE","REU","","-21.1","55.6"
+185,"Countries","Saba",800,"Saba","Saba","Saba","BQ","","","12.21286","-68.29445"
+186,"Countries","Saint Barthélemy",800,"Saint Barthélemy","San Bartolomé","Saint Barthélemy","BL","BLM","","17.9","-62.8257"
+187,"Countries","Saint Helena, Ascension and Tristan da Cunha",800,"St. Helena, Ascension und Tristan da Cunha","Santa Helena, Ascensión y Tristán da Cunha","Sainte-Hélène, Ascension et Tristan da Cunha","SH","SHN","","-15.95","-5.7"
+188,"Countries","Saint Kitts and Nevis",800,"St. Kitts und Nevis","Federación de San Cristóbal y Nieves;San Cristóbal y Nieves","Saint-Christophe-et-Niévès","KN","KNA","","17.33333","-62.75"
+189,"Countries","Saint Lucia",800,"Saint Lucia","Santa Lucía","Saint Lucia","LC","LCA","","13.88333","-60.96667"
+190,"Countries","Saint Martin",800,"Saint Martin","San Martín","Saint Martin","MF","MAF","","18.06667","-63.06667"
+191,"Countries","Saint Pierre and Miquelon",800,"Saint Pierre und Miquelon","San Pedro y Miquelón","Saint Pierre et Miquelon","PM","SPM","","46.83333","-56.33333"
+192,"Countries","Saint Vincent and the Grenadines",800,"St. Vincent und die Grenadinen","San Vicente y las Granadinas","Saint-Vincent-et-les Grenadines","VC","VCT","","13.08333","-61.2"
+193,"Countries","Samoa",800,"Samoa","Estado Independiente de Samoa;Samoa","les Samoa","WS","WSM","","-13.8","-172.13333"
+194,"Countries","San Marino",800,"San Marino","Serenísima República de San Marino;San Marino","Saint Marin","SM","SMR","","43.9367","12.4463"
+195,"Countries","Sao Tome and Principe",800,"São Tomé und Príncipe","República Democrática de Santo Tomé y Príncipe;Santo Tomé y Príncipe","Sao Tomé-et-Principe","ST","STP","","1","7"
+196,"Countries","Saudi Arabia",800,"Saudi-Arabien","Arabia Saudita","l'Arabie saoudite;le Royaume d'Arabie saoudite","SA","SAU","","25","45"
+197,"Countries","Senegal",800,"Senegal","República de Senegal;Senegal","Sénégal","SN","SEN","","14.5","-14.25"
+198,"Countries","Serbia",800,"Serbien","República de Serbia;Serbia","la Serbie;la République de Serbie","RS","SRB","","44.81892","20.45998"
+199,"Countries","Seychelles",800,"Seychellen","República de las Seychelles;Seychelles","les Seychelles;la République des Seychelles","SC","SYC","","-4.58333","55.66667"
+200,"Countries","Sierra Leone",800,"Sierra Leone","República de Sierra Leona;Sierra Leona","la Sierra Leone;la République de Sierra Leone","SL","SLE","","8.5","-11.5"
+201,"Countries","Singapore",800,"Singapur","República de Singapur;Singapur","Singapour;la République de Singapour","SG","SGP","","1.36667","103.8"
+202,"Countries","Sint Eustatius",800,"Sint Eustatius","San Eustaquio","Saint-Eustache","BQ","","Statia","12.21286","-68.29445"
+203,"Countries","Sint Maarten",800,"Sint Maarten","Sint Maarten","Saint-Martin; Pays de Saint-Martin","SX","","","18.04167","-63.06667"
+204,"Countries","Slovakia",800,"Slowakei","República de Eslovaquia;Eslovaquia","la Slovaquie;la République slovaque","SK","SVK","Slovakia Republic","48.66667","19.5"
+205,"Countries","Slovenia",800,"Slowenien","República de Eslovenia;Eslovenia","la Slovénie;la République de Slovénie","SI","SVN","Republic of Slovenia","46.08333","15"
+206,"Countries","Solomon Islands",800,"Salomonen","Islas Salomón","Les îles Salomon","SB","SLB","","-8","159"
+207,"Countries","Somalia",800,"Somalia","República Federal de Somalia;Somalia","la Somalie","SO","SOM","","6","48"
+208,"Countries","South Africa",800,"Südafrika","República de Sudáfrica;Sudáfrica","l'Afrique du Sud;la République d'Afrique du Sud","ZA","ZAF","","-29","24"
+209,"Countries","South Georgia and the South Sandwich Islands",800,"Südgeorgien und die Südlichen Sandwichinseln","Georgia del sur y las islas Sandwich del sur","Géorgie du Sud et les îles Sandwich du Sud","GS","SGS","","-56","-33"
+210,"Countries","South Korea",800,"Südkorea;Süd Korea; Republik Korea","República de Corea;Corea del Sur","la Corée du Sud; République de Corée","KR","KOR","Republic of Korea","36.5","127.75"
+211,"Countries","South Sudan",800,"Der Südsudan; Republik Südsudan","Sudán del sur; República de Sudán del Sur","le Soudan du Sud; la République du Soudan du Sud","SS","SSD","Republic of South Sudan","7.5","30"
+212,"Countries","Spain",800,"Spanien","Reino de España;España","l'Espagne;le Royaume d'Espagne","ES","ESP","","40","-4"
+213,"Countries","Sri Lanka",800,"Sri Lanka","República Democrática Socialista de Sri Lanka;Sri Lanka","Sri Lanka","LK","LKA","","7.75","80.75"
+214,"Countries","Sudan",800,"Sudan","República del Sudán;Sudán","le Soudan;la République du Soudan","SD","SDN","","16","30"
+215,"Countries","Suriname",800,"Suriname","República del Surinam;Surinam","le Suriname","SR","SUR","","4","-56"
+216,"Countries","Svalbard",800,"Svalbard","Svalbard","Svalbard","SJ","SJM","","78.15706","15.86426"
+217,"Countries","Swaziland",800,"Swasiland","Reino de Suazilandia;Suazilandia","le Swaziland","SZ","SWZ","","-26.5","31.5"
+218,"Countries","Sweden",800,"Schweden","Reino de Suecia;Suecia","la Suède;le Royaume de Suède","SE","SWE","","62","15"
+219,"Countries","Switzerland",800,"Schweiz","Confederación Helvética;Suiza","la Suisse;la Confédération suiss","CH","CHE","","47.00016","8.01427"
+220,"Countries","Syria",800,"Arabische Republik Syrien; Syrien","Siria;República Árabe Siria","la Syrie;République arabe syrienne","SY","SYR","Syrian Arab Republic","35","38"
+221,"Countries","Taiwan",800,"Taiwan; Republik China","Taiwán; República de China","Taïwan; République de Chine","TW","TWN","Republic of China","24","121"
+222,"Countries","Tajikistan",800,"Tadschikistan","República de Tayikistán;Tayikistán","le Tadjikistan;la République du Tadjikistan","TJ","TJK","","39","71"
+223,"Countries","Tanzania",800,"Tansania","República Unida de Tanzania;Tanzania","la Tanzanie","TZ","TZA","","-6","35"
+224,"Countries","Thailand",800,"Thailand","Reino de Tailandia;Tailandia","la Thaïlande;le Royaume de Thaïlande","TH","THA","","15.5","101"
+225,"Countries","Timor-Leste",800,"Osttimor","Timor Oriental","Timor-Leste","TL","TLS","","-8.83333","125.75"
+226,"Countries","Togo",800,"Togo","República Togolesa;Togo","le Togo;la République togolais","TG","TGO","","8.66667","1.08333"
+227,"Countries","Tokelau",800,"Tokelau","Tokelau","Tokelau","TK","TKL","","-9.167","-171.83"
+228,"Countries","Tonga",800,"Tonga; Königreich Tonga","Reino de Tonga;Tonga","les Tonga;le Royaume des Tong","TO","TON","","-20","-175"
+229,"Countries","Trinidad and Tobago",800,"Trinidad und Tobago","República de Trinidad y Tobago;Trinidad y Tobago","la Trinité-et-Tobago","TT","TTO","","11","-61"
+230,"Countries","Tunisia",800,"Tunesien","República Tunecina;Túnez","la Tunisie;la République tunisienne","TN","TUN","","34","9"
+231,"Countries","Turkey",800,"Türkei","República de Turquía;Turquía","la Turquie;la République de Turquie","TR","TUR","","39","35"
+232,"Countries","Turkmenistan",800,"Turkmenistan","Turkmenistán","le Turkménistan","TM","TKM","","39.75","59.66667"
+233,"Countries","Turks and Caicos Islands",800,"Turks- und Caicosinseln","Islas Turcas y Caicos","îles Turques-et-Caïques","TC","TCA","TCI","21.73333","-71.58333"
+234,"Countries","Tuvalu",800,"Tuvalu","Tuvalu","les Tuvalu","TV","TUV","","-8.51719","179.14478"
+235,"Countries","US Virgin Islands",800,"US Jungferninseln","Islas Vírgenes de EE.UU","Îles Vierges américaines","VI","VIR","","18.34829","-64.98348"
+236,"Countries","Uganda",800,"Uganda","República de Uganda;Uganda","l'Ouganda;la République d'Ouganda","UG","UGA","","1.25","32.5"
+237,"Countries","Ukraine",800,"Ukraine","Ucrania","Ukraine","UA","UKR","","49","32"
+238,"Countries","United Arab Emirates",800,"Vereinigte Arabische Emirate","Emiratos Árabes Unidos","les Émirats arabes unis;la fédération des Émirats arabes unis","AE","ARE","UAE","23.75","54.5"
+239,"Countries","United Kingdom",800,"Vereinigtes Königreich","Reino Unido de Gran Bretaña e Irlanda del Norte;Reino Unido","Royaume-Uni","GB","GBR","","54.75844","-2.69531"
+240,"Countries","United States",800,"Vereinigte Staaten","Los Estatados Unidos","les États-Unis","US","USA","USA; United States of America","39.76","-98.5"
+241,"Countries","United States Minor Outlying Islands",800,"Vereinigte Staaten Minor Outlying Islands; Kleinere Inselbesitzungen der Vereinigten Staaten","Islas menores alejadas de los Estados Unidos","Îles mineures éloignées des États-Unis","UM","UMI","","5.875","-162.057"
+242,"Countries","Uruguay",800,"Uruguay","República Oriental del Uruguay;Uruguay","Uruguay","UY","URY","","-33","-56"
+243,"Countries","Uzbekistan",800,"Usbekistan","República de Uzbekistán;Uzbekistán","l'Ouzbékistan;la République d'Ouzbékistan","UZ","UZB","","41.66667","63.83333"
+244,"Countries","Vanuatu",800,"Vanuatu","República de Vanuatu;Vanuatu","Vanuatu","VU","VUT","","-16","167"
+245,"Countries","Vatican City",800,"Vatikanstadt","Ciudad del Vaticano","Cité du Vatican","VA","VAT","","41.90225","12.4533"
+246,"Countries","Venezuela",800,"Venezuela","República Bolivariana de Venezuela;Venezuela","Venezuela; République bolivarienne du Venezuela","VE","VEN","Bolivarian Republic of Venezuel","8","-66"
+247,"Countries","Viet Nam",800,"Vietnam; Sozialistische Republik Vietnam","Vietnam","Viêt-Nam","VN","VNM","Vietnam","16.16667","107.83333"
+248,"Countries","Wallis and Futuna",800,"Wallis und Futuna","Wallis y Futuna","Wallis et Futuna","WF","WLF","","-13.3","-176.2"
+249,"Countries","Western Sahara",800,"Westsahara","Sahara Occidental","Western Sahara","EH","ESH","","24.49215","-12.65625"
+250,"Countries","Yemen",800,"Jemen","República de Yemen;Yemen","le Yémen;la République du Yémen","YE","YEM","","15.5","47.5"
+251,"Countries","Zambia",800,"Sambia","República de Zambia;Zambia","la Zambie;la République de Zambie","ZM","ZMB","","-14.33333","28.5"
+252,"Countries","Zimbabwe",800,"Simbabwe","República de Zimbabue;Zimbabue","le Zimbabwe;la République du Zimbabwe","ZW","ZWE","","-19","29.75"
+253,"Countries","Åland Islands",800,"Ålandinseln","Islas Aland","Iles Aland","AX","ALA","","60.25","20"
+254,"US States","Alabama",900,"Alabama","Alabama","L'Alabama","US-AL","","AL","32.75041","-86.75026"
+255,"US States","Alaska",900,"Alaska","Alaska","Alaska","US-AK","","AK","64.00028","-150.00028"
+256,"US States","Arizona",900,"Arizona","Arizona","Arizona","US-AZ","","AZ","34.5003","-111.50098"
+257,"US States","Arkansas",900,"Arkansas","Arkansas","Arkansas","US-AR","","AR","34.75037","-92.50044"
+258,"US States","California",900,"Kalifornien","California","Californie","US-CA","","CA","37.25022","-119.75126"
+259,"US States","Colorado",900,"Colorado","Colorado","Colorado","US-CO","","CO","39.00027","-105.50083"
+260,"US States","Connecticut",900,"Connecticut","Connecticut","Connecticut","US-CT","","CT","41.66704","-72.66648"
+261,"US States","Delaware",900,"Delaware","Delaware","Delaware","US-DE","","DE","39.00039","-75.49992"
+262,"US States","District of Columbia",900,"Bezirk von Kolumbien","Distrito de Columbia","District de Colombie","US-DC","","DC","38.91706","-77.00025"
+263,"US States","Florida",900,"Florida","Florida","Floride","US-FL","","FL","28.75054","-82.5001"
+264,"US States","Georgia",900,"Georgia","Georgia","Géorgie","US-GA","","GA","32.75042","-83.50018"
+265,"US States","Hawaii",900,"Hawaii","Hawai","Hawaii","US-HI","","HI","20.78785","-156.38612"
+266,"US States","Idaho",900,"Idaho","Idaho","Idaho","US-ID","","ID","44.5002","-114.25118"
+267,"US States","Illinois",900,"Illinois","Illinois","Illinois","US-IL","","IL","40.00032","-89.25037"
+268,"US States","Indiana",900,"Indiana","Indiana","Indiana","US-IN","","IN","40.00032","-86.25027"
+269,"US States","Iowa",900,"Iowa","Iowa","Iowa","US-IA","","IA","42.00027","-93.50049"
+270,"US States","Kansas",900,"Kansas","Kansas","Kansas","US-KS","","KS","38.50029","-98.50063"
+271,"US States","Kentucky",900,"Kentucky","Kentucky","Kentucky","US-KY","","KY","38.20042","-84.87762"
+272,"US States","Louisiana",900,"Louisiana","Luisiana","Louisiane","US-LA","","LA","31.00047","-92.0004"
+273,"US States","Maine",900,"Maine","Maine","Maine","US-ME","","ME","45.50032","-69.24977"
+274,"US States","Maryland",900,"Maryland","Maryland","Maryland","US-MD","","MD","39.00039","-76.74997"
+275,"US States","Massachusetts",900,"Massachusetts","Massachusetts","Massachusetts","US-MA","","MA","42.36565","-71.10832"
+276,"US States","Michigan",900,"Michigan","Michigan","Michigan","US-MI","","MI","44.25029","-85.50033"
+277,"US States","Minnesota",900,"Minnesota","Minnesota","Minnesota","US-MN","","MN","46.25024","-94.25055"
+278,"US States","Mississippi",900,"Mississippi","Misisipí","Mississippi","US-MS","","MS","32.75041","-89.75036"
+279,"US States","Missouri",900,"Missouri","Misuri","Missouri","US-MO","","MO","38.25031","-92.50046"
+280,"US States","Montana",900,"Montana","Montana","Montana","US-MT","","MT","47.00025","-109.75102"
+281,"US States","Nebraska",900,"Nebraska","Nebraska","Nebraska","US-NE","","NE","41.50028","-99.75067"
+282,"US States","Nevada",900,"Nevada","Nevada","Nevada","US-NV","","NV","39.25021","-116.75119"
+283,"US States","New Hampshire",900,"New Hampshire","New Hampshire","New Hampshire","US-NH","","NH","43.66702","-71.4998"
+284,"US States","New Jersey",900,"New Jersey","New Jersey","New Jersey","US-NJ","","NJ","40.16706","-74.49987"
+285,"US States","New Mexico",900,"New-Mexiko","Nuevo Mexico","Nouveau Mexique","US-NM","","NM","34.50034","-106.00085"
+286,"US States","New York",900,"New York","Nueva York","New York","US-NY","","NY","43.00035","-75.4999"
+287,"US States","North Carolina",900,"North Carolina","Carolina del Norte","Caroline du Nord","US-NC","","NC","35.50069","-80.00032"
+288,"US States","North Dakota",900,"Norddakota","Dakota del Norte","Dakota du nord","US-ND","","ND","47.50027","-100.00068"
+289,"US States","Ohio",900,"Ohio","Ohio","Ohio","US-OH","","OH","40.25034","-83.00018"
+290,"US States","Oklahoma",900,"Oklahoma","Oklahoma","Oklahoma","US-OK","","OK","35.49209","-97.50328"
+291,"US States","Oregon",900,"Oregon","Oregón","Oregon","US-OR","","OR","44.00013","-120.50139"
+292,"US States","Pennsylvania",900,"Pennsylvania","Pensilvania","Pennsylvanie","US-PA","","PA","40.27245","-76.90567"
+293,"US States","Rhode Island",900,"Rhode Island","Rhode Island","Rhode Island","US-RI","","RI","41.75038","-71.49978"
+294,"US States","South Carolina",900,"South Carolina","Carolina del Sur","Caroline du Sud","US-SC","","SC","34.00043","-81.00009"
+295,"US States","South Dakota",900,"Süddakota","Dakota del Sur","Dakota du Sud","US-SD","","SD","44.50026","-100.25069"
+296,"US States","Tennessee",900,"Tennessee","Tennesse","Tennessee","US-TN","","TN","35.75035","-86.25027"
+297,"US States","Texas",900,"Texas","Texas","Texas","US-TX","","TX","31.25044","-99.25061"
+298,"US States","Utah",900,"Utah","Utah","Utah","US-UT","","UT","39.25024","-111.75103"
+299,"US States","Vermont",900,"Vermont","Vermont","Vermont","US-VT","","VT","44.00034","-72.74983"
+300,"US States","Virginia",900,"Virginia","Virginia","Virginie","US-VA","","VA","37.54812","-77.44675"
+301,"US States","Washington",900,"Washington","Washington","Washington","US-WA","","WA","47.50012","-120.50147"
+302,"US States","West Virginia",900,"West Virginia","Virginia del Oeste","West Virginia","US-WV","","WV","38.50038","-80.50009"
+303,"US States","Wisconsin",900,"Wisconsin","Wisconsin","Wisconsin","US-WI","","WI","44.50024","-90.00041"
+304,"US States","Wyoming",900,"Wyoming","Wyoming","Wyoming","US-WY","","WY","43.00024","-107.5009"
+305,"Canadian Provinces","Alberta",0,"Alberta","Alberta","Alberta","CA-AB","","AB","52.28333","-117.469"
+306,"Canadian Provinces","British Columbia",0,"Britisch-Kolumbien","Columbia Británica","Colombie britannique; Colombie-Britannique","CA-BC","","BC","53.99983","-125.0032"
+307,"Canadian Provinces","Manitoba",0,"Manitoba","Manitoba","Manitoba","CA-MB","","MB","55.00019","-97.00049"
+308,"Canadian Provinces","Newfoundland and Labrador",0,"Neufundland und Labrador","Newfoundland y Labrador","Terre-Neuve-et-Labrador","CA-NL","","NL","52","-56"
+309,"Canadian Provinces","Northwest Territories",0,"Nordwestliche Territorien","Territorios del Noroeste","Territoires du nord-ouest","CA-NT","","NT","69.50061","-121.50445"
+310,"Canadian Provinces","Nova Scotia",0,"Neuschottland","nueva Escocia","Nouvelle-Écosse","CA-NS","","NS","45.00015","-62.99865"
+311,"Canadian Provinces","Nunavut",0,"Nunavut","Nunavut","Nunavut","CA-NU","","NU","66.03478","-100.07813"
+312,"Canadian Provinces","Ontario",0,"Ontario","Ontario","Ontario","CA-ON","","ON","49.25014","-84.49983"
+313,"Canadian Provinces","Prince Edward Island",0,"Prinz Edward Insel","Prince Edward Island","Île-du-Prince-Édouard","CA-PE","","PE","46.39808","-63.29844"
+314,"Canadian Provinces","Quebec",0,"Québec","Quebec","Quebec","CA-QC","","QC","52.00017","-71.99907"
+315,"Canadian Provinces","Saskatchewan",0,"Saskatchewan","Saskatchewan","Saskatchewan","CA-SK","","SK","54.0001","-106.00099"
+316,"Canadian Provinces","Yukon",0,"Yukon","Yukon","Yukon","CA-YT","","YT","62.99962","-135.00404"
+317,"Canadian Provinces","New Brunswick",0,"Nouveau-Brunswick","Nuevo Brunswick","Nouveau-Brunswick","CA-NB","","NB","46.5001","-65.99878"
+318,"Australian States","New South Wales",0,"New South Wales","Nueva Gales del Sur","Nouvelle Galles du Sud","AU-NSW","","NSW","-33","146"
+319,"Australian States","Queensland",0,"Queensland","Queensland","Queensland","AU-QLD","","QLD","-20","145"
+320,"Australian States","South Australia",0,"Süd Australien","Sur de Australia","Australie du Sud","AU-SA","","SA","-30","135"
+321,"Australian States","Tasmania",0,"Tasmanien","Tasmania","Tasmanie","AU-TAS","","TAS","-42","147"
+322,"Australian States","Victoria",0,"Victoria","Victoria","Victoria","AU-VIC","","VIC","-37","145"
+323,"Australian States","Western Australia",0,"West-Australien","Western Australia","Australie occidentale","AU-WA","","WA","-25","122"
+324,"French States","Great East",0,"Großer Osten","Gran Este","Grand Est","FR-GES","","Grand Est; ACAL; ALCA; Alsace-Champagne-Ardenne-Lorraine","48.69821","5.8667"
+325,"French States","Auvergne-Rhône-Alpes",0,"Auvergne-Rhône-Alpes","Auvernia-Ródano-Alpes","Auvergne-Rhône-Alpes; Ôvèrgne-Rôno-Ârpes; Auvèrnhe Ròse Aups","FR-ARA","","ARA","45.482","5.37437"
+326,"French States","Brittany",0,"Bretagne","Bretaña","Bretagne","FR-BRE","","BRE","48.16667","-2.83333"
+327,"French States","Bourgogne-Franche-Comté",0,"Burgund-Freigrafschaft","Borgoña-Franco Condado","La Bourgogne-Franche-Comté","FR-BFC","","BFC","47.06981","5.04822"
+328,"French States","Centre-Loire Valley",0,"Zentrum-Loiretal","Centro-Valle de Loira","Centre-Val de Loire","FR-CVL","","CVL","47.5","1.75"
+329,"French States","Corsica",0,"Korsika","Córcega","la Corse","FR-COR","","COR","42.06153","8.9542"
+330,"French States","New Aquitaine",0,"Neu-Aquitanien","Nueva Aquitania","Nouvelle-Aquitaine; Nòva Aquitània; Akitania Berria; Novéle-Aguiéne","FR-NAQ","","Nouvelle-Aquitaine; NAQ","46.09165","1.26892"
+331,"French States","Ile-de-France",0,"Ile-de-France","Ile de France","Ile-de-France","FR-IDF","","IDF","48.7","2.5"
+332,"French States","Occitanie",0,"Okzitanien","Occitania; Occitània","Occitanie; Occitània","FR-OCC","","OCC","44.02722","1.63559"
+333,"French States","Normandy",0,"Normandie","Normandía","Normandie; Normaundie","FR-NOR","","NOR","49.19906","0.49988"
+334,"French States","Hauts-de-France",0,"Hauts-de-France","Alta Francia","Hauts-de-France","FR-HDF","","Upper France; HDF","49.61232","2.65594"
+335,"French States","Pays de la Loire",0,"Loire","País del Loira","Pays de la Loire","FR-PDL","","PDL","47.5","-0.83333"
+336,"French States","Provence-Alpes-Cote d'Azur",0,"Provence-Alpes-Côte d'Azur","Provenza-Alpes-Costa Azul","Provence-Alpes-Cote d'Azur","FR-PAC","","PAC","44","6"
+337,"German States","Baden-Wurttemberg",0,"Baden-Wurttemberg; Baden-Württemberg","Baden-Wurttemberg","Bade-Wurtemberg","DE-BW","","BW; Baden-Württemberg","48.5","9"
+338,"German States","Bavaria",0,"Bavaria; Bayern","Baviera","Bavière","DE-BY","","BY","49","11.5"
+339,"German States","Berlin",0,"Berlin","Berlín","Berlin","DE-BE","","BE","52.5","13.41667"
+340,"German States","Bremen",0,"Bremen","Bremen","Brême","DE-HB","","HB","53.08333","8.83333"
+341,"German States","Hamburg",0,"Hamburg","Hamburgo","Hambourg","DE-HH","","HH","53.58333","10"
+342,"German States","Hesse",0,"Hesse; Hessen","Hesse","Hesse","DE-HE","","HE","50.55","9"
+343,"German States","Lower Saxony",0,"Niedersachsen","Baja sajonia","Basse-Saxe","DE-NI","","NI","52.83333","9.16667"
+344,"German States","Mecklenburg-Vorpommern",0,"Mecklenburg-Vorpommern; McPom","Mecklenburg-Vorpommern","Mecklembourg-Poméranie-Occidentale","DE-MV","","MV; Mecklenburg-West Pomerania; Meck-Pomm","53.83333","12.5"
+345,"German States","North Rhine-Westphalia",0,"Nordrhein-Westfalen","Norte de Rhine-Westphalia","Rhénanie du Nord-Westphalie","DE-NW","","NW","51.51494","7.466"
+346,"German States","Rhineland-Palatinate",0,"Rheinland-Pfalz","Renania-Palatinado","Rhénanie-Palatinat","DE-RP","","RP","49.66667","7.5"
+347,"German States","Saarland",0,"Saarland","Sarre","Sarre","DE-SL","","SL","49.40472","6.96083"
+348,"German States","Saxony",0,"Sachsen","Sajonia","Saxe","DE-SN","","SN","51","13.25"
+349,"German States","Saxony-Anhalt",0,"Sachsen-anhalt","Sajonia-Anhalt","Saxe-Anhalt","DE-ST","","ST","52","11.7333"
+350,"German States","Schleswig-Holstein",0,"Schleswig-Holstein","Schleswig-Holstein","Schleswig-Holstein","DE-SH","","SH","54.2","9.75"
+351,"German States","Thuringia",0,"Thüringen","Turingia","Thuringe","DE-TH","","TH","50.91667","11"
+352,"German States","Brandenburg",0,"Brandenburg","Brandeburgo; Brandemburgo","Brandebourg","DE-BB","","BB","52.45905","13.01582"
+353,"Spanish Autonomies","Andalusia",0,"Andalusien","Andalucía","Andalucía; Andalousie","ES-AN","","AN","37.6","-4.5"
+354,"Spanish Autonomies","Aragon",0,"Aragonien","Aragón","Aragón","ES-AR","","AR","41.5","-0.66667"
+355,"Spanish Autonomies","Asturias",0,"Asturien","Principado de Asturias","Principado de Asturias; Principauté des Asturies","ES-AS","","AS; Principality of Asturias","43.33333","-6"
+356,"Spanish Autonomies","Balearic Islands",0,"Balearische Inseln","Illes Balears; Islas Baleares","Illes Balears; Islas Baleares; Îles Baléares","ES-IB","","IB","39.58876","2.90314"
+357,"Spanish Autonomies","Basque Country",0,"Baskenland","País Vasco; Euskal Herria","País Vasco; Euskal Herria; Pays basque","ES-PV","","PV","43","-2.75"
+358,"Spanish Autonomies","Canary Islands",0,"Kanarische Inseln","Canarias","Canarias; Îles Canaries","ES-CN","","CN; The Canaries","28","-15.5"
+359,"Spanish Autonomies","Cantabria",0,"Kantabrien","Cantabria","Cantabria; Cantabrie","ES-CB","","CB","43.2","-4.03333"
+360,"Spanish Autonomies","Castile and León",0,"Kastilien und León","Castilla y León","Castilla y León; Castille-et-León","ES-CL","","CL","41.66667","-4.25"
+361,"Spanish Autonomies","Castilla-La Mancha",0,"Kastilien-La Mancha","Castilla-La Mancha","Castilla-La Mancha; Castille-La Manche","ES-CM","","CM; Castile–La Mancha","39.5","-3"
+362,"Spanish Autonomies","Catalonia",0,"Katalonien","Catalunya; Cataluña","Catalunya; Cataluña; Catalogne","ES-CT","","CT","41.82046","1.86768"
+363,"Spanish Autonomies","Community of Madrid",0,"Madrid","Comunidad de Madrid","Comunidad de Madrid; Communauté de Madrid","ES-MD","","M","40.42526","-3.69063"
+364,"Spanish Autonomies","Extremadura",0,"Extremadura","Extremadura","Extremadura; Estremaura; Estrémadure","ES-EX","","EX","39.16667","-6.16667"
+365,"Spanish Autonomies","Galicia",0,"Galicien","Galicia","Galicia; Galice","ES-GA","","GA","42.75508","-7.86621"
+366,"Spanish Autonomies","La Rioja",0,"La Rioja","La Rioja","La Rioja","ES-RI","","LO","42.3","-2.5"
+367,"Spanish Autonomies","Navarre",0,"Navarra","Comunidad Foral de Navarra; Nafarroako Foru Komunitatea","Comunidad Foral de Navarra; Nafarroako Foru Komunitatea; Communauté forale de Navarre","ES-NC","","NA; Chartered Community of Navarre","42.75","-1.66667"
+368,"Spanish Autonomies","Region of Murcia",0,"Murcia","Región de Murcia","Región de Murcia; Région de Murcie","ES-MC","","MC","38","-1.5"
+369,"Spanish Autonomies","Valencian Community",0,"Valencia","Comunidad Valenciana; Comunitat Valenciana","Comunidad Valenciana; Comunitat Valenciana; Communauté Valencienne","ES-VC","","VC; Valencian Country","39.5","-0.75"
+370,"Chinese Provinces","Hebei",0,"Hebei","Hebei","Hebei","CN-13","","HE; HEB; Héběi; Hopeh; Jì","39","115.66667"
+371,"Chinese Provinces","Shanxi",0,"Shanxi","Shanxi","Shanxi","CN-14","","SX; Shānxī; Jìn","37.66667","112.25"
+372,"Chinese Provinces","Liaoning",0,"Liaoning","Liaoning","Liaoning","CN-21","","LN; Liáoníng; Liáoníng Shěng; Liáo","41.25","122.66667"
+373,"Chinese Provinces","Jilin",0,"Jilin","Jilin","Jilin","CN-22","","JL; Jílín; Jílín Shěng; Kirin","43.58333","126.16667"
+374,"Chinese Provinces","Heilongjiang",0,"Heilongjiang","Heilongjiang","Heilongjiang","CN-23","","HL; Hēilóngjiāng; Hēilóngjiāng Shěng; Hēi","47.75","128"
+375,"Chinese Provinces","Jiangsu",0,"Jiangsu","Jiangsu","Jiangsu","CN-32","","JS; Sū; Jiāngsū; Jiāngsū Shěng; Kiangsu; Kaonsu San","33","119.83333"
+376,"Chinese Provinces","Zhejiang",0,"Zhejiang","Zhejiang","Zhejiang","CN-33","","ZJ: Zhè; Zhèjiāng Shěng; Chekiang; Tsehkaon San","29.16667","120"
+377,"Chinese Provinces","Anhui",0,"Anhui","Anhui","Anhui","CN-34","","AH; Wǎn; Ānhuī Shěng; Ānhuī","31.91667","117.16667"
+378,"Chinese Provinces","Fujian",0,"Fujian","Fujian","Fujian","CN-35","","FJ; Mǐn; Bân; Fújiàn; Fújiàn Shěng; Foken; Fouken; Fukien; Hokkien; Hok-kiàn; Hók-gióng","26.25","118"
+379,"Chinese Provinces","Jiangxi",0,"Jiangxi","Jiangxi","Jiangxi","CN-36","","JX; Jiāngxī; Jiāngxī Shěng; Kongsi; Gong Si Sen; Chiang-hsi","27.66667","115.66667"
+380,"Chinese Provinces","Shandong",0,"Shandong","Shandong","Shandong","CN-37","","SD; Lǔ; Shāndōng Shěng; Shantung","36.33333","118.25"
+381,"Chinese Provinces","Henan",0,"Henan","Henan","Henan","CN-41","","HA; HEN; Yù; Hénán Shěn;  Zhongyuan; Zhongzhou","34","113.66667"
+382,"Chinese Provinces","Hubei",0,"Hubei","Hubei","Hubei","CN-42","","HB; È; Húběi Shěng","31","112.25"
+383,"Chinese Provinces","Hunan",0,"Hunan","Hunan","Hunan","CN-43","","HN; Xiāng; Húnán Shěng; Húnán; Shuangfeng; Changsha","27.66667","111.75"
+384,"Chinese Provinces","Guangdong",0,"Guangdong","Guangdong","Guangdong","CN-44","","GD; Yuè; Jyut; Guǎngdōng Shěng; Canton; Kwangtung","23.5","113.25"
+385,"Chinese Provinces","Hainan",0,"Hainan","Hainan","Hainan","CN-46","","HI; Qióng; khêng; king; Hǎinán Shěng","19.25","109.75"
+386,"Chinese Provinces","Sichuan",0,"Sichuan","Sichuan","Sichuan","CN-51","","SC; Chuān; Shǔ; Cuan; Su; Si cuan Sen; Sìchuān Shěng; Szechuan","30.5","102.66667"
+387,"Chinese Provinces","Guizhou",0,"Guizhou","Guizhou","Guizhou","CN-52","","GZ; Qián; Guì; Guìzhōu Shěng","27","107"
+388,"Chinese Provinces","Yunnan",0,"Yunnan","Yunnan","Yunnan","CN-53","","YN; Diān; Yún; Yúnnán Shěng","25","101.5"
+389,"Chinese Provinces","Shaanxi",0,"Shaanxi","Shaanxi","Shaanxi","CN-61","","SN; Shǎn; Qín; Shǎnxī Shěng","36","109"
+390,"Chinese Provinces","Gansu",0,"Gansu","Gansu","Gansu","CN-62","","GS; Gān; Lǒng; Gānsù Shěng; Kan su'u","37.75","102.75"
+391,"Chinese Provinces","Qinghai",0,"Qinghai","Qinghai","Qinghai","CN-63","","QH; Qīng; Qīnghǎi Shěng; Kokonur","36","96"
+392,"Chinese Provinces","Taiwan",0,"Taiwan","Taiwan","Taïwan","CN-71","","TW; Tái; Tâi-oân-séng; Thòi-vàn-sén; Táiwān shěng; Taiwan Province; Taiwan Region; Taiwan Area","24.15114","120.70541"
+393,"UK Countries/Provinces","England",0,"England","Inglaterra","L'Angleterre; Angleterre","GB-ENG","","","52.16045","-0.70312"
+394,"UK Countries/Provinces","Northern Ireland",0,"Nordirland","Irlanda del Norte","Irlande du Nord","GB-NIR","","","54.5","-6.5"
+395,"UK Countries/Provinces","Wales",0,"Wales","Gales","Pays de Galles","GB-WLS","","","52.5","-3.5"
+396,"UK Countries/Provinces","Scotland",0,"Schottland","Escocia","Écosse","GB-SCT","","","56","-4"
+397,"England Region","North East England",0,"Nordostengland","Nordeste de Inglaterra","Angleterre du Nord-Est","","","","55.29703","-1.7289"
+398,"England Region","East Midlands",0,"Östliche Midlands","Midlands del este","Midlands de l'Est","","","","52.79572","-0.84967"
+399,"England Region","Yorkshire and the Humber",0,"Yorkshire und Humbergegend","Yorkshire y Humber","Yorkshire-et-Humber ","","","","53.93264","-1.28712"
+400,"England Region","South West England",0,"Südwestengland","Sudoeste de Inglaterra","Angleterre du Sud-Ouest ","","","","50.81119","-3.63343"
+401,"England Region","West Midlands",0,"Westliche Midlands","Midlands del Oeste","Midlands de l'Ouest","","","","52.5","-1.96667"
+402,"England Region","East of England",0,"Ostengland","Este de Inglaterra","Angleterre de l'Est","","","","52.24067","0.50415"
+403,"England Region","North West England",0,"Nordwestengland","Noroeste de Inglaterra","Angleterre du Nord-Ouest","","","","53.6","-2.5"
+404,"England Region","Greater London",0,"Groß-London","Gran Londres","Grand Londres","","","","51.50052","-0.10938"
+405,"England Region","South East England",0,"Südostengland","Sudeste de Inglaterra","Angleterre du Sud-Est","","","","51.4","-0.5"

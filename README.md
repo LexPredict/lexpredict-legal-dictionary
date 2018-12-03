@@ -60,6 +60,8 @@ This repository is also used by [LexPredict ContraxSuite](https://github.com/Lex
 ## Licensing
 The data in this repository is available under a Creative Commons Attribution Share Alike 4.0.  LexPredict is proud to support open source in legal technology and innovation.
 
+## Sources of Data
+Geographical coordinates in multi/geopolitical/geopolitical_divisions.csv are from geonames.org (Creative Commons Attribution 4.0 License).
 
 ## Releases
 * 1.0.2: October 1, 2017 - October release, including over 10 new knowledge sets and word embedding models
