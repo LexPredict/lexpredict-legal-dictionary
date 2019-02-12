@@ -1,0 +1,2 @@
+include README.md
+global-include *.csv *.json *.xls *.xlsx
