@@ -6,53 +6,31 @@ en-US,Legal,absolute,False
 en-US,Legal,absorber,False
 en-US,Legal,abuse,False
 en-US,Legal,accelerate,False
-en-US,Legal,accelerated,False
-en-US,Legal,acceleration,False
 en-US,Legal,accept,False
-en-US,Legal,acceptable,False
-en-US,Legal,acceptance,False
-en-US,Legal,accepted,False
 en-US,Legal,access,False
 en-US,Legal,accident,False
 en-US,Legal,accommodation,False
 en-US,Legal,account,False
-en-US,Legal,accountant,False
-en-US,Legal,accountants,False
-en-US,Legal,accounting,False
 en-US,Legal,accounting firm,False
 en-US,Legal,accounting principles,False
-en-US,Legal,accounts,False
 en-US,Legal,accredited,False
 en-US,Legal,accredited investor,False
 en-US,Legal,accrual,False
 en-US,Legal,accrual period,False
 en-US,Legal,accrue,False
-en-US,Legal,accrued,False
 en-US,Legal,accrued benefit,False
 en-US,Legal,accrued interest,False
-en-US,Legal,accruing,False
 en-US,Legal,accumulation,False
 en-US,Legal,accuracy,False
 en-US,Legal,accurate,False
 en-US,Legal,acknowledge,False
-en-US,Legal,acknowledged,False
-en-US,Legal,acknowledgement,False
-en-US,Legal,acknowledges,False
-en-US,Legal,acknowledgment,False
 en-US,Legal,acquire,False
-en-US,Legal,acquired,False
 en-US,Legal,acquired company,False
-en-US,Legal,acquiring,False
 en-US,Legal,acquiror,False
 en-US,Legal,acquisition,False
 en-US,Legal,act,False
-en-US,Legal,acting,False
 en-US,Legal,action,False
-en-US,Legal,actions,False
 en-US,Legal,active,False
-en-US,Legal,activities,False
-en-US,Legal,activity,False
-en-US,Legal,acts,False
 en-US,Legal,actual,False
 en-US,Legal,actual cost,False
 en-US,Legal,actual knowledge,False
@@ -61,75 +39,45 @@ en-US,Legal,addendum,False
 en-US,Legal,addition,False
 en-US,Legal,additional information,False
 en-US,Legal,address,False
-en-US,Legal,addresses,False
 en-US,Legal,adjusted,False
-en-US,Legal,adjustment,False
-en-US,Legal,adjustments,False
 en-US,Legal,administer,False
-en-US,Legal,administered,False
-en-US,Legal,administering,False
-en-US,Legal,administration,False
-en-US,Legal,administrative,False
 en-US,Legal,administrative agent,False
 en-US,Legal,administrator,False
-en-US,Legal,administrators,False
 en-US,Legal,admission,False
 en-US,Legal,adopt,False
-en-US,Legal,adopted,False
-en-US,Legal,adoption,False
 en-US,Legal,advance,False
-en-US,Legal,advancement,False
-en-US,Legal,advances,False
 en-US,Legal,advantage,False
 en-US,Legal,adverse,False
 en-US,Legal,adverse effect,False
-en-US,Legal,adversely,False
 en-US,Legal,adversely affect,False
 en-US,Legal,advertising,False
 en-US,Legal,advice,False
 en-US,Legal,adviser,False
-en-US,Legal,advisers,False
 en-US,Legal,advisor,False
-en-US,Legal,advisors,False
 en-US,Legal,advisory,False
 en-US,Legal,affairs,False
-en-US,Legal,affected,False
 en-US,Legal,affects,False
 en-US,Legal,affidavit,False
 en-US,Legal,affiliate,False
-en-US,Legal,affiliated,False
-en-US,Legal,affiliates,False
 en-US,Legal,affixed,False
 en-US,Legal,age,False
-en-US,Legal,agencies,False
 en-US,Legal,agency,False
 en-US,Legal,agent,False
-en-US,Legal,agents,False
 en-US,Legal,aggregate,False
 en-US,Legal,aggregate amount,False
 en-US,Legal,agreement,False
 en-US,Legal,all costs,False
 en-US,Legal,alleged,False
 en-US,Legal,allocable,False
-en-US,Legal,allocated,False
-en-US,Legal,allocation,False
-en-US,Legal,allocations,False
 en-US,Legal,allow,False
-en-US,Legal,allowance,False
 en-US,Legal,alternate,False
-en-US,Legal,alternative,False
 en-US,Legal,ambassador,False
 en-US,Legal,ambiguity,False
 en-US,Legal,amend,False
-en-US,Legal,amended,False
-en-US,Legal,amendment,False
-en-US,Legal,amendments,False
 en-US,Legal,amortization,False
 en-US,Legal,amount,False
 en-US,Legal,amount due,False
 en-US,Legal,amount paid,False
-en-US,Legal,amounts,False
-en-US,Legal,amounts paid,False
 en-US,Legal,analysis,False
 en-US,Legal,ancillary,False
 en-US,Legal,annex,False
@@ -137,101 +85,58 @@ en-US,Legal,anniversary,False
 en-US,Legal,announcement,False
 en-US,Legal,annual,False
 en-US,Legal,annual report,False
-en-US,Legal,annually,False
 en-US,Legal,annuitant,False
 en-US,Legal,annuity,False
 en-US,Legal,annum,False
 en-US,Legal,answer,False
-en-US,Legal,answering,False
-en-US,Legal,answers,False
 en-US,Legal,any person,False
 en-US,Legal,apartments,False
 en-US,Legal,appeal,False
 en-US,Legal,applicable,False
 en-US,Legal,applicable condition,False
 en-US,Legal,applicable law,False
-en-US,Legal,applicable laws,False
 en-US,Legal,applicable percentage,False
 en-US,Legal,applicable provision,False
-en-US,Legal,applicable provisions,False
 en-US,Legal,applicable rate,False
 en-US,Legal,applicable requirement,False
-en-US,Legal,applicable requirements,False
-en-US,Legal,application,False
-en-US,Legal,applications,False
-en-US,Legal,applied,False
 en-US,Legal,apply,False
 en-US,Legal,appoint,False
-en-US,Legal,appointed,False
-en-US,Legal,appointment,False
 en-US,Legal,appraisal,False
-en-US,Legal,appraisals,False
 en-US,Legal,appraised value,False
-en-US,Legal,appraiser,False
 en-US,Legal,appreciation,False
 en-US,Legal,appropriate,False
-en-US,Legal,approval,False
-en-US,Legal,approvals,False
 en-US,Legal,approve,False
-en-US,Legal,approved,False
-en-US,Legal,arbitration,False
 en-US,Legal,arbitrator,False
-en-US,Legal,arbitrators,False
 en-US,Legal,architect,False
 en-US,Legal,area,False
 en-US,Legal,arrange,False
-en-US,Legal,arrangement,False
 en-US,Legal,article,False
-en-US,Legal,articles,False
 en-US,Legal,ascribed,False
 en-US,Legal,assertion,False
 en-US,Legal,assessed,False
-en-US,Legal,assessment,False
-en-US,Legal,assessments,False
 en-US,Legal,asset,False
 en-US,Legal,asset manager,False
 en-US,Legal,asset representations,False
 en-US,Legal,asset value,False
 en-US,Legal,asset-backed,False
-en-US,Legal,assets,False
 en-US,Legal,assign,False
-en-US,Legal,assigned,False
 en-US,Legal,assignee,False
-en-US,Legal,assignment,False
-en-US,Legal,assignments,False
 en-US,Legal,assignor,False
 en-US,Legal,assist,False
-en-US,Legal,assistance,False
 en-US,Legal,assistant secretary,False
 en-US,Legal,associate,False
-en-US,Legal,associated,False
-en-US,Legal,associates,False
-en-US,Legal,association,False
 en-US,Legal,assumed,False
-en-US,Legal,assuming,False
 en-US,Legal,assumption,False
-en-US,Legal,assumptions,False
 en-US,Legal,assurance,False
-en-US,Legal,assurances,False
 en-US,Legal,attached,False
 en-US,Legal,attention,False
 en-US,Legal,attestation,False
 en-US,Legal,attorney,False
-en-US,Legal,attorneys,False
 en-US,Legal,attributable,False
 en-US,Legal,audit,False
-en-US,Legal,audited,False
 en-US,Legal,auditor,False
-en-US,Legal,auditors,False
-en-US,Legal,audits,False
 en-US,Legal,authenticate,False
-en-US,Legal,authentication,False
-en-US,Legal,authorities,False
 en-US,Legal,authority,False
-en-US,Legal,authorization,False
-en-US,Legal,authorizations,False
-en-US,Legal,authorize,False
-en-US,Legal,authorized,False
 en-US,Legal,authorized officer,False
 en-US,Legal,authorized representative,False
 en-US,Legal,auto,False
@@ -242,21 +147,16 @@ en-US,Legal,available funds,False
 en-US,Legal,average,False
 en-US,Legal,avoidance,False
 en-US,Legal,award,False
-en-US,Legal,awards,False
 en-US,Legal,backed,False
 en-US,Legal,backup,False
 en-US,Legal,bad,False
 en-US,Legal,bad faith,False
 en-US,Legal,balance,False
 en-US,Legal,balance sheet,False
-en-US,Legal,balance sheets,False
-en-US,Legal,balances,False
 en-US,Legal,balloon,False
 en-US,Legal,bank,False
-en-US,Legal,banking,False
 en-US,Legal,bankruptcy,False
 en-US,Legal,bankruptcy code,False
-en-US,Legal,banks,False
 en-US,Legal,base,False
 en-US,Legal,base rate,False
 en-US,Legal,basic,False
@@ -267,15 +167,11 @@ en-US,Legal,benchmark,False
 en-US,Legal,beneficial,False
 en-US,Legal,beneficial interest,False
 en-US,Legal,beneficial owner,False
-en-US,Legal,beneficial owners,False
-en-US,Legal,beneficiaries,False
 en-US,Legal,beneficiary,False
 en-US,Legal,benefit,False
-en-US,Legal,benefits,False
 en-US,Legal,bid,False
 en-US,Legal,bills,False
 en-US,Legal,bind,False
-en-US,Legal,binding,False
 en-US,Legal,binding obligation,False
 en-US,Legal,board,False
 en-US,Legal,board of directors,False
@@ -284,19 +180,13 @@ en-US,Legal,bodily injury,False
 en-US,Legal,body,False
 en-US,Legal,bona fide,False
 en-US,Legal,bond,False
-en-US,Legal,bonds,False
 en-US,Legal,bonus,False
 en-US,Legal,books,False
 en-US,Legal,borrowed,False
-en-US,Legal,borrower,False
-en-US,Legal,borrowers,False
-en-US,Legal,borrowings,False
 en-US,Legal,branch,False
 en-US,Legal,breach,False
-en-US,Legal,breaches,False
 en-US,Legal,bridge lender,False
 en-US,Legal,broker,False
-en-US,Legal,brokers,False
 en-US,Legal,budget,False
 en-US,Legal,building,False
 en-US,Legal,built,False
@@ -306,13 +196,9 @@ en-US,Legal,business day,False
 en-US,Legal,business hours,False
 en-US,Legal,buy,False
 en-US,Legal,buyer,False
-en-US,Legal,buyers,False
 en-US,Legal,bylaws,False
 en-US,Legal,by-laws,False
 en-US,Legal,calculate,False
-en-US,Legal,calculated,False
-en-US,Legal,calculation,False
-en-US,Legal,calculations,False
 en-US,Legal,calendar,False
 en-US,Legal,calendar quarter,False
 en-US,Legal,calendar year,False
@@ -322,11 +208,8 @@ en-US,Legal,capacity,False
 en-US,Legal,capital,False
 en-US,Legal,capital account,False
 en-US,Legal,capital expenditure,False
-en-US,Legal,capital expenditures,False
 en-US,Legal,capital lease,False
 en-US,Legal,capital stock,False
-en-US,Legal,capitalization,False
-en-US,Legal,capitalized lease,False
 en-US,Legal,captions,False
 en-US,Legal,card,False
 en-US,Legal,care,False
@@ -336,37 +219,25 @@ en-US,Legal,cash,False
 en-US,Legal,cash collateral,False
 en-US,Legal,cash equivalent,False
 en-US,Legal,cash flow,False
-en-US,Legal,cash flows,False
 en-US,Legal,cashless,False
 en-US,Legal,casualty,False
 en-US,Legal,category,False
 en-US,Legal,cause,False
-en-US,Legal,causes,False
 en-US,Legal,cease,False
-en-US,Legal,ceased,False
 en-US,Legal,cede,False
 en-US,Legal,center,False
 en-US,Legal,certificate,False
 en-US,Legal,certificate administrator,False
-en-US,Legal,certificated,False
-en-US,Legal,certificates,False
 en-US,Legal,certificates class,False
-en-US,Legal,certification,False
-en-US,Legal,certifications,False
-en-US,Legal,certified,False
 en-US,Legal,certified public accountant,False
 en-US,Legal,certify,False
 en-US,Legal,chairman,False
 en-US,Legal,change,False
 en-US,Legal,change control,False
 en-US,Legal,change in control,False
-en-US,Legal,changes,False
 en-US,Legal,charge,False
-en-US,Legal,charged,False
-en-US,Legal,charges,False
 en-US,Legal,chattel,False
 en-US,Legal,check,False
-en-US,Legal,checks,False
 en-US,Legal,chief,False
 en-US,Legal,chief executive,False
 en-US,Legal,chief executive officer,False
@@ -376,92 +247,58 @@ en-US,Legal,city,False
 en-US,Legal,civil,False
 en-US,Legal,claim,False
 en-US,Legal,claimant,False
-en-US,Legal,claims,False
 en-US,Legal,class,False
-en-US,Legal,classes,False
 en-US,Legal,classification,False
 en-US,Legal,classified,False
 en-US,Legal,clean,False
 en-US,Legal,clearing,False
 en-US,Legal,client,False
-en-US,Legal,clients,False
 en-US,Legal,close,False
-en-US,Legal,closed,False
-en-US,Legal,closing,False
 en-US,Legal,closing date,False
 en-US,Legal,code,False
 en-US,Legal,co-lender,False
 en-US,Legal,collateral,False
 en-US,Legal,collect,False
-en-US,Legal,collected,False
-en-US,Legal,collection,False
-en-US,Legal,collections,False
-en-US,Legal,collective,False
-en-US,Legal,collectively,False
-en-US,Legal,combination,False
 en-US,Legal,combined,False
 en-US,Legal,commence,False
-en-US,Legal,commenced,False
-en-US,Legal,commencement,False
 en-US,Legal,commerce,False
 en-US,Legal,commercial,False
 en-US,Legal,commercial paper,False
-en-US,Legal,commercially,False
 en-US,Legal,commercially reasonable,False
 en-US,Legal,commission,False
-en-US,Legal,commissions,False
-en-US,Legal,commitment,False
-en-US,Legal,commitments,False
 en-US,Legal,committed,False
 en-US,Legal,committee,False
 en-US,Legal,commodity,False
 en-US,Legal,common law,False
 en-US,Legal,common stock,False
 en-US,Legal,communicate,False
-en-US,Legal,communication,False
-en-US,Legal,communications,False
-en-US,Legal,companies,False
 en-US,Legal,companion,False
 en-US,Legal,companion loan,False
 en-US,Legal,company,False
-en-US,Legal,company subsidiaries,False
 en-US,Legal,company subsidiary,False
 en-US,Legal,comparable,False
 en-US,Legal,compensate,False
-en-US,Legal,compensation,False
 en-US,Legal,compensation plan,False
 en-US,Legal,competent,False
 en-US,Legal,competent jurisdiction,False
 en-US,Legal,competitive,False
 en-US,Legal,complaint,False
 en-US,Legal,complete,False
-en-US,Legal,completion,False
 en-US,Legal,completion date,False
 en-US,Legal,compliance,False
 en-US,Legal,component,False
 en-US,Legal,computed,False
-en-US,Legal,computer,False
 en-US,Legal,condemnation,False
 en-US,Legal,condition,False
-en-US,Legal,conditioned,False
-en-US,Legal,conditions,False
 en-US,Legal,conduct,False
-en-US,Legal,conducted,False
 en-US,Legal,confer,False
-en-US,Legal,conferred,False
 en-US,Legal,confidence,False
 en-US,Legal,confidential,False
 en-US,Legal,confidential information,False
-en-US,Legal,confidentiality,False
-en-US,Legal,confirmation,False
 en-US,Legal,confirmed,False
 en-US,Legal,conflict,False
-en-US,Legal,conflicts,False
 en-US,Legal,consecutive,False
 en-US,Legal,consent,False
-en-US,Legal,consented,False
-en-US,Legal,consenting,False
-en-US,Legal,consents,False
 en-US,Legal,consequential,False
 en-US,Legal,conservator,False
 en-US,Legal,consideration,False
@@ -469,69 +306,41 @@ en-US,Legal,consistent,False
 en-US,Legal,consolidated,False
 en-US,Legal,consolidated financial,False
 en-US,Legal,consolidated financial statements,False
-en-US,Legal,consolidation,False
 en-US,Legal,construct,False
-en-US,Legal,construction,False
 en-US,Legal,construction contract,False
 en-US,Legal,consult,False
-en-US,Legal,consultant,False
-en-US,Legal,consultants,False
-en-US,Legal,consultation,False
-en-US,Legal,consulting,False
 en-US,Legal,consumer,False
 en-US,Legal,consummate,False
-en-US,Legal,consummated,False
-en-US,Legal,consummation,False
 en-US,Legal,contact,False
 en-US,Legal,contemporaneously,False
 en-US,Legal,contest,False
-en-US,Legal,contingency,False
 en-US,Legal,contingent,False
 en-US,Legal,contingent liability,False
-en-US,Legal,continuance,False
-en-US,Legal,continuation,False
 en-US,Legal,continuous,False
 en-US,Legal,contract,False
 en-US,Legal,contract price,False
 en-US,Legal,contractor,False
-en-US,Legal,contractors,False
-en-US,Legal,contracts,False
 en-US,Legal,contractual,False
 en-US,Legal,contravention,False
 en-US,Legal,contribute,False
-en-US,Legal,contributed,False
-en-US,Legal,contribution,False
-en-US,Legal,contributions,False
 en-US,Legal,control,False
-en-US,Legal,controlled,False
 en-US,Legal,controlled group,False
-en-US,Legal,controlling,False
 en-US,Legal,controlling class,False
-en-US,Legal,controls,False
 en-US,Legal,conversion,False
 en-US,Legal,convert,False
-en-US,Legal,converted,False
-en-US,Legal,convertible,False
 en-US,Legal,convey,False
-en-US,Legal,conveyance,False
 en-US,Legal,cooperation,False
-en-US,Legal,copies,False
 en-US,Legal,copy,False
 en-US,Legal,copyright,False
-en-US,Legal,copyrights,False
 en-US,Legal,core,False
 en-US,Legal,corporate,False
 en-US,Legal,corporate action,False
-en-US,Legal,corporation,False
-en-US,Legal,corporations,False
 en-US,Legal,correct,False
 en-US,Legal,cost,False
-en-US,Legal,costs,False
 en-US,Legal,co-trustee,False
 en-US,Legal,counsel,False
 en-US,Legal,counterclaim,False
 en-US,Legal,counterpart,False
-en-US,Legal,counterparts,False
 en-US,Legal,counterparty,False
 en-US,Legal,country,False
 en-US,Legal,county,False
@@ -539,171 +348,114 @@ en-US,Legal,courier,False
 en-US,Legal,court,False
 en-US,Legal,court of competent jurisdiction,False
 en-US,Legal,court order,False
-en-US,Legal,courts,False
 en-US,Legal,covenant,False
-en-US,Legal,covenants,False
 en-US,Legal,coverage,False
 en-US,Legal,covered,False
-en-US,Legal,covering,False
 en-US,Legal,creation,False
 en-US,Legal,credit,False
 en-US,Legal,credit agreement,False
 en-US,Legal,credit facility,False
 en-US,Legal,credit risk,False
 en-US,Legal,creditor,False
-en-US,Legal,creditors,False
-en-US,Legal,credits,False
 en-US,Legal,criminal,False
 en-US,Legal,criteria,False
 en-US,Legal,cumulative,False
 en-US,Legal,cure,False
 en-US,Legal,cure period,False
-en-US,Legal,cured,False
 en-US,Legal,currency,False
 en-US,Legal,current,False
 en-US,Legal,cusip,False
 en-US,Legal,custodian,False
-en-US,Legal,custodians,False
 en-US,Legal,custody,False
 en-US,Legal,customarily,False
 en-US,Legal,customary,False
 en-US,Legal,customer,False
-en-US,Legal,customers,False
 en-US,Legal,daily,False
 en-US,Legal,damage,False
-en-US,Legal,damages,False
 en-US,Legal,data,False
 en-US,Legal,data room,False
 en-US,Legal,date,False
 en-US,Legal,date of determination,False
 en-US,Legal,date of issuance,False
 en-US,Legal,day,False
-en-US,Legal,days,False
 en-US,Legal,deadline,False
 en-US,Legal,deal,False
 en-US,Legal,dealer,False
-en-US,Legal,dealers,False
 en-US,Legal,death,False
 en-US,Legal,debenture,False
 en-US,Legal,debt,False
 en-US,Legal,debt service,False
 en-US,Legal,debtor,False
-en-US,Legal,debts,False
 en-US,Legal,decision,False
-en-US,Legal,declaration,False
 en-US,Legal,declare,False
 en-US,Legal,decreased,False
 en-US,Legal,decree,False
 en-US,Legal,deduct,False
-en-US,Legal,deducted,False
-en-US,Legal,deductible,False
-en-US,Legal,deduction,False
-en-US,Legal,deductions,False
 en-US,Legal,deed,False
-en-US,Legal,deeds,False
 en-US,Legal,default,False
-en-US,Legal,defaulted,False
-en-US,Legal,defaults,False
 en-US,Legal,defeasance,False
 en-US,Legal,defect,False
-en-US,Legal,defective,False
 en-US,Legal,defend,False
 en-US,Legal,defense,False
-en-US,Legal,defenses,False
 en-US,Legal,defer,False
 en-US,Legal,deferral,False
-en-US,Legal,deferred,False
 en-US,Legal,deficiency,False
 en-US,Legal,delegate,False
-en-US,Legal,delinquency,False
 en-US,Legal,delinquent,False
 en-US,Legal,deliver,False
-en-US,Legal,delivered,False
-en-US,Legal,delivering,False
 en-US,Legal,delivery,False
 en-US,Legal,demand,False
-en-US,Legal,demands,False
 en-US,Legal,denominated,False
-en-US,Legal,denomination,False
 en-US,Legal,dental,False
 en-US,Legal,department,False
 en-US,Legal,departure,False
 en-US,Legal,dependent,False
 en-US,Legal,deposit,False
 en-US,Legal,depositary,False
-en-US,Legal,deposited,False
 en-US,Legal,depositor,False
 en-US,Legal,depository,False
 en-US,Legal,depository institution,False
 en-US,Legal,depository trust,False
-en-US,Legal,deposits,False
 en-US,Legal,depreciation,False
-en-US,Legal,derivative,False
-en-US,Legal,derivatives,False
 en-US,Legal,derived,False
 en-US,Legal,descendants,False
 en-US,Legal,design,False
-en-US,Legal,designation,False
-en-US,Legal,designed,False
 en-US,Legal,designee,False
-en-US,Legal,designees,False
 en-US,Legal,destruction,False
 en-US,Legal,detail,False
 en-US,Legal,determination,False
 en-US,Legal,developed,False
-en-US,Legal,development,False
 en-US,Legal,device,False
 en-US,Legal,diligence,False
 en-US,Legal,direct,False
-en-US,Legal,direction,False
-en-US,Legal,directly,False
 en-US,Legal,director,False
-en-US,Legal,directors,False
 en-US,Legal,disability,False
 en-US,Legal,disbursement,False
-en-US,Legal,disbursements,False
 en-US,Legal,discharge,False
-en-US,Legal,discharged,False
 en-US,Legal,disclaimer,False
 en-US,Legal,disclose,False
-en-US,Legal,disclosed,False
-en-US,Legal,disclosing,False
 en-US,Legal,disclosure,False
-en-US,Legal,disclosures,False
 en-US,Legal,discount,False
-en-US,Legal,discounts,False
 en-US,Legal,discovery,False
 en-US,Legal,discretion,False
 en-US,Legal,discrimination,False
-en-US,Legal,disposal,False
 en-US,Legal,dispose,False
-en-US,Legal,disposed,False
 en-US,Legal,disposition,False
 en-US,Legal,dispute,False
 en-US,Legal,dispute resolution,False
-en-US,Legal,disputes,False
 en-US,Legal,disqualified,False
 en-US,Legal,disqualified organization,False
 en-US,Legal,disregarded,False
 en-US,Legal,dissolution,False
 en-US,Legal,distance,False
-en-US,Legal,distributable,False
 en-US,Legal,distribute,False
-en-US,Legal,distributing,False
-en-US,Legal,distribution,False
 en-US,Legal,distribution date,False
-en-US,Legal,distributions,False
 en-US,Legal,distributor,False
-en-US,Legal,distributors,False
 en-US,Legal,district,False
 en-US,Legal,district court,False
 en-US,Legal,dividend,False
-en-US,Legal,dividends,False
 en-US,Legal,division,False
 en-US,Legal,document,False
-en-US,Legal,documentation,False
-en-US,Legal,documented,False
-en-US,Legal,documents,False
 en-US,Legal,dollar,False
 en-US,Legal,domain,False
 en-US,Legal,domestic,False
@@ -718,64 +470,39 @@ en-US,Legal,duly authorized,False
 en-US,Legal,duly organized,False
 en-US,Legal,duplication,False
 en-US,Legal,duration,False
-en-US,Legal,duties,False
 en-US,Legal,duty,False
 en-US,Legal,early,False
 en-US,Legal,earnings,False
 en-US,Legal,ebitda,False
 en-US,Legal,economic,False
 en-US,Legal,effect,False
-en-US,Legal,effective,False
 en-US,Legal,effective date,False
-en-US,Legal,effects,False
 en-US,Legal,effectuate,False
 en-US,Legal,effort,False
-en-US,Legal,efforts,False
 en-US,Legal,elect,False
-en-US,Legal,elected,False
-en-US,Legal,election,False
-en-US,Legal,elections,False
 en-US,Legal,electronic,False
 en-US,Legal,electronic mail,False
-en-US,Legal,electronically,False
-en-US,Legal,eligibility,False
 en-US,Legal,eligible,False
 en-US,Legal,eliminate,False
 en-US,Legal,email,False
 en-US,Legal,e-mail,False
 en-US,Legal,emergency,False
 en-US,Legal,employ,False
-en-US,Legal,employed,False
 en-US,Legal,employee,False
 en-US,Legal,employee benefit,False
 en-US,Legal,employee benefit plan,False
-en-US,Legal,employees,False
-en-US,Legal,employer,False
-en-US,Legal,employment,False
 en-US,Legal,encumbrance,False
 en-US,Legal,end,False
 en-US,Legal,endorsed,False
-en-US,Legal,endorsement,False
-en-US,Legal,endorsements,False
 en-US,Legal,energy,False
 en-US,Legal,enforce,False
-en-US,Legal,enforceability,False
-en-US,Legal,enforceable,False
-en-US,Legal,enforced,False
-en-US,Legal,enforcement,False
-en-US,Legal,enforcing,False
 en-US,Legal,engagement,False
 en-US,Legal,engineering,False
 en-US,Legal,enhanced,False
-en-US,Legal,enhancement,False
 en-US,Legal,enter,False
-en-US,Legal,entered,False
-en-US,Legal,entering,False
 en-US,Legal,enterprise,False
 en-US,Legal,entire,False
-en-US,Legal,entities,False
 en-US,Legal,entitle,False
-en-US,Legal,entitlement,False
 en-US,Legal,entity,False
 en-US,Legal,entry,False
 en-US,Legal,environment,False
@@ -786,96 +513,62 @@ en-US,Legal,equipment,False
 en-US,Legal,equitable,False
 en-US,Legal,equity,False
 en-US,Legal,equity interest,False
-en-US,Legal,equity interests,False
 en-US,Legal,ero,False
 en-US,Legal,error,False
-en-US,Legal,errors,False
 en-US,Legal,escrow,False
 en-US,Legal,escrow agent,False
-en-US,Legal,escrows,False
 en-US,Legal,established,False
-en-US,Legal,establishing,False
-en-US,Legal,establishment,False
 en-US,Legal,estate,False
 en-US,Legal,estimate,False
-en-US,Legal,estimated,False
-en-US,Legal,estimates,False
 en-US,Legal,estoppel,False
 en-US,Legal,ethics,False
 en-US,Legal,eurocurrency,False
 en-US,Legal,eurodollar,False
-en-US,Legal,evaluation,False
 en-US,Legal,evaluator,False
 en-US,Legal,event,False
 en-US,Legal,event default,False
-en-US,Legal,events,False
 en-US,Legal,evidence,False
 en-US,Legal,evidenced,False
 en-US,Legal,examination,False
 en-US,Legal,exceed,False
-en-US,Legal,exceeds,False
 en-US,Legal,exception,False
-en-US,Legal,exceptions,False
 en-US,Legal,excess,False
 en-US,Legal,exchange,False
-en-US,Legal,exchanged,False
-en-US,Legal,exchanges,False
 en-US,Legal,excise tax,False
 en-US,Legal,exclusive,False
 en-US,Legal,execute,False
-en-US,Legal,executed,False
-en-US,Legal,executing,False
-en-US,Legal,execution,False
-en-US,Legal,executive,False
 en-US,Legal,executive officer,False
 en-US,Legal,executor,False
 en-US,Legal,exemption,False
-en-US,Legal,exemptions,False
-en-US,Legal,exercisable,False
 en-US,Legal,exercise,False
-en-US,Legal,exercised,False
-en-US,Legal,exercises,False
-en-US,Legal,exercising,False
 en-US,Legal,exhibit,False
-en-US,Legal,exhibits,False
 en-US,Legal,existing,False
 en-US,Legal,expenditure,False
-en-US,Legal,expenditures,False
 en-US,Legal,expense,False
-en-US,Legal,expenses,False
 en-US,Legal,expenses incurred,False
 en-US,Legal,experience,False
 en-US,Legal,expert,False
-en-US,Legal,experts,False
-en-US,Legal,expiration,False
 en-US,Legal,expiration date,False
 en-US,Legal,expire,False
-en-US,Legal,expired,False
-en-US,Legal,expires,False
 en-US,Legal,exposure,False
 en-US,Legal,express,False
 en-US,Legal,extend,False
-en-US,Legal,extended,False
 en-US,Legal,extension,False
 en-US,Legal,extension of credit,False
 en-US,Legal,external,False
 en-US,Legal,extraordinary,False
 en-US,Legal,face,False
 en-US,Legal,face amount,False
-en-US,Legal,facilities,False
 en-US,Legal,facility,False
 en-US,Legal,facsimile,False
 en-US,Legal,fact,False
 en-US,Legal,factor,False
-en-US,Legal,factors,False
 en-US,Legal,fail,False
-en-US,Legal,failed,False
 en-US,Legal,failure,False
 en-US,Legal,fair,False
 en-US,Legal,fair market,False
 en-US,Legal,fair market value,False
 en-US,Legal,fair value,False
-en-US,Legal,fairly,False
 en-US,Legal,faith,False
 en-US,Legal,family,False
 en-US,Legal,favorable,False
@@ -887,27 +580,21 @@ en-US,Legal,federal reserve,False
 en-US,Legal,federal reserve bank,False
 en-US,Legal,federal reserve system,False
 en-US,Legal,fee,False
-en-US,Legal,fees,False
 en-US,Legal,felony,False
 en-US,Legal,fiduciary,False
 en-US,Legal,fiduciary duty,False
 en-US,Legal,field,False
 en-US,Legal,files,False
-en-US,Legal,filing,False
-en-US,Legal,filings,False
 en-US,Legal,final,False
 en-US,Legal,final distribution,False
 en-US,Legal,final judgment,False
 en-US,Legal,final payment,False
 en-US,Legal,finance,False
-en-US,Legal,financed,False
 en-US,Legal,financial,False
 en-US,Legal,financial institution,False
 en-US,Legal,financial officer,False
 en-US,Legal,financial statements,False
-en-US,Legal,financing,False
 en-US,Legal,financing statement,False
-en-US,Legal,financing statements,False
 en-US,Legal,fines,False
 en-US,Legal,finra,False
 en-US,Legal,firm,False
@@ -918,7 +605,6 @@ en-US,Legal,fitness,False
 en-US,Legal,fixed,False
 en-US,Legal,fixed income,False
 en-US,Legal,fixture,False
-en-US,Legal,fixtures,False
 en-US,Legal,floating,False
 en-US,Legal,floating rate,False
 en-US,Legal,flood,False
@@ -929,7 +615,6 @@ en-US,Legal,force,False
 en-US,Legal,force majeure,False
 en-US,Legal,foreclosed,False
 en-US,Legal,foreclosure,False
-en-US,Legal,foreclosure ,False
 en-US,Legal,foreign,False
 en-US,Legal,foreign assets,False
 en-US,Legal,foreign currency,False
@@ -937,7 +622,6 @@ en-US,Legal,foreign exchange,False
 en-US,Legal,foreign securities,False
 en-US,Legal,foreseeable,False
 en-US,Legal,forfeiture,False
-en-US,Legal,forfeitures,False
 en-US,Legal,form,False
 en-US,Legal,formation,False
 en-US,Legal,former,False
@@ -945,7 +629,6 @@ en-US,Legal,formula,False
 en-US,Legal,foundation,False
 en-US,Legal,founder,False
 en-US,Legal,fraction,False
-en-US,Legal,fractional,False
 en-US,Legal,franchise,False
 en-US,Legal,fraud,False
 en-US,Legal,fraudulent,False
@@ -958,61 +641,42 @@ en-US,Legal,fully,False
 en-US,Legal,function,False
 en-US,Legal,fund,False
 en-US,Legal,fundamental,False
-en-US,Legal,funded,False
 en-US,Legal,funded debt,False
-en-US,Legal,funding,False
-en-US,Legal,funds,False
 en-US,Legal,furnish,False
-en-US,Legal,furnished,False
-en-US,Legal,furnishing,False
 en-US,Legal,future,False
-en-US,Legal,futures,False
 en-US,Legal,gaap,False
 en-US,Legal,gacc,False
 en-US,Legal,gain,False
-en-US,Legal,gains,False
 en-US,Legal,gas,False
 en-US,Legal,general,False
 en-US,Legal,general counsel,False
 en-US,Legal,general partner,False
-en-US,Legal,generality,False
 en-US,Legal,generally accepted accounting principles,False
 en-US,Legal,global,False
 en-US,Legal,good,False
 en-US,Legal,good faith,False
 en-US,Legal,good standing,False
-en-US,Legal,goods,False
 en-US,Legal,goodwill,False
 en-US,Legal,govern,False
-en-US,Legal,governed,False
-en-US,Legal,governing,False
 en-US,Legal,governing law,False
-en-US,Legal,government,False
 en-US,Legal,government agency,False
 en-US,Legal,governmental,False
 en-US,Legal,governmental agency,False
 en-US,Legal,governmental body,False
 en-US,Legal,governmental entity,False
 en-US,Legal,governor,False
-en-US,Legal,governors,False
 en-US,Legal,grace period,False
 en-US,Legal,grant,False
-en-US,Legal,granted,False
 en-US,Legal,grantee,False
-en-US,Legal,granting,False
 en-US,Legal,grantor,False
 en-US,Legal,grantor trust,False
-en-US,Legal,grants,False
 en-US,Legal,gross,False
 en-US,Legal,gross negligence,False
 en-US,Legal,ground,False
 en-US,Legal,group,False
 en-US,Legal,growth,False
 en-US,Legal,guarantee,False
-en-US,Legal,guaranteed,False
-en-US,Legal,guaranties,False
 en-US,Legal,guarantor,False
-en-US,Legal,guarantors,False
 en-US,Legal,guaranty,False
 en-US,Legal,guidance,False
 en-US,Legal,guidelines,False
@@ -1021,30 +685,23 @@ en-US,Legal,hardware,False
 en-US,Legal,harm,False
 en-US,Legal,harmless,False
 en-US,Legal,hazard,False
-en-US,Legal,hazardous,False
 en-US,Legal,hazardous material,False
-en-US,Legal,hazardous materials,False
 en-US,Legal,hazardous substance,False
 en-US,Legal,hazardous waste,False
 en-US,Legal,heading,False
 en-US,Legal,health,False
 en-US,Legal,hedge,False
-en-US,Legal,hedged,False
-en-US,Legal,hedging,False
 en-US,Legal,heirs,False
 en-US,Legal,highest,False
 en-US,Legal,highway,False
 en-US,Legal,historical,False
 en-US,Legal,holder,False
-en-US,Legal,holders,False
 en-US,Legal,holding,False
 en-US,Legal,holding company,False
-en-US,Legal,holdings,False
 en-US,Legal,holiday,False
 en-US,Legal,home,False
 en-US,Legal,hotel,False
 en-US,Legal,identification,False
-en-US,Legal,identified,False
 en-US,Legal,identify,False
 en-US,Legal,identity,False
 en-US,Legal,illegal,False
@@ -1052,13 +709,11 @@ en-US,Legal,immediately,False
 en-US,Legal,immunities,False
 en-US,Legal,impact,False
 en-US,Legal,impair,False
-en-US,Legal,impaired,False
 en-US,Legal,implementation,False
 en-US,Legal,implied,False
 en-US,Legal,import,False
 en-US,Legal,imposition,False
 en-US,Legal,improvement,False
-en-US,Legal,improvements,False
 en-US,Legal,in arrears,False
 en-US,Legal,in force,False
 en-US,Legal,in writing,False
@@ -1071,25 +726,17 @@ en-US,Legal,incidental,False
 en-US,Legal,includes,False
 en-US,Legal,income,False
 en-US,Legal,income tax,False
-en-US,Legal,income taxes,False
 en-US,Legal,inconsistent,False
 en-US,Legal,inconvenient,False
 en-US,Legal,incorporated,False
-en-US,Legal,incorporation,False
 en-US,Legal,incremental,False
 en-US,Legal,incur,False
-en-US,Legal,incurred,False
 en-US,Legal,incurrence,False
 en-US,Legal,indebtedness,False
 en-US,Legal,indemnification,False
-en-US,Legal,indemnified,False
 en-US,Legal,indemnified party,False
 en-US,Legal,indemnify,False
-en-US,Legal,indemnifying,False
-en-US,Legal,indemnifying party,False
 en-US,Legal,indemnitee,False
-en-US,Legal,indemnitees,False
-en-US,Legal,indemnities,False
 en-US,Legal,indemnity,False
 en-US,Legal,indenture,False
 en-US,Legal,independent,False
@@ -1098,47 +745,28 @@ en-US,Legal,index,False
 en-US,Legal,indication,False
 en-US,Legal,indirectly,False
 en-US,Legal,individual,False
-en-US,Legal,individually,False
-en-US,Legal,individuals,False
 en-US,Legal,induce,False
-en-US,Legal,inducement,False
 en-US,Legal,industry,False
-en-US,Legal,information,False
 en-US,Legal,information provider,False
 en-US,Legal,informed,False
 en-US,Legal,infrastructure,False
 en-US,Legal,infringement,False
 en-US,Legal,injunction,False
-en-US,Legal,injunctive,False
 en-US,Legal,injury,False
-en-US,Legal,inquiries,False
 en-US,Legal,inquiry,False
 en-US,Legal,insider,False
-en-US,Legal,insolvency,False
 en-US,Legal,insolvent,False
 en-US,Legal,inspection,False
 en-US,Legal,inspector,False
-en-US,Legal,installation,False
 en-US,Legal,installment,False
-en-US,Legal,installments,False
 en-US,Legal,instance,False
 en-US,Legal,institute,False
-en-US,Legal,institution,False
-en-US,Legal,institutional,False
-en-US,Legal,institutions,False
 en-US,Legal,instruction,False
-en-US,Legal,instructions,False
 en-US,Legal,instrument,False
-en-US,Legal,instrumentality,False
-en-US,Legal,instruments,False
 en-US,Legal,insufficient,False
-en-US,Legal,insurance,False
 en-US,Legal,insurance company,False
-en-US,Legal,insurance policies,False
 en-US,Legal,insurance policy,False
 en-US,Legal,insured,False
-en-US,Legal,insurer,False
-en-US,Legal,insurers,False
 en-US,Legal,intangible,False
 en-US,Legal,integration,False
 en-US,Legal,intellectual,False
@@ -1151,7 +779,6 @@ en-US,Legal,interest payment,False
 en-US,Legal,interest payment date,False
 en-US,Legal,interest period,False
 en-US,Legal,interest rate,False
-en-US,Legal,interests,False
 en-US,Legal,interfere,False
 en-US,Legal,interfere with,False
 en-US,Legal,interim,False
@@ -1160,7 +787,6 @@ en-US,Legal,intermediate,False
 en-US,Legal,internal,False
 en-US,Legal,internal revenue code,False
 en-US,Legal,internal revenue service,False
-en-US,Legal,international,False
 en-US,Legal,internet,False
 en-US,Legal,interpreted,False
 en-US,Legal,interval,False
@@ -1168,47 +794,33 @@ en-US,Legal,introduction,False
 en-US,Legal,inure,False
 en-US,Legal,invalidity,False
 en-US,Legal,invention,False
-en-US,Legal,inventions,False
 en-US,Legal,inventory,False
 en-US,Legal,invest,False
-en-US,Legal,invested,False
 en-US,Legal,investigating,False
-en-US,Legal,investigation,False
-en-US,Legal,investigations,False
-en-US,Legal,investing,False
-en-US,Legal,investment,False
 en-US,Legal,investment adviser,False
 en-US,Legal,investment company,False
 en-US,Legal,investment manager,False
-en-US,Legal,investments,False
 en-US,Legal,investor,False
-en-US,Legal,investors,False
 en-US,Legal,invoice,False
 en-US,Legal,involuntary,False
 en-US,Legal,involved,False
 en-US,Legal,irrevocable,False
-en-US,Legal,irrevocably,False
 en-US,Legal,irs,False
 en-US,Legal,isin,False
 en-US,Legal,issuable,False
 en-US,Legal,issuance,False
 en-US,Legal,issue,False
-en-US,Legal,issued,False
 en-US,Legal,issued and outstanding,False
 en-US,Legal,issuer,False
 en-US,Legal,issuing entity,False
 en-US,Legal,item,False
-en-US,Legal,items,False
 en-US,Legal,joinder,False
 en-US,Legal,joint,False
 en-US,Legal,joint venture,False
-en-US,Legal,jointly,False
 en-US,Legal,judgment,False
-en-US,Legal,judgments,False
 en-US,Legal,judicial,False
 en-US,Legal,junior,False
 en-US,Legal,jurisdiction,False
-en-US,Legal,jurisdictions,False
 en-US,Legal,jury,False
 en-US,Legal,jury trial,False
 en-US,Legal,key,False
@@ -1225,14 +837,8 @@ en-US,Legal,largest,False
 en-US,Legal,last,False
 en-US,Legal,laundering,False
 en-US,Legal,law,False
-en-US,Legal,lawful,False
-en-US,Legal,lawfully,False
-en-US,Legal,laws,False
 en-US,Legal,lease,False
-en-US,Legal,leased,False
 en-US,Legal,leasehold,False
-en-US,Legal,leases,False
-en-US,Legal,leasing,False
 en-US,Legal,legal action,False
 en-US,Legal,legal counsel,False
 en-US,Legal,legal fees,False
@@ -1241,7 +847,6 @@ en-US,Legal,legal process,False
 en-US,Legal,legal representative,False
 en-US,Legal,legislation,False
 en-US,Legal,lender,False
-en-US,Legal,lenders,False
 en-US,Legal,lending,False
 en-US,Legal,length,False
 en-US,Legal,lessee,False
@@ -1249,66 +854,46 @@ en-US,Legal,lesser,False
 en-US,Legal,lessor,False
 en-US,Legal,letter,False
 en-US,Legal,letter of credit,False
-en-US,Legal,letters,False
 en-US,Legal,leverage,False
-en-US,Legal,liabilities,False
 en-US,Legal,liability,False
 en-US,Legal,liability insurance,False
 en-US,Legal,liable,False
 en-US,Legal,libor,False
 en-US,Legal,license,False
 en-US,Legal,license agreement,False
-en-US,Legal,licensed,False
 en-US,Legal,licensee,False
-en-US,Legal,licenses,False
-en-US,Legal,licensing,False
 en-US,Legal,licensor,False
 en-US,Legal,lien,False
-en-US,Legal,liens,False
 en-US,Legal,life,False
 en-US,Legal,light,False
 en-US,Legal,likely,False
 en-US,Legal,limit,False
-en-US,Legal,limitation,False
-en-US,Legal,limitations,False
-en-US,Legal,limited,False
 en-US,Legal,limited liability,False
 en-US,Legal,limited liability company,False
 en-US,Legal,limited partnership,False
 en-US,Legal,line,False
 en-US,Legal,line of credit,False
-en-US,Legal,liquidated,False
-en-US,Legal,liquidation,False
 en-US,Legal,liquidity,False
 en-US,Legal,list,False
-en-US,Legal,listing,False
 en-US,Legal,litigation,False
 en-US,Legal,living,False
 en-US,Legal,loan,False
 en-US,Legal,loan commitment,False
 en-US,Legal,loan documents,False
 en-US,Legal,loan seller,False
-en-US,Legal,loans,False
 en-US,Legal,local,False
 en-US,Legal,location,False
 en-US,Legal,long term,False
 en-US,Legal,long-term,False
 en-US,Legal,loss,False
-en-US,Legal,losses,False
 en-US,Legal,lost,False
 en-US,Legal,lot,False
 en-US,Legal,mail,False
-en-US,Legal,mailing,False
 en-US,Legal,maintain,False
 en-US,Legal,maintenance,False
 en-US,Legal,majeure,False
 en-US,Legal,majority,False
 en-US,Legal,manage,False
-en-US,Legal,managed,False
-en-US,Legal,management,False
-en-US,Legal,manager,False
-en-US,Legal,managers,False
-en-US,Legal,managing,False
 en-US,Legal,managing director,False
 en-US,Legal,managing member,False
 en-US,Legal,mandatory,False
@@ -1316,15 +901,11 @@ en-US,Legal,manifest,False
 en-US,Legal,manifest error,False
 en-US,Legal,manual,False
 en-US,Legal,manufacture,False
-en-US,Legal,manufacturer,False
 en-US,Legal,map,False
 en-US,Legal,margin,False
 en-US,Legal,mark,False
 en-US,Legal,market,False
 en-US,Legal,market value,False
-en-US,Legal,marketable,False
-en-US,Legal,marketing,False
-en-US,Legal,markets,False
 en-US,Legal,master,False
 en-US,Legal,master servicer,False
 en-US,Legal,material,False
@@ -1334,29 +915,21 @@ en-US,Legal,material change,False
 en-US,Legal,material defect,False
 en-US,Legal,material fact,False
 en-US,Legal,material respect,False
-en-US,Legal,materially,False
-en-US,Legal,materially adversely,False
-en-US,Legal,materials,False
 en-US,Legal,matters,False
 en-US,Legal,mature,False
-en-US,Legal,maturities,False
-en-US,Legal,maturity,False
 en-US,Legal,maturity date,False
 en-US,Legal,maximum,False
 en-US,Legal,mechanic,False
 en-US,Legal,mediation,False
 en-US,Legal,medical,False
 en-US,Legal,meeting,False
-en-US,Legal,meetings,False
 en-US,Legal,member,False
-en-US,Legal,members,False
 en-US,Legal,membership,False
 en-US,Legal,memorandum,False
 en-US,Legal,merged,False
 en-US,Legal,merger,False
 en-US,Legal,merits,False
 en-US,Legal,method,False
-en-US,Legal,methods,False
 en-US,Legal,mile,False
 en-US,Legal,milestone,False
 en-US,Legal,minimum,False
@@ -1368,24 +941,17 @@ en-US,Legal,misrepresentation,False
 en-US,Legal,missing,False
 en-US,Legal,model,False
 en-US,Legal,modification,False
-en-US,Legal,modifications,False
-en-US,Legal,modified,False
 en-US,Legal,modify,False
-en-US,Legal,modifying,False
 en-US,Legal,monetary,False
 en-US,Legal,money,False
 en-US,Legal,money market,False
-en-US,Legal,moneys,False
 en-US,Legal,monies,False
 en-US,Legal,monitor,False
-en-US,Legal,monitoring,False
 en-US,Legal,month,False
 en-US,Legal,moratorium,False
 en-US,Legal,mortgage,False
 en-US,Legal,mortgage loan,False
-en-US,Legal,mortgage loans,False
 en-US,Legal,mortgagee,False
-en-US,Legal,mortgages,False
 en-US,Legal,mortgagor,False
 en-US,Legal,motion,False
 en-US,Legal,multiemployer plan,False
@@ -1393,20 +959,15 @@ en-US,Legal,multifamily,False
 en-US,Legal,multiple,False
 en-US,Legal,mutilated,False
 en-US,Legal,mutual,False
-en-US,Legal,mutually,False
 en-US,Legal,national,False
 en-US,Legal,national association,False
 en-US,Legal,national banking association,False
-en-US,Legal,nationally,False
-en-US,Legal,natural,False
 en-US,Legal,natural person,False
 en-US,Legal,nature,False
 en-US,Legal,necessary,False
 en-US,Legal,negative,False
-en-US,Legal,negligence,False
 en-US,Legal,negligent,False
 en-US,Legal,negotiate,False
-en-US,Legal,negotiation,False
 en-US,Legal,net,False
 en-US,Legal,net asset,False
 en-US,Legal,net income,False
@@ -1424,73 +985,44 @@ en-US,Legal,notary,False
 en-US,Legal,note,False
 en-US,Legal,note holder,False
 en-US,Legal,noteholder,False
-en-US,Legal,notes,False
 en-US,Legal,notice,False
-en-US,Legal,notices,False
-en-US,Legal,notified,False
-en-US,Legal,notifies,False
 en-US,Legal,notify,False
 en-US,Legal,notional,False
 en-US,Legal,notional amount,False
 en-US,Legal,objection,False
 en-US,Legal,obligated,False
-en-US,Legal,obligation,False
-en-US,Legal,obligations,False
 en-US,Legal,obligor,False
-en-US,Legal,obligors,False
 en-US,Legal,obtain,False
-en-US,Legal,obtained,False
 en-US,Legal,occupancy,False
 en-US,Legal,occurred,False
 en-US,Legal,occurrence,False
 en-US,Legal,offer,False
-en-US,Legal,offered,False
-en-US,Legal,offering,False
 en-US,Legal,offering circular,False
-en-US,Legal,offerings,False
-en-US,Legal,offers,False
 en-US,Legal,office,False
-en-US,Legal,officer,False
-en-US,Legal,officers,False
-en-US,Legal,officers ,False
-en-US,Legal,offices,False
 en-US,Legal,official,False
 en-US,Legal,offset,False
 en-US,Legal,offshore,False
 en-US,Legal,oil,False
 en-US,Legal,omission,False
-en-US,Legal,omissions,False
 en-US,Legal,omit,False
-en-US,Legal,omitted,False
 en-US,Legal,open,False
 en-US,Legal,operate,False
-en-US,Legal,operating,False
 en-US,Legal,operating advisor,False
 en-US,Legal,operating agreement,False
-en-US,Legal,operation,False
-en-US,Legal,operational,False
-en-US,Legal,operations,False
-en-US,Legal,operator,False
 en-US,Legal,opinion,False
 en-US,Legal,opportunity,False
 en-US,Legal,option,False
-en-US,Legal,optional,False
 en-US,Legal,optionee,False
-en-US,Legal,options,False
 en-US,Legal,oral,False
 en-US,Legal,order,False
 en-US,Legal,order for relief,False
-en-US,Legal,orders,False
 en-US,Legal,ordinance,False
 en-US,Legal,ordinary,False
 en-US,Legal,ordinary course,False
 en-US,Legal,ordinary course of business,False
-en-US,Legal,organization,False
 en-US,Legal,organizational,False
 en-US,Legal,organized,False
 en-US,Legal,original,False
-en-US,Legal,origination,False
-en-US,Legal,originator,False
 en-US,Legal,other party,False
 en-US,Legal,other property,False
 en-US,Legal,output,False
@@ -1500,17 +1032,12 @@ en-US,Legal,outstanding principal,False
 en-US,Legal,overhead,False
 en-US,Legal,overnight,False
 en-US,Legal,owed,False
-en-US,Legal,owned,False
 en-US,Legal,owner,False
-en-US,Legal,owners,False
 en-US,Legal,ownership,False
 en-US,Legal,ownership interest,False
-en-US,Legal,ownership interests,False
-en-US,Legal,owning,False
 en-US,Legal,owns,False
 en-US,Legal,package,False
 en-US,Legal,page,False
-en-US,Legal,pages,False
 en-US,Legal,paper,False
 en-US,Legal,par,False
 en-US,Legal,par value,False
@@ -1520,26 +1047,16 @@ en-US,Legal,park,False
 en-US,Legal,part,False
 en-US,Legal,partial,False
 en-US,Legal,participant,False
-en-US,Legal,participants,False
-en-US,Legal,participate,False
-en-US,Legal,participating,False
-en-US,Legal,participation,False
-en-US,Legal,parties,False
 en-US,Legal,partner,False
-en-US,Legal,partners,False
 en-US,Legal,partnership,False
 en-US,Legal,party,False
 en-US,Legal,pass-through,False
 en-US,Legal,patent,False
-en-US,Legal,patents,False
 en-US,Legal,pay,False
 en-US,Legal,payable,False
 en-US,Legal,payee,False
-en-US,Legal,paying,False
 en-US,Legal,payment,False
 en-US,Legal,payment date,False
-en-US,Legal,payments,False
-en-US,Legal,penalties,False
 en-US,Legal,penalty,False
 en-US,Legal,pending,False
 en-US,Legal,pension,False
@@ -1547,25 +1064,17 @@ en-US,Legal,per share,False
 en-US,Legal,percent,False
 en-US,Legal,percentage,False
 en-US,Legal,perfect,False
-en-US,Legal,perfection,False
 en-US,Legal,perform,False
-en-US,Legal,performance,False
 en-US,Legal,performance bond,False
 en-US,Legal,performance period,False
 en-US,Legal,period,False
-en-US,Legal,periodic,False
-en-US,Legal,periods,False
 en-US,Legal,permanent,False
 en-US,Legal,permissible,False
 en-US,Legal,permit,False
-en-US,Legal,permits,False
-en-US,Legal,permitted,False
 en-US,Legal,person,False
 en-US,Legal,person or entity,False
 en-US,Legal,personal property,False
-en-US,Legal,personally,False
 en-US,Legal,personnel,False
-en-US,Legal,persons,False
 en-US,Legal,petition,False
 en-US,Legal,petroleum,False
 en-US,Legal,phase,False
@@ -1575,41 +1084,28 @@ en-US,Legal,placement,False
 en-US,Legal,plan,False
 en-US,Legal,plan administrator,False
 en-US,Legal,plan year,False
-en-US,Legal,plans,False
 en-US,Legal,plant,False
 en-US,Legal,pledge,False
-en-US,Legal,pledged,False
 en-US,Legal,pledgee,False
-en-US,Legal,pledges,False
-en-US,Legal,pledging,False
 en-US,Legal,pledgor,False
 en-US,Legal,points,False
-en-US,Legal,policies,False
 en-US,Legal,policy,False
 en-US,Legal,political,False
 en-US,Legal,political subdivision,False
 en-US,Legal,pollutant,False
-en-US,Legal,pollution,False
 en-US,Legal,pool,False
-en-US,Legal,pooled,False
-en-US,Legal,pooling,False
 en-US,Legal,pooling servicing,False
 en-US,Legal,portfolio,False
-en-US,Legal,portfolios,False
 en-US,Legal,portion,False
 en-US,Legal,position,False
-en-US,Legal,positions,False
 en-US,Legal,possession,False
 en-US,Legal,postage,False
 en-US,Legal,posted,False
 en-US,Legal,power,False
-en-US,Legal,powers,False
 en-US,Legal,practice,False
-en-US,Legal,practices,False
 en-US,Legal,precedent,False
 en-US,Legal,predecessor,False
 en-US,Legal,preemptive,False
-en-US,Legal,preference,False
 en-US,Legal,preferred,False
 en-US,Legal,preferred shares,False
 en-US,Legal,preferred stock,False
@@ -1617,27 +1113,18 @@ en-US,Legal,prejudice,False
 en-US,Legal,preliminary,False
 en-US,Legal,premises,False
 en-US,Legal,premium,False
-en-US,Legal,premiums,False
 en-US,Legal,prepaid,False
-en-US,Legal,preparation,False
 en-US,Legal,prepare,False
-en-US,Legal,prepared,False
 en-US,Legal,prepay,False
-en-US,Legal,prepayment,False
 en-US,Legal,prescribed,False
 en-US,Legal,present,False
 en-US,Legal,present value,False
-en-US,Legal,presentation,False
-en-US,Legal,presentment,False
-en-US,Legal,preservation,False
 en-US,Legal,preserve,False
 en-US,Legal,president,False
 en-US,Legal,press,False
 en-US,Legal,prevailing,False
 en-US,Legal,prevent,False
 en-US,Legal,price,False
-en-US,Legal,prices,False
-en-US,Legal,pricing,False
 en-US,Legal,primary,False
 en-US,Legal,prime,False
 en-US,Legal,prime rate,False
@@ -1655,41 +1142,26 @@ en-US,Legal,privacy,False
 en-US,Legal,private,False
 en-US,Legal,private placement,False
 en-US,Legal,privilege,False
-en-US,Legal,privileged,False
 en-US,Legal,privileged information,False
-en-US,Legal,privileges,False
 en-US,Legal,pro forma,False
 en-US,Legal,pro rata,False
 en-US,Legal,pro rata share,False
 en-US,Legal,procedure,False
-en-US,Legal,procedures,False
-en-US,Legal,proceedings,False
 en-US,Legal,proceeds,False
 en-US,Legal,process,False
-en-US,Legal,processes,False
-en-US,Legal,processing,False
 en-US,Legal,procure,False
 en-US,Legal,produce,False
-en-US,Legal,produced,False
 en-US,Legal,product,False
-en-US,Legal,production,False
-en-US,Legal,products,False
 en-US,Legal,professional,False
 en-US,Legal,profit,False
-en-US,Legal,profits,False
 en-US,Legal,program,False
-en-US,Legal,programs,False
 en-US,Legal,prohibited,False
-en-US,Legal,prohibition,False
 en-US,Legal,project,False
 en-US,Legal,project cost,False
-en-US,Legal,project costs,False
-en-US,Legal,projection,False
 en-US,Legal,promissory,False
 en-US,Legal,promissory note,False
 en-US,Legal,promotional,False
 en-US,Legal,proper,False
-en-US,Legal,properties,False
 en-US,Legal,property,False
 en-US,Legal,proportion,False
 en-US,Legal,proportionate,False
@@ -1698,52 +1170,32 @@ en-US,Legal,proprietary,False
 en-US,Legal,proprietary information,False
 en-US,Legal,prosecution,False
 en-US,Legal,prospectus,False
-en-US,Legal,prospectuses,False
 en-US,Legal,protect,False
-en-US,Legal,protection,False
-en-US,Legal,protective,False
 en-US,Legal,protective order,False
 en-US,Legal,protest,False
 en-US,Legal,provide,False
-en-US,Legal,provider,False
 en-US,Legal,provisions,False
-en-US,Legal,proxies,False
 en-US,Legal,proxy,False
 en-US,Legal,public,False
 en-US,Legal,public offering,False
 en-US,Legal,public utility,False
-en-US,Legal,publication,False
-en-US,Legal,publicly,False
 en-US,Legal,published,False
 en-US,Legal,punitive,False
 en-US,Legal,purchase,False
 en-US,Legal,purchase order,False
 en-US,Legal,purchase price,False
-en-US,Legal,purchased,False
-en-US,Legal,purchaser,False
-en-US,Legal,purchasers,False
-en-US,Legal,purchases,False
 en-US,Legal,purpose,False
-en-US,Legal,purposes,False
 en-US,Legal,qualification,False
-en-US,Legal,qualified,False
 en-US,Legal,qualify,False
-en-US,Legal,qualifying,False
 en-US,Legal,quality,False
 en-US,Legal,quantity,False
 en-US,Legal,quarter,False
-en-US,Legal,quarterly,False
-en-US,Legal,quarters,False
 en-US,Legal,quorum,False
 en-US,Legal,range,False
 en-US,Legal,rata,False
 en-US,Legal,rate,False
 en-US,Legal,rate of return,False
-en-US,Legal,rated,False
-en-US,Legal,rates,False
-en-US,Legal,rating,False
 en-US,Legal,rating agency,False
-en-US,Legal,ratings,False
 en-US,Legal,ratio,False
 en-US,Legal,real,False
 en-US,Legal,real estate,False
@@ -1756,234 +1208,143 @@ en-US,Legal,reasonable efforts,False
 en-US,Legal,reasonable time,False
 en-US,Legal,recapitalization,False
 en-US,Legal,receipt,False
-en-US,Legal,receipts,False
-en-US,Legal,receivable,False
-en-US,Legal,receivables,False
 en-US,Legal,received,False
-en-US,Legal,receiver,False
 en-US,Legal,receivership,False
-en-US,Legal,receiving,False
 en-US,Legal,recipient,False
-en-US,Legal,recipients,False
 en-US,Legal,recitals,False
 en-US,Legal,reclassification,False
-en-US,Legal,recommendation,False
 en-US,Legal,recommended,False
 en-US,Legal,reconciliation,False
 en-US,Legal,record,False
-en-US,Legal,recordation,False
-en-US,Legal,recorded,False
-en-US,Legal,recording,False
-en-US,Legal,records,False
 en-US,Legal,recourse,False
 en-US,Legal,recover,False
 en-US,Legal,recoverability,False
-en-US,Legal,recovered,False
-en-US,Legal,recoveries,False
 en-US,Legal,recovery,False
 en-US,Legal,redacted,False
 en-US,Legal,redeem,False
-en-US,Legal,redeemed,False
 en-US,Legal,redemption,False
 en-US,Legal,reduce,False
-en-US,Legal,reduced,False
 en-US,Legal,reduction,False
-en-US,Legal,reductions,False
 en-US,Legal,refer,False
-en-US,Legal,reference,False
-en-US,Legal,references,False
 en-US,Legal,refinancing,False
 en-US,Legal,refrain,False
 en-US,Legal,refund,False
-en-US,Legal,refusal,False
 en-US,Legal,refuse,False
 en-US,Legal,register,False
-en-US,Legal,registered,False
 en-US,Legal,registrant,False
 en-US,Legal,registrar,False
-en-US,Legal,registration,False
 en-US,Legal,registration rights,False
 en-US,Legal,registration statement,False
 en-US,Legal,registry,False
 en-US,Legal,regular,False
 en-US,Legal,regulated,False
-en-US,Legal,regulation,False
-en-US,Legal,regulations,False
 en-US,Legal,regulatory,False
 en-US,Legal,regulatory authority,False
 en-US,Legal,regulatory body,False
-en-US,Legal,reimbursable,False
 en-US,Legal,reimburse,False
-en-US,Legal,reimbursed,False
-en-US,Legal,reimbursement,False
-en-US,Legal,reimbursements,False
 en-US,Legal,reinsurance,False
 en-US,Legal,reit,False
 en-US,Legal,related,False
 en-US,Legal,related party,False
 en-US,Legal,related person,False
 en-US,Legal,relationship,False
-en-US,Legal,relationships,False
-en-US,Legal,relative,False
 en-US,Legal,release,False
-en-US,Legal,releases,False
 en-US,Legal,relevant,False
 en-US,Legal,reliance,False
 en-US,Legal,relief,False
 en-US,Legal,remainder,False
-en-US,Legal,remedied,False
-en-US,Legal,remedies,False
 en-US,Legal,remedy,False
 en-US,Legal,remit,False
 en-US,Legal,remittance,False
-en-US,Legal,remitted,False
-en-US,Legal,removal,False
 en-US,Legal,remove,False
-en-US,Legal,removed,False
 en-US,Legal,remuneration,False
 en-US,Legal,render,False
-en-US,Legal,rendered,False
 en-US,Legal,renewal,False
 en-US,Legal,rent,False
 en-US,Legal,rental,False
-en-US,Legal,rents,False
 en-US,Legal,reorganization,False
 en-US,Legal,repaid,False
 en-US,Legal,repair,False
-en-US,Legal,repairs,False
 en-US,Legal,repay,False
-en-US,Legal,repayment,False
 en-US,Legal,replace,False
-en-US,Legal,replacement,False
-en-US,Legal,replacements,False
 en-US,Legal,report,False
 en-US,Legal,reportable event,False
-en-US,Legal,reported,False
-en-US,Legal,reporting,False
 en-US,Legal,reporting period,False
 en-US,Legal,reporting requirements,False
-en-US,Legal,reports,False
 en-US,Legal,represent,False
 en-US,Legal,representation,False
-en-US,Legal,representations,False
-en-US,Legal,representative,False
-en-US,Legal,representatives,False
-en-US,Legal,represented,False
-en-US,Legal,represents,False
 en-US,Legal,repurchase,False
 en-US,Legal,repurchase request,False
-en-US,Legal,repurchased,False
-en-US,Legal,repurchasing,False
 en-US,Legal,reputable,False
 en-US,Legal,request,False
-en-US,Legal,requests,False
 en-US,Legal,requirement,False
-en-US,Legal,requirements,False
 en-US,Legal,resale,False
 en-US,Legal,rescinded,False
 en-US,Legal,research,False
 en-US,Legal,reserve,False
 en-US,Legal,reserve bank,False
-en-US,Legal,reserves,False
 en-US,Legal,residence,False
 en-US,Legal,residual,False
 en-US,Legal,resign,False
-en-US,Legal,resignation,False
-en-US,Legal,resigning,False
-en-US,Legal,resigns,False
 en-US,Legal,resold,False
 en-US,Legal,resolution,False
-en-US,Legal,resolutions,False
 en-US,Legal,resolve,False
-en-US,Legal,resolved,False
 en-US,Legal,resource,False
-en-US,Legal,resources,False
 en-US,Legal,response,False
-en-US,Legal,responsibilities,False
-en-US,Legal,responsibility,False
-en-US,Legal,responsible,False
 en-US,Legal,restated,False
-en-US,Legal,restatement,False
 en-US,Legal,restrict,False
-en-US,Legal,restricted,False
 en-US,Legal,restricted stock,False
 en-US,Legal,restricted subsidiaries,False
-en-US,Legal,restricting,False
-en-US,Legal,restriction,False
-en-US,Legal,restrictions,False
-en-US,Legal,restrictive,False
 en-US,Legal,restructuring,False
 en-US,Legal,result,False
-en-US,Legal,results,False
 en-US,Legal,retail,False
 en-US,Legal,retained,False
 en-US,Legal,retained earnings,False
 en-US,Legal,retention,False
 en-US,Legal,retire,False
-en-US,Legal,retirement,False
 en-US,Legal,retirement income,False
 en-US,Legal,retirement plan,False
 en-US,Legal,return,False
-en-US,Legal,returned,False
 en-US,Legal,revenue,False
-en-US,Legal,revenues,False
 en-US,Legal,reverse,False
 en-US,Legal,review,False
-en-US,Legal,reviewer,False
 en-US,Legal,revised,False
-en-US,Legal,revision,False
 en-US,Legal,revocation,False
 en-US,Legal,revolving,False
 en-US,Legal,right,False
-en-US,Legal,rights,False
 en-US,Legal,risk,False
 en-US,Legal,risk retention,False
 en-US,Legal,river,False
 en-US,Legal,role,False
-en-US,Legal,royalties,False
 en-US,Legal,royalty,False
 en-US,Legal,rto,False
 en-US,Legal,rule,False
 en-US,Legal,rule or regulation,False
-en-US,Legal,rules,False
 en-US,Legal,rules and regulations,False
-en-US,Legal,ruling,False
 en-US,Legal,safety,False
 en-US,Legal,salary,False
 en-US,Legal,sale,False
-en-US,Legal,sales,False
 en-US,Legal,sample,False
 en-US,Legal,sanctions,False
 en-US,Legal,satisfaction,False
 en-US,Legal,satisfactory,False
-en-US,Legal,satisfied,False
 en-US,Legal,satisfy,False
 en-US,Legal,savings,False
 en-US,Legal,schedule,False
-en-US,Legal,scheduled,False
-en-US,Legal,schedules,False
 en-US,Legal,scope,False
 en-US,Legal,second,False
 en-US,Legal,secret,False
 en-US,Legal,secretary,False
-en-US,Legal,secrets,False
 en-US,Legal,section,False
 en-US,Legal,secure,False
-en-US,Legal,secured,False
 en-US,Legal,secured party,False
-en-US,Legal,securing,False
-en-US,Legal,securities,False
 en-US,Legal,securities and exchange commission,False
 en-US,Legal,securitization,False
-en-US,Legal,security,False
 en-US,Legal,security agreement,False
 en-US,Legal,security interest,False
 en-US,Legal,selection,False
 en-US,Legal,sell,False
 en-US,Legal,seller,False
-en-US,Legal,sellers,False
-en-US,Legal,selling,False
-en-US,Legal,sells,False
 en-US,Legal,send,False
 en-US,Legal,senior,False
 en-US,Legal,senior executive,False
@@ -1993,32 +1354,19 @@ en-US,Legal,separation,False
 en-US,Legal,series,False
 en-US,Legal,service,False
 en-US,Legal,service provider,False
-en-US,Legal,serviced,False
-en-US,Legal,servicer,False
-en-US,Legal,services,False
-en-US,Legal,servicing,False
 en-US,Legal,servicing agreement,False
 en-US,Legal,servicing fee,False
 en-US,Legal,settle,False
-en-US,Legal,settled,False
 en-US,Legal,settlement,False
-en-US,Legal,settlements,False
-en-US,Legal,severability,False
 en-US,Legal,several,False
-en-US,Legal,severally,False
-en-US,Legal,severance,False
 en-US,Legal,share,False
-en-US,Legal,shared,False
 en-US,Legal,shareholder,False
-en-US,Legal,shareholders,False
-en-US,Legal,shares,False
 en-US,Legal,shelf,False
 en-US,Legal,short,False
 en-US,Legal,short-term,False
 en-US,Legal,sign,False
 en-US,Legal,signatory,False
 en-US,Legal,signature,False
-en-US,Legal,signatures,False
 en-US,Legal,significant,False
 en-US,Legal,significant subsidiary,False
 en-US,Legal,simple,False
@@ -2029,33 +1377,25 @@ en-US,Legal,sold,False
 en-US,Legal,sole,False
 en-US,Legal,sole discretion,False
 en-US,Legal,solicit,False
-en-US,Legal,solicitation,False
 en-US,Legal,solvency,False
 en-US,Legal,source,False
 en-US,Legal,source code,False
 en-US,Legal,spare part,False
-en-US,Legal,spare parts,False
 en-US,Legal,special,False
 en-US,Legal,special servicer,False
-en-US,Legal,specially,False
 en-US,Legal,specifications,False
 en-US,Legal,sponsor,False
-en-US,Legal,sponsors,False
 en-US,Legal,spouse,False
 en-US,Legal,spread,False
 en-US,Legal,staff,False
 en-US,Legal,standard,False
-en-US,Legal,standards,False
 en-US,Legal,state,False
 en-US,Legal,state law,False
 en-US,Legal,statement,False
-en-US,Legal,statements,False
-en-US,Legal,states,False
 en-US,Legal,station,False
 en-US,Legal,statistical,False
 en-US,Legal,status,False
 en-US,Legal,statute,False
-en-US,Legal,statutes,False
 en-US,Legal,statutory,False
 en-US,Legal,stock,False
 en-US,Legal,stock options,False
@@ -2067,77 +1407,54 @@ en-US,Legal,strict,False
 en-US,Legal,structure,False
 en-US,Legal,subcontract,False
 en-US,Legal,subcontractor,False
-en-US,Legal,subcontractors,False
 en-US,Legal,subdivision,False
 en-US,Legal,subject,False
 en-US,Legal,submission,False
 en-US,Legal,submit,False
 en-US,Legal,subordinate,False
-en-US,Legal,subordinated,False
-en-US,Legal,subordination,False
 en-US,Legal,subrogation,False
 en-US,Legal,subscribe,False
-en-US,Legal,subscriber,False
 en-US,Legal,subscription,False
 en-US,Legal,subsection,False
-en-US,Legal,subsidiaries,False
 en-US,Legal,subsidiary,False
 en-US,Legal,substance,False
-en-US,Legal,substances,False
 en-US,Legal,substantial,False
 en-US,Legal,substantial completion,False
 en-US,Legal,substantial part,False
-en-US,Legal,substantially,False
 en-US,Legal,substantially all,False
 en-US,Legal,substitute,False
-en-US,Legal,substitution,False
 en-US,Legal,succeeding,False
 en-US,Legal,succession,False
 en-US,Legal,successor,False
-en-US,Legal,successors,False
 en-US,Legal,sufficient,False
 en-US,Legal,suit,False
-en-US,Legal,suite,False
 en-US,Legal,sum,False
 en-US,Legal,supersede,False
 en-US,Legal,supervision,False
 en-US,Legal,supervisor,False
 en-US,Legal,supervisory,False
 en-US,Legal,supplement,False
-en-US,Legal,supplemental,False
-en-US,Legal,supplements,False
-en-US,Legal,supplied,False
 en-US,Legal,supplier,False
-en-US,Legal,supplies,False
 en-US,Legal,supply,False
 en-US,Legal,support,False
-en-US,Legal,supporting,False
 en-US,Legal,surety,False
 en-US,Legal,surplus,False
 en-US,Legal,surrender,False
-en-US,Legal,surrendered,False
 en-US,Legal,surveillance,False
 en-US,Legal,survey,False
 en-US,Legal,survive,False
-en-US,Legal,surviving,False
 en-US,Legal,surviving corporation,False
 en-US,Legal,suspend,False
-en-US,Legal,suspended,False
-en-US,Legal,suspending,False
 en-US,Legal,suspension,False
 en-US,Legal,swap,False
-en-US,Legal,swaps,False
 en-US,Legal,swing,False
 en-US,Legal,system,False
 en-US,Legal,take,False
 en-US,Legal,taken,False
-en-US,Legal,taking,False
 en-US,Legal,tangible,False
 en-US,Legal,tax,False
 en-US,Legal,tax returns,False
 en-US,Legal,taxable,False
-en-US,Legal,taxes,False
-en-US,Legal,taxing,False
 en-US,Legal,taxpayer,False
 en-US,Legal,team,False
 en-US,Legal,technical,False
@@ -2145,52 +1462,33 @@ en-US,Legal,technology,False
 en-US,Legal,telephone,False
 en-US,Legal,temporary,False
 en-US,Legal,tenant,False
-en-US,Legal,tenants,False
 en-US,Legal,tender,False
 en-US,Legal,term,False
 en-US,Legal,term loan,False
 en-US,Legal,terminate,False
-en-US,Legal,terminated,False
-en-US,Legal,terminates,False
-en-US,Legal,terminating,False
-en-US,Legal,termination,False
 en-US,Legal,termination date,False
 en-US,Legal,termination event,False
-en-US,Legal,terms,False
 en-US,Legal,territory,False
 en-US,Legal,terrorism,False
 en-US,Legal,test,False
-en-US,Legal,testing,False
-en-US,Legal,tests,False
 en-US,Legal,third party,False
 en-US,Legal,threatened,False
 en-US,Legal,time,False
-en-US,Legal,timely,False
 en-US,Legal,title,False
 en-US,Legal,title company,False
-en-US,Legal,titles,False
-en-US,Legal,titling,False
 en-US,Legal,tort,False
 en-US,Legal,total,False
 en-US,Legal,total assets,False
 en-US,Legal,trade,False
 en-US,Legal,trade secret,False
-en-US,Legal,trade secrets,False
-en-US,Legal,traded,False
 en-US,Legal,trademark,False
-en-US,Legal,trademarks,False
-en-US,Legal,trading,False
 en-US,Legal,training,False
 en-US,Legal,tranche,False
 en-US,Legal,transaction,False
-en-US,Legal,transactions,False
 en-US,Legal,transfer,False
 en-US,Legal,transfer agent,False
-en-US,Legal,transferable,False
 en-US,Legal,transferee,False
 en-US,Legal,transferor,False
-en-US,Legal,transferring,False
-en-US,Legal,transfers,False
 en-US,Legal,transition,False
 en-US,Legal,transmission,False
 en-US,Legal,transmitted,False
@@ -2207,25 +1505,18 @@ en-US,Legal,trust,False
 en-US,Legal,trust account,False
 en-US,Legal,trust agreement,False
 en-US,Legal,trust certificate,False
-en-US,Legal,trust certificates,False
 en-US,Legal,trust company,False
 en-US,Legal,trust grantor,False
 en-US,Legal,trustee,False
-en-US,Legal,trustees,False
-en-US,Legal,trusts,False
 en-US,Legal,type,False
 en-US,Legal,ucc,False
 en-US,Legal,unable,False
 en-US,Legal,unaudited,False
 en-US,Legal,unauthorized,False
 en-US,Legal,unconditional,False
-en-US,Legal,unconditionally,False
 en-US,Legal,underlying,False
 en-US,Legal,undertake,False
-en-US,Legal,undertaking,False
 en-US,Legal,underwriter,False
-en-US,Legal,underwriters,False
-en-US,Legal,underwriting,False
 en-US,Legal,underwritten,False
 en-US,Legal,unemployment insurance,False
 en-US,Legal,unenforceable,False
@@ -2234,7 +1525,6 @@ en-US,Legal,uniform commercial code,False
 en-US,Legal,union,False
 en-US,Legal,unit,False
 en-US,Legal,united states,False
-en-US,Legal,units,False
 en-US,Legal,unlawful,False
 en-US,Legal,unrealized,False
 en-US,Legal,unrelated,False
@@ -2244,55 +1534,34 @@ en-US,Legal,untrue,False
 en-US,Legal,updated,False
 en-US,Legal,upgrade,False
 en-US,Legal,use,False
-en-US,Legal,used,False
 en-US,Legal,user,False
-en-US,Legal,uses,False
-en-US,Legal,utilities,False
 en-US,Legal,utility,False
 en-US,Legal,valid,False
-en-US,Legal,validity,False
-en-US,Legal,validly,False
 en-US,Legal,valuable,False
 en-US,Legal,valuation,False
 en-US,Legal,value,False
-en-US,Legal,values,False
 en-US,Legal,variable,False
 en-US,Legal,vehicle,False
-en-US,Legal,vehicles,False
 en-US,Legal,vendor,False
-en-US,Legal,vendors,False
 en-US,Legal,venture,False
 en-US,Legal,venue,False
 en-US,Legal,verify,False
 en-US,Legal,vessel,False
 en-US,Legal,vest,False
-en-US,Legal,vested,False
-en-US,Legal,vesting,False
 en-US,Legal,vice president,False
 en-US,Legal,violate,False
-en-US,Legal,violation,False
-en-US,Legal,violations,False
 en-US,Legal,void,False
 en-US,Legal,voluntarily,False
 en-US,Legal,voluntary,False
 en-US,Legal,vote,False
-en-US,Legal,votes,False
-en-US,Legal,voting,False
 en-US,Legal,voting rights,False
-en-US,Legal,voting securities,False
 en-US,Legal,voting security,False
 en-US,Legal,wage,False
-en-US,Legal,wages,False
 en-US,Legal,waive,False
-en-US,Legal,waived,False
 en-US,Legal,waiver,False
-en-US,Legal,waivers,False
-en-US,Legal,waives,False
 en-US,Legal,wall,False
 en-US,Legal,warehouse,False
 en-US,Legal,warrant,False
-en-US,Legal,warranties,False
-en-US,Legal,warrants,False
 en-US,Legal,warranty,False
 en-US,Legal,waste,False
 en-US,Legal,water,False
@@ -2306,17 +1575,14 @@ en-US,Legal,willful misconduct,False
 en-US,Legal,wire,False
 en-US,Legal,wire transfer,False
 en-US,Legal,withdraw,False
-en-US,Legal,withdrawal,False
 en-US,Legal,withdrawn,False
 en-US,Legal,withheld,False
 en-US,Legal,withhold,False
-en-US,Legal,withholding,False
 en-US,Legal,without cause,False
 en-US,Legal,without prejudice,False
 en-US,Legal,without recourse,False
 en-US,Legal,witness,False
 en-US,Legal,work,False
-en-US,Legal,working,False
 en-US,Legal,working capital,False
 en-US,Legal,world,False
 en-US,Legal,writing,False
@@ -2325,6 +1591,5 @@ en-US,Legal,written consent,False
 en-US,Legal,written notice,False
 en-US,Legal,wrongful,False
 en-US,Legal,year,False
-en-US,Legal,years,False
 en-US,Legal,yield,False
 en-US,Legal,zoning,False
